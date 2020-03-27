@@ -19,8 +19,8 @@
 // int length(stateT& state, const externT* from, const externT* from_end,
 //            size_t max) const;
 
-#include <codecvt>
-#include <cassert>
+#include <codecvt.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -15,10 +15,10 @@
 // template <class Rep, class Period>
 //     bool try_lock_for(const chrono::duration<Rep, Period>& rel_time);
 
-#include <mutex>
-#include <thread>
-#include <cstdlib>
-#include <cassert>
+#include <mutex.hxx>
+#include <thread.hxx>
+#include <cstdlib.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

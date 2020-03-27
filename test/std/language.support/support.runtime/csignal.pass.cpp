@@ -8,8 +8,8 @@
 
 // test <csignal>
 
-#include <csignal>
-#include <type_traits>
+#include <csignal.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

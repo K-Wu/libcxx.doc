@@ -14,14 +14,14 @@
 //   bool
 //   prev_permutation(Iter first, Iter last, Compare comp);
 
-#include <algorithm>
-#include <functional>
-#include <cassert>
+#include <algorithm.hxx>
+#include <functional.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"
 
-#include <cstdio>
+#include <cstdio.hxx>
 
 int factorial(int x)
 {

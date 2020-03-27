@@ -14,8 +14,8 @@
 //     typedef T1 first_type;
 //     typedef T2 second_type;
 
-#include <utility>
-#include <type_traits>
+#include <utility.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

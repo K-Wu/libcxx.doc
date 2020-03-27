@@ -36,7 +36,7 @@ Types:
 
 */
 
-#include <__config>
+#include <__config.hxx>
 
 #if !defined(_LIBCPP_HAS_NO_PRAGMA_SYSTEM_HEADER)
 #pragma GCC system_header
@@ -47,7 +47,7 @@ Types:
 #ifdef __cplusplus
 
 extern "C++" {
-#include <__nullptr>
+#include <__nullptr.hxx>
 using std::nullptr_t;
 }
 

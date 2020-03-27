@@ -14,7 +14,7 @@
 
 // template<class U, class V> pair(U&& x, V&& y);
 
-#include <utility>
+#include <utility.hxx>
 
 #include "test_macros.h"
 

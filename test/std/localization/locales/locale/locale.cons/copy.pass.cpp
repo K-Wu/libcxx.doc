@@ -12,9 +12,9 @@
 
 // locale(const locale& other) throw();
 
-#include <locale>
-#include <cassert>
-#include <new>
+#include <locale.hxx>
+#include <cassert.hxx>
+#include <new.hxx>
 
 #include "count_new.h"
 #include "test_macros.h"

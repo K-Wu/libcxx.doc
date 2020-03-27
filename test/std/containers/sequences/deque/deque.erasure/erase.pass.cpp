@@ -13,8 +13,8 @@
 //   void erase(deque<T, Allocator>& c, const U& value);
   
 
-#include <deque>
-#include <optional>
+#include <deque.hxx>
+#include <optional.hxx>
 
 #include "test_macros.h"
 #include "test_allocator.h"

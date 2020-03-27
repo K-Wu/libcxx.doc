@@ -16,8 +16,8 @@
 // const value_type* c_str() const noexcept;
 
 #include "filesystem_include.h"
-#include <type_traits>
-#include <cassert>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "filesystem_test_helper.h"

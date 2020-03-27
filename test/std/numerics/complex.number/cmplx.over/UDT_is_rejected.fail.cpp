@@ -11,9 +11,9 @@
 // Test that UDT's convertible to an integral or floating point type do not
 // participate in overload resolution.
 
-#include <complex>
-#include <type_traits>
-#include <cassert>
+#include <complex.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 template <class IntT>
 struct UDT {

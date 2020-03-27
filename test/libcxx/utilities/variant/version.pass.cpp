@@ -8,7 +8,7 @@
 
 // <variant>
 
-#include <variant>
+#include <variant.hxx>
 
 #include "test_macros.h"
 

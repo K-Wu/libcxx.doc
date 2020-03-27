@@ -13,8 +13,8 @@
 
 // basic_ostream<charT,traits>& operator<<(basic_streambuf<charT,traits>* sb);
 
-#include <ostream>
-#include <cassert>
+#include <ostream.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

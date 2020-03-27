@@ -12,8 +12,8 @@
 #pragma clang diagnostic ignored "-W#warnings"
 #endif
 
-#include <ext/hash_set>
-#include <cassert>
+#include <ext/hash_set.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "count_new.h"

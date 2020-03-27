@@ -11,8 +11,8 @@
 // void      unique(); // before C++20
 // size_type unique(); // C++20 and later
 
-#include <list>
-#include <cassert>
+#include <list.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

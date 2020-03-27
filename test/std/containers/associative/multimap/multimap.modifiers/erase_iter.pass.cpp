@@ -12,8 +12,8 @@
 
 // iterator erase(const_iterator position);
 
-#include <map>
-#include <cassert>
+#include <map.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

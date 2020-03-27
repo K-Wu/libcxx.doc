@@ -15,9 +15,9 @@
 // unsigned long stoul(const string& str, size_t *idx = 0, int base = 10);
 // unsigned long stoul(const wstring& str, size_t *idx = 0, int base = 10);
 
-#include <string>
-#include <cassert>
-#include <stdexcept>
+#include <string.hxx>
+#include <cassert.hxx>
+#include <stdexcept.hxx>
 
 #include "test_macros.h"
 

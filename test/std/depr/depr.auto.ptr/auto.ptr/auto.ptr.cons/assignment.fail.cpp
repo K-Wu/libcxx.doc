@@ -12,8 +12,8 @@
 
 // auto_ptr& operator=(auto_ptr& a) throw();
 
-#include <memory>
-#include <cassert>
+#include <memory.hxx>
+#include <cassert.hxx>
 
 #include "../A.h"
 

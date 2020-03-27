@@ -8,7 +8,7 @@
 
 // test ratio_not_equal
 
-#include <ratio>
+#include <ratio.hxx>
 
 #include "test_macros.h"
 

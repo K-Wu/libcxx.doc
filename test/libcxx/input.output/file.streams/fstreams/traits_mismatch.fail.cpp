@@ -13,7 +13,7 @@
 
 // The char type of the stream and the char_type of the traits have to match
 
-#include <fstream>
+#include <fstream.hxx>
 
 int main(int, char**)
 {

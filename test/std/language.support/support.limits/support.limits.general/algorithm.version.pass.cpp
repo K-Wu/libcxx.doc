@@ -22,7 +22,7 @@
     __cpp_lib_sample                         201603L [C++17]
 */
 
-#include <algorithm>
+#include <algorithm.hxx>
 #include "test_macros.h"
 
 #if TEST_STD_VER < 14

@@ -8,7 +8,7 @@
 
 // <cwctype>
 
-#include <cwctype>
+#include <cwctype.hxx>
 
 #include "test_macros.h"
 

@@ -12,9 +12,9 @@
 //     forward_list(InputIterator first, InputIterator last,
 //                  const allocator_type& a);
 
-#include <forward_list>
-#include <cassert>
-#include <iterator>
+#include <forward_list.hxx>
+#include <cassert.hxx>
+#include <iterator.hxx>
 
 #include "test_macros.h"
 #include "test_allocator.h"

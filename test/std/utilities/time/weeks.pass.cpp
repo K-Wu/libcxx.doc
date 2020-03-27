@@ -11,9 +11,9 @@
 
 // using weeks = duration<signed integer type of at least 22 bits, ratio_multiply<ratio<7>, days::period>>;
 
-#include <chrono>
-#include <type_traits>
-#include <limits>
+#include <chrono.hxx>
+#include <type_traits.hxx>
+#include <limits.hxx>
 
 #include "test_macros.h"
 

@@ -8,10 +8,10 @@
 
 // <cmath>
 
-#include <cmath>
-#include <limits>
-#include <type_traits>
-#include <cassert>
+#include <cmath.hxx>
+#include <limits.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "hexfloat.h"

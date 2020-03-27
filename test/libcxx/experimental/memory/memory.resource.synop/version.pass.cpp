@@ -10,7 +10,7 @@
 
 // <experimental/memory_resource>
 
-#include <experimental/memory_resource>
+#include <experimental/memory_resource.hxx>
 
 #include "test_macros.h"
 

@@ -18,9 +18,9 @@
 // template <class T> constexpr size_t variant_size_v
 //     = variant_size<T>::value;
 
-#include <memory>
-#include <type_traits>
-#include <variant>
+#include <memory.hxx>
+#include <type_traits.hxx>
+#include <variant.hxx>
 
 #include "test_macros.h"
 

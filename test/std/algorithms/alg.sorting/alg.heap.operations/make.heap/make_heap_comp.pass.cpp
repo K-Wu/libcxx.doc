@@ -13,11 +13,11 @@
 //   void
 //   make_heap(Iter first, Iter last, Compare comp);
 
-#include <algorithm>
-#include <functional>
-#include <memory>
-#include <random>
-#include <cassert>
+#include <algorithm.hxx>
+#include <functional.hxx>
+#include <memory.hxx>
+#include <random.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "counting_predicates.h"

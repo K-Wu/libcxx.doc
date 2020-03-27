@@ -8,7 +8,7 @@
 
 // <stdexcept>
 
-#include <stdexcept>
+#include <stdexcept.hxx>
 
 #include "test_macros.h"
 

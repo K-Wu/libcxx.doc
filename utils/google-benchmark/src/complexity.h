@@ -18,8 +18,8 @@
 #ifndef COMPLEXITY_H_
 #define COMPLEXITY_H_
 
-#include <string>
-#include <vector>
+#include <string.hxx>
+#include <vector.hxx>
 
 #include "benchmark/benchmark.h"
 

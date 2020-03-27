@@ -11,7 +11,7 @@
 // Check that std::map and its iterators can be instantiated with an incomplete
 // type.
 
-#include <map>
+#include <map.hxx>
 
 #include "test_macros.h"
 

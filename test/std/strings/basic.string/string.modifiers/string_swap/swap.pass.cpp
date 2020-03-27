@@ -10,10 +10,10 @@
 
 // void swap(basic_string& s);
 
-#include <string>
-#include <stdexcept>
-#include <algorithm>
-#include <cassert>
+#include <string.hxx>
+#include <stdexcept.hxx>
+#include <algorithm.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

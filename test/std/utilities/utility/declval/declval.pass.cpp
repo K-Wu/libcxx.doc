@@ -10,8 +10,8 @@
 
 // template <class T> typename add_rvalue_reference<T>::type declval() noexcept;
 
-#include <utility>
-#include <type_traits>
+#include <utility.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

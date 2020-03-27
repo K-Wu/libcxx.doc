@@ -14,7 +14,7 @@
 // Test that <thread> provides all of the arithmetic, enum, and pointer
 // hash specializations.
 
-#include <thread>
+#include <thread.hxx>
 
 #include "poisoned_hash_helper.h"
 

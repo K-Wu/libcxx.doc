@@ -7,8 +7,8 @@
 // NOTE: Users should NOT include or use src/check.h. This is only done in
 // order to test library internals.
 
-#include <cstdlib>
-#include <stdexcept>
+#include <cstdlib.hxx>
+#include <stdexcept.hxx>
 
 #include "../src/check.h"
 #include "benchmark/benchmark.h"

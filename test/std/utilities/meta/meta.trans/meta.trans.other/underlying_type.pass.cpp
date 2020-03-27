@@ -12,8 +12,8 @@
 //  As of C++20, std::underlying_type is SFINAE-friendly; if you hand it
 //  a non-enumeration, it returns an empty struct.
 
-#include <type_traits>
-#include <climits>
+#include <type_traits.hxx>
+#include <climits.hxx>
 
 #include "test_macros.h"
 

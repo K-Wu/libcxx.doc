@@ -14,7 +14,7 @@
 
 // An overload exists for each of char and all arithmetic types except bool.
 
-#include <numeric>
+#include <numeric.hxx>
 
 #include "test_macros.h"
 

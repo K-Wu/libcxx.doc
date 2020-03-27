@@ -16,8 +16,8 @@
 // bool operator!(const extreme_value_distribution& x,
 //                const extreme_value_distribution& y);
 
-#include <random>
-#include <cassert>
+#include <random.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

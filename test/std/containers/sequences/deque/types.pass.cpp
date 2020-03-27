@@ -28,9 +28,9 @@
 //     typedef std::reverse_iterator<const_iterator>    const_reverse_iterator;
 // };
 
-#include <deque>
-#include <iterator>
-#include <type_traits>
+#include <deque.hxx>
+#include <iterator.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 #include "test_allocator.h"

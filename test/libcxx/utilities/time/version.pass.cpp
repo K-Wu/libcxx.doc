@@ -8,7 +8,7 @@
 
 // <chrono>
 
-#include <chrono>
+#include <chrono.hxx>
 
 #include "test_macros.h"
 

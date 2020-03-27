@@ -16,8 +16,8 @@
 
 // shared_lock(mutex_type& m, defer_lock_t);
 
-#include <shared_mutex>
-#include <cassert>
+#include <shared_mutex.hxx>
+#include <cassert.hxx>
 #include "nasty_containers.h"
 
 #include "test_macros.h"

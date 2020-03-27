@@ -12,9 +12,9 @@
 
 // ostrstream(char* s, int n, ios_base::openmode mode = ios_base::out);
 
-#include <strstream>
-#include <cassert>
-#include <string>
+#include <strstream.hxx>
+#include <cassert.hxx>
+#include <string.hxx>
 
 #include "test_macros.h"
 

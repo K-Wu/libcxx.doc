@@ -12,8 +12,8 @@
 //   complex<T>
 //   polar(const T& rho, const T& theta = T());  // changed from '0' by LWG#2870
 
-#include <complex>
-#include <cassert>
+#include <complex.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "../cases.h"

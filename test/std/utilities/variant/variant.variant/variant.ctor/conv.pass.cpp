@@ -15,9 +15,9 @@
 
 // template <class T> constexpr variant(T&&) noexcept(see below);
 
-#include <variant>
-#include <string>
-#include <memory>
+#include <variant.hxx>
+#include <string.hxx>
+#include <memory.hxx>
 
 #include "variant_test_helpers.h"
 

@@ -13,8 +13,8 @@
 
 // explicit exponential_distribution(RealType lambda = 1.0);
 
-#include <random>
-#include <cassert>
+#include <random.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

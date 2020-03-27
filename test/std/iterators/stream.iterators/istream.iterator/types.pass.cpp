@@ -32,9 +32,9 @@
 //       destructor is a trivial destructor.
 //  Testing the C++17 ctors for this are in the ctor tests.
 
-#include <iterator>
-#include <type_traits>
-#include <string>
+#include <iterator.hxx>
+#include <type_traits.hxx>
+#include <string.hxx>
 
 #include "test_macros.h"
 

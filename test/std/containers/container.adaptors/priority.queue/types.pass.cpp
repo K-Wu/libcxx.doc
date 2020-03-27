@@ -24,13 +24,13 @@
 //     container_type c;
 //     Compare comp;
 
-#include <queue>
-#include <cassert>
-#include <deque>
-#include <functional>
-#include <memory>
-#include <type_traits>
-#include <vector>
+#include <queue.hxx>
+#include <cassert.hxx>
+#include <deque.hxx>
+#include <functional.hxx>
+#include <memory.hxx>
+#include <type_traits.hxx>
+#include <vector.hxx>
 
 #include "test_macros.h"
 

@@ -9,8 +9,8 @@
 // <stddef.h>
 
 #include <stddef.h>
-#include <cassert>
-#include <type_traits>
+#include <cassert.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

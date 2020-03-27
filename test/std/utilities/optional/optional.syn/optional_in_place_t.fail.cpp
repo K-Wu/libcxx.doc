@@ -12,7 +12,7 @@
 // A program that necessitates the instantiation of template optional for
 // (possibly cv-qualified) in_place_t is ill-formed.
 
-#include <optional>
+#include <optional.hxx>
 
 int main(int, char**)
 {

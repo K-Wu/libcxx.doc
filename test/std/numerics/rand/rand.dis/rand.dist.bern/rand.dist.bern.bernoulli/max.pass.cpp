@@ -12,8 +12,8 @@
 
 // result_type max() const;
 
-#include <random>
-#include <cassert>
+#include <random.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

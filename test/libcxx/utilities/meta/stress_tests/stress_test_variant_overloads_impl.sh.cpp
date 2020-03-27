@@ -34,10 +34,10 @@
 // RUN:    -ggdb  -ggnu-pubnames -ftemplate-depth=5000 -ftime-trace -g \
 // RUN:    -DTEST_NS=variant_impl -o %S/variant.o
 
-#include <type_traits>
-#include <tuple>
-#include <cassert>
-#include <variant>
+#include <type_traits.hxx>
+#include <tuple.hxx>
+#include <cassert.hxx>
+#include <variant.hxx>
 
 #include "test_macros.h"
 #include "template_cost_testing.h"

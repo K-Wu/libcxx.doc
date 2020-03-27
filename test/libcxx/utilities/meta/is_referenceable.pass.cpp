@@ -14,8 +14,8 @@
 //    or a ref-qualifier, or a reference type.
 //
 
-#include <type_traits>
-#include <cassert>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

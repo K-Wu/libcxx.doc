@@ -12,9 +12,9 @@
 
 // bool is(mask m, charT c) const;
 
-#include <locale>
-#include <type_traits>
-#include <cassert>
+#include <locale.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

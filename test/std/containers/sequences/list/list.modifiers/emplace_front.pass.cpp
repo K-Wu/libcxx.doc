@@ -13,8 +13,8 @@
 // template <class... Args> reference emplace_front(Args&&... args);
 // return type is 'reference' in C++17; 'void' before
 
-#include <list>
-#include <cassert>
+#include <list.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

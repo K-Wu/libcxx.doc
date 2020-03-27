@@ -17,7 +17,7 @@ struct allocator;
 struct pair;
 struct equal_to;
 struct unique_ptr;
-#include <ext/hash_map>
+#include <ext/hash_map.hxx>
 
 #include "test_macros.h"
 

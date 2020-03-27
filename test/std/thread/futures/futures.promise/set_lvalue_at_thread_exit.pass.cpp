@@ -15,9 +15,9 @@
 
 // void promise<R&>::set_value_at_thread_exit(R& r);
 
-#include <future>
-#include <memory>
-#include <cassert>
+#include <future.hxx>
+#include <memory.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

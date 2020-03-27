@@ -12,11 +12,11 @@
 
 // iterator erase(const_iterator f, const_iterator l)
 
-#include <deque>
-#include <algorithm>
-#include <iterator>
-#include <cassert>
-#include <cstddef>
+#include <deque.hxx>
+#include <algorithm.hxx>
+#include <iterator.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
 
 #include "min_allocator.h"
 #include "test_macros.h"

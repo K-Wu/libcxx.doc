@@ -14,9 +14,9 @@
 // Test that the constructors offered by std::basic_string are formulated
 // so they're compatible with implicit deduction guides.
 
-#include <string>
-#include <string_view>
-#include <cassert>
+#include <string.hxx>
+#include <string_view.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_allocator.h"

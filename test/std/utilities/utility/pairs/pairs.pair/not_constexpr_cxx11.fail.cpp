@@ -12,8 +12,8 @@
 
 // Test that only the default constructor is constexpr in C++11
 
-#include <utility>
-#include <cassert>
+#include <utility.hxx>
+#include <cassert.hxx>
 
 struct ExplicitT {
   constexpr explicit ExplicitT(int x) : value(x) {}

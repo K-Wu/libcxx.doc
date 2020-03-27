@@ -28,10 +28,10 @@
 // multimap(initializer_list<Key>, Allocator)
 //   -> multimap<Key, less<Key>, Allocator>;
 
-#include <climits> // INT_MAX
-#include <functional>
-#include <map>
-#include <type_traits>
+#include <climits.hxx> // INT_MAX
+#include <functional.hxx>
+#include <map.hxx>
+#include <type_traits.hxx>
 
 struct NotAnAllocator {
     friend bool operator<(NotAnAllocator, NotAnAllocator) { return false; }

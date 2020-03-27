@@ -15,10 +15,10 @@
 // (except clang-3.6 which temporarily enabled sized-deallocation)
 // UNSUPPORTED: clang, apple-clang
 
-#include <new>
-#include <cstddef>
-#include <cstdlib>
-#include <cassert>
+#include <new.hxx>
+#include <cstddef.hxx>
+#include <cstdlib.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

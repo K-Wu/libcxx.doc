@@ -16,9 +16,9 @@
 //                       BinaryOperation1 binary_op1, BinaryOperation2 binary_op2);
 //
 
-#include <numeric>
-#include <cassert>
-#include <iterator>
+#include <numeric.hxx>
+#include <cassert.hxx>
+#include <iterator.hxx>
 
 #include "test_macros.h"
 #include "MoveOnly.h"

@@ -1,9 +1,9 @@
 #undef NDEBUG
-#include <algorithm>
-#include <cassert>
-#include <cmath>
-#include <cstdlib>
-#include <vector>
+#include <algorithm.hxx>
+#include <cassert.hxx>
+#include <cmath.hxx>
+#include <cstdlib.hxx>
+#include <vector.hxx>
 #include "benchmark/benchmark.h"
 #include "output_test.h"
 

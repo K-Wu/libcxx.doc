@@ -25,10 +25,10 @@
 //          fmt encoding follows the rules specified in 25.11.
 
 
-#include <chrono>
-#include <type_traits>
-#include <cassert>
-#include <iostream>
+#include <chrono.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
+#include <iostream.hxx>
 #include "test_macros.h"
 
 int main(int, char**)

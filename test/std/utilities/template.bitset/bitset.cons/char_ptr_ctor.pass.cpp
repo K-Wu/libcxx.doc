@@ -11,10 +11,10 @@
 //                     typename basic_string<charT>::size_type n = basic_string<charT>::npos,
 //                     charT zero = charT('0'), charT one = charT('1'));
 
-#include <bitset>
-#include <cassert>
-#include <algorithm> // for 'min' and 'max'
-#include <stdexcept> // for 'invalid_argument'
+#include <bitset.hxx>
+#include <cassert.hxx>
+#include <algorithm.hxx> // for 'min' and 'max'
+#include <stdexcept.hxx> // for 'invalid_argument'
 
 #include "test_macros.h"
 

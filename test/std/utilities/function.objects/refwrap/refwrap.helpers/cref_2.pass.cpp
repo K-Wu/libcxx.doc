@@ -12,8 +12,8 @@
 
 // template <ObjectType T> reference_wrapper<const T> cref(reference_wrapper<T> t);
 
-#include <functional>
-#include <cassert>
+#include <functional.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

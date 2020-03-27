@@ -8,9 +8,9 @@
 
 // test bitset<N> operator~() const;
 
-#include <bitset>
-#include <cstdlib>
-#include <cassert>
+#include <bitset.hxx>
+#include <cstdlib.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -8,7 +8,7 @@
 
 // typedef decltype(nullptr) nullptr_t;
 
-#include <cstddef>
+#include <cstddef.hxx>
 
 int main(int, char**)
 {

@@ -18,8 +18,8 @@
 // Test that we generate a reasonable diagnostic when the specified hash is
 // not enabled.
 
-#include <unordered_set>
-#include <utility>
+#include <unordered_set.hxx>
+#include <utility.hxx>
 
 using VT = std::pair<int, int>;
 

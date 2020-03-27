@@ -2,13 +2,13 @@
 #define TEST_OUTPUT_TEST_H
 
 #undef NDEBUG
-#include <functional>
-#include <initializer_list>
-#include <memory>
-#include <sstream>
-#include <string>
-#include <utility>
-#include <vector>
+#include <functional.hxx>
+#include <initializer_list.hxx>
+#include <memory.hxx>
+#include <sstream.hxx>
+#include <string.hxx>
+#include <utility.hxx>
+#include <vector.hxx>
 
 #include "../src/re.h"
 #include "benchmark/benchmark.h"

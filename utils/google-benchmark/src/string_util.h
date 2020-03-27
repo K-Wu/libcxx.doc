@@ -1,9 +1,9 @@
 #ifndef BENCHMARK_STRING_UTIL_H_
 #define BENCHMARK_STRING_UTIL_H_
 
-#include <sstream>
-#include <string>
-#include <utility>
+#include <sstream.hxx>
+#include <string.hxx>
+#include <utility.hxx>
 #include "internal_macros.h"
 
 namespace benchmark {

@@ -14,10 +14,10 @@
 
 // Stress testing large arities with tuple and array.
 
-#include <tuple>
-#include <array>
-#include <utility>
-#include <cassert>
+#include <tuple.hxx>
+#include <array.hxx>
+#include <utility.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

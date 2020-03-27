@@ -17,9 +17,9 @@
 //  Requires: (is_same_v<T, U> && ...) is true. Otherwise the program is ill-formed.
 
 
-#include <array>
-#include <cassert>
-#include <cstddef>
+#include <array.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
 
 // std::array is explicitly allowed to be initialized with A a = { init-list };.
 // Disable the missing braces warning for this reason.

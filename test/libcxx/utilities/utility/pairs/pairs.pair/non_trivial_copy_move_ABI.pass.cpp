@@ -23,11 +23,11 @@
 #define _LIBCPP_ABI_VERSION 1
 #define _LIBCPP_DEPRECATED_ABI_DISABLE_PAIR_TRIVIAL_COPY_CTOR
 
-#include <utility>
-#include <type_traits>
-#include <cstdlib>
-#include <cstddef>
-#include <cassert>
+#include <utility.hxx>
+#include <type_traits.hxx>
+#include <cstdlib.hxx>
+#include <cstddef.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

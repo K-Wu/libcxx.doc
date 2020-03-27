@@ -16,9 +16,9 @@
 // constexpr year_month_weekday_last operator-(const year_month_weekday_last& ymwdl, const years& dy) noexcept;
 //   Returns: ymwdl + (-dy).
 
-#include <chrono>
-#include <type_traits>
-#include <cassert>
+#include <chrono.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

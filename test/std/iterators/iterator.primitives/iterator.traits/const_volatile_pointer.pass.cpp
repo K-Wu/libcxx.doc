@@ -11,8 +11,8 @@
 // template<class T>
 // struct iterator_traits<const T*>
 
-#include <iterator>
-#include <type_traits>
+#include <iterator.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

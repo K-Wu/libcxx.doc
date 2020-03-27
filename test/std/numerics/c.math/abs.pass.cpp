@@ -7,9 +7,9 @@
 //===----------------------------------------------------------------------===//
 
 #include <assert.h>
-#include <cmath>
-#include <cstdint>
-#include <type_traits>
+#include <cmath.hxx>
+#include <cstdint.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

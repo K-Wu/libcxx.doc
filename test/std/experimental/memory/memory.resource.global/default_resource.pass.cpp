@@ -28,8 +28,8 @@
 //  F) 'get_default_resource' and 'set_default_resource' are noexcept.
 
 
-#include <experimental/memory_resource>
-#include <cassert>
+#include <experimental/memory_resource.hxx>
+#include <cassert.hxx>
 
 #include "test_memory_resource.h"
 

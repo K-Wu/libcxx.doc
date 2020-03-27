@@ -12,9 +12,9 @@
 
 // front_insert_iterator<Cont> operator++(int);
 
-#include <iterator>
-#include <list>
-#include <cassert>
+#include <iterator.hxx>
+#include <list.hxx>
+#include <cassert.hxx>
 #include "nasty_containers.h"
 
 #include "test_macros.h"

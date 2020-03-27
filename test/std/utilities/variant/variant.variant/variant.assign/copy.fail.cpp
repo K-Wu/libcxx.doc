@@ -13,8 +13,8 @@
 
 // LWG issue 3024
 
-#include <variant>
-#include <type_traits>
+#include <variant.hxx>
+#include <type_traits.hxx>
 
 struct NotCopyConstructible
 {

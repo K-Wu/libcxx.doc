@@ -9,7 +9,7 @@
 #ifndef ALLOC_FIRST_H
 #define ALLOC_FIRST_H
 
-#include <cassert>
+#include <cassert.hxx>
 
 #include "allocators.h"
 

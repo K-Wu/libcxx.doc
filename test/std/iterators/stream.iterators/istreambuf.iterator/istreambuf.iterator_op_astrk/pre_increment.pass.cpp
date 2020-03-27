@@ -13,9 +13,9 @@
 // istreambuf_iterator<charT,traits>&
 //   istreambuf_iterator<charT,traits>::operator++();
 
-#include <iterator>
-#include <sstream>
-#include <cassert>
+#include <iterator.hxx>
+#include <sstream.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

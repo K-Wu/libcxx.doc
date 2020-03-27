@@ -18,7 +18,7 @@
 //
 // Requires T to be a complete type (since C++20).
 
-#include <functional>
+#include <functional.hxx>
 
 
 struct Foo;

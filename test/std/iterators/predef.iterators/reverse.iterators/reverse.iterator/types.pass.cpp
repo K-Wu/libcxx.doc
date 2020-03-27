@@ -24,8 +24,8 @@
 //   typename iterator_traits<Iterator>::reference> {
 // };
 
-#include <iterator>
-#include <type_traits>
+#include <iterator.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

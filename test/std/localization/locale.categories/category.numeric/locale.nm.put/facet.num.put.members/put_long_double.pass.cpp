@@ -18,11 +18,11 @@
 // TODO GLIBC uses a different string for positive and negative NAN numbers.
 // XFAIL: linux-gnu
 
-#include <locale>
-#include <ios>
-#include <cassert>
-#include <streambuf>
-#include <cmath>
+#include <locale.hxx>
+#include <ios.hxx>
+#include <cassert.hxx>
+#include <streambuf.hxx>
+#include <cmath.hxx>
 #include "test_macros.h"
 #include "test_iterators.h"
 

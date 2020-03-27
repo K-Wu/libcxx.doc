@@ -8,7 +8,7 @@
 
 // <exception>
 
-#include <exception>
+#include <exception.hxx>
 
 #include "test_macros.h"
 

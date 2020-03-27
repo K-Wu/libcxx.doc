@@ -12,7 +12,7 @@
 
 // tuple_size<pair<T1, T2> >::value
 
-#include <utility>
+#include <utility.hxx>
 
 #include "test_macros.h"
 

@@ -12,7 +12,7 @@
 // template <class T, class Compare, class Allocator, class Predicate>
 //   void erase_if(set<T, Compare, Allocator>& c, Predicate pred);
 
-#include <set>
+#include <set.hxx>
 
 #include "test_macros.h"
 #include "test_allocator.h"

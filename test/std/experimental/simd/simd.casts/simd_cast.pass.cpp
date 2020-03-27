@@ -14,8 +14,8 @@
 // template <class T, class U, class Abi> see below ex::simd_cast<(const
 // ex::simd<U, Abi>&);
 
-#include <experimental/simd>
-#include <cstdint>
+#include <experimental/simd.hxx>
+#include <cstdint.hxx>
 
 #include "test_macros.h"
 

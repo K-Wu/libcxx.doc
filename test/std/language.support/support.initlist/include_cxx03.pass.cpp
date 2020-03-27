@@ -10,7 +10,7 @@
 
 // Test that the file can be included in C++03
 
-#include <initializer_list>
+#include <initializer_list.hxx>
 
 #include "test_macros.h"
 

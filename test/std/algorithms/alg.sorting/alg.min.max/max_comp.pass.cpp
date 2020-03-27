@@ -13,9 +13,9 @@
 //   const T&
 //   max(const T& a, const T& b, Compare comp);
 
-#include <algorithm>
-#include <functional>
-#include <cassert>
+#include <algorithm.hxx>
+#include <functional.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

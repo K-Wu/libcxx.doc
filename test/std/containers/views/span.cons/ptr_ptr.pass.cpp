@@ -15,9 +15,9 @@
 //   If extent is not equal to dynamic_extent, then last - first shall be equal to extent.
 //
 
-#include <span>
-#include <cassert>
-#include <string>
+#include <span.hxx>
+#include <cassert.hxx>
+#include <string.hxx>
 
 #include "test_macros.h"
 

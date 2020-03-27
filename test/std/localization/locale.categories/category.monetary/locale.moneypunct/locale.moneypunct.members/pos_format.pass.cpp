@@ -12,9 +12,9 @@
 
 // pattern pos_format() const;
 
-#include <locale>
-#include <limits>
-#include <cassert>
+#include <locale.hxx>
+#include <limits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

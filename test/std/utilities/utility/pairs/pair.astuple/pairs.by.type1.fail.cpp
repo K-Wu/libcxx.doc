@@ -7,10 +7,10 @@
 //===----------------------------------------------------------------------===//
 
 // UNSUPPORTED: c++98, c++03, c++11
-#include <utility>
-#include <complex>
+#include <utility.hxx>
+#include <complex.hxx>
 
-#include <cassert>
+#include <cassert.hxx>
 
 int main(int, char**)
 {

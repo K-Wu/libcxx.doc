@@ -12,8 +12,8 @@
 
 // condition_variable(const condition_variable&) = delete;
 
-#include <condition_variable>
-#include <cassert>
+#include <condition_variable.hxx>
+#include <cassert.hxx>
 
 int main(int, char**)
 {

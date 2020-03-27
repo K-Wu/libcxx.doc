@@ -24,8 +24,8 @@
 // MODULES_DEFINES: _LIBCPP_ENABLE_CXX17_REMOVED_RANDOM_SHUFFLE
 #define _LIBCPP_ENABLE_CXX17_REMOVED_RANDOM_SHUFFLE
 
-#include <algorithm>
-#include <cstddef>
+#include <algorithm.hxx>
+#include <cstddef.hxx>
 
 #include "test_macros.h"
 

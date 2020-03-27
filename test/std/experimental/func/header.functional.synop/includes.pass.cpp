@@ -12,7 +12,7 @@
 //
 //  has to include <functional>
 
-#include <experimental/functional>
+#include <experimental/functional.hxx>
 
 #include "test_macros.h"
 

@@ -16,9 +16,9 @@
 
 // void open(const filesystem::path& s, ios_base::openmode mode = ios_base::in|ios_base::out);
 
-#include <fstream>
-#include <filesystem>
-#include <cassert>
+#include <fstream.hxx>
+#include <filesystem.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 #include "platform_support.h"
 

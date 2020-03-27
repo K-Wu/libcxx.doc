@@ -12,8 +12,8 @@
 
 // size_type max_size() const;
 
-#include <regex>
-#include <cassert>
+#include <regex.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 
 template <class CharT>

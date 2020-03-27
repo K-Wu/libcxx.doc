@@ -9,10 +9,10 @@
 #ifndef ITERATORS_H
 #define ITERATORS_H
 
-#include <iterator>
-#include <stdexcept>
-#include <cstddef>
-#include <cassert>
+#include <iterator.hxx>
+#include <stdexcept.hxx>
+#include <cstddef.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

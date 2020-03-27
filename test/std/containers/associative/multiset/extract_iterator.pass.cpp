@@ -14,7 +14,7 @@
 
 // node_type extract(const_iterator);
 
-#include <set>
+#include <set.hxx>
 #include "test_macros.h"
 #include "min_allocator.h"
 #include "Counter.h"

@@ -8,7 +8,7 @@
 
 // <stack>
 
-#include <stack>
+#include <stack.hxx>
 
 #include "test_macros.h"
 

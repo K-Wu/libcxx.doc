@@ -23,8 +23,8 @@
 // RUN: %cxx %flags %compile_flags -c %s -o %S/lazy.o -ggdb  -ggnu-pubnames -ftemplate-depth=5000 -ftime-trace  -std=c++17 -DTEST_LAZY_AND
 // RUN: %cxx %flags %compile_flags -c %s -o %S/std.o -ggdb  -ggnu-pubnames -ftemplate-depth=5000 -ftime-trace   -std=c++17 -DTEST_STD_AND
 
-#include <type_traits>
-#include <cassert>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "template_cost_testing.h"

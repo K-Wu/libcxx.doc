@@ -17,9 +17,9 @@
 
 // Not very portable
 
-#include <vector>
-#include <cassert>
-#include <type_traits>
+#include <vector.hxx>
+#include <cassert.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

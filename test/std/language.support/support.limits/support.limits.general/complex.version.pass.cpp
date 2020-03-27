@@ -17,7 +17,7 @@
     __cpp_lib_complex_udls    201309L [C++14]
 */
 
-#include <complex>
+#include <complex.hxx>
 #include "test_macros.h"
 
 #if TEST_STD_VER < 14

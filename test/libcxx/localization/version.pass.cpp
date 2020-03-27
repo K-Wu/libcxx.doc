@@ -8,7 +8,7 @@
 
 // <locale>
 
-#include <locale>
+#include <locale.hxx>
 
 #include "test_macros.h"
 

@@ -13,9 +13,9 @@
 // template<class charT, class traits, class Allocator>
 //   bool operator==(const basic_string_view<charT,traits> lhs, const CharT* rhs);
 
-#include <string_view>
-#include <string>
-#include <cassert>
+#include <string_view.hxx>
+#include <string.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

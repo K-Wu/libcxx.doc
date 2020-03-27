@@ -8,8 +8,8 @@
 
 // <cwctype>
 
-#include <cwctype>
-#include <type_traits>
+#include <cwctype.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

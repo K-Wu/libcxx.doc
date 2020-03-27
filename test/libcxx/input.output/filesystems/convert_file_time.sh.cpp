@@ -15,12 +15,12 @@
 // RUN: %build -I%libcxx_src_root/src/filesystem
 // RUN: %run
 
-#include <filesystem>
-#include <chrono>
-#include <type_traits>
-#include <limits>
-#include <cstddef>
-#include <cassert>
+#include <filesystem.hxx>
+#include <chrono.hxx>
+#include <type_traits.hxx>
+#include <limits.hxx>
+#include <cstddef.hxx>
+#include <cassert.hxx>
 
 #include "filesystem_common.h"
 

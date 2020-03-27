@@ -25,13 +25,13 @@
 //  is a type that does not qualify as an allocator.
 
 
-#include <string>
-#include <string_view>
-#include <iterator>
-#include <memory>
-#include <type_traits>
-#include <cassert>
-#include <cstddef>
+#include <string.hxx>
+#include <string_view.hxx>
+#include <iterator.hxx>
+#include <memory.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
 
 #include "test_macros.h"
 #include "test_allocator.h"

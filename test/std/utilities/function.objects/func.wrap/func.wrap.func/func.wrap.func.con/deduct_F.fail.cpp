@@ -19,8 +19,8 @@
 // call operators and C-style variadics. It also doesn't deduce from nullptr_t.
 // Make sure we stick to the specification.
 
-#include <functional>
-#include <type_traits>
+#include <functional.hxx>
+#include <type_traits.hxx>
 
 
 struct R { };

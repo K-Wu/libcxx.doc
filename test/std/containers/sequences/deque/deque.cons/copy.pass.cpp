@@ -10,8 +10,8 @@
 
 // deque(const deque&);
 
-#include <deque>
-#include <cassert>
+#include <deque.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_allocator.h"

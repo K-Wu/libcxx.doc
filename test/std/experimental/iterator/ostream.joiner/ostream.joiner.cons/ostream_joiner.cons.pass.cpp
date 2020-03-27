@@ -16,9 +16,9 @@
 //     ostream_joiner(ostream_type& __os, _Delim&& __d);
 //     ostream_joiner(ostream_type& __os, const _Delim& __d);
 
-#include <experimental/iterator>
-#include <iostream>
-#include <string>
+#include <experimental/iterator.hxx>
+#include <iostream.hxx>
+#include <string.hxx>
 
 #include "test_macros.h"
 

@@ -10,7 +10,7 @@
 
 // <experimental/list>
 
-#include <experimental/list>
+#include <experimental/list.hxx>
 
 #include "test_macros.h"
 

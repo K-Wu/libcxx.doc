@@ -18,10 +18,10 @@
 //   make_ostream_joiner(basic_ostream<_CharT, _Traits>& __os, _Delim && __d);
 //
 
-#include <experimental/iterator>
-#include <iostream>
-#include <sstream>
-#include <cassert>
+#include <experimental/iterator.hxx>
+#include <iostream.hxx>
+#include <sstream.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

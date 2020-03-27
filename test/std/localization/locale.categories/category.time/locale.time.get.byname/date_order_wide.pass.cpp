@@ -17,8 +17,8 @@
 
 // dateorder date_order() const;
 
-#include <locale>
-#include <cassert>
+#include <locale.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 #include "test_iterators.h"
 

@@ -19,9 +19,9 @@
 //     bool
 //     atomic_compare_exchange_weak(atomic<T>* obj, T* expc, T desr);
 
-#include <atomic>
-#include <type_traits>
-#include <cassert>
+#include <atomic.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include <cmpxchg_loop.h>
 #include "test_macros.h"

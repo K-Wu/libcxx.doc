@@ -11,8 +11,8 @@
 // constexpr bool is_pm(const hours& h) noexcept;
 //   Returns: 12h <= h && h <= 23
 
-#include <chrono>
-#include <cassert>
+#include <chrono.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -9,8 +9,8 @@
 // test ratio:  the absolute values of the template arguments N and D
 //               shall be representable by type intmax_t.
 
-#include <ratio>
-#include <cstdint>
+#include <ratio.hxx>
+#include <cstdint.hxx>
 
 int main(int, char**)
 {

@@ -13,9 +13,9 @@
 
 // template<class Sseq> explicit discard_block_engine(Sseq& q);
 
-#include <random>
-#include <sstream>
-#include <cassert>
+#include <random.hxx>
+#include <sstream.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

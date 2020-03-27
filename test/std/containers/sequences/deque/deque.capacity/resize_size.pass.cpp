@@ -10,11 +10,11 @@
 
 // void resize(size_type n);
 
-#include <deque>
-#include <algorithm>
-#include <iterator>
-#include <cassert>
-#include <cstddef>
+#include <deque.hxx>
+#include <algorithm.hxx>
+#include <iterator.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

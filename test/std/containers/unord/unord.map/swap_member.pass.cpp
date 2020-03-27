@@ -14,10 +14,10 @@
 
 // void swap(unordered_map& __u);
 
-#include <unordered_map>
-#include <string>
-#include <cassert>
-#include <cstddef>
+#include <unordered_map.hxx>
+#include <string.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
 
 #include "../../test_compare.h"
 #include "../../test_hash.h"

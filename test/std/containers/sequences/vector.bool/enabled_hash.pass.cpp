@@ -13,7 +13,7 @@
 // Test that <vector> provides all of the arithmetic, enum, and pointer
 // hash specializations.
 
-#include <vector>
+#include <vector.hxx>
 
 #include "poisoned_hash_helper.h"
 #include "test_macros.h"

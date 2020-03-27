@@ -10,7 +10,7 @@
 
 // <experimental/deque>
 
-#include <experimental/deque>
+#include <experimental/deque.hxx>
 
 #include "test_macros.h"
 

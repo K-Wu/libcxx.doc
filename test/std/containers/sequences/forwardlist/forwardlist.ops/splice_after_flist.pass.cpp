@@ -10,10 +10,10 @@
 
 // void splice_after(const_iterator p, forward_list&& x);
 
-#include <forward_list>
-#include <cassert>
-#include <iterator>
-#include <cstddef>
+#include <forward_list.hxx>
+#include <cassert.hxx>
+#include <iterator.hxx>
+#include <cstddef.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

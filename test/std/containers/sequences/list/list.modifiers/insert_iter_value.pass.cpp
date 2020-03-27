@@ -10,9 +10,9 @@
 
 // iterator insert(const_iterator position, const value_type& x);
 
-#include <list>
-#include <cstdlib>
-#include <cassert>
+#include <list.hxx>
+#include <cstdlib.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

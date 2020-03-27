@@ -17,7 +17,7 @@
     __cpp_lib_allocator_traits_is_always_equal    201411L [C++17]
 */
 
-#include <scoped_allocator>
+#include <scoped_allocator.hxx>
 #include "test_macros.h"
 
 #if TEST_STD_VER < 14

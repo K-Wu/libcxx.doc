@@ -13,7 +13,7 @@
 // struct piecewise_construct_t { explicit piecewise_construct_t() = default; };
 // constexpr piecewise_construct_t piecewise_construct = piecewise_construct_t();
 
-#include <utility>
+#include <utility.hxx>
 
 
 int main(int, char**) {

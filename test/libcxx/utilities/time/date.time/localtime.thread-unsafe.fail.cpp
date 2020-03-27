@@ -8,7 +8,7 @@
 
 // REQUIRES: libcpp-has-no-thread-unsafe-c-functions
 
-#include <ctime>
+#include <ctime.hxx>
 
 int main(int, char**) {
     // localtime is not thread-safe.

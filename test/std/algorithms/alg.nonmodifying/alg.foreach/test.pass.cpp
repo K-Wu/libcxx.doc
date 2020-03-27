@@ -13,8 +13,8 @@
 //   constexpr Function   // constexpr after C++17
 //   for_each(Iter first, Iter last, Function f);
 
-#include <algorithm>
-#include <cassert>
+#include <algorithm.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

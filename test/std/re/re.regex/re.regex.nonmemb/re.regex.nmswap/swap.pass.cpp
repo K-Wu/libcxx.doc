@@ -13,8 +13,8 @@
 // template <class charT, class traits>
 //   void swap(basic_regex<charT, traits>& lhs, basic_regex<charT, traits>& rhs);
 
-#include <regex>
-#include <cassert>
+#include <regex.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 
 int main(int, char**)

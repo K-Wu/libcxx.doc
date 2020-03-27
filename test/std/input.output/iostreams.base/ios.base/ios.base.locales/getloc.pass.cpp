@@ -12,9 +12,9 @@
 
 // locale getloc() const;
 
-#include <ios>
-#include <string>
-#include <cassert>
+#include <ios.hxx>
+#include <string.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

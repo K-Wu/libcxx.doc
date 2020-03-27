@@ -8,7 +8,7 @@
 
 // <random>
 
-#include <random>
+#include <random.hxx>
 
 #include "test_macros.h"
 

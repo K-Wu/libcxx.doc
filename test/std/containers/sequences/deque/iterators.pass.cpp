@@ -15,9 +15,9 @@
 
 // iterator, const_iterator
 
-#include <deque>
-#include <iterator>
-#include <cassert>
+#include <deque.hxx>
+#include <iterator.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

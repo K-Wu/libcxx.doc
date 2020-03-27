@@ -11,8 +11,8 @@
 //
 //  struct nonesuch
 
-#include <experimental/type_traits>
-#include <string>
+#include <experimental/type_traits.hxx>
+#include <string.hxx>
 
 #include "test_macros.h"
 

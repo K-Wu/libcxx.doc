@@ -13,7 +13,7 @@
 //  Issue 3034 added:
 //  The member typedef type shall be a trivial standard-layout type.
 
-#include <type_traits>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

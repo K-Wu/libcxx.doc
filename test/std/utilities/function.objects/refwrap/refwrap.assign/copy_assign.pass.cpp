@@ -12,8 +12,8 @@
 
 // reference_wrapper& operator=(const reference_wrapper<T>& x);
 
-#include <functional>
-#include <cassert>
+#include <functional.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -13,8 +13,8 @@
 //     typename iterator_traits<InputIterator>::value_type
 //     reduce(InputIterator first, InputIterator last);
 
-#include <numeric>
-#include <cassert>
+#include <numeric.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

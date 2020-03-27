@@ -11,7 +11,7 @@
 
 // tuple_element<I, span<T, N> >::type
 
-#include <span>
+#include <span.hxx>
 
 #include "test_macros.h"
 

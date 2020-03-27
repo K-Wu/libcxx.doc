@@ -8,7 +8,7 @@
 
 // <functional>
 
-#include <functional>
+#include <functional.hxx>
 
 #include "test_macros.h"
 

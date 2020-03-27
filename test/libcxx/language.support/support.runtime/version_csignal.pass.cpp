@@ -8,7 +8,7 @@
 
 // <csignal>
 
-#include <csignal>
+#include <csignal.hxx>
 
 #include "test_macros.h"
 

@@ -11,8 +11,8 @@
 // template <class Alloc>
 //   stack(const stack& q, const Alloc& a);
 
-#include <stack>
-#include <cassert>
+#include <stack.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_allocator.h"

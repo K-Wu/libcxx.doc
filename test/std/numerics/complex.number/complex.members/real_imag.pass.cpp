@@ -11,8 +11,8 @@
 // void real(T val);
 // void imag(T val);
 
-#include <complex>
-#include <cassert>
+#include <complex.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

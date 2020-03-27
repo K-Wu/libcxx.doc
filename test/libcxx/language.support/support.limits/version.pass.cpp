@@ -8,7 +8,7 @@
 
 // <version>
 
-#include <version>
+#include <version.hxx>
 
 #include "test_macros.h"
 

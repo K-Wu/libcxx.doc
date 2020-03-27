@@ -15,8 +15,8 @@
 //     ...
 // };
 
-#include <memory>
-#include <cassert>
+#include <memory.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 
 #if TEST_STD_VER > 17

@@ -10,8 +10,8 @@
 
 // template <class T, size_t N> constexpr size_type array<T,N>::size();
 
-#include <array>
-#include <cassert>
+#include <array.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

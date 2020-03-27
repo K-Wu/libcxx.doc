@@ -10,7 +10,7 @@
 
 // <atomic>
 
-#include <atomic>
+#include <atomic.hxx>
 
 #include "test_macros.h"
 

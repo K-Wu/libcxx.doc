@@ -16,8 +16,8 @@
 
 // pointer allocate(size_type n);
 
-#include <scoped_allocator>
-#include <cassert>
+#include <scoped_allocator.hxx>
+#include <cassert.hxx>
 
 #include "allocators.h"
 

@@ -22,9 +22,9 @@
 //    Except in the case where it is moving from an empty optional - that could be
 //    made to be constexpr (and libstdc++ does so).
 
-#include <optional>
-#include <type_traits>
-#include <cassert>
+#include <optional.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

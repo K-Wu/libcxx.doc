@@ -11,10 +11,10 @@
 
 // class make_integer_sequence
 
-#include <tuple>
-#include <utility>
-#include <type_traits>
-#include <cassert>
+#include <tuple.hxx>
+#include <utility.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -45,9 +45,9 @@
 //     typedef unspecified is_transparent;
 // };
 
-#include <memory>
-#include <cassert>
-#include <set>
+#include <memory.hxx>
+#include <cassert.hxx>
+#include <set.hxx>
 #include "test_macros.h"
 
 struct X {};

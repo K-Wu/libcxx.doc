@@ -15,9 +15,9 @@
 
 // UNSUPPORTED: c++98, c++03
 
-#include <tuple>
-#include <memory>
-#include <cassert>
+#include <tuple.hxx>
+#include <memory.hxx>
+#include <cassert.hxx>
 
 struct ExplicitCopy {
   explicit ExplicitCopy(ExplicitCopy const&) {}

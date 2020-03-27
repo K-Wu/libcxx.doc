@@ -14,10 +14,10 @@
 // path temp_directory_path(error_code& ec);
 
 #include "filesystem_include.h"
-#include <memory>
-#include <cstdlib>
-#include <cstring>
-#include <cassert>
+#include <memory.hxx>
+#include <cstdlib.hxx>
+#include <cstring.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "rapid-cxx-test.h"

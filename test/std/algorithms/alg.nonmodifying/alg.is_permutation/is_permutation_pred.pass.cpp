@@ -13,9 +13,9 @@
 //   is_permutation(ForwardIterator1 first1, ForwardIterator1 last1,
 //                  ForwardIterator2 first2, BinaryPredicate pred);
 
-#include <algorithm>
-#include <functional>
-#include <cassert>
+#include <algorithm.hxx>
+#include <functional.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

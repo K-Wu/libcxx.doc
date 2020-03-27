@@ -22,9 +22,9 @@
 //     atomic_compare_exchange_strong_explicit(atomic<T>* obj, T* expc, T desr,
 //                                           memory_order s, memory_order f);
 
-#include <atomic>
-#include <type_traits>
-#include <cassert>
+#include <atomic.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "atomic_helpers.h"

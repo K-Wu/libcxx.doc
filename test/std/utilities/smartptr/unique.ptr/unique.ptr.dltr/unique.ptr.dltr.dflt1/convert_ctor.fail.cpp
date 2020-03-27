@@ -12,8 +12,8 @@
 
 // Test that default_delete<T[]> does not have a working converting constructor
 
-#include <memory>
-#include <cassert>
+#include <memory.hxx>
+#include <cassert.hxx>
 
 struct A
 {

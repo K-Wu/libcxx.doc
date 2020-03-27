@@ -11,8 +11,8 @@
 // template <class Alloc>
 //   queue(const queue& q, const Alloc& a);
 
-#include <queue>
-#include <cassert>
+#include <queue.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_allocator.h"

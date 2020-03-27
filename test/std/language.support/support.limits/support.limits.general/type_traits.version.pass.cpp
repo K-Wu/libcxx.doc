@@ -30,7 +30,7 @@
     __cpp_lib_void_t                               201411L [C++17]
 */
 
-#include <type_traits>
+#include <type_traits.hxx>
 #include "test_macros.h"
 
 #if TEST_STD_VER < 14

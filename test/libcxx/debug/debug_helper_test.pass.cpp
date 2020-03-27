@@ -17,7 +17,7 @@
 
 #define _LIBCPP_DEBUG 1
 
-#include <__debug>
+#include <__debug.hxx>
 #include "test_macros.h"
 #include "debug_mode_helper.h"
 

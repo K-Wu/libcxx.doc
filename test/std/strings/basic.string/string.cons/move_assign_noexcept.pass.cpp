@@ -20,8 +20,8 @@
 //         allocator_type::propagate_on_container_move_assignment::value &&
 //         is_nothrow_move_assignable<allocator_type>::value);
 
-#include <string>
-#include <cassert>
+#include <string.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_allocator.h"

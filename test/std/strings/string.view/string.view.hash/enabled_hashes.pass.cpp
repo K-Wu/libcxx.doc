@@ -13,7 +13,7 @@
 // Test that <string_view> provides all of the arithmetic, enum, and pointer
 // hash specializations.
 
-#include <string_view>
+#include <string_view.hxx>
 
 #include "poisoned_hash_helper.h"
 

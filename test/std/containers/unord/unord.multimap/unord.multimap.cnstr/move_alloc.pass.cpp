@@ -16,15 +16,15 @@
 
 // unordered_multimap(unordered_multimap&& u, const allocator_type& a);
 
-#include <iostream>
+#include <iostream.hxx>
 
-#include <unordered_map>
-#include <string>
-#include <set>
-#include <cassert>
-#include <cfloat>
-#include <cmath>
-#include <cstddef>
+#include <unordered_map.hxx>
+#include <string.hxx>
+#include <set.hxx>
+#include <cassert.hxx>
+#include <cfloat.hxx>
+#include <cmath.hxx>
+#include <cstddef.hxx>
 
 #include "test_macros.h"
 #include "../../../check_consecutive.h"

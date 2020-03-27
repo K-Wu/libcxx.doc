@@ -12,9 +12,9 @@
 
 // const char* name() const;
 
-#include <typeindex>
-#include <string>
-#include <cassert>
+#include <typeindex.hxx>
+#include <string.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

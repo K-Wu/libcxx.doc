@@ -14,8 +14,8 @@
 
 // unordered_multimap(size_type n, const hasher& hf, const key_equal& eql, const allocator_type& a);
 
-#include <unordered_map>
-#include <cassert>
+#include <unordered_map.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "../../../NotConstructible.h"

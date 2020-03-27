@@ -16,8 +16,8 @@
 //   OutIter
 //   partial_sum(InIter first, InIter last, OutIter result);
 
-#include <numeric>
-#include <cassert>
+#include <numeric.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

@@ -10,9 +10,9 @@
 
 // <barrier>
 
-#include <barrier>
-#include <cassert>
-#include <thread>
+#include <barrier.hxx>
+#include <cassert.hxx>
+#include <thread.hxx>
 
 #include "test_macros.h"
 

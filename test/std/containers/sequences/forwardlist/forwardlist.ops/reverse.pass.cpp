@@ -10,10 +10,10 @@
 
 // void reverse();
 
-#include <forward_list>
-#include <iterator>
-#include <algorithm>
-#include <cassert>
+#include <forward_list.hxx>
+#include <iterator.hxx>
+#include <algorithm.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

@@ -9,7 +9,7 @@
 #ifndef NOTCONSTRUCTIBLE_H
 #define NOTCONSTRUCTIBLE_H
 
-#include <functional>
+#include <functional.hxx>
 
 class NotConstructible
 {

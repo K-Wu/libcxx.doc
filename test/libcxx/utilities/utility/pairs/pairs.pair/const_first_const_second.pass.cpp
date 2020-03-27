@@ -14,7 +14,7 @@
 
 // pair(const T1& x, const T2& y);
 
-#include <utility>
+#include <utility.hxx>
 
 #include "test_macros.h"
 

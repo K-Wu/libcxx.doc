@@ -12,8 +12,8 @@
 
 // type_index& operator=(const type_index& ti);
 
-#include <typeindex>
-#include <cassert>
+#include <typeindex.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

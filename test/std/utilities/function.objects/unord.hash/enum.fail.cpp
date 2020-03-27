@@ -10,9 +10,9 @@
 
 //  Hashing a struct w/o a defined hash should fail.
 
-#include <functional>
-#include <cassert>
-#include <type_traits>
+#include <functional.hxx>
+#include <cassert.hxx>
+#include <type_traits.hxx>
 
 struct X {};
 

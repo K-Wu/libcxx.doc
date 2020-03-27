@@ -11,8 +11,8 @@
 // template <class T, class A>
 //   void swap(deque<T, A>& x, deque<T, A>& y);
 
-#include <deque>
-#include <cassert>
+#include <deque.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 #include "test_allocator.h"
 #include "min_allocator.h"

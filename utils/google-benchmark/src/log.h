@@ -1,8 +1,8 @@
 #ifndef BENCHMARK_LOG_H_
 #define BENCHMARK_LOG_H_
 
-#include <iostream>
-#include <ostream>
+#include <iostream.hxx>
+#include <ostream.hxx>
 
 #include "benchmark/benchmark.h"
 

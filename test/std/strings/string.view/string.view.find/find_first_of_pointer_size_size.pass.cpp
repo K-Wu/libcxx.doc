@@ -10,8 +10,8 @@
 
 // constexpr size_type find_first_of(const charT* s, size_type pos, size_type n) const;
 
-#include <string_view>
-#include <cassert>
+#include <string_view.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "constexpr_char_traits.h"

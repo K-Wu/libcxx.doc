@@ -12,11 +12,11 @@
 
 // template <class T, class Tuple> constexpr T make_from_tuple(Tuple&&);
 
-#include <tuple>
-#include <array>
-#include <utility>
-#include <string>
-#include <cassert>
+#include <tuple.hxx>
+#include <array.hxx>
+#include <utility.hxx>
+#include <string.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "type_id.h"

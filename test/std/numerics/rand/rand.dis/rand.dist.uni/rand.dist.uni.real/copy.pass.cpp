@@ -13,8 +13,8 @@
 
 // uniform_real_distribution(const uniform_real_distribution&);
 
-#include <random>
-#include <cassert>
+#include <random.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

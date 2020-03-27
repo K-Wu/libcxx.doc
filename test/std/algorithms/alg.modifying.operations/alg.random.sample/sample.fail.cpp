@@ -16,9 +16,9 @@
 //                       SampleIterator out, Distance n,
 //                       UniformRandomNumberGenerator &&g);
 
-#include <algorithm>
-#include <random>
-#include <cassert>
+#include <algorithm.hxx>
+#include <random.hxx>
+#include <cassert.hxx>
 
 #include "test_iterators.h"
 

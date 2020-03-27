@@ -10,10 +10,10 @@
 
 // wbuffer_convert<Codecvt, Elem, Tr>
 
-#include <fstream>
-#include <locale>
-#include <codecvt>
-#include <cassert>
+#include <fstream.hxx>
+#include <locale.hxx>
+#include <codecvt.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

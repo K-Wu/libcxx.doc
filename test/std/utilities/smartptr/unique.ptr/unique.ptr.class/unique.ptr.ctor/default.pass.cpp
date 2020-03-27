@@ -22,8 +22,8 @@
 //  2 Default construct a unique_ptr with an incomplete element_type and
 //    various deleter types (C-1,2)
 
-#include <memory>
-#include <cassert>
+#include <memory.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 
 #include "test_macros.h"

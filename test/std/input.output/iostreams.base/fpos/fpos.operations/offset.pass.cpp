@@ -12,8 +12,8 @@
 
 // converts to and from streamoff
 
-#include <ios>
-#include <cassert>
+#include <ios.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

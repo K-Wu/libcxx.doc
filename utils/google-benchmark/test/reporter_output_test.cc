@@ -1,6 +1,6 @@
 
 #undef NDEBUG
-#include <utility>
+#include <utility.hxx>
 
 #include "benchmark/benchmark.h"
 #include "output_test.h"

@@ -10,9 +10,9 @@
 
 // iterator erase(const_iterator position);
 
-#include <vector>
-#include <iterator>
-#include <cassert>
+#include <vector.hxx>
+#include <iterator.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

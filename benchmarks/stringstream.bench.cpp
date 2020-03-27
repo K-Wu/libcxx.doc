@@ -1,7 +1,7 @@
 #include "benchmark/benchmark.h"
 #include "test_macros.h"
 
-#include <sstream>
+#include <sstream.hxx>
 
 TEST_NOINLINE double istream_numbers();
 

@@ -12,8 +12,8 @@
 
 // deque(deque&&);
 
-#include <deque>
-#include <cassert>
+#include <deque.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "MoveOnly.h"

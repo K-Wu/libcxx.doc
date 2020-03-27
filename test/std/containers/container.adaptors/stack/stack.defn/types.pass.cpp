@@ -23,9 +23,9 @@
 // ...
 // };
 
-#include <stack>
-#include <vector>
-#include <type_traits>
+#include <stack.hxx>
+#include <vector.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

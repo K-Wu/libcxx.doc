@@ -15,11 +15,11 @@
 //     size_t operator()(T val) const;
 // };
 
-#include <functional>
-#include <cassert>
-#include <type_traits>
-#include <cstddef>
-#include <limits>
+#include <functional.hxx>
+#include <cassert.hxx>
+#include <type_traits.hxx>
+#include <cstddef.hxx>
+#include <limits.hxx>
 
 #include "test_macros.h"
 

@@ -15,7 +15,7 @@
 // delete their move constructor. Such types don't meet the Cpp17CopyInsertible
 // requirements.
 
-#include <vector>
+#include <vector.hxx>
 
 template <int>
 class BadUserNoCookie {

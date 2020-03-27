@@ -17,17 +17,17 @@
 //                      std::error_code& ec) noexcept;
 
 #include "filesystem_include.h"
-#include <type_traits>
-#include <chrono>
-#include <fstream>
-#include <cstdlib>
+#include <type_traits.hxx>
+#include <chrono.hxx>
+#include <fstream.hxx>
+#include <cstdlib.hxx>
 
 #include "test_macros.h"
 #include "rapid-cxx-test.h"
 #include "filesystem_test_helper.h"
 
 #include <sys/stat.h>
-#include <iostream>
+#include <iostream.hxx>
 
 #include <fcntl.h>
 #include <sys/time.h>

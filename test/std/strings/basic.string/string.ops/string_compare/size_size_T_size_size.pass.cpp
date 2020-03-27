@@ -14,9 +14,9 @@
 //
 //  Mostly we're testing string_view here
 
-#include <string>
-#include <stdexcept>
-#include <cassert>
+#include <string.hxx>
+#include <stdexcept.hxx>
+#include <cassert.hxx>
 
 #include "min_allocator.h"
 

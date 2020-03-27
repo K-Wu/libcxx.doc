@@ -23,8 +23,8 @@
 //     typedef basic_string<char_type> string_type;
 //     static const bool intl = International;
 
-#include <locale>
-#include <type_traits>
+#include <locale.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

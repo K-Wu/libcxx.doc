@@ -16,12 +16,12 @@
 //   insert_iterator<Cont>&
 //   operator=(const Cont::value_type& value);
 
-#include <iterator>
+#include <iterator.hxx>
 
-#include <utility>
-#include <vector>
-#include <memory>
-#include <cassert>
+#include <utility.hxx>
+#include <vector.hxx>
+#include <memory.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

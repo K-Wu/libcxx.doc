@@ -15,8 +15,8 @@
 // bool atomic_flag_test_and_set(volatile atomic_flag*);
 // bool atomic_flag_test_and_set(atomic_flag*);
 
-#include <atomic>
-#include <cassert>
+#include <atomic.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

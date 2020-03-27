@@ -6,9 +6,9 @@
 //
 //===----------------------------------------------------------------------===//
 
-#include "chrono"
-#include "cerrno"        // errno
-#include "system_error"  // __throw_system_error
+#include "chrono.hxx"
+#include "cerrno.hxx"        // errno
+#include "system_error.hxx"  // __throw_system_error
 #include <time.h>        // clock_gettime, CLOCK_MONOTONIC and CLOCK_REALTIME
 #include "include/apple_availability.h"
 

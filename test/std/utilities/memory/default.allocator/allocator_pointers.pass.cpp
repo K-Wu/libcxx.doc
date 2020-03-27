@@ -8,10 +8,10 @@
 
 // UNSUPPORTED: c++98, c++03
 
-#include <memory>
-#include <cassert>
+#include <memory.hxx>
+#include <cassert.hxx>
 
-// #include <memory>
+// #include <memory.hxx>
 
 #include "test_macros.h"
 //

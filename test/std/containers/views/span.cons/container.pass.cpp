@@ -25,10 +25,10 @@
 //
 
 
-#include <span>
-#include <cassert>
-#include <string>
-#include <vector>
+#include <span.hxx>
+#include <cassert.hxx>
+#include <string.hxx>
+#include <vector.hxx>
 
 #include "test_macros.h"
 

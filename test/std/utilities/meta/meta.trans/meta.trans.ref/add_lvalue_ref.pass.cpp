@@ -12,7 +12,7 @@
 // If T names a referenceable type then the member typedef type
 //    shall name T&; otherwise, type shall name T.
 
-#include <type_traits>
+#include <type_traits.hxx>
 #include "test_macros.h"
 
 template <class T, class U>

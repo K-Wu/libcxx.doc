@@ -13,9 +13,9 @@
 // template <class InputIterator>
 //   iterator insert (const_iterator p, InputIterator f, InputIterator l);
 
-#include <deque>
-#include <cassert>
-#include <cstddef>
+#include <deque.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

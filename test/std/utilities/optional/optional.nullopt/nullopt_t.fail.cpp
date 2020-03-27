@@ -16,7 +16,7 @@
 //   Type nullopt_t shall not have a default constructor or an initializer-list
 //   constructor, and shall not be an aggregate.
 
-#include <optional>
+#include <optional.hxx>
 
 int main(int, char**)
 {

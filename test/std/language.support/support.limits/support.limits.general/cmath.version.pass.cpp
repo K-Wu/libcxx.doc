@@ -18,7 +18,7 @@
     __cpp_lib_math_special_functions    201603L [C++17]
 */
 
-#include <cmath>
+#include <cmath.hxx>
 #include "test_macros.h"
 
 #if TEST_STD_VER < 14

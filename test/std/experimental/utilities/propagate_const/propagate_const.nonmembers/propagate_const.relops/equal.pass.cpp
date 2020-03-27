@@ -14,10 +14,10 @@
 // template <class T> constexpr bool operator==(const T& x, const propagate_const<T>& y);
 // template <class T> constexpr bool operator==(const propagate_const<T>& x, const T& y);
 
-#include <experimental/propagate_const>
+#include <experimental/propagate_const.hxx>
 #include "test_macros.h"
 #include "propagate_const_helpers.h"
-#include <cassert>
+#include <cassert.hxx>
 
 using std::experimental::propagate_const;
 using std::nullptr_t;

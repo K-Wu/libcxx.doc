@@ -16,9 +16,9 @@
 //   basic_string<charT,traits,Allocator>&&
 //   operator+(basic_string<charT,traits,Allocator>&& lhs, charT rhs);
 
-#include <string>
-#include <utility>
-#include <cassert>
+#include <string.hxx>
+#include <utility.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

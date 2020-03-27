@@ -15,8 +15,8 @@
 //   format(OutputIter out, const char_type* fmt_first, const char_type* fmt_last,
 //          regex_constants::match_flag_type flags = regex_constants::format_default) const;
 
-#include <regex>
-#include <cassert>
+#include <regex.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

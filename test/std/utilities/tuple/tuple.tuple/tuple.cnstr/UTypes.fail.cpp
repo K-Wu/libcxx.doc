@@ -20,8 +20,8 @@
     from UTypes are bound by the explicit tuple constructor.
 */
 
-#include <tuple>
-#include <cassert>
+#include <tuple.hxx>
+#include <cassert.hxx>
 
 class MoveOnly
 {

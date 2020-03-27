@@ -23,10 +23,10 @@
 //
 // }}} // namespace std::experimental::pmr
 
-#include <experimental/string>
-#include <experimental/memory_resource>
-#include <type_traits>
-#include <cassert>
+#include <experimental/string.hxx>
+#include <experimental/memory_resource.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "constexpr_char_traits.h"
 

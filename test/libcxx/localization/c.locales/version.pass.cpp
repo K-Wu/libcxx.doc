@@ -8,7 +8,7 @@
 
 // <clocale>
 
-#include <clocale>
+#include <clocale.hxx>
 
 #include "test_macros.h"
 

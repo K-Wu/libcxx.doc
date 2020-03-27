@@ -15,7 +15,7 @@
 // constexpr bool holds_alternative(const variant<Types...>& v) noexcept;
 
 #include "test_macros.h"
-#include <variant>
+#include <variant.hxx>
 
 int main(int, char**) {
   {

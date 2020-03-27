@@ -14,10 +14,10 @@
 
 // ~condition_variable_any();
 
-#include <condition_variable>
-#include <mutex>
-#include <thread>
-#include <cassert>
+#include <condition_variable.hxx>
+#include <mutex.hxx>
+#include <thread.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -10,8 +10,8 @@
 #ifndef BENCHMARK_UTILITIES_H
 #define BENCHMARK_UTILITIES_H
 
-#include <cassert>
-#include <type_traits>
+#include <cassert.hxx>
+#include <type_traits.hxx>
 
 #include "benchmark/benchmark.h"
 

@@ -212,8 +212,8 @@
 //     operator<=(const sub_match<BiIter>& lhs,
 //                typename iterator_traits<BiIter>::value_type const& rhs);
 
-#include <regex>
-#include <cassert>
+#include <regex.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 
 template <class CharT>

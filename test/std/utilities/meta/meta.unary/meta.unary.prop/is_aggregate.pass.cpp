@@ -13,7 +13,7 @@
 // template <class T> struct is_aggregate;
 // template <class T> constexpr bool is_aggregate_v = is_aggregate<T>::value;
 
-#include <type_traits>
+#include <type_traits.hxx>
 #include "test_macros.h"
 
 template <class T>

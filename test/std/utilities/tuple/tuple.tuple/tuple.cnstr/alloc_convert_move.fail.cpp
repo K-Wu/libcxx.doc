@@ -15,8 +15,8 @@
 
 // UNSUPPORTED: c++98, c++03
 
-#include <tuple>
-#include <memory>
+#include <tuple.hxx>
+#include <memory.hxx>
 
 struct ExplicitCopy {
   explicit ExplicitCopy(int) {}

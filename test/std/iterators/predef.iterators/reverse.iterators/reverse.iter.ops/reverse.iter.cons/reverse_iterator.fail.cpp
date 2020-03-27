@@ -16,7 +16,7 @@
 
 // test requires
 
-#include <iterator>
+#include <iterator.hxx>
 
 template <class It, class U>
 void

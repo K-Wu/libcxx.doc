@@ -8,7 +8,7 @@
 
 // <list>
 
-#include <list>
+#include <list.hxx>
 
 #include "test_macros.h"
 

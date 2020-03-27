@@ -17,8 +17,8 @@
 
 // template <class R> void swap(promise<R>& x, promise<R>& y);
 
-#include <future>
-#include <cassert>
+#include <future.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_allocator.h"

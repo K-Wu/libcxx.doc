@@ -13,8 +13,8 @@
 // static void assign(char_type& c1, const char_type& c2);
 // constexpr in C++17
 
-#include <string>
-#include <cassert>
+#include <string.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

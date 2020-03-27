@@ -10,8 +10,8 @@
 
 // alignment_of
 
-#include <type_traits>
-#include <cstdint>
+#include <type_traits.hxx>
+#include <cstdint.hxx>
 
 #include "test_macros.h"
 

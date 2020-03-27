@@ -14,8 +14,8 @@
 // qualified types trivially copyable.
 // XFAIL: clang-3, clang-4, apple-clang-6, apple-clang-7, apple-clang-8, apple-clang-9.0, gcc
 
-#include <type_traits>
-#include <cassert>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 
 template <class T>

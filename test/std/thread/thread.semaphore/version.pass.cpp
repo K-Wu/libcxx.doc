@@ -10,7 +10,7 @@
 
 // <semaphore>
 
-#include <semaphore>
+#include <semaphore.hxx>
 
 #include "test_macros.h"
 

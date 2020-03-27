@@ -10,8 +10,8 @@
 
 // void fill(const T& u);
 
-#include <array>
-#include <cassert>
+#include <array.hxx>
+#include <cassert.hxx>
 
 // std::array is explicitly allowed to be initialized with A a = { init-list };.
 // Disable the missing braces warning for this reason.

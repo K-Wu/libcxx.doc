@@ -10,10 +10,10 @@
 
 // quiet_NaN()
 
-#include <limits>
-#include <cmath>
-#include <type_traits>
-#include <cassert>
+#include <limits.hxx>
+#include <cmath.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

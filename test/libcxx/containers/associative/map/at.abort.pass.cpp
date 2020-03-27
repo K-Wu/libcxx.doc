@@ -17,9 +17,9 @@
 
 // REQUIRES: libcpp-no-exceptions
 
-#include <csignal>
-#include <cstdlib>
-#include <map>
+#include <csignal.hxx>
+#include <cstdlib.hxx>
+#include <map.hxx>
 
 #include "test_macros.h"
 

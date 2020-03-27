@@ -13,9 +13,9 @@
 
 // The char type of the stream and the char_type of the traits have to match
 
-#include <istream>
-#include <type_traits>
-#include <cassert>
+#include <istream.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 struct test_istream
     : public std::basic_istream<char, std::char_traits<wchar_t> > {};

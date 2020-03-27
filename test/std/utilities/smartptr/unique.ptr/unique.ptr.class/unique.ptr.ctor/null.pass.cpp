@@ -16,8 +16,8 @@
 // The behavior demonstrated in this test is not meant to be standard; It simply
 // tests the current status quo in libc++.
 
-#include <memory>
-#include <cassert>
+#include <memory.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "unique_ptr_test_helper.h"

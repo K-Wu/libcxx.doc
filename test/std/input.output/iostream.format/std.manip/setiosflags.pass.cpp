@@ -10,10 +10,10 @@
 
 // T2 setiosflags (ios_base::fmtflags mask);
 
-#include <iomanip>
-#include <istream>
-#include <ostream>
-#include <cassert>
+#include <iomanip.hxx>
+#include <istream.hxx>
+#include <ostream.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

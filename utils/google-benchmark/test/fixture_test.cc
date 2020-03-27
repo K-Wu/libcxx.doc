@@ -1,8 +1,8 @@
 
 #include "benchmark/benchmark.h"
 
-#include <cassert>
-#include <memory>
+#include <cassert.hxx>
+#include <memory.hxx>
 
 class MyFixture : public ::benchmark::Fixture {
  public:

@@ -17,11 +17,11 @@
 // unordered_multiset(initializer_list<value_type> il, size_type n,
 //               const hasher& hf);
 
-#include <unordered_set>
-#include <cassert>
-#include <cfloat>
-#include <cmath>
-#include <cstddef>
+#include <unordered_set.hxx>
+#include <cassert.hxx>
+#include <cfloat.hxx>
+#include <cmath.hxx>
+#include <cstddef.hxx>
 
 #include "test_macros.h"
 #include "../../../test_compare.h"

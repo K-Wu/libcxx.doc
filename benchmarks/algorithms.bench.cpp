@@ -1,11 +1,11 @@
 
-#include <algorithm>
-#include <cstdint>
-#include <map>
-#include <random>
-#include <string>
-#include <utility>
-#include <vector>
+#include <algorithm.hxx>
+#include <cstdint.hxx>
+#include <map.hxx>
+#include <random.hxx>
+#include <string.hxx>
+#include <utility.hxx>
+#include <vector.hxx>
 
 #include "CartesianBenchmarks.h"
 #include "GenerateInput.h"

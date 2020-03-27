@@ -12,8 +12,8 @@
 
 // bool empty() const noexcept;
 
-#include <deque>
-#include <cassert>
+#include <deque.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

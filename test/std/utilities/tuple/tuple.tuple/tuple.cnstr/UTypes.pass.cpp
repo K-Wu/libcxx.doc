@@ -15,9 +15,9 @@
 
 // UNSUPPORTED: c++98, c++03
 
-#include <tuple>
-#include <cassert>
-#include <type_traits>
+#include <tuple.hxx>
+#include <cassert.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 #include "test_convertible.h"

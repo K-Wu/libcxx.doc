@@ -13,8 +13,8 @@
 // constexpr template<class charT, class traits, class Allocator>
 //   bool operator>(basic_string_wiew<charT,traits> lhs, const charT* rhs);
 
-#include <string_view>
-#include <cassert>
+#include <string_view.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "constexpr_char_traits.h"

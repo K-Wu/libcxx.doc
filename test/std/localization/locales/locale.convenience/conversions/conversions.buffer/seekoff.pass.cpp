@@ -17,10 +17,10 @@
 
 // This test is not entirely portable
 
-#include <locale>
-#include <codecvt>
-#include <fstream>
-#include <cassert>
+#include <locale.hxx>
+#include <codecvt.hxx>
+#include <fstream.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -25,11 +25,11 @@
 //  is a type that does not qualify as an allocator.
 
 
-#include <string>
-#include <string_view>
-#include <iterator>
-#include <cassert>
-#include <cstddef>
+#include <string.hxx>
+#include <string_view.hxx>
+#include <iterator.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
 
 int main(int, char**)
 {

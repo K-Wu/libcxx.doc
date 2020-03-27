@@ -14,8 +14,8 @@
 
 // This test is not entirely portable
 
-#include <fstream>
-#include <cassert>
+#include <fstream.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "platform_support.h" // locale name macros

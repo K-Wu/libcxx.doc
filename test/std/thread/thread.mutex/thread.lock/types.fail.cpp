@@ -22,7 +22,7 @@
 
 // This test checks for LWG 2510.
 
-#include <mutex>
+#include <mutex.hxx>
 
 
 std::defer_lock_t f1() { return {}; } // expected-error 1 {{chosen constructor is explicit in copy-initialization}}

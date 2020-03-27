@@ -18,8 +18,8 @@
 // Make sure we get the explicit-ness of the constructor right.
 // This is LWG 3158.
 
-#include <tuple>
-#include <memory>
+#include <tuple.hxx>
+#include <memory.hxx>
 
 
 struct ExplicitDefault { explicit ExplicitDefault() { } };

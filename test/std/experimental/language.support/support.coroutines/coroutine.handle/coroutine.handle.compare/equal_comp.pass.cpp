@@ -17,11 +17,11 @@
 // bool operator==(coroutine_handle<>, coroutine_handle<>) noexcept
 // bool operator!=(coroutine_handle<>, coroutine_handle<>) noexcept
 
-#include <experimental/coroutine>
-#include <type_traits>
-#include <utility>
-#include <cstdint>
-#include <cassert>
+#include <experimental/coroutine.hxx>
+#include <type_traits.hxx>
+#include <utility.hxx>
+#include <cstdint.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

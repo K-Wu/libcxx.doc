@@ -15,8 +15,8 @@
 // template <class T> inline constexpr bool ex::is_simd_flag_type_v =
 // ex::is_simd_flag_type<T>::value;
 
-#include <cstdint>
-#include <experimental/simd>
+#include <cstdint.hxx>
+#include <experimental/simd.hxx>
 #include "test_macros.h"
 
 namespace ex = std::experimental::parallelism_v2;

@@ -15,8 +15,8 @@
 
 // REQUIRES: locale.en_US.UTF-8
 
-#include <regex>
-#include <cassert>
+#include <regex.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "platform_support.h"

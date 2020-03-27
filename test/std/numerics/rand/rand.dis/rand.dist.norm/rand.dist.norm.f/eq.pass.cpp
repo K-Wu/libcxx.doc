@@ -16,8 +16,8 @@
 // bool operator!(const fisher_f_distribution& x,
 //                const fisher_f_distribution& y);
 
-#include <random>
-#include <cassert>
+#include <random.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

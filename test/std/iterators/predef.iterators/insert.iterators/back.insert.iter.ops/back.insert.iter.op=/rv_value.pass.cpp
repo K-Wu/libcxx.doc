@@ -16,11 +16,11 @@
 //   back_insert_iterator<Cont>&
 //   operator=(Cont::value_type&& value);
 
-#include <iterator>
+#include <iterator.hxx>
 
-#include <vector>
-#include <memory>
-#include <cassert>
+#include <vector.hxx>
+#include <memory.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

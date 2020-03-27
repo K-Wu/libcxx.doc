@@ -35,9 +35,9 @@
 //     static constexpr result_type max() { return 2^w - 1; }
 //     static constexpr result_type default_seed = 5489u;
 
-#include <random>
-#include <type_traits>
-#include <cassert>
+#include <random.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -16,11 +16,11 @@
 
 // UNSUPPORTED: sanitizer-new-delete
 
-#include <thread>
-#include <new>
-#include <atomic>
-#include <cstdlib>
-#include <cassert>
+#include <thread.hxx>
+#include <new.hxx>
+#include <atomic.hxx>
+#include <cstdlib.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

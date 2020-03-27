@@ -17,9 +17,9 @@
 //
 // constexpr in C++17
 
-#include <iterator>
-#include <cstddef>
-#include <cassert>
+#include <iterator.hxx>
+#include <cstddef.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

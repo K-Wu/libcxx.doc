@@ -10,8 +10,8 @@
 
 // iterator insert(const_iterator p, size_type n, charT c);
 
-#include <string>
-#include <cassert>
+#include <string.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

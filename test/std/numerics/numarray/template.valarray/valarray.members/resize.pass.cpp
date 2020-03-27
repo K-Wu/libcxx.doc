@@ -12,9 +12,9 @@
 
 // void resize(size_t n, value_type x = value_type());
 
-#include <valarray>
-#include <cassert>
-#include <cstddef>
+#include <valarray.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
 
 #include "test_macros.h"
 

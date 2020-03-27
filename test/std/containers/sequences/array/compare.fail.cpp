@@ -16,9 +16,9 @@
 // bool operator>=(array<T, N> const&, array<T, N> const&);
 
 
-#include <array>
-#include <vector>
-#include <cassert>
+#include <array.hxx>
+#include <vector.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

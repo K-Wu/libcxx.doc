@@ -17,12 +17,12 @@
 // void scoped_allocator_adaptor::construct(pair<U1, U2>*,
 //     piecewise_construct_t, tuple<Args1...>, tuple<Args2...>)
 
-#include <scoped_allocator>
-#include <type_traits>
-#include <utility>
-#include <tuple>
-#include <cassert>
-#include <cstdlib>
+#include <scoped_allocator.hxx>
+#include <type_traits.hxx>
+#include <utility.hxx>
+#include <tuple.hxx>
+#include <cassert.hxx>
+#include <cstdlib.hxx>
 #include "uses_alloc_types.h"
 #include "controlled_allocators.h"
 

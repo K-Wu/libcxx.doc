@@ -15,8 +15,8 @@
 
 // inexact conversions allowed for floating point reps
 
-#include <chrono>
-#include <cassert>
+#include <chrono.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -10,9 +10,9 @@
 
 // void pop_front()
 
-#include <deque>
-#include <cassert>
-#include <cstddef>
+#include <deque.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

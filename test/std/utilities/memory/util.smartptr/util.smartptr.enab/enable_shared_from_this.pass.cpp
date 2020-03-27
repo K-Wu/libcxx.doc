@@ -21,8 +21,8 @@
 //     weak_ptr<T const> weak_from_this() const noexecpt;             // C++17
 // };
 
-#include <memory>
-#include <cassert>
+#include <memory.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "count_new.h"

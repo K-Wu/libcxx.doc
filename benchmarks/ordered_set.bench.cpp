@@ -6,13 +6,13 @@
 //
 //===----------------------------------------------------------------------===//
 
-#include <algorithm>
-#include <cstdint>
-#include <memory>
-#include <random>
-#include <set>
-#include <string>
-#include <vector>
+#include <algorithm.hxx>
+#include <cstdint.hxx>
+#include <memory.hxx>
+#include <random.hxx>
+#include <set.hxx>
+#include <string.hxx>
+#include <vector.hxx>
 
 #include "CartesianBenchmarks.h"
 #include "benchmark/benchmark.h"

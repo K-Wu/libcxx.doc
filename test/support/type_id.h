@@ -8,11 +8,11 @@
 #ifndef SUPPORT_TYPE_ID_H
 #define SUPPORT_TYPE_ID_H
 
-#include <functional>
-#include <typeinfo>
-#include <string>
-#include <cstdio>
-#include <cassert>
+#include <functional.hxx>
+#include <typeinfo.hxx>
+#include <string.hxx>
+#include <cstdio.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "demangle.h"

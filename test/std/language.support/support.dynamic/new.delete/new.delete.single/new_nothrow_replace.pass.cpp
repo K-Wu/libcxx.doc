@@ -11,11 +11,11 @@
 // UNSUPPORTED: sanitizer-new-delete
 // XFAIL: libcpp-no-vcruntime
 
-#include <new>
-#include <cstddef>
-#include <cstdlib>
-#include <cassert>
-#include <limits>
+#include <new.hxx>
+#include <cstddef.hxx>
+#include <cstdlib.hxx>
+#include <cassert.hxx>
+#include <limits.hxx>
 
 #include "test_macros.h"
 

@@ -10,7 +10,7 @@
 #ifndef SUPPORT_COROUTINE_TYPES_H
 #define SUPPORT_COROUTINE_TYPES_H
 
-#include <experimental/coroutine>
+#include <experimental/coroutine.hxx>
 
 template <typename Ty> struct generator {
   struct promise_type {

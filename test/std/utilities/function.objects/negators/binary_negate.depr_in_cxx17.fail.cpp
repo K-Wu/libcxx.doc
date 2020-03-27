@@ -15,7 +15,7 @@
 // UNSUPPORTED: c++98, c++03, c++11, c++14
 // REQUIRES: verify-support
 
-#include <functional>
+#include <functional.hxx>
 
 #include "test_macros.h"
 

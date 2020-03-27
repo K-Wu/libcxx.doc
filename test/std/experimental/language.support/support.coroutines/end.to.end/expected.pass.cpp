@@ -9,8 +9,8 @@
 
 // UNSUPPORTED: c++98, c++03, c++11
 
-#include <experimental/coroutine>
-#include <cassert>
+#include <experimental/coroutine.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 using namespace std::experimental;

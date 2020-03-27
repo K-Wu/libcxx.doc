@@ -12,9 +12,9 @@
 
 // explicit basic_ios(basic_streambuf<charT,traits>* sb);
 
-#include <ios>
-#include <streambuf>
-#include <cassert>
+#include <ios.hxx>
+#include <streambuf.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

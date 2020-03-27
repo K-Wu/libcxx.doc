@@ -17,10 +17,10 @@
 
 // void swap(variant& rhs) noexcept(see below)
 
-#include <cassert>
-#include <string>
-#include <type_traits>
-#include <variant>
+#include <cassert.hxx>
+#include <string.hxx>
+#include <type_traits.hxx>
+#include <variant.hxx>
 
 #include "test_convertible.h"
 #include "test_macros.h"

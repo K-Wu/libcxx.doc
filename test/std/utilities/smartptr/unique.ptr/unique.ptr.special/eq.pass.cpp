@@ -18,8 +18,8 @@
 //   bool
 //   operator!=(const unique_ptr<T1, D1>& x, const unique_ptr<T2, D2>& y);
 
-#include <memory>
-#include <cassert>
+#include <memory.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "deleter_types.h"

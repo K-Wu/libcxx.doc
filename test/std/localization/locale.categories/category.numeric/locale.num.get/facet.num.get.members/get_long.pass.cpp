@@ -23,11 +23,11 @@
 // XFAIL: with_system_cxx_lib=macosx10.10
 // XFAIL: with_system_cxx_lib=macosx10.9
 
-#include <locale>
-#include <ios>
-#include <cassert>
-#include <limits>
-#include <streambuf>
+#include <locale.hxx>
+#include <ios.hxx>
+#include <cassert.hxx>
+#include <limits.hxx>
+#include <streambuf.hxx>
 #include "test_macros.h"
 #include "test_iterators.h"
 

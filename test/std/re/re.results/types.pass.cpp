@@ -24,8 +24,8 @@
 //     typedef typename iterator_traits<BidirectionalIterator>::value_type char_type;
 //     typedef basic_string<char_type>                           string_type;
 
-#include <regex>
-#include <type_traits>
+#include <regex.hxx>
+#include <type_traits.hxx>
 #include "test_macros.h"
 
 template <class CharT>

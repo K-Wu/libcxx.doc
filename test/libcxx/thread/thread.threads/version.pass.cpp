@@ -10,7 +10,7 @@
 
 // <thread>
 
-#include <thread>
+#include <thread.hxx>
 
 #include "test_macros.h"
 

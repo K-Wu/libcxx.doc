@@ -15,9 +15,9 @@
 // template<class Callable, class ...Args>
 //   void call_once(once_flag& flag, Callable&& func, Args&&... args);
 
-#include <mutex>
-#include <thread>
-#include <cassert>
+#include <mutex.hxx>
+#include <thread.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

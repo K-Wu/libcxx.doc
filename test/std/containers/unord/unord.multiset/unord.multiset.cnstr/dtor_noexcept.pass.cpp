@@ -12,8 +12,8 @@
 
 // UNSUPPORTED: c++98, c++03
 
-#include <unordered_set>
-#include <cassert>
+#include <unordered_set.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "MoveOnly.h"

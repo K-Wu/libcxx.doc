@@ -6,8 +6,8 @@
 //
 //===----------------------------------------------------------------------===//
 
-#include <cstddef>
-#include <type_traits>
+#include <cstddef.hxx>
+#include <type_traits.hxx>
 #include "test_macros.h"
 
 // XFAIL: c++98, c++03, c++11, c++14

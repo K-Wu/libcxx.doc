@@ -8,9 +8,9 @@
 
 // test bad_cast
 
-#include <typeinfo>
-#include <type_traits>
-#include <cassert>
+#include <typeinfo.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

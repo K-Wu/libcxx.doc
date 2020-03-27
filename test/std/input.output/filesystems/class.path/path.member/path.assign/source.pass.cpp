@@ -22,15 +22,15 @@
 
 
 #include "filesystem_include.h"
-#include <type_traits>
-#include <string_view>
-#include <cassert>
+#include <type_traits.hxx>
+#include <string_view.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"
 #include "count_new.h"
 #include "filesystem_test_helper.h"
-#include <iostream>
+#include <iostream.hxx>
 
 
 template <class CharT>

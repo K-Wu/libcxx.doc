@@ -15,8 +15,8 @@
 //
 // REQUIRES: long_tests
 
-#include <sstream>
-#include <cassert>
+#include <sstream.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 
 struct SB : std::stringbuf

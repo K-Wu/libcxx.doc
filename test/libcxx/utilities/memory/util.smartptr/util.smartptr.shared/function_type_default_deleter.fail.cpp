@@ -1,6 +1,6 @@
 // UNSUPPORTED: c++98, c++03
 
-#include <memory>
+#include <memory.hxx>
 
 template <int> struct Tag {};
 

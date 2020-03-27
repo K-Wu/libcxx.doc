@@ -10,7 +10,7 @@
 
 // test unexpected_handler
 
-#include <exception>
+#include <exception.hxx>
 
 #include "test_macros.h"
 

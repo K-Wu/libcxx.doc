@@ -16,9 +16,9 @@
 
 // UNSUPPORTED: c++98, c++03
 
-#include <tuple>
-#include <array>
-#include <type_traits>
+#include <tuple.hxx>
+#include <array.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

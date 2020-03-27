@@ -11,8 +11,8 @@
 
 // void push_front(const value_type& x);
 
-#include <deque>
-#include <cassert>
+#include <deque.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 #include "test_allocator.h"
 

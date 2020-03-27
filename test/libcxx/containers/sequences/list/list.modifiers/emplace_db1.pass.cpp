@@ -18,9 +18,9 @@
 #define _LIBCPP_DEBUG 1
 #define _LIBCPP_ASSERT(x, m) ((x) ? (void)0 : std::exit(0))
 
-#include <list>
-#include <cstdlib>
-#include <cassert>
+#include <list.hxx>
+#include <cstdlib.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

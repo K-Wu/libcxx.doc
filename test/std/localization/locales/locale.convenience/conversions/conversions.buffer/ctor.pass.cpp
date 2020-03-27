@@ -13,10 +13,10 @@
 // wbuffer_convert(streambuf *bytebuf = 0, Codecvt *pcvt = new Codecvt,
 //                 state_type state = state_type());
 
-#include <locale>
-#include <codecvt>
-#include <sstream>
-#include <cassert>
+#include <locale.hxx>
+#include <codecvt.hxx>
+#include <sstream.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "count_new.h"

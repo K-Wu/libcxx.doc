@@ -17,7 +17,7 @@
     __cpp_lib_byte    201603L [C++17]
 */
 
-#include <cstddef>
+#include <cstddef.hxx>
 #include "test_macros.h"
 
 #if TEST_STD_VER < 14

@@ -11,8 +11,8 @@
 
 // void resize(size_type sz);
 
-#include <vector>
-#include <cassert>
+#include <vector.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

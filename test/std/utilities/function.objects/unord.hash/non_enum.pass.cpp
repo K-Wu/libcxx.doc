@@ -14,9 +14,9 @@
 // create a type that is not constructible and not callable.
 // See also: https://cplusplus.github.io/LWG/lwg-defects.html#2543
 
-#include <functional>
-#include <cassert>
-#include <type_traits>
+#include <functional.hxx>
+#include <cassert.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

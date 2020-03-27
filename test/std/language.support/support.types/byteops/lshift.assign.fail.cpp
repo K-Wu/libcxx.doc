@@ -6,7 +6,7 @@
 //
 //===----------------------------------------------------------------------===//
 
-#include <cstddef>
+#include <cstddef.hxx>
 #include <test_macros.h>
 
 // UNSUPPORTED: c++98, c++03, c++11, c++14

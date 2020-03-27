@@ -12,10 +12,10 @@
 
 // template <class Y, class D> explicit shared_ptr(unique_ptr<Y, D>&&r);
 
-#include <memory>
-#include <new>
-#include <cstdlib>
-#include <cassert>
+#include <memory.hxx>
+#include <new.hxx>
+#include <cstdlib.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "count_new.h"

@@ -12,9 +12,9 @@
 //   basic_ostream<charT, traits>&
 //   operator<<(basic_ostream<charT, traits>& o, const complex<T>& x);
 
-#include <complex>
-#include <sstream>
-#include <cassert>
+#include <complex.hxx>
+#include <sstream.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

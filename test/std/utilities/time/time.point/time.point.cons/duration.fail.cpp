@@ -14,7 +14,7 @@
 
 // test for explicit
 
-#include <chrono>
+#include <chrono.hxx>
 
 int main(int, char**)
 {

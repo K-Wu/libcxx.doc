@@ -9,7 +9,7 @@
 // <set>
 //   The container's value type must be the same as the allocator's value type
 
-#include <set>
+#include <set.hxx>
 
 int main(int, char**)
 {

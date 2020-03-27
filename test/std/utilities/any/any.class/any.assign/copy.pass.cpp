@@ -16,8 +16,8 @@
 
 // Test copy assignment
 
-#include <any>
-#include <cassert>
+#include <any.hxx>
+#include <cassert.hxx>
 
 #include "any_helpers.h"
 #include "count_new.h"

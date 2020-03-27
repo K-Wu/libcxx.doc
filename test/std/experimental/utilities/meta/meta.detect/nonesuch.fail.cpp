@@ -15,8 +15,8 @@
 //    and is not an aggregate (C++17 §11.6.1).
 
 
-#include <experimental/type_traits>
-#include <string>
+#include <experimental/type_traits.hxx>
+#include <string.hxx>
 
 #include "test_macros.h"
 

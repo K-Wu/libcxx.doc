@@ -19,7 +19,7 @@
 // This test is a conforming extension.  The extension turns undefined behavior
 //  into a compile-time error.
 
-#include <utility>
+#include <utility.hxx>
 
 #include "test_macros.h"
 

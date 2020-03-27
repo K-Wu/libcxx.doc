@@ -15,7 +15,7 @@
 
 // shared_mutex(const shared_mutex&) = delete;
 
-#include <shared_mutex>
+#include <shared_mutex.hxx>
 
 int main(int, char**)
 {

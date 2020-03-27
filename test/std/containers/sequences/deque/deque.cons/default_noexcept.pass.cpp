@@ -15,8 +15,8 @@
 
 // UNSUPPORTED: c++98, c++03
 
-#include <deque>
-#include <cassert>
+#include <deque.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "MoveOnly.h"

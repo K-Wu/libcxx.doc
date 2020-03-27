@@ -9,7 +9,7 @@
 // <map>
 //   The container's value type must be the same as the allocator's value type
 
-#include <map>
+#include <map.hxx>
 
 int main(int, char**)
 {

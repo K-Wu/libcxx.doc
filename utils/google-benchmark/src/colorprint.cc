@@ -14,12 +14,12 @@
 
 #include "colorprint.h"
 
-#include <cstdarg>
-#include <cstdio>
-#include <cstdlib>
-#include <cstring>
-#include <memory>
-#include <string>
+#include <cstdarg.hxx>
+#include <cstdio.hxx>
+#include <cstdlib.hxx>
+#include <cstring.hxx>
+#include <memory.hxx>
+#include <string.hxx>
 
 #include "check.h"
 #include "internal_macros.h"

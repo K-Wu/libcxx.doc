@@ -10,8 +10,8 @@
 
 // explicit basic_string(basic_string_view<CharT, traits> sv, const Allocator& a = Allocator());
 
-#include <string>
-#include <string_view>
+#include <string.hxx>
+#include <string_view.hxx>
 
 void foo ( const string &s ) {}
 

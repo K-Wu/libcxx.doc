@@ -9,7 +9,7 @@
 #ifndef AB_H
 #define AB_H
 
-#include <cassert>
+#include <cassert.hxx>
 
 class A
 {

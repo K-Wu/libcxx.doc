@@ -17,11 +17,11 @@
 //
 
 
-#include <list>
-#include <iterator>
-#include <cassert>
-#include <cstddef>
-#include <climits> // INT_MAX
+#include <list.hxx>
+#include <iterator.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
+#include <climits.hxx> // INT_MAX
 
 #include "test_macros.h"
 #include "test_iterators.h"

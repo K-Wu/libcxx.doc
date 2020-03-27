@@ -14,8 +14,8 @@
 // template <class T, class Container>
 //   bool operator!=(const queue<T, Container>& x,const queue<T, Container>& y);
 
-#include <queue>
-#include <cassert>
+#include <queue.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

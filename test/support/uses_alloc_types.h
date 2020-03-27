@@ -11,7 +11,7 @@
 
 # include <memory>
 # include <cassert>
-#include <cstdlib>
+#include <cstdlib.hxx>
 
 #include "test_macros.h"
 #include "test_workarounds.h"

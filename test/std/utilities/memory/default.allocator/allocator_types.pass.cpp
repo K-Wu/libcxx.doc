@@ -27,9 +27,9 @@
 // ...
 // };
 
-#include <memory>
-#include <type_traits>
-#include <cstddef>
+#include <memory.hxx>
+#include <type_traits.hxx>
+#include <cstddef.hxx>
 
 #include "test_macros.h"
 

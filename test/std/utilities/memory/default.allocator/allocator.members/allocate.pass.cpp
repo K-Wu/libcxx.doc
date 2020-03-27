@@ -11,9 +11,9 @@
 // allocator:
 // pointer allocate(size_type n, allocator<void>::const_pointer hint=0);
 
-#include <memory>
-#include <cassert>
-#include <cstddef>       // for std::max_align_t
+#include <memory.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>       // for std::max_align_t
 
 #include "test_macros.h"
 #include "count_new.h"

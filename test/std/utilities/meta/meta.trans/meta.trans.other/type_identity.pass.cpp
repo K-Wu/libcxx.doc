@@ -11,7 +11,7 @@
 
 // type_identity
 
-#include <type_traits>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

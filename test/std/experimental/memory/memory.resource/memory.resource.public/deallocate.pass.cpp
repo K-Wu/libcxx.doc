@@ -21,10 +21,10 @@
 //  D) Invoking 'deallocate' invokes 'do_deallocate' with the same arguments.
 
 
-#include <experimental/memory_resource>
-#include <type_traits>
-#include <cstddef>
-#include <cassert>
+#include <experimental/memory_resource.hxx>
+#include <type_traits.hxx>
+#include <cstddef.hxx>
+#include <cassert.hxx>
 
 #include "test_memory_resource.h"
 

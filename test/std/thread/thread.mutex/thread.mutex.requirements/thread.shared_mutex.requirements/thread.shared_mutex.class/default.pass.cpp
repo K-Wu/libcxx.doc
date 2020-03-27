@@ -15,7 +15,7 @@
 
 // shared_mutex();
 
-#include <shared_mutex>
+#include <shared_mutex.hxx>
 
 #include "test_macros.h"
 

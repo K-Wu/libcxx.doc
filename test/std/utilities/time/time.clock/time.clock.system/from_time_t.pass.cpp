@@ -12,8 +12,8 @@
 
 // static time_point from_time_t(time_t t);
 
-#include <chrono>
-#include <ctime>
+#include <chrono.hxx>
+#include <ctime.hxx>
 
 #include "test_macros.h"
 

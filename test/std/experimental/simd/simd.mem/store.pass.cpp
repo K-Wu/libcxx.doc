@@ -13,9 +13,9 @@
 // // stores [simd.store]
 // template <class U, class Flags> void copy_to(U* mem, Flags f) const;
 
-#include <experimental/simd>
-#include <cstdint>
-#include <cassert>
+#include <experimental/simd.hxx>
+#include <cstdint.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

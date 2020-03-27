@@ -15,7 +15,7 @@
 //     ...
 // };
 
-#include <memory>
+#include <memory.hxx>
 
 #include "test_macros.h"
 

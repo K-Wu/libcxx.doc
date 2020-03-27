@@ -16,8 +16,8 @@
 // bool operator!(const piecewise_linear_distribution& x,
 //                const piecewise_linear_distribution& y);
 
-#include <random>
-#include <cassert>
+#include <random.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

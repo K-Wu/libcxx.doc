@@ -13,9 +13,9 @@
 
 // void swap(basic_ofstream& rhs);
 
-#include <fstream>
-#include <utility>
-#include <cassert>
+#include <fstream.hxx>
+#include <utility.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 #include "platform_support.h"
 

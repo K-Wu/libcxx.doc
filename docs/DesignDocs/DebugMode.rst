@@ -45,7 +45,7 @@ assertion handler as follows.
 .. code-block:: cpp
 
   #define _LIBCPP_DEBUG 1
-  #include <string>
+  #include <string.hxx>
   void my_handler(std::__libcpp_debug_info const&);
   int main(int, char**) {
     std::__libcpp_debug_function = &my_handler;

@@ -20,7 +20,7 @@
 # endif
 #endif
 #ifndef TEST_IMP_INCLUDED_HEADER
-#include <ciso646>
+#include <ciso646.hxx>
 #endif
 
 #if defined(__GNUC__)

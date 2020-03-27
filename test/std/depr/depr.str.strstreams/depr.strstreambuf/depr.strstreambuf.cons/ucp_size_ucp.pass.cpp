@@ -12,9 +12,9 @@
 
 // strstreambuf(unsigned char* gnext_arg, streamsize n, unsigned char* pbeg_arg = 0);
 
-#include <strstream>
-#include <cassert>
-#include <cstring>
+#include <strstream.hxx>
+#include <cassert.hxx>
+#include <cstring.hxx>
 
 #include "test_macros.h"
 

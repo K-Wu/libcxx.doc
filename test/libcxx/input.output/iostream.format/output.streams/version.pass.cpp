@@ -8,7 +8,7 @@
 
 // <ostream>
 
-#include <ostream>
+#include <ostream.hxx>
 
 #include "test_macros.h"
 

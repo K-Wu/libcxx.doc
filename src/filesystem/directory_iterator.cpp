@@ -6,8 +6,8 @@
 //
 //===----------------------------------------------------------------------===//
 
-#include "filesystem"
-#include "__config"
+#include "filesystem.hxx"
+#include "__config.hxx"
 #if defined(_LIBCPP_WIN32API)
 #define WIN32_LEAN_AND_MEAN
 #include <windows.h>

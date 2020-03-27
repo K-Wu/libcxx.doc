@@ -10,10 +10,10 @@
 
 // void sort();
 
-#include <list>
-#include <random>
-#include <vector>
-#include <cassert>
+#include <list.hxx>
+#include <random.hxx>
+#include <vector.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

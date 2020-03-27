@@ -1,7 +1,7 @@
 #ifndef BENCHMARK_REGISTER_H
 #define BENCHMARK_REGISTER_H
 
-#include <vector>
+#include <vector.hxx>
 
 #include "check.h"
 

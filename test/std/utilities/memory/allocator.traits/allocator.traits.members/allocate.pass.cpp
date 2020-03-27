@@ -15,9 +15,9 @@
 //     ...
 // };
 
-#include <memory>
-#include <cstdint>
-#include <cassert>
+#include <memory.hxx>
+#include <cstdint.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "incomplete_type_helper.h"

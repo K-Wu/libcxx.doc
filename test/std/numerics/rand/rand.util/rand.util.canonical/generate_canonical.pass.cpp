@@ -11,8 +11,8 @@
 // template<class RealType, size_t bits, class URNG>
 //     RealType generate_canonical(URNG& g);
 
-#include <random>
-#include <cassert>
+#include <random.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "truncate_fp.h"

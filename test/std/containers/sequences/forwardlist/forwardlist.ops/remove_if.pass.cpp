@@ -11,10 +11,10 @@
 // template <class Predicate> void      remove_if(Predicate pred); // C++17 and before
 // template <class Predicate> size_type remove_if(Predicate pred); // C++20 and after
 
-#include <forward_list>
-#include <iterator>
-#include <cassert>
-#include <cstddef>
+#include <forward_list.hxx>
+#include <iterator.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

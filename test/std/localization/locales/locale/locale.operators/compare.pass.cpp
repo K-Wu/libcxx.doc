@@ -12,8 +12,8 @@
 //   bool operator()(const basic_string<charT,Traits,Allocator>& s1,
 //                   const basic_string<charT,Traits,Allocator>& s2) const;
 
-#include <locale>
-#include <cassert>
+#include <locale.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

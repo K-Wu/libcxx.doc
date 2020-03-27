@@ -13,8 +13,8 @@
 
 // int_type sgetc();
 
-#include <streambuf>
-#include <cassert>
+#include <streambuf.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

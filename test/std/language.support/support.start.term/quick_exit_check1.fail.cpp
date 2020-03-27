@@ -11,7 +11,7 @@
 // test that referencing at_quick_exit when _LIBCPP_HAS_QUICK_EXIT is not defined
 // results in a compile error.
 
-#include <cstdlib>
+#include <cstdlib.hxx>
 
 void f() {}
 

@@ -40,10 +40,10 @@
 //     If %z (or a modified variant) is used and successfully parsed,
 //       that value will be assigned to *offset if offset is non-null.
 
-#include <chrono>
-#include <type_traits>
-#include <cassert>
-#include <iostream>
+#include <chrono.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
+#include <iostream.hxx>
 
 #include "test_macros.h"
 

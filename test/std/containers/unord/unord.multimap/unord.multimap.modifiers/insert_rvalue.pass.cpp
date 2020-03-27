@@ -18,8 +18,8 @@
 //           class = typename enable_if<is_convertible<P, value_type>::value>::type>
 //     iterator insert(P&& x);
 
-#include <unordered_map>
-#include <cassert>
+#include <unordered_map.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "MoveOnly.h"

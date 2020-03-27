@@ -16,10 +16,10 @@
 
 // https://bugs.llvm.org/show_bug.cgi?id=16542
 
-#include <map>
+#include <map.hxx>
 
 
-#include <tuple>
+#include <tuple.hxx>
 
 #include "test_macros.h"
 

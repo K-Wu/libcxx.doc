@@ -13,8 +13,8 @@
 // iter_type put(iter_type s, ios_base& str, char_type fill, const tm* t,
 //               char format, char modifier = 0) const;
 
-#include <locale>
-#include <cassert>
+#include <locale.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 #include "test_iterators.h"
 

@@ -21,7 +21,7 @@
 // This test checks the conditional explicitness of std::pair's default
 // constructor as introduced by the resolution of LWG 2510.
 
-#include <utility>
+#include <utility.hxx>
 
 
 struct ImplicitlyDefaultConstructible {

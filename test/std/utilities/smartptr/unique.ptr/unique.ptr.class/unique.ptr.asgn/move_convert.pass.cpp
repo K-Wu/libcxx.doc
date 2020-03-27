@@ -14,8 +14,8 @@
 
 // Test unique_ptr converting move ctor
 
-#include <memory>
-#include <cassert>
+#include <memory.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "unique_ptr_test_helper.h"

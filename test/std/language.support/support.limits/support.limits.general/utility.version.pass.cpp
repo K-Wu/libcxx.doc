@@ -22,7 +22,7 @@
     __cpp_lib_tuples_by_type       201304L [C++14]
 */
 
-#include <utility>
+#include <utility.hxx>
 #include "test_macros.h"
 
 #if TEST_STD_VER < 14

@@ -8,14 +8,14 @@
 
 // UNSUPPORTED: c++98, c++03, c++11
 
-#include <tuple>
-#include <utility>
-#include <memory>
-#include <string>
-#include <complex>
-#include <type_traits>
+#include <tuple.hxx>
+#include <utility.hxx>
+#include <memory.hxx>
+#include <string.hxx>
+#include <complex.hxx>
+#include <type_traits.hxx>
 
-#include <cassert>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

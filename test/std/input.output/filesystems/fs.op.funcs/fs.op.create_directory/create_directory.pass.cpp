@@ -16,8 +16,8 @@
 // bool create_directory(const path& p, const path& attr, error_code& ec) noexcept;
 
 #include "filesystem_include.h"
-#include <type_traits>
-#include <cassert>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "rapid-cxx-test.h"

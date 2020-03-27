@@ -9,7 +9,7 @@
 #ifndef ALLOC_LAST_H
 #define ALLOC_LAST_H
 
-#include <cassert>
+#include <cassert.hxx>
 
 #include "allocators.h"
 

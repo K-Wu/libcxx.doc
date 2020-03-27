@@ -19,7 +19,7 @@
 // MODULES_DEFINES: _LIBCPP_ENABLE_NODISCARD
 #define _LIBCPP_ENABLE_NODISCARD
 
-#include <__config>
+#include <__config.hxx>
 
 _LIBCPP_NODISCARD_EXT int foo() { return 42; }
 _LIBCPP_NODISCARD_AFTER_CXX17 int bar() { return 42; }

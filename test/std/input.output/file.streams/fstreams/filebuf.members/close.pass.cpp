@@ -10,8 +10,8 @@
 
 // basic_filebuf<charT,traits>* close();
 
-#include <fstream>
-#include <cassert>
+#include <fstream.hxx>
+#include <cassert.hxx>
 #if defined(__unix__)
 #include <fcntl.h>
 #include <unistd.h>

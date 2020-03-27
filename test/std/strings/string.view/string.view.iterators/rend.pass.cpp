@@ -10,9 +10,9 @@
 
 // constexpr const_iterator rend() const;
 
-#include <string_view>
-#include <cassert>
-#include <cstddef>
+#include <string_view.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
 
 #include "test_macros.h"
 

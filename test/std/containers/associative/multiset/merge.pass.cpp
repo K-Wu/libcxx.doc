@@ -21,8 +21,8 @@
 // template <class C2>
 //   void merge(multiset<Key, C2, Allocator>&& source);
 
-#include <set>
-#include <cassert>
+#include <set.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 #include "Counter.h"
 

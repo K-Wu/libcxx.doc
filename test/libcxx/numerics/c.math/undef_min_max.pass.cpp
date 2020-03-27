@@ -12,7 +12,7 @@
 #define min THIS IS A NASTY MACRO!
 #define max THIS IS A NASTY MACRO!
 
-#include <cmath>
+#include <cmath.hxx>
 
 #include "test_macros.h"
 

@@ -15,11 +15,11 @@
 #include "benchmark/benchmark.h"
 #include "timers.h"
 
-#include <cstdlib>
+#include <cstdlib.hxx>
 
-#include <iostream>
-#include <tuple>
-#include <vector>
+#include <iostream.hxx>
+#include <tuple.hxx>
+#include <vector.hxx>
 
 #include "check.h"
 #include "string_util.h"

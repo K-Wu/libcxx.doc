@@ -11,8 +11,8 @@
 // complex& operator=(const complex&);
 // template<class X> complex& operator= (const complex<X>&);
 
-#include <complex>
-#include <cassert>
+#include <complex.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

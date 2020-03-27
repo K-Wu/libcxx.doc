@@ -13,7 +13,7 @@
 //    the member typedef type shall name the same type as remove_reference_t<T>*;
 //    otherwise, type shall name T.
 
-#include <type_traits>
+#include <type_traits.hxx>
 #include "test_macros.h"
 
 template <class T, class U>

@@ -24,9 +24,9 @@
 
 // This tests a conforming extension
 
-#include <unordered_set>
-#include <utility>
-#include <cassert>
+#include <unordered_set.hxx>
+#include <utility.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "MoveOnly.h"

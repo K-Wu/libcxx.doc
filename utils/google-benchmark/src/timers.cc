@@ -42,15 +42,15 @@
 #include <emscripten.h>
 #endif
 
-#include <cerrno>
-#include <cstdint>
-#include <cstdio>
-#include <cstdlib>
-#include <cstring>
-#include <ctime>
-#include <iostream>
-#include <limits>
-#include <mutex>
+#include <cerrno.hxx>
+#include <cstdint.hxx>
+#include <cstdio.hxx>
+#include <cstdlib.hxx>
+#include <cstring.hxx>
+#include <ctime.hxx>
+#include <iostream.hxx>
+#include <limits.hxx>
+#include <mutex.hxx>
 
 #include "check.h"
 #include "log.h"

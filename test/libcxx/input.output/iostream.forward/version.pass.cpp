@@ -8,7 +8,7 @@
 
 // <iosfwd>
 
-#include <iosfwd>
+#include <iosfwd.hxx>
 
 #include "test_macros.h"
 

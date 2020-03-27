@@ -8,7 +8,7 @@
 
 // <ccomplex>
 
-#include <ccomplex>
+#include <ccomplex.hxx>
 
 #include "test_macros.h"
 

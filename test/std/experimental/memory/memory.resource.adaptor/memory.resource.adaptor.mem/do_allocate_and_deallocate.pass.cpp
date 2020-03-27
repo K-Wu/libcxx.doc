@@ -20,11 +20,11 @@
 // libc++abi.dylib and exceptions are not caught properly.
 // XFAIL: with_system_cxx_lib=macosx10.7
 
-#include <experimental/memory_resource>
-#include <type_traits>
-#include <memory>
-#include <exception>
-#include <cassert>
+#include <experimental/memory_resource.hxx>
+#include <type_traits.hxx>
+#include <memory.hxx>
+#include <exception.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_memory_resource.h"

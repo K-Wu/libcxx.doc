@@ -13,8 +13,8 @@
 
 // explicit basic_stringbuf(ios_base::openmode which = ios_base::in | ios_base::out);
 
-#include <sstream>
-#include <cassert>
+#include <sstream.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

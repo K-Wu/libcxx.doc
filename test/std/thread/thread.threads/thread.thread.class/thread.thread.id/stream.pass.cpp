@@ -16,9 +16,9 @@
 // basic_ostream<charT, traits>&
 // operator<<(basic_ostream<charT, traits>& out, thread::id id);
 
-#include <thread>
-#include <sstream>
-#include <cassert>
+#include <thread.hxx>
+#include <sstream.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

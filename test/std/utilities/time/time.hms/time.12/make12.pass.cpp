@@ -12,8 +12,8 @@
 //   Returns: The 12-hour equivalent of h in the range [1h, 12h].
 //     If h is not in the range [0h, 23h], the value returned is unspecified.
 
-#include <chrono>
-#include <cassert>
+#include <chrono.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

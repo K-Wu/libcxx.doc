@@ -10,7 +10,7 @@
 
 // is_trivially_copy_assignable
 
-#include <type_traits>
+#include <type_traits.hxx>
 #include "test_macros.h"
 
 template <class T>

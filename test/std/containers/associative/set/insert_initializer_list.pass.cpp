@@ -14,9 +14,9 @@
 
 // void insert(initializer_list<value_type> il);
 
-#include <set>
-#include <cassert>
-#include <cstddef>
+#include <set.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

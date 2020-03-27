@@ -12,7 +12,7 @@
 // {
 // };
 
-#include <iterator>
+#include <iterator.hxx>
 #include "test_macros.h"
 
 struct A {};

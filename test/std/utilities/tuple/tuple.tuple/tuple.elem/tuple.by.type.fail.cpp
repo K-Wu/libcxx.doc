@@ -8,8 +8,8 @@
 
 // UNSUPPORTED: c++98, c++03, c++11
 
-#include <tuple>
-#include <string>
+#include <tuple.hxx>
+#include <string.hxx>
 #include "test_macros.h"
 
 struct UserType {};

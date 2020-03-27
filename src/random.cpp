@@ -6,15 +6,15 @@
 //
 //===----------------------------------------------------------------------===//
 
-#include <__config>
+#include <__config.hxx>
 
 #if defined(_LIBCPP_USING_WIN32_RANDOM)
 // Must be defined before including stdlib.h to enable rand_s().
 #define _CRT_RAND_S
 #endif // defined(_LIBCPP_USING_WIN32_RANDOM)
 
-#include "random"
-#include "system_error"
+#include "random.hxx"
+#include "system_error.hxx"
 
 #if defined(__sun__)
 #define rename solaris_headers_are_broken

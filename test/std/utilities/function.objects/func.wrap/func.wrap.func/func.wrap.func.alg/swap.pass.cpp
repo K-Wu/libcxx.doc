@@ -14,9 +14,9 @@
 //   void swap(function<R(ArgTypes...)>&, function<R(ArgTypes...)>&) noexcept;
 
 
-#include <functional>
-#include <cstdlib>
-#include <cassert>
+#include <functional.hxx>
+#include <cstdlib.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "count_new.h"

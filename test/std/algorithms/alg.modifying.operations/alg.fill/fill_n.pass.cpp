@@ -13,8 +13,8 @@
 //   constexpr OutputIterator      // constexpr after C++17
 //   fill_n(Iter first, Size n, const T& value);
 
-#include <algorithm>
-#include <cassert>
+#include <algorithm.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

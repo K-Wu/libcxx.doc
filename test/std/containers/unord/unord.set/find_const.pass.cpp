@@ -14,8 +14,8 @@
 
 // const_iterator find(const key_type& k) const;
 
-#include <unordered_set>
-#include <cassert>
+#include <unordered_set.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

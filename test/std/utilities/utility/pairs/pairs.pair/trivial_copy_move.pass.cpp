@@ -13,8 +13,8 @@
 // pair(pair const&) = default;
 // pair(pair&&) = default;
 
-#include <utility>
-#include <cassert>
+#include <utility.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

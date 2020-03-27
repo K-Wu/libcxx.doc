@@ -12,9 +12,9 @@
 
 // valarray(const value_type* p, size_t n);
 
-#include <valarray>
-#include <cassert>
-#include <cstddef>
+#include <valarray.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
 
 #include "test_macros.h"
 

@@ -5,14 +5,14 @@
 
 #include <unistd.h> // for ftruncate
 
-#include <cassert>
-#include <cstdio> // for printf
-#include <string>
-#include <fstream>
-#include <random>
-#include <chrono>
-#include <vector>
-#include <regex>
+#include <cassert.hxx>
+#include <cstdio.hxx> // for printf
+#include <string.hxx>
+#include <fstream.hxx>
+#include <random.hxx>
+#include <chrono.hxx>
+#include <vector.hxx>
+#include <regex.hxx>
 
 #include "test_macros.h"
 #include "rapid-cxx-test.h"

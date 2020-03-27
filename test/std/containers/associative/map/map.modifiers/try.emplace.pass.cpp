@@ -21,9 +21,9 @@
 // template <class... Args>
 //  iterator try_emplace(const_iterator hint, key_type&& k, Args&&... args);      // C++17
 
-#include <map>
-#include <cassert>
-#include <tuple>
+#include <map.hxx>
+#include <cassert.hxx>
+#include <tuple.hxx>
 
 #include "test_macros.h"
 

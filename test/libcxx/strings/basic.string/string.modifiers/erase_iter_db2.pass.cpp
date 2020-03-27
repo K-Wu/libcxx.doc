@@ -14,10 +14,10 @@
 
 #define _LIBCPP_ASSERT(x, m) ((x) ? (void)0 : std::exit(0))
 
-#include <string>
-#include <cassert>
-#include <cstdlib>
-#include <exception>
+#include <string.hxx>
+#include <cassert.hxx>
+#include <cstdlib.hxx>
+#include <exception.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

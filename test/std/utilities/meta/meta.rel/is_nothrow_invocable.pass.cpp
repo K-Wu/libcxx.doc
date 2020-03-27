@@ -12,9 +12,9 @@
 
 // is_nothrow_invocable
 
-#include <type_traits>
-#include <functional>
-#include <vector>
+#include <type_traits.hxx>
+#include <functional.hxx>
+#include <vector.hxx>
 
 #include "test_macros.h"
 

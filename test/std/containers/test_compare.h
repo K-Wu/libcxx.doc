@@ -9,11 +9,11 @@
 #ifndef TEST_COMPARE_H
 #define TEST_COMPARE_H
 
-#include <cstddef>
-#include <type_traits>
-#include <cstdlib>
-#include <new>
-#include <climits>
+#include <cstddef.hxx>
+#include <type_traits.hxx>
+#include <cstdlib.hxx>
+#include <new.hxx>
+#include <climits.hxx>
 
 template <class C>
 class test_compare

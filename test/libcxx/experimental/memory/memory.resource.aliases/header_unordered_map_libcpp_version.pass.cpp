@@ -10,7 +10,7 @@
 
 // <experimental/unordered_map>
 
-#include <experimental/unordered_map>
+#include <experimental/unordered_map.hxx>
 
 #include "test_macros.h"
 

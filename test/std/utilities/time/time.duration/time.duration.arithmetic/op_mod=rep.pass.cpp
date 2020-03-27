@@ -12,8 +12,8 @@
 
 // duration& operator%=(const rep& rhs)
 
-#include <chrono>
-#include <cassert>
+#include <chrono.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

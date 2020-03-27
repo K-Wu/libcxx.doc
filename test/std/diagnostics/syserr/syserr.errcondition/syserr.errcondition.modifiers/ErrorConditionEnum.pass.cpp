@@ -12,8 +12,8 @@
 
 // template <ErrorConditionEnum E> error_condition& operator=(E e);
 
-#include <system_error>
-#include <cassert>
+#include <system_error.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

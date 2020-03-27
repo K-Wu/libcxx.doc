@@ -12,7 +12,7 @@
 
 // aligned_union<size_t Len, class ...Types>
 
-#include <type_traits>
+#include <type_traits.hxx>
 
 class A; // Incomplete
 

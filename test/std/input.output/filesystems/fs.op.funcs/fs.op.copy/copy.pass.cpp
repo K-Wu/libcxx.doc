@@ -17,9 +17,9 @@
 //           error_code& ec);
 
 #include "filesystem_include.h"
-#include <type_traits>
-#include <cstddef>
-#include <cassert>
+#include <type_traits.hxx>
+#include <cstddef.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "rapid-cxx-test.h"

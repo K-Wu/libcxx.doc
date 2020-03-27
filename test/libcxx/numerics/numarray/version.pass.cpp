@@ -8,7 +8,7 @@
 
 // <valarray>
 
-#include <valarray>
+#include <valarray.hxx>
 
 #include "test_macros.h"
 

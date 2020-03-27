@@ -13,9 +13,9 @@
 // constexpr chrono::weekday_indexed weekday_indexed() const noexcept;
 //  Returns: wdi_
 
-#include <chrono>
-#include <type_traits>
-#include <cassert>
+#include <chrono.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

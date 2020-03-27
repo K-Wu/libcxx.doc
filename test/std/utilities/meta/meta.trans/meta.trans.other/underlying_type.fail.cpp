@@ -11,8 +11,8 @@
 // underlying_type
 // Mandates: enum must not be an incomplete enumeration type.
 
-#include <type_traits>
-#include <climits>
+#include <type_traits.hxx>
+#include <climits.hxx>
 
 #include "test_macros.h"
 

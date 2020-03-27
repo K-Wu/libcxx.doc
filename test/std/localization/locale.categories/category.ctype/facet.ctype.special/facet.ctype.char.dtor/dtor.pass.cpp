@@ -12,8 +12,8 @@
 
 // ~ctype();
 
-#include <locale>
-#include <cassert>
+#include <locale.hxx>
+#include <cassert.hxx>
 
 #include "count_new.h"
 

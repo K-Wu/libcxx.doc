@@ -13,8 +13,8 @@
 
 // basic_ostream& write(const char_type* s, streamsize n);
 
-#include <ostream>
-#include <cassert>
+#include <ostream.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

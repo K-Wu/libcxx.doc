@@ -12,10 +12,10 @@
 
 // const charT* do_is(const charT* low, const charT* high, mask* vec) const;
 
-#include <locale>
-#include <string>
-#include <vector>
-#include <cassert>
+#include <locale.hxx>
+#include <string.hxx>
+#include <vector.hxx>
+#include <cassert.hxx>
 
 #include <stdio.h>
 

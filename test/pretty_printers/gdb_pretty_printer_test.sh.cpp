@@ -13,19 +13,19 @@
 // Ensure locale-independence for unicode tests.
 // RUN: %libcxx_gdb -nx -batch -iex "set autoload off" -ex "source %libcxx_src_root/utils/gdb/libcxx/printers.py" -ex "python register_libcxx_printer_loader()" -ex "source %libcxx_src_root/test/pretty_printers/gdb_pretty_printer_test.py" %t.exe
 
-#include <bitset>
-#include <deque>
-#include <list>
-#include <map>
-#include <memory>
-#include <queue>
-#include <set>
-#include <sstream>
-#include <stack>
-#include <string>
-#include <tuple>
-#include <unordered_map>
-#include <unordered_set>
+#include <bitset.hxx>
+#include <deque.hxx>
+#include <list.hxx>
+#include <map.hxx>
+#include <memory.hxx>
+#include <queue.hxx>
+#include <set.hxx>
+#include <sstream.hxx>
+#include <stack.hxx>
+#include <string.hxx>
+#include <tuple.hxx>
+#include <unordered_map.hxx>
+#include <unordered_set.hxx>
 
 #include "test_macros.h"
 

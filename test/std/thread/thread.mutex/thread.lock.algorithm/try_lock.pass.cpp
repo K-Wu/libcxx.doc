@@ -13,8 +13,8 @@
 // template <class L1, class L2, class... L3>
 //   int try_lock(L1&, L2&, L3&...);
 
-#include <mutex>
-#include <cassert>
+#include <mutex.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

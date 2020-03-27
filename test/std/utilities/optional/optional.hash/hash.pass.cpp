@@ -11,10 +11,10 @@
 
 // template <class T> struct hash<optional<T>>;
 
-#include <optional>
-#include <string>
-#include <memory>
-#include <cassert>
+#include <optional.hxx>
+#include <string.hxx>
+#include <memory.hxx>
+#include <cassert.hxx>
 
 #include "poisoned_hash_helper.h"
 

@@ -10,8 +10,8 @@
 
 // iterator insert_after(const_iterator p, const value_type& v);
 
-#include <forward_list>
-#include <cassert>
+#include <forward_list.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

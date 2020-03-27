@@ -10,8 +10,8 @@
 
 // void resize(size_type n, const value_type& v);
 
-#include <forward_list>
-#include <cassert>
+#include <forward_list.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "DefaultOnly.h"

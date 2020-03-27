@@ -12,9 +12,9 @@
 
 // operator unspecified-bool-type() const;
 
-#include <ios>
-#include <type_traits>
-#include <cassert>
+#include <ios.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

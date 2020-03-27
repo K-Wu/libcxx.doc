@@ -14,9 +14,9 @@
 
 // Test unique_ptr converting move assignment
 
-#include <memory>
-#include <utility>
-#include <cassert>
+#include <memory.hxx>
+#include <utility.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "unique_ptr_test_helper.h"

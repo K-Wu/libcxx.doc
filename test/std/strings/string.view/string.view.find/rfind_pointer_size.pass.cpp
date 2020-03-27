@@ -9,8 +9,8 @@
 // <string_view>
 // constexpr size_type rfind(const charT* s, size_type pos = npos) const;
 
-#include <string_view>
-#include <cassert>
+#include <string_view.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "constexpr_char_traits.h"

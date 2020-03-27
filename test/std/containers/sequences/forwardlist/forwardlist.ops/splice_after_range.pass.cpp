@@ -12,9 +12,9 @@
 //                   const_iterator first, const_iterator last);
 
 #include <stddef.h>
-#include <forward_list>
-#include <cassert>
-#include <iterator>
+#include <forward_list.hxx>
+#include <cassert.hxx>
+#include <iterator.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

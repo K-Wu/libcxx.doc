@@ -13,9 +13,9 @@
 // template <class ForwardIt>
 // void uninitialized_default_construct(ForwardIt, ForwardIt);
 
-#include <memory>
-#include <cstdlib>
-#include <cassert>
+#include <memory.hxx>
+#include <cstdlib.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

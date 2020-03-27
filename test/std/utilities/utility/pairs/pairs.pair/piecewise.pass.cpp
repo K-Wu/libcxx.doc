@@ -16,9 +16,9 @@
 //     pair(piecewise_construct_t, tuple<Args1...> first_args,
 //                                 tuple<Args2...> second_args);
 
-#include <cassert>
-#include <tuple>
-#include <utility>
+#include <cassert.hxx>
+#include <tuple.hxx>
+#include <utility.hxx>
 
 #include "test_macros.h"
 

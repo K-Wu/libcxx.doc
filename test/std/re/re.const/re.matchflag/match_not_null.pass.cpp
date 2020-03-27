@@ -12,8 +12,8 @@
 //     The regular expression shall not match an empty sequence.
 
 #include "test_macros.h"
-#include <cassert>
-#include <regex>
+#include <cassert.hxx>
+#include <regex.hxx>
 
 int main(int, char**)
 {

@@ -14,8 +14,8 @@
 
 // iterator insert(node_type&&);
 
-#include <map>
-#include <type_traits>
+#include <map.hxx>
+#include <type_traits.hxx>
 #include "test_macros.h"
 #include "min_allocator.h"
 

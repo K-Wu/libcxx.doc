@@ -29,12 +29,12 @@
 // XFAIL: with_system_cxx_lib=macosx10.13
 // XFAIL: with_system_cxx_lib=macosx10.12
 
-#include <cassert>
-#include <cstdint>
-#include <ios>
-#include <limits>
-#include <sstream>
-#include <type_traits>
+#include <cassert.hxx>
+#include <cstdint.hxx>
+#include <ios.hxx>
+#include <limits.hxx>
+#include <sstream.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

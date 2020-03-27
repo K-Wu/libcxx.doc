@@ -18,10 +18,10 @@
 
 #define _LIBCPP_DEBUG 1
 
-#include <map>
-#include <set>
-#include <utility>
-#include <cassert>
+#include <map.hxx>
+#include <set.hxx>
+#include <utility.hxx>
+#include <cassert.hxx>
 #include "container_debug_tests.h"
 #include "test_macros.h"
 #include "debug_mode_helper.h"

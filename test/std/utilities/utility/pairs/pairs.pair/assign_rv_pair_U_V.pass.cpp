@@ -14,9 +14,9 @@
 
 // template<class U, class V> pair& operator=(pair<U, V>&& p);
 
-#include <utility>
-#include <memory>
-#include <cassert>
+#include <utility.hxx>
+#include <memory.hxx>
+#include <cassert.hxx>
 #include <archetypes.h>
 
 #include "test_macros.h"

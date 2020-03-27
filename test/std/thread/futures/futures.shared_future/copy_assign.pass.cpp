@@ -16,8 +16,8 @@
 // shared_future& operator=(const shared_future& rhs);
 // noexcept in C++17
 
-#include <future>
-#include <cassert>
+#include <future.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

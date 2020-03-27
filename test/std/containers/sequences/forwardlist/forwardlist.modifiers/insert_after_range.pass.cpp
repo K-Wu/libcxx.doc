@@ -12,8 +12,8 @@
 //     iterator insert_after(const_iterator p,
 //                           InputIterator first, InputIterator last);
 
-#include <forward_list>
-#include <cassert>
+#include <forward_list.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

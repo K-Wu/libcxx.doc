@@ -13,8 +13,8 @@
 
 // explicit sentry(basic_istream<charT,traits>& is, bool noskipws = false);
 
-#include <istream>
-#include <cassert>
+#include <istream.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

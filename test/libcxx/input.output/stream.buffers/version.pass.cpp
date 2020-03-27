@@ -8,7 +8,7 @@
 
 // <streambuf>
 
-#include <streambuf>
+#include <streambuf.hxx>
 
 #include "test_macros.h"
 

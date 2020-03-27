@@ -17,8 +17,8 @@
 // typedef basic_string<char32_t> u32string;
 // typedef basic_string<wchar_t>  wstring;
 
-#include <string>
-#include <type_traits>
+#include <string.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

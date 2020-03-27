@@ -12,8 +12,8 @@
 
 // deque(initializer_list<value_type> il, const Allocator& a = allocator_type());
 
-#include <deque>
-#include <cassert>
+#include <deque.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_allocator.h"

@@ -46,11 +46,11 @@
 //     T operator=(T) noexcept;
 // };
 
-#include <atomic>
-#include <new>
-#include <cassert>
-#include <thread> // for thread_id
-#include <chrono> // for nanoseconds
+#include <atomic.hxx>
+#include <new.hxx>
+#include <cassert.hxx>
+#include <thread.hxx> // for thread_id
+#include <chrono.hxx> // for nanoseconds
 
 struct NotTriviallyCopyable {
     NotTriviallyCopyable ( int i ) : i_(i) {}

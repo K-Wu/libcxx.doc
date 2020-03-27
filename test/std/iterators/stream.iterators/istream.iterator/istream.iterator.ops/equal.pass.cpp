@@ -18,9 +18,9 @@
 //   bool operator!=(const istream_iterator<T,charT,traits,Distance> &x,
 //                   const istream_iterator<T,charT,traits,Distance> &y);
 
-#include <iterator>
-#include <sstream>
-#include <cassert>
+#include <iterator.hxx>
+#include <sstream.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

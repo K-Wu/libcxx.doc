@@ -11,8 +11,8 @@
 // <unordered_multiset>
 // <unordered_multimap>
 
-#include <cassert>
-#include <set>
+#include <cassert.hxx>
+#include <set.hxx>
 #include <stddef.h>
 
 // Check consecutive equal values in an unordered_multiset iterator

@@ -12,8 +12,8 @@
 
 // explicit time_get(size_t refs = 0);
 
-#include <locale>
-#include <cassert>
+#include <locale.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -12,7 +12,7 @@
 
 // Check that the size and alignment of any are what we expect.
 
-#include <any>
+#include <any.hxx>
 
 #include "test_macros.h"
 

@@ -26,10 +26,10 @@
 // MODULES_DEFINES: _LIBCPP_ENABLE_NODISCARD
 #define _LIBCPP_ENABLE_NODISCARD
 
-#include <algorithm>
-#include <functional>
-#include <iterator>
-#include <memory>
+#include <algorithm.hxx>
+#include <functional.hxx>
+#include <iterator.hxx>
+#include <memory.hxx>
 
 #include "test_macros.h"
 

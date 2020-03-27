@@ -15,9 +15,9 @@
 //   constexpr void      // constexpr after C++17
 //   replace_if(Iter first, Iter last, Pred pred, const T& new_value);
 
-#include <algorithm>
-#include <functional>
-#include <cassert>
+#include <algorithm.hxx>
+#include <functional.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

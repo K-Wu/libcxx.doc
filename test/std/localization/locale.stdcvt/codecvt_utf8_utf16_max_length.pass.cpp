@@ -18,8 +18,8 @@
 
 // int max_length() const throw();
 
-#include <codecvt>
-#include <cassert>
+#include <codecvt.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

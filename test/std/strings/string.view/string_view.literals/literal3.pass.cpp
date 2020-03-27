@@ -12,8 +12,8 @@
 // UNSUPPORTED: apple-clang-6, apple-clang-7, apple-clang-8
 // Note: libc++ supports string_view before C++17, but literals were introduced in C++14
 
-#include <string_view>
-#include <cassert>
+#include <string_view.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

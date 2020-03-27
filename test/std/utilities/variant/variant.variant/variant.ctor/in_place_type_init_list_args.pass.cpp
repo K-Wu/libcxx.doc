@@ -18,10 +18,10 @@
 // constexpr explicit
 // variant(in_place_type_t<Tp>, initializer_list<Up>, Args&&...);
 
-#include <cassert>
-#include <string>
-#include <type_traits>
-#include <variant>
+#include <cassert.hxx>
+#include <string.hxx>
+#include <type_traits.hxx>
+#include <variant.hxx>
 
 #include "test_convertible.h"
 #include "test_macros.h"

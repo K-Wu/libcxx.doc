@@ -13,8 +13,8 @@
 //   void erase(forward_list<T, Allocator>& c, const U& value);
   
 
-#include <forward_list>
-#include <optional>
+#include <forward_list.hxx>
+#include <optional.hxx>
 
 #include "test_macros.h"
 #include "test_allocator.h"

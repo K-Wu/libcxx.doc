@@ -13,9 +13,9 @@
 
 // template<class T> void throw_with_nested [[noreturn]] (T&& t);
 
-#include <exception>
-#include <cstdlib>
-#include <cassert>
+#include <exception.hxx>
+#include <cstdlib.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -19,10 +19,10 @@
 //  Requires: (0 <= Offset && Offset <= size())
 //      && (Count == dynamic_extent || Count >= 0 && Offset + Count <= size())
 
-#include <span>
-#include <cassert>
-#include <algorithm>
-#include <string>
+#include <span.hxx>
+#include <cassert.hxx>
+#include <algorithm.hxx>
+#include <string.hxx>
 
 #include "test_macros.h"
 

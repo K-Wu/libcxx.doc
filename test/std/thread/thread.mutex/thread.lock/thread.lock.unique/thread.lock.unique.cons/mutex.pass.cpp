@@ -19,10 +19,10 @@
 // template<class _Mutex> unique_lock(unique_lock<_Mutex>)
 //     -> unique_lock<_Mutex>;  // C++17
 
-#include <mutex>
-#include <thread>
-#include <cstdlib>
-#include <cassert>
+#include <mutex.hxx>
+#include <thread.hxx>
+#include <cstdlib.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -10,9 +10,9 @@
 
 // <semaphore>
 
-#include <semaphore>
-#include <chrono>
-#include <thread>
+#include <semaphore.hxx>
+#include <chrono.hxx>
+#include <thread.hxx>
 
 #include "test_macros.h"
 

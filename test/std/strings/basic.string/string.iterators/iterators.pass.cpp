@@ -17,8 +17,8 @@
 // const_iterator cbegin() const;
 // const_iterator cend()   const;
 
-#include <string>
-#include <cassert>
+#include <string.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

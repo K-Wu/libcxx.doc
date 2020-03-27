@@ -15,8 +15,8 @@
 // void atomic_flag_clear(volatile atomic_flag*);
 // void atomic_flag_clear(atomic_flag*);
 
-#include <atomic>
-#include <cassert>
+#include <atomic.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -10,8 +10,8 @@
 
 // explicit list(const Alloc& = Alloc());
 
-#include <list>
-#include <cassert>
+#include <list.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 #include "test_allocator.h"
 #include "min_allocator.h"

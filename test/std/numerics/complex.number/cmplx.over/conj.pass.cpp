@@ -14,9 +14,9 @@
 // template<Integral T>   complex<double>      conj(T);
 //                        complex<float>       conj(float);
 
-#include <complex>
-#include <type_traits>
-#include <cassert>
+#include <complex.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "../cases.h"

@@ -22,11 +22,11 @@
 
 // variant& operator=(variant&&) noexcept(see below); // constexpr in C++20
 
-#include <cassert>
-#include <string>
-#include <type_traits>
-#include <utility>
-#include <variant>
+#include <cassert.hxx>
+#include <string.hxx>
+#include <type_traits.hxx>
+#include <utility.hxx>
+#include <variant.hxx>
 
 #include "test_macros.h"
 #include "variant_test_helpers.h"

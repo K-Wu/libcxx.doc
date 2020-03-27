@@ -21,9 +21,9 @@
 // template <class ValueType>
 // ValueType any_cast(any &&);
 
-#include <any>
-#include <type_traits>
-#include <cassert>
+#include <any.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "any_helpers.h"
 #include "count_new.h"

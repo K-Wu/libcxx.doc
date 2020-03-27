@@ -12,8 +12,8 @@
 
 // template<class U, class V> pair& operator=(const pair<U, V>& p);
 
-#include <utility>
-#include <cassert>
+#include <utility.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #if TEST_STD_VER >= 11

@@ -19,9 +19,9 @@
 //     pair<const_iterator,const_iterator> equal_range(const K& x) const;  //
 //     C++14
 
-#include <cassert>
-#include <set>
-#include <utility>
+#include <cassert.hxx>
+#include <set.hxx>
+#include <utility.hxx>
 
 #include "min_allocator.h"
 #include "private_constructor.h"

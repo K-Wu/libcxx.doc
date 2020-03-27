@@ -23,8 +23,8 @@
 //     operator!=(const scoped_allocator_adaptor<OuterA1, InnerAllocs...>& a,
 //                const scoped_allocator_adaptor<OuterA2, InnerAllocs...>& b);
 
-#include <scoped_allocator>
-#include <cassert>
+#include <scoped_allocator.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "allocators.h"

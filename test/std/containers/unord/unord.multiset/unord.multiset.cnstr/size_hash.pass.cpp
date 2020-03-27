@@ -14,8 +14,8 @@
 
 // unordered_multiset(size_type n, const hasher& hf);
 
-#include <unordered_set>
-#include <cassert>
+#include <unordered_set.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "../../../NotConstructible.h"

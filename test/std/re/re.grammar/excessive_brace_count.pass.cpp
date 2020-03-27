@@ -12,8 +12,8 @@
 
 // the "n" in `a{n}` should be within the numeric limits.
 
-#include <regex>
-#include <cassert>
+#include <regex.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 
 int main(int, char**) {

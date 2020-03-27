@@ -14,12 +14,12 @@
 
 // T* polymorphic_allocator<T>::allocate(size_t n)
 
-#include <experimental/memory_resource>
-#include <limits>
-#include <memory>
-#include <exception>
-#include <type_traits>
-#include <cassert>
+#include <experimental/memory_resource.hxx>
+#include <limits.hxx>
+#include <memory.hxx>
+#include <exception.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_memory_resource.h"

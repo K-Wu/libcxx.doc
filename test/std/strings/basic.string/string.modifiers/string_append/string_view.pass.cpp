@@ -11,9 +11,9 @@
 // basic_string<charT,traits,Allocator>&
 //   append(basic_string_view<charT,traits> sv);
 
-#include <string>
-#include <string_view>
-#include <cassert>
+#include <string.hxx>
+#include <string_view.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

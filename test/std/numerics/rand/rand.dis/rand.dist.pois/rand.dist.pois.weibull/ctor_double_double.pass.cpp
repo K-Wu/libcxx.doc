@@ -13,8 +13,8 @@
 
 // explicit weibull_distribution(result_type a = 0, result_type b = 1);
 
-#include <random>
-#include <cassert>
+#include <random.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

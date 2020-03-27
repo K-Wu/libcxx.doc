@@ -12,8 +12,8 @@
 
 // template <class T> constexpr bool is_error_condition_enum_v;
 
-#include <system_error>
-#include <type_traits>
+#include <system_error.hxx>
+#include <type_traits.hxx>
 #include "test_macros.h"
 
 template <bool Expected, class T>

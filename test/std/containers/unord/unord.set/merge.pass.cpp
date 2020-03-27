@@ -21,8 +21,8 @@
 // template <class H2, class P2>
 //   void merge(unordered_multiset<key_type, H2, P2, allocator_type>&& source);
 
-#include <unordered_set>
-#include <cassert>
+#include <unordered_set.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 #include "Counter.h"
 

@@ -15,7 +15,7 @@
 
 // RUN: %build_module
 
-#include <clocale>
+#include <clocale.hxx>
 
 #define TEST(...) do { using T = decltype( __VA_ARGS__ ); } while(false)
 

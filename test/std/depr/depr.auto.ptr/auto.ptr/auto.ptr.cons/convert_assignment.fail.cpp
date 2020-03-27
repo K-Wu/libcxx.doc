@@ -14,8 +14,8 @@
 
 #define _LIBCPP_DISABLE_DEPRECATION_WARNINGS
 
-#include <memory>
-#include <cassert>
+#include <memory.hxx>
+#include <cassert.hxx>
 
 #include "../AB.h"
 

@@ -12,9 +12,9 @@
 
 // const std::type_info& target_type() const;
 
-#include <functional>
-#include <typeinfo>
-#include <cassert>
+#include <functional.hxx>
+#include <typeinfo.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

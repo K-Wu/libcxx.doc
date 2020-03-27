@@ -13,8 +13,8 @@
 //   constexpr Iter::difference_type   // constexpr after C++17
 //   count(Iter first, Iter last, const T& value);
 
-#include <algorithm>
-#include <cassert>
+#include <algorithm.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

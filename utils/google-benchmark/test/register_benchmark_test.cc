@@ -1,7 +1,7 @@
 
 #undef NDEBUG
-#include <cassert>
-#include <vector>
+#include <cassert.hxx>
+#include <vector.hxx>
 
 #include "../src/check.h"  // NOTE: check.h is for internal use only!
 #include "benchmark/benchmark.h"

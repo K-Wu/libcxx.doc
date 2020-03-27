@@ -13,9 +13,9 @@
 //   const T&
 //   clamp(const T& v, const T& lo, const T& hi, Compare comp);
 
-#include <algorithm>
-#include <functional>
-#include <cassert>
+#include <algorithm.hxx>
+#include <functional.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

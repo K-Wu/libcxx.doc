@@ -14,9 +14,9 @@
 
 // sanity check
 
-#include <locale>
-#include <codecvt>
-#include <cassert>
+#include <locale.hxx>
+#include <codecvt.hxx>
+#include <cassert.hxx>
 
 #include <stdio.h>
 

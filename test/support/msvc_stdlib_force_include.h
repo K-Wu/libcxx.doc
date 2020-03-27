@@ -77,7 +77,7 @@ const AssertionDialogAvoider assertion_dialog_avoider{};
     #define _SILENCE_ALL_CXX20_DEPRECATION_WARNINGS
 #endif // _LIBCXX_IN_DEVCRT
 
-#include <ciso646>
+#include <ciso646.hxx>
 
 #if _HAS_CXX20
     #define TEST_STD_VER 99

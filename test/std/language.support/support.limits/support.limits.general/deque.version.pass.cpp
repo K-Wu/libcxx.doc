@@ -19,7 +19,7 @@
     __cpp_lib_nonmember_container_access          201411L [C++17]
 */
 
-#include <deque>
+#include <deque.hxx>
 #include "test_macros.h"
 
 #if TEST_STD_VER < 14

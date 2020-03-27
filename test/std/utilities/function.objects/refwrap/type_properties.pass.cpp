@@ -13,9 +13,9 @@
 // Test that reference wrapper meets the requirements of CopyConstructible and
 // CopyAssignable, and TriviallyCopyable (starting in C++14).
 
-#include <functional>
-#include <type_traits>
-#include <string>
+#include <functional.hxx>
+#include <type_traits.hxx>
+#include <string.hxx>
 
 #include "test_macros.h"
 

@@ -18,8 +18,8 @@
 //     ...
 // };
 
-#include <mutex>
-#include <type_traits>
+#include <mutex.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

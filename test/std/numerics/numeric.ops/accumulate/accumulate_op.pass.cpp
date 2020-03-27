@@ -15,9 +15,9 @@
 //   T
 //   accumulate(Iter first, Iter last, T init, BinaryOperation binary_op);
 
-#include <numeric>
-#include <functional>
-#include <cassert>
+#include <numeric.hxx>
+#include <functional.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

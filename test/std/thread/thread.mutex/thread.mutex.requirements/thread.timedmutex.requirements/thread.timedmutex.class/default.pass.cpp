@@ -14,7 +14,7 @@
 
 // timed_mutex();
 
-#include <mutex>
+#include <mutex.hxx>
 
 #include "test_macros.h"
 

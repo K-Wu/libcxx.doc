@@ -15,11 +15,11 @@
 
 // UNSUPPORTED: c++98, c++03
 
-#include <tuple>
-#include <cassert>
-#include <type_traits>
-#include <string>
-#include <system_error>
+#include <tuple.hxx>
+#include <cassert.hxx>
+#include <type_traits.hxx>
+#include <string.hxx>
+#include <system_error.hxx>
 
 #include "test_macros.h"
 #include "test_convertible.h"

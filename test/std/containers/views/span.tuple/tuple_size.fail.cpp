@@ -11,7 +11,7 @@
 
 // tuple_size<span<T, N> >::value
 
-#include <span>
+#include <span.hxx>
 
 int main(int, char**)
 {

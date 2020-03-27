@@ -14,8 +14,8 @@
 
 #define _LIBCPP_ASSERT(x, m) ((x) ? (void)0 : std::exit(0))
 
-#include <unordered_map>
-#include <cassert>
+#include <unordered_map.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

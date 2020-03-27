@@ -12,10 +12,10 @@
 
 // UNSUPPORTED: sanitizer-new-delete
 
-#include <new>
-#include <cstddef>
-#include <cstdlib>
-#include <cassert>
+#include <new.hxx>
+#include <cstddef.hxx>
+#include <cstdlib.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

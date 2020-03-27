@@ -1,4 +1,4 @@
-#include <vector>
+#include <vector.hxx>
 
 #include "../src/benchmark_register.h"
 #include "gmock/gmock.h"

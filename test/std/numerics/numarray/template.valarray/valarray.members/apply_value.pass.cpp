@@ -12,8 +12,8 @@
 
 // valarray apply(value_type f(value_type)) const;
 
-#include <valarray>
-#include <cassert>
+#include <valarray.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

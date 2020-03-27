@@ -16,9 +16,9 @@
 // template <class T>
 // variant& operator=(T&&) noexcept(see below);
 
-#include <variant>
-#include <string>
-#include <memory>
+#include <variant.hxx>
+#include <string.hxx>
+#include <memory.hxx>
 
 #include "variant_test_helpers.h"
 

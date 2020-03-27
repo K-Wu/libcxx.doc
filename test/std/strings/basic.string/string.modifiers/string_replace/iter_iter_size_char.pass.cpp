@@ -11,9 +11,9 @@
 // basic_string<charT,traits,Allocator>&
 //   replace(const_iterator i1, const_iterator i2, size_type n, charT c);
 
-#include <string>
-#include <algorithm>
-#include <cassert>
+#include <string.hxx>
+#include <algorithm.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

@@ -15,10 +15,10 @@
 // template <class U, class ...Args>
 // void polymorphic_allocator<T>::construct(U *, Args &&...)
 
-#include <experimental/memory_resource>
-#include <type_traits>
-#include <cassert>
-#include <cstdlib>
+#include <experimental/memory_resource.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
+#include <cstdlib.hxx>
 
 #include "test_macros.h"
 #include "test_memory_resource.h"

@@ -12,8 +12,8 @@
 //   constexpr OutIter   // constexpr after C++17
 //   copy_n(InIter first, InIter::difference_type n, OutIter result);
 
-#include <algorithm>
-#include <cassert>
+#include <algorithm.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

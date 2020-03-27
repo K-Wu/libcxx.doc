@@ -15,10 +15,10 @@
 // template <class Clock, class Duration>
 //     bool try_lock_until(const chrono::time_point<Clock, Duration>& abs_time);
 
-#include <mutex>
-#include <thread>
-#include <cstdlib>
-#include <cassert>
+#include <mutex.hxx>
+#include <thread.hxx>
+#include <cstdlib.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

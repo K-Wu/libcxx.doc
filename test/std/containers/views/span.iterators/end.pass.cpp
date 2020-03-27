@@ -12,9 +12,9 @@
 // constexpr       iterator  end() const noexcept;
 // constexpr const_iterator cend() const noexcept;
 
-#include <span>
-#include <cassert>
-#include <string>
+#include <span.hxx>
+#include <cassert.hxx>
+#include <string.hxx>
 
 #include "test_macros.h"
 

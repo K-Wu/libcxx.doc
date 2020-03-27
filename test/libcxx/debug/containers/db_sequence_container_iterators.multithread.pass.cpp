@@ -18,12 +18,12 @@
 
 #define _LIBCPP_DEBUG 1
 
-#include <cassert>
-#include <cstddef>
-#include <deque>
-#include <list>
-#include <thread>
-#include <vector>
+#include <cassert.hxx>
+#include <cstddef.hxx>
+#include <deque.hxx>
+#include <list.hxx>
+#include <thread.hxx>
+#include <vector.hxx>
 #include "container_debug_tests.h"
 
 #include "test_macros.h"

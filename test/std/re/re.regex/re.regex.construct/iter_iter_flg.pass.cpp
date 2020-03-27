@@ -14,8 +14,8 @@
 //    basic_regex(ForwardIterator first, ForwardIterator last,
 //                flag_type f = regex_constants::ECMAScript);
 
-#include <regex>
-#include <cassert>
+#include <regex.hxx>
+#include <cassert.hxx>
 
 #include "test_iterators.h"
 #include "test_macros.h"

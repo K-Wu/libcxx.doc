@@ -15,9 +15,9 @@
 // template<class U, class V> pair(U&& x, V&& y);
 
 
-#include <utility>
-#include <memory>
-#include <cassert>
+#include <utility.hxx>
+#include <memory.hxx>
+#include <cassert.hxx>
 
 #include "archetypes.h"
 #include "test_convertible.h"

@@ -16,8 +16,8 @@
 // bool operator!(const cauchy_distribution& x,
 //                const cauchy_distribution& y);
 
-#include <random>
-#include <cassert>
+#include <random.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -8,9 +8,9 @@
 
 // test new_handler
 
-#include <new>
-#include <type_traits>
-#include <cassert>
+#include <new.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

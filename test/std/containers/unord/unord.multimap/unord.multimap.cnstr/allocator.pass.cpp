@@ -14,8 +14,8 @@
 
 // explicit unordered_multimap(const allocator_type& __a);
 
-#include <unordered_map>
-#include <cassert>
+#include <unordered_map.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "../../../NotConstructible.h"

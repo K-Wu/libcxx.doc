@@ -12,8 +12,8 @@
 
 // atomic_flag& operator=(const atomic_flag&) = delete;
 
-#include <atomic>
-#include <cassert>
+#include <atomic.hxx>
+#include <cassert.hxx>
 
 int main(int, char**)
 {

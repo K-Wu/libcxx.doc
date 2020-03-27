@@ -11,8 +11,8 @@
 // template <class F, class ...Args>
 // result_of_t<F&&(Args&&...)> invoke(F&&, Args&&...);
 
-#include <functional>
-#include <cassert>
+#include <functional.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -10,8 +10,8 @@
 
 // <latch>
 
-#include <latch>
-#include <thread>
+#include <latch.hxx>
+#include <thread.hxx>
 
 #include "test_macros.h"
 

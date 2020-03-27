@@ -13,9 +13,9 @@
 
 // The char type of the stream and the char_type of the traits have to match
 
-#include <ostream>
-#include <type_traits>
-#include <cassert>
+#include <ostream.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 struct test_ostream
     : public std::basic_ostream<char, std::char_traits<wchar_t> > {};

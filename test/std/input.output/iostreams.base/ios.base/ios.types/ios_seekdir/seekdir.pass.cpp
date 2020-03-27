@@ -14,8 +14,8 @@
 // static const seekdir cur;
 // static const seekdir end;
 
-#include <ios>
-#include <cassert>
+#include <ios.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

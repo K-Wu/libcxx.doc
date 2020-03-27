@@ -12,9 +12,9 @@
 
 // string message() const;
 
-#include <system_error>
-#include <string>
-#include <cassert>
+#include <system_error.hxx>
+#include <string.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

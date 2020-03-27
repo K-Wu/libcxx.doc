@@ -12,7 +12,7 @@
 // template <class charT, class traits, class Allocator, class Predicate>
 //   void erase_if(basic_string<charT, traits, Allocator>& c, Predicate pred);  
 
-#include <string>
+#include <string.hxx>
 
 #include "test_macros.h"
 #include "test_allocator.h"

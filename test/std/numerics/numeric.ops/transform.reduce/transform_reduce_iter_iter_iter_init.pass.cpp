@@ -14,9 +14,9 @@
 //                      InputIterator2 first2, T init);
 
 
-#include <numeric>
-#include <cassert>
-#include <iterator>
+#include <numeric.hxx>
+#include <cassert.hxx>
+#include <iterator.hxx>
 
 #include "test_macros.h"
 #include "MoveOnly.h"

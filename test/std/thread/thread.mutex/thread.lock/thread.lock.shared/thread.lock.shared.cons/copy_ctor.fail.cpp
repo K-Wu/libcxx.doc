@@ -13,7 +13,7 @@
 
 // shared_lock(shared_lock const&) = delete;
 
-#include <shared_mutex>
+#include <shared_mutex.hxx>
 
 std::shared_timed_mutex m;
 

@@ -18,8 +18,8 @@
 //   bool
 //   operator!=(const time_point<Clock, Duration1>& lhs, const time_point<Clock, Duration2>& rhs);
 
-#include <chrono>
-#include <cassert>
+#include <chrono.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

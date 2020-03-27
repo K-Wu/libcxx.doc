@@ -16,8 +16,8 @@
 // file_status symlink_status(error_code&) const noexcept;
 
 #include "filesystem_include.h"
-#include <type_traits>
-#include <cassert>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "filesystem_test_helper.h"
 #include "rapid-cxx-test.h"

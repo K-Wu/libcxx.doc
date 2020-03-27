@@ -15,8 +15,8 @@
 //     ...
 // };
 
-#include <memory>
-#include <type_traits>
+#include <memory.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

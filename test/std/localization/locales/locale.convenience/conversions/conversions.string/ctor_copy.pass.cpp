@@ -17,9 +17,9 @@
 // wstring_convert(wstring_convert const&) = delete;
 // wstring_convert& operator=(wstring_convert const&) = delete;
 
-#include <locale>
-#include <codecvt>
-#include <cassert>
+#include <locale.hxx>
+#include <codecvt.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -20,10 +20,10 @@
 // XFAIL: with_system_cxx_lib=macosx10.7
 // XFAIL: with_system_cxx_lib=macosx10.8
 
-#include <system_error>
-#include <cassert>
-#include <string>
-#include <cerrno>
+#include <system_error.hxx>
+#include <cassert.hxx>
+#include <string.hxx>
+#include <cerrno.hxx>
 
 #include "test_macros.h"
 

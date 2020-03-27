@@ -14,7 +14,7 @@
 
 // template <class U, class V> EXPLICIT constexpr pair(const pair<U, V>& p);
 
-#include <utility>
+#include <utility.hxx>
 
 #include "test_macros.h"
 

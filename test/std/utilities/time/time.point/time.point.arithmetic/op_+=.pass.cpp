@@ -13,8 +13,8 @@
 // time_point& operator+=(const duration& d);
 // constexpr in c++17
 
-#include <chrono>
-#include <cassert>
+#include <chrono.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

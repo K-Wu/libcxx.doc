@@ -13,8 +13,8 @@
 // template<class charT, class traits>
 //   constexpr bool operator==(const charT* lhs, basic_string_view<charT,traits> rhs);
 
-#include <string_view>
-#include <cassert>
+#include <string_view.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "constexpr_char_traits.h"

@@ -14,8 +14,8 @@
 //     though it is not at the beginning of a line, so the character ^ in the
 //     regular expression shall not match [first,first).
 
-#include <regex>
-#include <cassert>
+#include <regex.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 
 int main(int, char**)

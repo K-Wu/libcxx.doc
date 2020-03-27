@@ -9,9 +9,9 @@
 // UNSUPPORTED: c++98, c++03, c++11
 // <chrono>
 
-#include <complex>
-#include <type_traits>
-#include <cassert>
+#include <complex.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -14,8 +14,8 @@
 
 // void insert(initializer_list<value_type> il);
 
-#include <map>
-#include <cassert>
+#include <map.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

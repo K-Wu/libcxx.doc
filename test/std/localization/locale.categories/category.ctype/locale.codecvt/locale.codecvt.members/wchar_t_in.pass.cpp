@@ -14,11 +14,11 @@
 //           const externT* from, const externT* from_end, const externT*& from_next,
 //           internT* to, internT* to_end, internT*& to_next) const;
 
-#include <locale>
-#include <string>
-#include <vector>
-#include <cassert>
-#include <cstddef>
+#include <locale.hxx>
+#include <string.hxx>
+#include <vector.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
 
 #include "test_macros.h"
 

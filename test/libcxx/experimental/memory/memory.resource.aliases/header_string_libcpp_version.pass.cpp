@@ -10,7 +10,7 @@
 
 // <experimental/string>
 
-#include <experimental/string>
+#include <experimental/string.hxx>
 
 #include "test_macros.h"
 

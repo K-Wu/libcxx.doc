@@ -11,9 +11,9 @@
 // template <class BinaryPredicate> void unique(BinaryPredicate binary_pred);      // C++17 and before
 // template <class BinaryPredicate> size_type unique(BinaryPredicate binary_pred); // C++20 and after
 
-#include <forward_list>
-#include <iterator>
-#include <cassert>
+#include <forward_list.hxx>
+#include <iterator.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

@@ -15,8 +15,8 @@
 // UNSUPPORTED: c++98, c++03, c++11, c++14
 // UNSUPPORTED: libcpp-no-deduction-guides
 
-#include <functional>
-#include <type_traits>
+#include <functional.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

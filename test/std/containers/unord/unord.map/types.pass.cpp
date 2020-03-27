@@ -27,8 +27,8 @@
 //     typedef typename allocator_traits<allocator_type>::size_type       size_type;
 //     typedef typename allocator_traits<allocator_type>::difference_type difference_type;
 
-#include <unordered_map>
-#include <type_traits>
+#include <unordered_map.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

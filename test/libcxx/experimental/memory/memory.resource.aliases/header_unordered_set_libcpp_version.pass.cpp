@@ -10,7 +10,7 @@
 
 // <experimental/unordered_set>
 
-#include <experimental/unordered_set>
+#include <experimental/unordered_set.hxx>
 
 #include "test_macros.h"
 

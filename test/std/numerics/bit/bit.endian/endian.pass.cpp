@@ -11,10 +11,10 @@
 // enum class endian;
 // <bit>
 
-#include <bit>
-#include <cstring>
-#include <cassert>
-#include <cstdint>
+#include <bit.hxx>
+#include <cstring.hxx>
+#include <cassert.hxx>
+#include <cstdint.hxx>
 
 #include "test_macros.h"
 

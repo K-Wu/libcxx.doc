@@ -16,7 +16,7 @@
 
 // Expect failures with a reference type, pointer type, and a non-tuple type.
 
-#include <tuple>
+#include <tuple.hxx>
 
 int main(int, char**)
 {

@@ -8,7 +8,7 @@
 
 // <csetjmp>
 
-#include <csetjmp>
+#include <csetjmp.hxx>
 
 #include "test_macros.h"
 

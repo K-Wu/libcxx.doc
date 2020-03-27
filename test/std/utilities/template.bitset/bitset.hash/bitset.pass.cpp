@@ -15,9 +15,9 @@
 //     size_t operator()(T val) const;
 // };
 
-#include <bitset>
-#include <cassert>
-#include <type_traits>
+#include <bitset.hxx>
+#include <cassert.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

@@ -16,7 +16,7 @@
 
 // UNSUPPORTED: c++98, c++03
 
-#include <tuple>
+#include <tuple.hxx>
 
 template <class T> void cref(T const&) {}
 template <class T> void cref(T const&&) = delete;

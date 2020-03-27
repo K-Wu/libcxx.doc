@@ -12,8 +12,8 @@
 //   ForwardIterator
 //   uninitialized_fill_n(ForwardIterator first, Size n, const T& x);
 
-#include <memory>
-#include <cassert>
+#include <memory.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

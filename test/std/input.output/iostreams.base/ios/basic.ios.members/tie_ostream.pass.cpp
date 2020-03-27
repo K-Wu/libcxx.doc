@@ -12,8 +12,8 @@
 
 // basic_ostream<charT,traits>* tie(basic_ostream<charT,traits>* tiestr);
 
-#include <ios>
-#include <cassert>
+#include <ios.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

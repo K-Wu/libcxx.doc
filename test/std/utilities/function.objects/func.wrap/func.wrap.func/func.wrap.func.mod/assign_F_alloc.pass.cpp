@@ -13,8 +13,8 @@
 // template<class F, class A> void assign(F&&, const A&);
 //     This call was removed post-C++14
 
-#include <functional>
-#include <cassert>
+#include <functional.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_allocator.h"

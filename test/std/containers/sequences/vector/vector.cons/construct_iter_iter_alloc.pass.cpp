@@ -11,9 +11,9 @@
 // template <class InputIter> vector(InputIter first, InputIter last,
 //                                   const allocator_type& a);
 
-#include <vector>
-#include <cassert>
-#include <cstddef>
+#include <vector.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

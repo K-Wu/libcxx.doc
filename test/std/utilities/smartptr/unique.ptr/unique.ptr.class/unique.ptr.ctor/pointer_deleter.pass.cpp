@@ -22,8 +22,8 @@
 //   6 unique_ptr(pointer, deleter) should work with function pointers.
 //   7 unique_ptr<void> should work.
 
-#include <memory>
-#include <cassert>
+#include <memory.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "unique_ptr_test_helper.h"

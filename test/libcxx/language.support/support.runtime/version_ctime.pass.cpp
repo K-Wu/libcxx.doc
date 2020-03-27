@@ -8,7 +8,7 @@
 
 // <ctime>
 
-#include <ctime>
+#include <ctime.hxx>
 
 #include "test_macros.h"
 

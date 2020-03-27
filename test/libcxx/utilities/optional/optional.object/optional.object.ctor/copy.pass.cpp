@@ -12,9 +12,9 @@
 
 // optional(const optional<T>& rhs);
 
-#include <optional>
-#include <string>
-#include <type_traits>
+#include <optional.hxx>
+#include <string.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

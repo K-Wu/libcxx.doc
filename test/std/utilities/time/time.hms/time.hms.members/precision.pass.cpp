@@ -18,8 +18,8 @@
 //   precision is duration<common_type_t<Duration::rep, seconds::rep>, 
 //                                 ratio<1, 10^^fractional_width>>
    
-#include <chrono>
-#include <cassert>
+#include <chrono.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

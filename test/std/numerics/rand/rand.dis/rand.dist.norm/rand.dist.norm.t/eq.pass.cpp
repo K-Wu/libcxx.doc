@@ -16,8 +16,8 @@
 // bool operator!(const student_t_distribution& x,
 //                const student_t_distribution& y);
 
-#include <random>
-#include <cassert>
+#include <random.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

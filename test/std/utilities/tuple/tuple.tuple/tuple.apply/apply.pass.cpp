@@ -14,10 +14,10 @@
 
 // Test with different ref/ptr/cv qualified argument types.
 
-#include <tuple>
-#include <array>
-#include <utility>
-#include <cassert>
+#include <tuple.hxx>
+#include <array.hxx>
+#include <utility.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "type_id.h"

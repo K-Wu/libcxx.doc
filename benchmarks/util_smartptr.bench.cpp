@@ -6,7 +6,7 @@
 //
 //===----------------------------------------------------------------------===//
 
-#include <memory>
+#include <memory.hxx>
 
 #include "benchmark/benchmark.h"
 

@@ -13,8 +13,8 @@
 #ifndef CASES_H
 #define CASES_H
 
-#include <complex>
-#include <cassert>
+#include <complex.hxx>
+#include <cassert.hxx>
 
 const std::complex<double> testcases[] =
 {

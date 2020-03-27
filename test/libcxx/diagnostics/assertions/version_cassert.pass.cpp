@@ -8,7 +8,7 @@
 
 // test <cassert>
 
-#include <cassert>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

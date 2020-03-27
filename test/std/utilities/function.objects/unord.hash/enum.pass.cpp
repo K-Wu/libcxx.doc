@@ -15,10 +15,10 @@
 
 #include "test_macros.h"
 
-#include <functional>
-#include <cassert>
-#include <type_traits>
-#include <limits>
+#include <functional.hxx>
+#include <cassert.hxx>
+#include <type_traits.hxx>
+#include <limits.hxx>
 
 enum class Colors { red, orange, yellow, green, blue, indigo, violet };
 enum class Cardinals { zero, one, two, three, five=5 };

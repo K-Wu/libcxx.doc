@@ -6,8 +6,8 @@
 //
 //===----------------------------------------------------------------------===//
 
-#include <iostream>
-#include <cassert>
+#include <iostream.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

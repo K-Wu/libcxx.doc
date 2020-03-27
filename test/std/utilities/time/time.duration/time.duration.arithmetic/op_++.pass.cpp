@@ -12,8 +12,8 @@
 
 // constexpr duration& operator++();  // constexpr in C++17
 
-#include <chrono>
-#include <cassert>
+#include <chrono.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

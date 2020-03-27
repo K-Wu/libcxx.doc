@@ -15,8 +15,8 @@
 //     piecewise_linear_distribution(size_t nw, result_type xmin,
 //                                     result_type xmax, UnaryOperation fw);
 
-#include <random>
-#include <cassert>
+#include <random.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

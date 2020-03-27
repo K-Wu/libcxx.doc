@@ -10,7 +10,7 @@
 
 #define _LIBCPP_NO_EXPERIMENTAL_DEPRECATION_WARNING_FILESYSTEM
 
-#include <experimental/filesystem>
+#include <experimental/filesystem.hxx>
 
 #include "test_macros.h"
 

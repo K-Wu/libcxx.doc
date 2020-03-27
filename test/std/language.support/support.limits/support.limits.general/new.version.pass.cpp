@@ -19,7 +19,7 @@
     __cpp_lib_launder                       201606L [C++17]
 */
 
-#include <new>
+#include <new.hxx>
 #include "test_macros.h"
 
 #if TEST_STD_VER < 14

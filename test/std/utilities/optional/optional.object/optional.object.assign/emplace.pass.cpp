@@ -11,10 +11,10 @@
 
 // template <class... Args> T& optional<T>::emplace(Args&&... args);
 
-#include <optional>
-#include <type_traits>
-#include <cassert>
-#include <memory>
+#include <optional.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
+#include <memory.hxx>
 
 #include "test_macros.h"
 #include "archetypes.h"

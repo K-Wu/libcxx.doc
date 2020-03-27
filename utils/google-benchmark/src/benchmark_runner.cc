@@ -25,17 +25,17 @@
 #include <unistd.h>
 #endif
 
-#include <algorithm>
-#include <atomic>
-#include <condition_variable>
-#include <cstdio>
-#include <cstdlib>
-#include <fstream>
-#include <iostream>
-#include <memory>
-#include <string>
-#include <thread>
-#include <utility>
+#include <algorithm.hxx>
+#include <atomic.hxx>
+#include <condition_variable.hxx>
+#include <cstdio.hxx>
+#include <cstdlib.hxx>
+#include <fstream.hxx>
+#include <iostream.hxx>
+#include <memory.hxx>
+#include <string.hxx>
+#include <thread.hxx>
+#include <utility.hxx>
 
 #include "check.h"
 #include "colorprint.h"

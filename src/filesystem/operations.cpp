@@ -6,16 +6,16 @@
 //
 //===----------------------------------------------------------------------===//
 
-#include "filesystem"
-#include "array"
-#include "iterator"
-#include "fstream"
-#include "random" /* for unique_path */
-#include "string_view"
-#include "type_traits"
-#include "vector"
-#include "cstdlib"
-#include "climits"
+#include "filesystem.hxx"
+#include "array.hxx"
+#include "iterator.hxx"
+#include "fstream.hxx"
+#include "random.hxx" /* for unique_path */
+#include "string_view.hxx"
+#include "type_traits.hxx"
+#include "vector.hxx"
+#include "cstdlib.hxx"
+#include "climits.hxx"
 
 #include "filesystem_common.h"
 

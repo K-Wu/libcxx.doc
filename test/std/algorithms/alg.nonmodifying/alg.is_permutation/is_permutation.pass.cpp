@@ -13,8 +13,8 @@
 //   is_permutation(ForwardIterator1 first1, ForwardIterator1 last1,
 //                  ForwardIterator2 first2);
 
-#include <algorithm>
-#include <cassert>
+#include <algorithm.hxx>
+#include <cassert.hxx>
 
 #include "test_iterators.h"
 

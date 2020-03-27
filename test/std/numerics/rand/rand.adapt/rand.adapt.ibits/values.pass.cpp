@@ -19,9 +19,9 @@
 //     static constexpr result_type min() { return 0; }
 //     static constexpr result_type max() { return 2^w - 1; }
 
-#include <random>
-#include <type_traits>
-#include <cassert>
+#include <random.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

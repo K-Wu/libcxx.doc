@@ -18,10 +18,10 @@
 // template <size_t I, class U, class ...Args>
 //   variant_alternative_t<I, variant<Types...>>& emplace(initializer_list<U> il,Args&&... args);
 
-#include <cassert>
-#include <string>
-#include <type_traits>
-#include <variant>
+#include <cassert.hxx>
+#include <string.hxx>
+#include <type_traits.hxx>
+#include <variant.hxx>
 
 #include "archetypes.h"
 #include "test_convertible.h"

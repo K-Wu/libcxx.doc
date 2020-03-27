@@ -11,7 +11,7 @@
 // Check that std::multiset and its iterators can be instantiated with an incomplete
 // type.
 
-#include <set>
+#include <set.hxx>
 
 #include "test_macros.h"
 

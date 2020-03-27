@@ -18,8 +18,8 @@
 //   bool
 //   operator!=(const allocator<T1>&, const allocator<T2>&) throw();
 
-#include <memory>
-#include <cassert>
+#include <memory.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

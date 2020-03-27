@@ -13,10 +13,10 @@
 //     constexpr
 //     explicit optional(in_place_t, initializer_list<U> il, Args&&... args);
 
-#include <optional>
-#include <type_traits>
-#include <vector>
-#include <cassert>
+#include <optional.hxx>
+#include <type_traits.hxx>
+#include <vector.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -9,7 +9,7 @@
 #ifndef ATOMIC_HELPERS_H
 #define ATOMIC_HELPERS_H
 
-#include <cassert>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

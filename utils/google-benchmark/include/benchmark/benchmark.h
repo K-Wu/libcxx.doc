@@ -171,19 +171,19 @@ BENCHMARK(BM_test)->Unit(benchmark::kMillisecond);
 
 #include <stdint.h>
 
-#include <algorithm>
-#include <cassert>
-#include <cstddef>
-#include <iosfwd>
-#include <map>
-#include <set>
-#include <string>
-#include <vector>
+#include <algorithm.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
+#include <iosfwd.hxx>
+#include <map.hxx>
+#include <set.hxx>
+#include <string.hxx>
+#include <vector.hxx>
 
 #if defined(BENCHMARK_HAS_CXX11)
-#include <initializer_list>
-#include <type_traits>
-#include <utility>
+#include <initializer_list.hxx>
+#include <type_traits.hxx>
+#include <utility.hxx>
 #endif
 
 #if defined(_MSC_VER)

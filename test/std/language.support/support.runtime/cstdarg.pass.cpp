@@ -8,7 +8,7 @@
 
 // test <cstdarg>
 
-#include <cstdarg>
+#include <cstdarg.hxx>
 
 #include "test_macros.h"
 

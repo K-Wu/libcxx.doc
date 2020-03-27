@@ -6,7 +6,7 @@
 //
 //===----------------------------------------------------------------------===//
 
-#include "functional"
+#include "functional.hxx"
 
 _LIBCPP_BEGIN_NAMESPACE_STD
 

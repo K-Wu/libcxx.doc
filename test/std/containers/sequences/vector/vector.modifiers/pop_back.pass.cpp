@@ -10,8 +10,8 @@
 
 // void pop_back();
 
-#include <vector>
-#include <cassert>
+#include <vector.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_allocator.h"

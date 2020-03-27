@@ -15,8 +15,8 @@
 
 // typedef see below propagate_on_container_swap;
 
-#include <scoped_allocator>
-#include <type_traits>
+#include <scoped_allocator.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 #include "allocators.h"

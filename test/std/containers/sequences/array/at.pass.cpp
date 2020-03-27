@@ -13,8 +13,8 @@
 // reference at (size_type)
 // const_reference at (size_type); // constexpr in C++14
 
-#include <array>
-#include <cassert>
+#include <array.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

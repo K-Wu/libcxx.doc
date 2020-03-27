@@ -17,8 +17,8 @@
 
 // int_type get();
 
-#include <istream>
-#include <cassert>
+#include <istream.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 
 template <class CharT>

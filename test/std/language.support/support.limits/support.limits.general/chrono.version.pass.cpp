@@ -18,7 +18,7 @@
     __cpp_lib_chrono_udls    201304L [C++14]
 */
 
-#include <chrono>
+#include <chrono.hxx>
 #include "test_macros.h"
 
 #if TEST_STD_VER < 14

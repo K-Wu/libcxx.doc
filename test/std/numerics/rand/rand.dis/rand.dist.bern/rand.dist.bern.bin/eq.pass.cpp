@@ -16,8 +16,8 @@
 // bool operator!(const binomial_distribution& x,
 //                const binomial_distribution& y);
 
-#include <random>
-#include <cassert>
+#include <random.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

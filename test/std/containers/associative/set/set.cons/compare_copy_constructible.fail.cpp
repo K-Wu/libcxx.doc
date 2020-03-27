@@ -11,7 +11,7 @@
 // Check that std::set fails to instantiate if the comparison predicate is
 // not copy-constructible. This is LWG issue 2436
 
-#include <set>
+#include <set.hxx>
 
 template <class T>
 struct Comp {

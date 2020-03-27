@@ -14,8 +14,8 @@
 //   OutputIterator
 //   move(InputIterator first, InputIterator last, OutputIterator result);
 
-#include <deque>
-#include <cassert>
+#include <deque.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

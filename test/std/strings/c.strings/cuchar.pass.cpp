@@ -10,7 +10,7 @@
 
 // <cuchar>
 
-#include <cuchar>
+#include <cuchar.hxx>
 
 #include "test_macros.h"
 

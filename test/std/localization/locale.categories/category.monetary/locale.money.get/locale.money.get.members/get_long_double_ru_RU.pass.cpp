@@ -27,10 +27,10 @@
 // iter_type get(iter_type b, iter_type e, bool intl, ios_base& iob,
 //               ios_base::iostate& err, long double& v) const;
 
-#include <locale>
-#include <ios>
-#include <streambuf>
-#include <cassert>
+#include <locale.hxx>
+#include <ios.hxx>
+#include <streambuf.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 #include "test_iterators.h"
 

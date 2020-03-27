@@ -19,10 +19,10 @@
 // template<class _Mutex> lock_guard(lock_guard<_Mutex>)
 //     -> lock_guard<_Mutex>;  // C++17
 
-#include <mutex>
-#include <thread>
-#include <cstdlib>
-#include <cassert>
+#include <mutex.hxx>
+#include <thread.hxx>
+#include <cstdlib.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

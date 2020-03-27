@@ -12,9 +12,9 @@
 // {
 //     class param_type;
 
-#include <random>
-#include <limits>
-#include <cassert>
+#include <random.hxx>
+#include <limits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

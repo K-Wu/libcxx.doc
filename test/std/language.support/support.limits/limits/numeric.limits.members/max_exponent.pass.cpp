@@ -10,8 +10,8 @@
 
 // max_exponent
 
-#include <limits>
-#include <cfloat>
+#include <limits.hxx>
+#include <cfloat.hxx>
 
 #include "test_macros.h"
 

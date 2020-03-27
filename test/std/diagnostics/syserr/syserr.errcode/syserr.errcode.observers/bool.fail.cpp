@@ -14,7 +14,7 @@
 
 // explicit operator bool() const;
 
-#include <system_error>
+#include <system_error.hxx>
 
 bool test_func(void)
 {

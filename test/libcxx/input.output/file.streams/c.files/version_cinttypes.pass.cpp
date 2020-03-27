@@ -8,7 +8,7 @@
 
 // <cinttypes>
 
-#include <cinttypes>
+#include <cinttypes.hxx>
 
 #include "test_macros.h"
 

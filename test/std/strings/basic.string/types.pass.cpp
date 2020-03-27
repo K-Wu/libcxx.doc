@@ -31,9 +31,9 @@
 //     static const size_type npos = -1;
 // };
 
-#include <string>
-#include <iterator>
-#include <type_traits>
+#include <string.hxx>
+#include <iterator.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 #include "test_traits.h"

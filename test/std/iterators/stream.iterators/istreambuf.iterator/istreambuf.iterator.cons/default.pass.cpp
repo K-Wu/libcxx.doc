@@ -15,9 +15,9 @@
 // All specializations of istreambuf_iterator shall have a trivial copy constructor,
 //    a constexpr default constructor and a trivial destructor.
 
-#include <iterator>
-#include <sstream>
-#include <cassert>
+#include <iterator.hxx>
+#include <sstream.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

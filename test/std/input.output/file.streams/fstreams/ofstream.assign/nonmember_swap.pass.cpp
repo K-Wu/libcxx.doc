@@ -14,9 +14,9 @@
 // template <class charT, class traits>
 //   void swap(basic_ofstream<charT, traits>& x, basic_ofstream<charT, traits>& y);
 
-#include <fstream>
-#include <utility>
-#include <cassert>
+#include <fstream.hxx>
+#include <utility.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 #include "platform_support.h"
 

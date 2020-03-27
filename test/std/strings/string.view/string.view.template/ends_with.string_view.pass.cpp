@@ -11,8 +11,8 @@
 
 //   constexpr bool ends_with(string_view x) const noexcept;
 
-#include <string_view>
-#include <cassert>
+#include <string_view.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "constexpr_char_traits.h"

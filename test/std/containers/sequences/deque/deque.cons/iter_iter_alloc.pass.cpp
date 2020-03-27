@@ -11,9 +11,9 @@
 // template <class InputIterator>
 //   deque(InputIterator f, InputIterator l, const allocator_type& a);
 
-#include <deque>
-#include <cassert>
-#include <cstddef>
+#include <deque.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

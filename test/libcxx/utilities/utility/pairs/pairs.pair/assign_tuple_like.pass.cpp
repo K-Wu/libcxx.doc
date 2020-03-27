@@ -14,11 +14,11 @@
 
 // template<class U, class V> pair& operator=(tuple<U, V>&& p);
 
-#include <utility>
-#include <tuple>
-#include <array>
-#include <memory>
-#include <cassert>
+#include <utility.hxx>
+#include <tuple.hxx>
+#include <array.hxx>
+#include <memory.hxx>
+#include <cassert.hxx>
 
 #include "archetypes.h"
 

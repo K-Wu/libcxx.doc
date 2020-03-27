@@ -8,7 +8,7 @@
 
 // test ratio_add
 
-#include <ratio>
+#include <ratio.hxx>
 
 int main(int, char**)
 {

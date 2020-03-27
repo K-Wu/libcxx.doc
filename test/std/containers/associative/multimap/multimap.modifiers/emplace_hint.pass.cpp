@@ -15,8 +15,8 @@
 // template <class... Args>
 //   iterator emplace_hint(const_iterator position, Args&&... args);
 
-#include <map>
-#include <cassert>
+#include <map.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "../../../Emplaceable.h"

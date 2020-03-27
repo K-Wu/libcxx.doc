@@ -8,7 +8,7 @@
 
 // <cstdint>
 
-#include <cstdint>
+#include <cstdint.hxx>
 
 #include "test_macros.h"
 

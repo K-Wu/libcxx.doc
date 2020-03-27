@@ -12,8 +12,8 @@
 //     constpexr bool       // constexpr after C++17
 //   any_of(InputIterator first, InputIterator last, Predicate pred);
 
-#include <algorithm>
-#include <cassert>
+#include <algorithm.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

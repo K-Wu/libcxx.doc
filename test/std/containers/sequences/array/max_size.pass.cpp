@@ -12,8 +12,8 @@
 
 // bool max_size() const noexcept;
 
-#include <array>
-#include <cassert>
+#include <array.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

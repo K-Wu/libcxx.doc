@@ -15,8 +15,8 @@
 
 // void operator()(ArgTypes... args);
 
-#include <future>
-#include <cassert>
+#include <future.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

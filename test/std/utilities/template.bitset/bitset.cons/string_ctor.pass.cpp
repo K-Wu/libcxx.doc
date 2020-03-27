@@ -8,10 +8,10 @@
 
 // test bitset(string, pos, n, zero, one);
 
-#include <bitset>
-#include <cassert>
-#include <algorithm> // for 'min' and 'max'
-#include <stdexcept> // for 'invalid_argument'
+#include <bitset.hxx>
+#include <cassert.hxx>
+#include <algorithm.hxx> // for 'min' and 'max'
+#include <stdexcept.hxx> // for 'invalid_argument'
 
 #include "test_macros.h"
 

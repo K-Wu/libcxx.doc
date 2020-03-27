@@ -13,9 +13,9 @@
 // front_insert_iterator<Cont>&
 //   operator=(const Cont::value_type& value);
 
-#include <iterator>
-#include <list>
-#include <cassert>
+#include <iterator.hxx>
+#include <list.hxx>
+#include <cassert.hxx>
 #include "nasty_containers.h"
 
 #include "test_macros.h"

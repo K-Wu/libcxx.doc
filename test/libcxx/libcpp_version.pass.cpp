@@ -9,14 +9,14 @@
 
 // Test that the __libcpp_version file matches the value of _LIBCPP_VERSION
 
-#include <__config>
+#include <__config.hxx>
 
 #ifndef _LIBCPP_VERSION
 #error _LIBCPP_VERSION must be defined
 #endif
 
 static const int libcpp_version =
-#include <__libcpp_version>
+#include <__libcpp_version.hxx>
 ;
 
 static_assert(_LIBCPP_VERSION == libcpp_version,

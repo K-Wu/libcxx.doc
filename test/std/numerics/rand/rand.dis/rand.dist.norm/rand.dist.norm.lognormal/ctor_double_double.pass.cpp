@@ -13,8 +13,8 @@
 
 // explicit lognormal_distribution(result_type mean = 0, result_type stddev = 1);
 
-#include <random>
-#include <cassert>
+#include <random.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

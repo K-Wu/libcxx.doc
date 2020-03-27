@@ -16,8 +16,8 @@
 
 // void promise::set_exception_at_thread_exit(exception_ptr p);
 
-#include <future>
-#include <cassert>
+#include <future.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

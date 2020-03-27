@@ -9,7 +9,7 @@
 // <string_view>
 //   ... manipulating sequences of any non-array trivial standard-layout types.
 
-#include <string>
+#include <string.hxx>
 #include "../basic.string/test_traits.h"
 
 struct NotTrivial {

@@ -15,8 +15,8 @@
 // MODULES_DEFINES: _LIBCPP_ENABLE_CXX17_REMOVED_BINDERS
 #define _LIBCPP_ENABLE_CXX17_REMOVED_BINDERS
 
-#include <functional>
-#include <cassert>
+#include <functional.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 
 int identity(int v) { return v; }

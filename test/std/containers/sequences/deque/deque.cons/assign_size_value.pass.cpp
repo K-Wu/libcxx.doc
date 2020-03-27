@@ -10,9 +10,9 @@
 
 // void assign(size_type n, const value_type& v);
 
-#include <deque>
-#include <cassert>
-#include <cstddef>
+#include <deque.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

@@ -12,8 +12,8 @@
 
 // size_type size() const noexcept;
 
-#include <list>
-#include <cassert>
+#include <list.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

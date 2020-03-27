@@ -17,7 +17,7 @@
 // MODULES_DEFINES: _LIBCPP_ENABLE_CXX17_REMOVED_BINDERS
 #define _LIBCPP_ENABLE_CXX17_REMOVED_BINDERS
 
-#include <functional>
+#include <functional.hxx>
 
 #include "../test_func.h"
 #include "test_macros.h"

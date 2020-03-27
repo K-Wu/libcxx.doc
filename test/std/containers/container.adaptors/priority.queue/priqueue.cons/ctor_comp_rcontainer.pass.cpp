@@ -12,8 +12,8 @@
 
 // explicit priority_queue(const Compare& comp, container_type&& c);
 
-#include <queue>
-#include <cassert>
+#include <queue.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "MoveOnly.h"

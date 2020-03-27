@@ -12,9 +12,9 @@
 
 // proxy istreambuf_iterator<charT,traits>::operator++(int);
 
-#include <iterator>
-#include <sstream>
-#include <cassert>
+#include <iterator.hxx>
+#include <sstream.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -18,10 +18,10 @@
 
 #define _LIBCPP_DEBUG 1
 
-#include <forward_list>
-#include <list>
-#include <vector>
-#include <deque>
+#include <forward_list.hxx>
+#include <list.hxx>
+#include <vector.hxx>
+#include <deque.hxx>
 #include "container_debug_tests.h"
 #include "test_macros.h"
 #include "debug_mode_helper.h"

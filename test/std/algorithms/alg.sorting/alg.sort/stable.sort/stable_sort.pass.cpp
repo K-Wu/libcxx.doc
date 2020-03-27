@@ -14,10 +14,10 @@
 //   void
 //   stable_sort(Iter first, Iter last);
 
-#include <algorithm>
-#include <iterator>
-#include <random>
-#include <cassert>
+#include <algorithm.hxx>
+#include <iterator.hxx>
+#include <random.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

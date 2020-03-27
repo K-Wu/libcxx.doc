@@ -8,9 +8,9 @@
 #ifndef ANY_HELPERS_H
 #define ANY_HELPERS_H
 
-#include <typeinfo>
-#include <type_traits>
-#include <cassert>
+#include <typeinfo.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 namespace std { namespace experimental {} }
 

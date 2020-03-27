@@ -716,7 +716,7 @@ def produce_version_header():
 
 */
 
-#include <__config>
+#include <__config.hxx>
 
 #if !defined(_LIBCPP_HAS_NO_PRAGMA_SYSTEM_HEADER)
 #pragma GCC system_header
@@ -858,7 +858,7 @@ def produce_tests():
 
 {synopsis}
 
-#include <{header}>
+#include <{header}.hxx>
 #include "test_macros.h"
 
 #if TEST_STD_VER < 14

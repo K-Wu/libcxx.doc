@@ -13,8 +13,8 @@
 // pos_type seekoff(off_type off, ios_base::seekdir way,
 //                  ios_base::openmode which = ios_base::in | ios_base::out);
 
-#include <strstream>
-#include <cassert>
+#include <strstream.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

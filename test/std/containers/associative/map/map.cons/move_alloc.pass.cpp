@@ -14,8 +14,8 @@
 
 // map(map&& m, const allocator_type& a);
 
-#include <map>
-#include <cassert>
+#include <map.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "MoveOnly.h"

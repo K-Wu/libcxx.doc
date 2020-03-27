@@ -8,9 +8,9 @@
 
 // test get_terminate
 
-#include <exception>
-#include <cstdlib>
-#include <cassert>
+#include <exception.hxx>
+#include <cstdlib.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -12,8 +12,8 @@
 
 // vector(initializer_list<value_type> il, const Allocator& a = allocator_type());
 
-#include <vector>
-#include <cassert>
+#include <vector.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_allocator.h"

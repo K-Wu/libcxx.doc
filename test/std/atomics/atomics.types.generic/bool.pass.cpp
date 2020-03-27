@@ -50,9 +50,9 @@
 //
 // typedef atomic<bool> atomic_bool;
 
-#include <atomic>
-#include <new>
-#include <cassert>
+#include <atomic.hxx>
+#include <new.hxx>
+#include <cassert.hxx>
 
 #include <cmpxchg_loop.h>
 

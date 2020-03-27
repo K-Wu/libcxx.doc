@@ -15,9 +15,9 @@
 // The C++ and C standards are silent.
 //   POSIX standard is being followed (as a guideline).
 
-#include <locale>
-#include <limits>
-#include <cassert>
+#include <locale.hxx>
+#include <limits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

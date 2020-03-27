@@ -8,7 +8,7 @@
 
 // <unordered_set>
 
-#include <unordered_set>
+#include <unordered_set.hxx>
 
 #include "test_macros.h"
 

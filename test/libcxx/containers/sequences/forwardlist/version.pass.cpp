@@ -8,7 +8,7 @@
 
 // <forward_list>
 
-#include <forward_list>
+#include <forward_list.hxx>
 
 #include "test_macros.h"
 

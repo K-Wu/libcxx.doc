@@ -8,9 +8,9 @@
 
 // Tests workaround for https://gcc.gnu.org/bugzilla/show_bug.cgi?id=37804
 
-#include <set>
+#include <set.hxx>
 std::set<int> s;
-#include <map>
+#include <map.hxx>
 
 #include "test_macros.h"
 using std::map;

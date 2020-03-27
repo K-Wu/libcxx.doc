@@ -9,9 +9,9 @@
 
 // UNSUPPORTED: c++98, c++03, c++11
 
-#include <experimental/coroutine>
-#include <vector>
-#include <cassert>
+#include <experimental/coroutine.hxx>
+#include <vector.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -9,7 +9,7 @@
 // <string>
 //   The container's value type must be the same as the allocator's value type
 
-#include <string>
+#include <string.hxx>
 
 int main(int, char**)
 {

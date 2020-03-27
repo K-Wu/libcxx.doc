@@ -10,8 +10,8 @@
 
 // vector& operator=(const vector& c);
 
-#include <vector>
-#include <cassert>
+#include <vector.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 #include "test_allocator.h"
 #include "min_allocator.h"

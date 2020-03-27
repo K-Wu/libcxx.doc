@@ -21,10 +21,10 @@
 //     async(launch policy, F&& f, Args&&... args);
 
 
-#include <future>
-#include <atomic>
-#include <memory>
-#include <cassert>
+#include <future.hxx>
+#include <atomic.hxx>
+#include <memory.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

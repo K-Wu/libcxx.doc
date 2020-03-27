@@ -12,9 +12,9 @@
 
 // bool eof() const;
 
-#include <ios>
-#include <streambuf>
-#include <cassert>
+#include <ios.hxx>
+#include <streambuf.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

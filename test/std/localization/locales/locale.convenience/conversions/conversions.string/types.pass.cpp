@@ -19,8 +19,8 @@
 //     typedef typename Codecvt::state_type                      state_type;
 //     typedef typename wide_string::traits_type::int_type       int_type;
 
-#include <locale>
-#include <codecvt>
+#include <locale.hxx>
+#include <codecvt.hxx>
 
 #include "test_macros.h"
 

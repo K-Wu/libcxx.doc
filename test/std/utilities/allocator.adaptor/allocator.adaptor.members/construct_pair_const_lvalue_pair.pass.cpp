@@ -16,12 +16,12 @@
 // template <class U1, class U2>
 // void scoped_allocator_adaptor::construct(pair<U1, U2>*, pair<T1, T2>const&)
 
-#include <scoped_allocator>
-#include <type_traits>
-#include <utility>
-#include <tuple>
-#include <cassert>
-#include <cstdlib>
+#include <scoped_allocator.hxx>
+#include <type_traits.hxx>
+#include <utility.hxx>
+#include <tuple.hxx>
+#include <cassert.hxx>
+#include <cstdlib.hxx>
 #include "uses_alloc_types.h"
 #include "controlled_allocators.h"
 

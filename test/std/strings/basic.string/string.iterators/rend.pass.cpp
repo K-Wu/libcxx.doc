@@ -11,9 +11,9 @@
 //       reverse_iterator rend();
 // const_reverse_iterator rend() const;
 
-#include <string>
-#include <cassert>
-#include <cstddef>
+#include <string.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

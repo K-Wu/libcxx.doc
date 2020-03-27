@@ -14,8 +14,8 @@
 
 // multimap(initializer_list<value_type> il, const key_compare& comp = key_compare());
 
-#include <map>
-#include <cassert>
+#include <map.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

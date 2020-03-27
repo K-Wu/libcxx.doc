@@ -16,8 +16,8 @@
 //   Type nullopt_t shall not have a default constructor or an initializer-list
 //   constructor, and shall not be an aggregate.
 
-#include <optional>
-#include <type_traits>
+#include <optional.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

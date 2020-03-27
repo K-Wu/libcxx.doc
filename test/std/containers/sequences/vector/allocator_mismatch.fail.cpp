@@ -9,7 +9,7 @@
 // <vector>
 //   The container's value type must be the same as the allocator's value type
 
-#include <vector>
+#include <vector.hxx>
 
 int main(int, char**)
 {

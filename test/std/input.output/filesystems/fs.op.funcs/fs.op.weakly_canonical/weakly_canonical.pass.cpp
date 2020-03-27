@@ -14,10 +14,10 @@
 // path weakly_canonical(const path& p, error_code& ec);
 
 #include "filesystem_include.h"
-#include <type_traits>
-#include <vector>
-#include <iostream>
-#include <cassert>
+#include <type_traits.hxx>
+#include <vector.hxx>
+#include <iostream.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

@@ -15,8 +15,8 @@
 //          directory_entry() noexcept = default;
 
 #include "filesystem_include.h"
-#include <type_traits>
-#include <cassert>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -19,7 +19,7 @@
     __cpp_lib_parallel_algorithm    201603L [C++17]
 */
 
-#include <numeric>
+#include <numeric.hxx>
 #include "test_macros.h"
 
 #if TEST_STD_VER < 14

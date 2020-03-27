@@ -10,8 +10,8 @@
 
 // priority_queue();
 
-#include <queue>
-#include <cassert>
+#include <queue.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_allocator.h"

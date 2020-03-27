@@ -15,7 +15,7 @@
 
 //  conversions from floating point to integral durations disallowed
 
-#include <chrono>
+#include <chrono.hxx>
 
 int main(int, char**)
 {

@@ -15,9 +15,9 @@
 // Make sure we abort() when we pass a facet not associated to the locale to
 // use_facet() and exceptions are disabled.
 
-#include <csignal>
-#include <cstdlib>
-#include <locale>
+#include <csignal.hxx>
+#include <cstdlib.hxx>
+#include <locale.hxx>
 
 #include "test_macros.h"
 

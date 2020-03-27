@@ -12,10 +12,10 @@
 
 // size_type max_size() const;
 
-#include <cassert>
-#include <limits>
-#include <set>
-#include <type_traits>
+#include <cassert.hxx>
+#include <limits.hxx>
+#include <set.hxx>
+#include <type_traits.hxx>
 
 #include "test_allocator.h"
 #include "test_macros.h"

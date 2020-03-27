@@ -13,10 +13,10 @@
 // template <class U>
 // optional<T>& operator=(optional<U>&& rhs);
 
-#include <optional>
-#include <type_traits>
-#include <memory>
-#include <cassert>
+#include <optional.hxx>
+#include <type_traits.hxx>
+#include <memory.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "archetypes.h"

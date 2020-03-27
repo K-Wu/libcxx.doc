@@ -17,7 +17,7 @@
     __cpp_lib_three_way_comparison    201711L [C++2a]
 */
 
-#include <compare>
+#include <compare.hxx>
 #include "test_macros.h"
 
 #if TEST_STD_VER < 14

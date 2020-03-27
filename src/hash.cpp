@@ -6,10 +6,10 @@
 //
 //===----------------------------------------------------------------------===//
 
-#include "__hash_table"
-#include "algorithm"
-#include "stdexcept"
-#include "type_traits"
+#include "__hash_table.hxx"
+#include "algorithm.hxx"
+#include "stdexcept.hxx"
+#include "type_traits.hxx"
 
 #ifdef __clang__
 #pragma clang diagnostic ignored "-Wtautological-constant-out-of-range-compare"

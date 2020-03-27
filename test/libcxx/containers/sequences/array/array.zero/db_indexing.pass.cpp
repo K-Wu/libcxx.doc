@@ -16,7 +16,7 @@
 // test array<T, 0>::operator[] raises a debug error.
 
 #define _LIBCPP_DEBUG 1
-#include <array>
+#include <array.hxx>
 #include "test_macros.h"
 #include "debug_mode_helper.h"
 

@@ -12,8 +12,8 @@
 
 // size_t hash_code() const;
 
-#include <typeindex>
-#include <cassert>
+#include <typeindex.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

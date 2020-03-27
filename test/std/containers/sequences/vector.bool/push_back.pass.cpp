@@ -11,9 +11,9 @@
 
 // void push_back(const value_type& x);
 
-#include <vector>
-#include <cassert>
-#include <cstddef>
+#include <vector.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

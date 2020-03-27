@@ -14,9 +14,9 @@
 // const E* end() const;
 // size_t size() const;
 
-#include <initializer_list>
-#include <cassert>
-#include <cstddef>
+#include <initializer_list.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
 
 #include "test_macros.h"
 

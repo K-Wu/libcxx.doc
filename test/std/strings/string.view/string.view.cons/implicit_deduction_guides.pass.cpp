@@ -14,8 +14,8 @@
 // Test that the constructors offered by std::basic_string_view are formulated
 // so they're compatible with implicit deduction guides.
 
-#include <string_view>
-#include <cassert>
+#include <string_view.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "constexpr_char_traits.h"

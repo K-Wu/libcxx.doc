@@ -15,8 +15,8 @@
 //       assuming h represents a post meridiem hour. 
 //     If h is not in the range [1h, 12h], the value returned is unspecified.
 
-#include <chrono>
-#include <cassert>
+#include <chrono.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

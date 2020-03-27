@@ -8,7 +8,7 @@
 
 // <cstddef>
 
-#include <cstddef>
+#include <cstddef.hxx>
 
 #include "test_macros.h"
 

@@ -16,7 +16,7 @@
 
 // RUN: %build_module
 
-#include <cinttypes>
+#include <cinttypes.hxx>
 
 int main(int, char**) {
   int8_t x; ((void)x);

@@ -10,7 +10,7 @@
 
 // test unexpected
 
-#include <exception>
+#include <exception.hxx>
 
 void f() {}
 

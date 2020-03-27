@@ -8,8 +8,8 @@
 
 // test <cstdio>
 
-#include <cstdio>
-#include <type_traits>
+#include <cstdio.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 
@@ -77,7 +77,7 @@
 #error stdout not defined
 #endif
 
-#include <cstdarg>
+#include <cstdarg.hxx>
 
 #if defined(__clang__)
 #pragma clang diagnostic push

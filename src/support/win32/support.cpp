@@ -7,12 +7,12 @@
 //
 //===----------------------------------------------------------------------===//
 
-#include <cstdarg> // va_start, va_end
-#include <cstddef> // size_t
-#include <cstdlib> // malloc
-#include <cstdio>  // vsprintf, vsnprintf
-#include <cstring> // strcpy, wcsncpy
-#include <cwchar>  // mbstate_t
+#include <cstdarg.hxx> // va_start, va_end
+#include <cstddef.hxx> // size_t
+#include <cstdlib.hxx> // malloc
+#include <cstdio.hxx>  // vsprintf, vsnprintf
+#include <cstring.hxx> // strcpy, wcsncpy
+#include <cwchar.hxx>  // mbstate_t
 
 
 // Like sprintf, but when return value >= 0 it returns

@@ -11,8 +11,8 @@
 // template <class InputIterator>
 //   list(InputIterator first, InputIterator last, const Allocator& = Allocator());
 
-#include <list>
-#include <cassert>
+#include <list.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 #include "test_iterators.h"
 #include "test_allocator.h"

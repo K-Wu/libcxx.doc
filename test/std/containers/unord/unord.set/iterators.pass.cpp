@@ -19,9 +19,9 @@
 // const_iterator cbegin() const {return __table_.begin();}
 // const_iterator cend()   const {return __table_.end();}
 
-#include <unordered_set>
-#include <cassert>
-#include <cstddef>
+#include <unordered_set.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

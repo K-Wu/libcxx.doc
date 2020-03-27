@@ -13,9 +13,9 @@
 // constexpr bool ok() const noexcept;
 //  Returns: y_.ok() && m_.ok() && wdl_.ok().
 
-#include <chrono>
-#include <type_traits>
-#include <cassert>
+#include <chrono.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

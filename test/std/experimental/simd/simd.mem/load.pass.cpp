@@ -13,9 +13,9 @@
 // loads [simd.load]
 // template <class U, class Flags> void copy_from(const U* mem, Flags f);
 
-#include <experimental/simd>
-#include <cstdint>
-#include <cassert>
+#include <experimental/simd.hxx>
+#include <cstdint.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

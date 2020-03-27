@@ -15,9 +15,9 @@
 // path proximate(const path& p, const path& base, error_code& ec);
 
 #include "filesystem_include.h"
-#include <string>
-#include <type_traits>
-#include <cassert>
+#include <string.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

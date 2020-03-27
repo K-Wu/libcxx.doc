@@ -1,6 +1,6 @@
 #include "benchmark/benchmark.h"
 
-#include <cstdint>
+#include <cstdint.hxx>
 
 namespace {
 #if defined(__GNUC__)

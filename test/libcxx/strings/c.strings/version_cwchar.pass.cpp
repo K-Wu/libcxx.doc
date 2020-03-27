@@ -8,7 +8,7 @@
 
 // <cwchar>
 
-#include <cwchar>
+#include <cwchar.hxx>
 
 #include "test_macros.h"
 

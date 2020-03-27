@@ -12,9 +12,9 @@
 
 // Check that memory_resource is not constructible
 
-#include <experimental/memory_resource>
-#include <type_traits>
-#include <cassert>
+#include <experimental/memory_resource.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 namespace ex = std::experimental::pmr;
 

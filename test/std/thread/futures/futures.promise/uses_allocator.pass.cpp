@@ -16,7 +16,7 @@
 //   struct uses_allocator<promise<R>, Alloc>
 //      : true_type { };
 
-#include <future>
+#include <future.hxx>
 #include "test_macros.h"
 #include "test_allocator.h"
 

@@ -10,9 +10,9 @@
 
 // priority_queue(const priority_queue&) = default;
 
-#include <queue>
-#include <cassert>
-#include <functional>
+#include <queue.hxx>
+#include <cassert.hxx>
+#include <functional.hxx>
 
 #include "test_macros.h"
 

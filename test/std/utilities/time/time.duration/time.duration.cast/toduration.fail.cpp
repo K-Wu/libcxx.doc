@@ -16,7 +16,7 @@
 
 // ToDuration shall be an instantiation of duration.
 
-#include <chrono>
+#include <chrono.hxx>
 
 int main(int, char**)
 {

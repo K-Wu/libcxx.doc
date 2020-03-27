@@ -12,7 +12,7 @@
 
 // lock_guard& operator=(lock_guard const&) = delete;
 
-#include <mutex>
+#include <mutex.hxx>
 
 int main(int, char**)
 {

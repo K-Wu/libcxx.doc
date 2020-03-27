@@ -21,9 +21,9 @@
 //  constexpr chrono::month_day_last month_day_last() const noexcept;
 //  constexpr bool                               ok() const noexcept;
 
-#include <chrono>
-#include <type_traits>
-#include <cassert>
+#include <chrono.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -8,7 +8,7 @@
 
 // <cctype>
 
-#include <cctype>
+#include <cctype.hxx>
 
 #include "test_macros.h"
 

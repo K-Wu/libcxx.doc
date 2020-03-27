@@ -22,17 +22,17 @@
 #include <unistd.h>
 #endif
 
-#include <algorithm>
-#include <atomic>
-#include <condition_variable>
-#include <cstdio>
-#include <cstdlib>
-#include <cstring>
-#include <fstream>
-#include <iostream>
-#include <memory>
-#include <sstream>
-#include <thread>
+#include <algorithm.hxx>
+#include <atomic.hxx>
+#include <condition_variable.hxx>
+#include <cstdio.hxx>
+#include <cstdlib.hxx>
+#include <cstring.hxx>
+#include <fstream.hxx>
+#include <iostream.hxx>
+#include <memory.hxx>
+#include <sstream.hxx>
+#include <thread.hxx>
 
 #include "benchmark/benchmark.h"
 #include "benchmark_api_internal.h"

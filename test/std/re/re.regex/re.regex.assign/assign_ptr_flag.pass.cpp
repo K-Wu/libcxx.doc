@@ -12,8 +12,8 @@
 
 // basic_regex& assign(const charT* ptr, flag_type f = regex_constants::ECMAScript);
 
-#include <regex>
-#include <cassert>
+#include <regex.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 
 int main(int, char**)

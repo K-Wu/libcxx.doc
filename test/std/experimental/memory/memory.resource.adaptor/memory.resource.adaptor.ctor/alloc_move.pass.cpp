@@ -14,8 +14,8 @@
 
 // resource_adaptor_imp<Alloc>::resource_adaptor_imp(Alloc &&)
 
-#include <experimental/memory_resource>
-#include <cassert>
+#include <experimental/memory_resource.hxx>
+#include <cassert.hxx>
 
 #include "test_memory_resource.h"
 

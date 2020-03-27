@@ -11,7 +11,7 @@
 // Check that std::map fails to instantiate if the comparison predicate is
 // not copy-constructible. This is LWG issue 2436
 
-#include <map>
+#include <map.hxx>
 
 template <class T>
 struct Comp {

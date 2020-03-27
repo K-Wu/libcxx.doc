@@ -6,10 +6,10 @@
 //
 //===----------------------------------------------------------------------===//
 
-#include <limits>
-#include <sstream>
-#include <cassert>
-#include <iostream>
+#include <limits.hxx>
+#include <sstream.hxx>
+#include <cassert.hxx>
+#include <iostream.hxx>
 
 #include "test_macros.h"
 

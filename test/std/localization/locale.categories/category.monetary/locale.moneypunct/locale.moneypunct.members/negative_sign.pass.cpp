@@ -16,9 +16,9 @@
 //   On this one, common sense is the guideline.
 //   If customers complain, I'll endeavor to minimize customer complaints
 
-#include <locale>
-#include <limits>
-#include <cassert>
+#include <locale.hxx>
+#include <limits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

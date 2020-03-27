@@ -14,11 +14,11 @@
 
 // void join();
 
-#include <thread>
-#include <new>
-#include <cstdlib>
-#include <cassert>
-#include <system_error>
+#include <thread.hxx>
+#include <new.hxx>
+#include <cstdlib.hxx>
+#include <cassert.hxx>
+#include <system_error.hxx>
 
 #include "test_macros.h"
 

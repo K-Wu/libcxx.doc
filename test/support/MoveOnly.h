@@ -13,8 +13,8 @@
 
 #if TEST_STD_VER >= 11
 
-#include <cstddef>
-#include <functional>
+#include <cstddef.hxx>
+#include <functional.hxx>
 
 class MoveOnly
 {

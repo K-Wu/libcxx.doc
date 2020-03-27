@@ -20,9 +20,9 @@
 
 // result_type operator()();
 
-#include <random>
-#include <cassert>
-#include <system_error>
+#include <random.hxx>
+#include <cassert.hxx>
+#include <system_error.hxx>
 
 #include "test_macros.h"
 

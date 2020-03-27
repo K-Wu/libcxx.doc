@@ -6,13 +6,13 @@
 //
 //===----------------------------------------------------------------------===//
 
-#include "strstream"
-#include "algorithm"
-#include "climits"
-#include "cstring"
-#include "cstdlib"
-#include "__debug"
-#include "__undef_macros"
+#include "strstream.hxx"
+#include "algorithm.hxx"
+#include "climits.hxx"
+#include "cstring.hxx"
+#include "cstdlib.hxx"
+#include "__debug.hxx"
+#include "__undef_macros.hxx"
 
 _LIBCPP_BEGIN_NAMESPACE_STD
 

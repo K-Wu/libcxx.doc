@@ -14,8 +14,8 @@
 
 // unique_lock(mutex_type& m, adopt_lock_t);
 
-#include <mutex>
-#include <cassert>
+#include <mutex.hxx>
+#include <cassert.hxx>
 #include "nasty_containers.h"
 
 #include "test_macros.h"

@@ -9,9 +9,9 @@
 // <utility>
 // XFAIL: c++98, c++03
 
-// #include <initializer_list>
+// #include <initializer_list.hxx>
 
-#include <utility>
+#include <utility.hxx>
 
 #include "test_macros.h"
 

@@ -19,9 +19,9 @@
 // only SFINAE away when too few arguments are provided. Otherwise they should
 // be well formed and should ignore any additional arguments.
 
-#include <functional>
-#include <type_traits>
-#include <cassert>
+#include <functional.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

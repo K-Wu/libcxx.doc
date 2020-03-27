@@ -12,8 +12,8 @@
 
 // template<class Y> shared_ptr(const shared_ptr<Y>& r, T *p);
 
-#include <memory>
-#include <cassert>
+#include <memory.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

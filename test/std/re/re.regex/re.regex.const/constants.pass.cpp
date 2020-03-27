@@ -24,8 +24,8 @@
 //     static constexpr regex_constants::syntax_option_type grep = regex_constants::grep;
 //     static constexpr regex_constants::syntax_option_type egrep = regex_constants::egrep;
 
-#include <regex>
-#include <type_traits>
+#include <regex.hxx>
+#include <type_traits.hxx>
 #include "test_macros.h"
 
 template <class T>

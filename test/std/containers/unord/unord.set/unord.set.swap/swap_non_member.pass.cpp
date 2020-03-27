@@ -14,9 +14,9 @@
 
 // void swap(unordered_set& x, unordered_set& y);
 
-#include <unordered_set>
-#include <cassert>
-#include <cstddef>
+#include <unordered_set.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
 
 #include "test_macros.h"
 #include "../../../test_compare.h"

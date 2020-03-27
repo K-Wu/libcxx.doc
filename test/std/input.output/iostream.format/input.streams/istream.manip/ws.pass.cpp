@@ -12,8 +12,8 @@
 //   basic_istream<charT,traits>&
 //   ws(basic_istream<charT,traits>& is);
 
-#include <istream>
-#include <cassert>
+#include <istream.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 
 template <class CharT>

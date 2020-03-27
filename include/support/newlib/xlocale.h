@@ -11,9 +11,9 @@
 
 #if defined(_NEWLIB_VERSION)
 
-#include <cstdlib>
-#include <clocale>
-#include <cwctype>
+#include <cstdlib.hxx>
+#include <clocale.hxx>
+#include <cwctype.hxx>
 #include <ctype.h>
 #if !defined(__NEWLIB__) || __NEWLIB__ < 2 || \
     __NEWLIB__ == 2 && __NEWLIB_MINOR__ < 5

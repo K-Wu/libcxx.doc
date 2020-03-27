@@ -12,8 +12,8 @@
 
 // valarray(const slice_array<value_type>& sa);
 
-#include <valarray>
-#include <cassert>
+#include <valarray.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

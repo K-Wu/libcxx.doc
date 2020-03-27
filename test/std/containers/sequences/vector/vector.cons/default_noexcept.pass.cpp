@@ -15,8 +15,8 @@
 // This *was* a conforming extension, but it was adopted in N4258.
 
 
-#include <vector>
-#include <cassert>
+#include <vector.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "MoveOnly.h"

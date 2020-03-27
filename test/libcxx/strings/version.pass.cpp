@@ -8,7 +8,7 @@
 
 // <string>
 
-#include <string>
+#include <string.hxx>
 
 #include "test_macros.h"
 

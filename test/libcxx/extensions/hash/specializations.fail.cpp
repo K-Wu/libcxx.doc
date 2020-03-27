@@ -7,8 +7,8 @@
 //===----------------------------------------------------------------------===//
 
 #include <assert.h>
-#include <ext/hash_map>
-#include <string>
+#include <ext/hash_map.hxx>
+#include <string.hxx>
 
 int main(int, char**)
 {

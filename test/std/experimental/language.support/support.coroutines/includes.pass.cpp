@@ -13,12 +13,12 @@
 
 // Test that <experimental/coroutine> includes <new>
 
-#include <experimental/coroutine>
+#include <experimental/coroutine.hxx>
 
 int main(int, char**) {
   // std::nothrow is not implicitly defined by the compiler when the include is
   // missing, unlike other parts of <new>. Therefore we use std::nothrow to
-  // test for #include <new>
+  // test for #include <new.hxx>
 
   (void)std::nothrow;
 

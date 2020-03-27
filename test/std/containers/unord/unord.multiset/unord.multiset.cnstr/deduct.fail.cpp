@@ -48,8 +48,8 @@
 // unordered_multiset(initializer_list<T>, typename see below::size_type, Hash, Allocator)
 //   -> unordered_multiset<T, Hash, equal_to<T>, Allocator>;
 
-#include <functional>
-#include <unordered_set>
+#include <functional.hxx>
+#include <unordered_set.hxx>
 
 int main(int, char**)
 {

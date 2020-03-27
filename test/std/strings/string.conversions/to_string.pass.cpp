@@ -18,10 +18,10 @@
 // string to_string(double val);
 // string to_string(long double val);
 
-#include <limits>
-#include <string>
-#include <cassert>
-#include <sstream>
+#include <limits.hxx>
+#include <string.hxx>
+#include <cassert.hxx>
+#include <sstream.hxx>
 
 #include "test_macros.h"
 

@@ -13,7 +13,7 @@
 
 // template <class ...Types> class variant;
 
-#include <variant>
+#include <variant.hxx>
 
 #include "test_macros.h"
 #include "variant_test_helpers.h"

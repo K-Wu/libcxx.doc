@@ -16,7 +16,7 @@
 
 // RUN: %build_module
 
-#include <cstdint>
+#include <cstdint.hxx>
 
 int main(int, char**) {
   int8_t x; ((void)x);

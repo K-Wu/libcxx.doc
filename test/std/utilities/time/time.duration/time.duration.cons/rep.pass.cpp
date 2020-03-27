@@ -13,8 +13,8 @@
 // template <class Rep2>
 //   explicit duration(const Rep2& r);
 
-#include <chrono>
-#include <cassert>
+#include <chrono.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "../../rep.h"

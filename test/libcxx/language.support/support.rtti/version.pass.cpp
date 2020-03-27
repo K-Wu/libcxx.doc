@@ -8,7 +8,7 @@
 
 // <typeinfo>
 
-#include <typeinfo>
+#include <typeinfo.hxx>
 
 #include "test_macros.h"
 

@@ -16,9 +16,9 @@
 
 // void insert(initializer_list<value_type> il);
 
-#include <unordered_map>
-#include <string>
-#include <cassert>
+#include <unordered_map.hxx>
+#include <string.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

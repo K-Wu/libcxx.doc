@@ -12,7 +12,7 @@
 
 // template <> struct is_error_code_enum<io_errc> : public true_type {};
 
-#include <ios>
+#include <ios.hxx>
 #include "test_macros.h"
 
 int main(int, char**)

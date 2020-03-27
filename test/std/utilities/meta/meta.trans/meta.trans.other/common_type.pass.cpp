@@ -10,9 +10,9 @@
 
 // common_type
 
-#include <functional>
-#include <memory>
-#include <type_traits>
+#include <functional.hxx>
+#include <memory.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

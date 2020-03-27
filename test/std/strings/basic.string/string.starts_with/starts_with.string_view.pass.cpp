@@ -11,8 +11,8 @@
 
 //   bool starts_with(string_view x) const noexcept;
 
-#include <string>
-#include <cassert>
+#include <string.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

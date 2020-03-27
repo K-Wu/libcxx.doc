@@ -14,8 +14,8 @@
 //   T
 //   accumulate(Iter first, Iter last, T init);
 
-#include <numeric>
-#include <cassert>
+#include <numeric.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

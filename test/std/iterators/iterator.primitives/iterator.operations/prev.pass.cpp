@@ -11,8 +11,8 @@
 // template <InputIterator Iter>
 //   Iter prev(Iter x, Iter::difference_type n = 1);
 
-#include <iterator>
-#include <cassert>
+#include <iterator.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

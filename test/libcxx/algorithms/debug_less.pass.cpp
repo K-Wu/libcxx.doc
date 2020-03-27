@@ -19,9 +19,9 @@ struct DebugException {};
 #define _LIBCPP_DEBUG 0
 #define _LIBCPP_ASSERT(x, m) ((x) ? (void)0 : throw ::DebugException())
 
-#include <algorithm>
-#include <iterator>
-#include <cassert>
+#include <algorithm.hxx>
+#include <iterator.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

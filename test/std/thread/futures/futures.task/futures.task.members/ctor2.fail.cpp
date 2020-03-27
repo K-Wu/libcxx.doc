@@ -17,8 +17,8 @@
 // These constructors shall not participate in overload resolution if
 //    decay<F>::type is the same type as std::packaged_task<R(ArgTypes...)>.
 
-#include <future>
-#include <cassert>
+#include <future.hxx>
+#include <cassert.hxx>
 
 #include "test_allocator.h"
 

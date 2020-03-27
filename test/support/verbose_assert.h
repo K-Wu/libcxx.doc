@@ -1,10 +1,10 @@
 #ifndef TEST_SUPPORT_VERBOSE_ASSERT
 #define TEST_SUPPORT_VERBOSE_ASSERT
 
-#include <iostream>
-#include <cstdio>
-#include <sstream>
-#include <string>
+#include <iostream.hxx>
+#include <cstdio.hxx>
+#include <sstream.hxx>
+#include <string.hxx>
 #include "test_macros.h"
 
 namespace verbose_assert {

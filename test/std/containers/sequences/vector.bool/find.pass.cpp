@@ -13,10 +13,10 @@
 
 // https://bugs.llvm.org/show_bug.cgi?id=16816
 
-#include <vector>
-#include <algorithm>
-#include <cassert>
-#include <cstddef>
+#include <vector.hxx>
+#include <algorithm.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
 
 #include "test_macros.h"
 

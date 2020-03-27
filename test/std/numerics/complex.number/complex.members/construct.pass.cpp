@@ -10,8 +10,8 @@
 
 // constexpr complex(const T& re = T(), const T& im = T());
 
-#include <complex>
-#include <cassert>
+#include <complex.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

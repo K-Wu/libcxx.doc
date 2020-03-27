@@ -21,10 +21,10 @@
 //  D) Invoking 'allocate' invokes 'do_allocate' with the same arguments.
 //  E) If 'do_allocate' throws then 'allocate' propagates that exception.
 
-#include <experimental/memory_resource>
-#include <type_traits>
-#include <cstddef>
-#include <cassert>
+#include <experimental/memory_resource.hxx>
+#include <type_traits.hxx>
+#include <cstddef.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_memory_resource.h"

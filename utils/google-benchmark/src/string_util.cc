@@ -1,11 +1,11 @@
 #include "string_util.h"
 
-#include <array>
-#include <cmath>
-#include <cstdarg>
-#include <cstdio>
-#include <memory>
-#include <sstream>
+#include <array.hxx>
+#include <cmath.hxx>
+#include <cstdarg.hxx>
+#include <cstdio.hxx>
+#include <memory.hxx>
+#include <sstream.hxx>
 
 #include "arraysize.h"
 

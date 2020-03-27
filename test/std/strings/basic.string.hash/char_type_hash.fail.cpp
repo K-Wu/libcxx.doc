@@ -12,7 +12,7 @@
 
 // Test that hash specializations for <string> require "char_traits<_CharT>" not just any "_Trait".
 
-#include <string>
+#include <string.hxx>
 
 template <class _CharT>
 struct trait // copied from <__string>

@@ -7,16 +7,16 @@
 //===----------------------------------------------------------------------===//
 
 #ifdef _LIBCPP_SIMT
-#include <details/__config>
+#include <details/__config.hxx>
 #else
-#include "__config"
+#include "__config.hxx"
 #endif
 
 #ifndef _LIBCPP_HAS_NO_THREADS
 #ifdef _LIBCPP_SIMT
-#include <simt/semaphore>
+#include <simt/semaphore.hxx>
 #else
-#include "barrier"
+#include "barrier.hxx"
 #endif
 
 _LIBCPP_BEGIN_NAMESPACE_STD

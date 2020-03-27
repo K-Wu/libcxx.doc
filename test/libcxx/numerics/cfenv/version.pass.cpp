@@ -10,7 +10,7 @@
 
 // <cfenv>
 
-#include <cfenv>
+#include <cfenv.hxx>
 
 #include "test_macros.h"
 

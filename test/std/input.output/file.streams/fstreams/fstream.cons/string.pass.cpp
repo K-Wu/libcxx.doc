@@ -13,8 +13,8 @@
 
 // explicit basic_fstream(const string& s, ios_base::openmode mode = ios_base::in|ios_base::out);
 
-#include <fstream>
-#include <cassert>
+#include <fstream.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 #include "platform_support.h"
 

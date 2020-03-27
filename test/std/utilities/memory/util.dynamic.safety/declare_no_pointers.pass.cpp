@@ -11,7 +11,7 @@
 // void declare_no_pointers(char* p, size_t n);
 // void undeclare_no_pointers(char* p, size_t n);
 
-#include <memory>
+#include <memory.hxx>
 
 #include "test_macros.h"
 

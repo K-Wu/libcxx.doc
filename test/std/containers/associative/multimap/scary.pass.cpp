@@ -12,7 +12,7 @@
 
 // Extension:  SCARY/N2913 iterator compatibility between map and multimap
 
-#include <map>
+#include <map.hxx>
 
 #include "test_macros.h"
 

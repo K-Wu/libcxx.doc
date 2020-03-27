@@ -18,8 +18,8 @@
 //     iterator emplace_hint(const_iterator p, Args&&... args);
 
 
-#include <unordered_set>
-#include <cassert>
+#include <unordered_set.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "../../Emplaceable.h"

@@ -13,8 +13,8 @@
 // the "n" and "m" in `a{n,m}` should be within the numeric limits.
 // requirement "m >= n" should be checked.
 
-#include <regex>
-#include <cassert>
+#include <regex.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 
 int main(int, char**) {

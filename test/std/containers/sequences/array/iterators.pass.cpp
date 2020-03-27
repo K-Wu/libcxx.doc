@@ -10,9 +10,9 @@
 
 // iterator, const_iterator
 
-#include <array>
-#include <iterator>
-#include <cassert>
+#include <array.hxx>
+#include <iterator.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

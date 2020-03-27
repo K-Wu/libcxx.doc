@@ -21,171 +21,171 @@
 #define max() true
 
 // Top level headers
-#include <algorithm>
+#include <algorithm.hxx>
 TEST_MACROS();
-#include <any>
+#include <any.hxx>
 TEST_MACROS();
-#include <array>
+#include <array.hxx>
 TEST_MACROS();
 #ifndef _LIBCPP_HAS_NO_THREADS
-#include <atomic>
+#include <atomic.hxx>
 TEST_MACROS();
 #endif
-#include <bitset>
+#include <bitset.hxx>
 TEST_MACROS();
-#include <cassert>
+#include <cassert.hxx>
 TEST_MACROS();
-#include <ccomplex>
+#include <ccomplex.hxx>
 TEST_MACROS();
-#include <cctype>
+#include <cctype.hxx>
 TEST_MACROS();
-#include <cerrno>
+#include <cerrno.hxx>
 TEST_MACROS();
-#include <cfenv>
+#include <cfenv.hxx>
 TEST_MACROS();
-#include <cfloat>
+#include <cfloat.hxx>
 TEST_MACROS();
-#include <charconv>
+#include <charconv.hxx>
 TEST_MACROS();
-#include <chrono>
+#include <chrono.hxx>
 TEST_MACROS();
-#include <cinttypes>
+#include <cinttypes.hxx>
 TEST_MACROS();
-#include <ciso646>
+#include <ciso646.hxx>
 TEST_MACROS();
-#include <climits>
+#include <climits.hxx>
 TEST_MACROS();
-#include <clocale>
+#include <clocale.hxx>
 TEST_MACROS();
-#include <cmath>
+#include <cmath.hxx>
 TEST_MACROS();
-#include <codecvt>
+#include <codecvt.hxx>
 TEST_MACROS();
-#include <complex>
+#include <complex.hxx>
 TEST_MACROS();
 #include <complex.h>
 TEST_MACROS();
-#include <condition_variable>
+#include <condition_variable.hxx>
 TEST_MACROS();
-#include <csetjmp>
+#include <csetjmp.hxx>
 TEST_MACROS();
-#include <csignal>
+#include <csignal.hxx>
 TEST_MACROS();
-#include <cstdarg>
+#include <cstdarg.hxx>
 TEST_MACROS();
-#include <cstdbool>
+#include <cstdbool.hxx>
 TEST_MACROS();
-#include <cstddef>
+#include <cstddef.hxx>
 TEST_MACROS();
-#include <cstdint>
+#include <cstdint.hxx>
 TEST_MACROS();
-#include <cstdio>
+#include <cstdio.hxx>
 TEST_MACROS();
-#include <cstdlib>
+#include <cstdlib.hxx>
 TEST_MACROS();
-#include <cstring>
+#include <cstring.hxx>
 TEST_MACROS();
-#include <ctgmath>
+#include <ctgmath.hxx>
 TEST_MACROS();
-#include <ctime>
+#include <ctime.hxx>
 TEST_MACROS();
 #include <ctype.h>
 TEST_MACROS();
-#include <cwchar>
+#include <cwchar.hxx>
 TEST_MACROS();
-#include <cwctype>
+#include <cwctype.hxx>
 TEST_MACROS();
-#include <deque>
+#include <deque.hxx>
 TEST_MACROS();
 #include <errno.h>
 TEST_MACROS();
-#include <exception>
+#include <exception.hxx>
 TEST_MACROS();
-#include <filesystem>
+#include <filesystem.hxx>
 TEST_MACROS();
 #include <float.h>
 TEST_MACROS();
-#include <forward_list>
+#include <forward_list.hxx>
 TEST_MACROS();
-#include <fstream>
+#include <fstream.hxx>
 TEST_MACROS();
-#include <functional>
+#include <functional.hxx>
 TEST_MACROS();
 #ifndef _LIBCPP_HAS_NO_THREADS
-#include <future>
+#include <future.hxx>
 TEST_MACROS();
 #endif
-#include <initializer_list>
+#include <initializer_list.hxx>
 TEST_MACROS();
 #include <inttypes.h>
 TEST_MACROS();
-#include <iomanip>
+#include <iomanip.hxx>
 TEST_MACROS();
-#include <ios>
+#include <ios.hxx>
 TEST_MACROS();
-#include <iosfwd>
+#include <iosfwd.hxx>
 TEST_MACROS();
-#include <iostream>
+#include <iostream.hxx>
 TEST_MACROS();
-#include <istream>
+#include <istream.hxx>
 TEST_MACROS();
-#include <iterator>
+#include <iterator.hxx>
 TEST_MACROS();
-#include <limits>
+#include <limits.hxx>
 TEST_MACROS();
 #include <limits.h>
 TEST_MACROS();
-#include <list>
+#include <list.hxx>
 TEST_MACROS();
-#include <locale>
+#include <locale.hxx>
 TEST_MACROS();
 #include <locale.h>
 TEST_MACROS();
-#include <map>
+#include <map.hxx>
 TEST_MACROS();
 #include <math.h>
 TEST_MACROS();
-#include <memory>
+#include <memory.hxx>
 TEST_MACROS();
 #ifndef _LIBCPP_HAS_NO_THREADS
-#include <mutex>
+#include <mutex.hxx>
 TEST_MACROS();
 #endif
-#include <new>
+#include <new.hxx>
 TEST_MACROS();
-#include <numeric>
+#include <numeric.hxx>
 TEST_MACROS();
-#include <optional>
+#include <optional.hxx>
 TEST_MACROS();
-#include <ostream>
+#include <ostream.hxx>
 TEST_MACROS();
-#include <queue>
+#include <queue.hxx>
 TEST_MACROS();
-#include <random>
+#include <random.hxx>
 TEST_MACROS();
-#include <ratio>
+#include <ratio.hxx>
 TEST_MACROS();
-#include <regex>
+#include <regex.hxx>
 TEST_MACROS();
-#include <scoped_allocator>
+#include <scoped_allocator.hxx>
 TEST_MACROS();
-#include <set>
+#include <set.hxx>
 TEST_MACROS();
 #include <setjmp.h>
 TEST_MACROS();
 #ifndef _LIBCPP_HAS_NO_THREADS
-#include <shared_mutex>
+#include <shared_mutex.hxx>
 TEST_MACROS();
 #endif
-#include <sstream>
+#include <sstream.hxx>
 TEST_MACROS();
-#include <stack>
+#include <stack.hxx>
 TEST_MACROS();
 #include <stdbool.h>
 TEST_MACROS();
 #include <stddef.h>
 TEST_MACROS();
-#include <stdexcept>
+#include <stdexcept.hxx>
 TEST_MACROS();
 #include <stdint.h>
 TEST_MACROS();
@@ -193,43 +193,43 @@ TEST_MACROS();
 TEST_MACROS();
 #include <stdlib.h>
 TEST_MACROS();
-#include <streambuf>
+#include <streambuf.hxx>
 TEST_MACROS();
-#include <string>
+#include <string.hxx>
 TEST_MACROS();
 #include <string.h>
 TEST_MACROS();
-#include <string_view>
+#include <string_view.hxx>
 TEST_MACROS();
-#include <strstream>
+#include <strstream.hxx>
 TEST_MACROS();
-#include <system_error>
+#include <system_error.hxx>
 TEST_MACROS();
 #include <tgmath.h>
 TEST_MACROS();
 #ifndef _LIBCPP_HAS_NO_THREADS
-#include <thread>
+#include <thread.hxx>
 TEST_MACROS();
 #endif
-#include <tuple>
+#include <tuple.hxx>
 TEST_MACROS();
-#include <typeindex>
+#include <typeindex.hxx>
 TEST_MACROS();
-#include <typeinfo>
+#include <typeinfo.hxx>
 TEST_MACROS();
-#include <type_traits>
+#include <type_traits.hxx>
 TEST_MACROS();
-#include <unordered_map>
+#include <unordered_map.hxx>
 TEST_MACROS();
-#include <unordered_set>
+#include <unordered_set.hxx>
 TEST_MACROS();
-#include <utility>
+#include <utility.hxx>
 TEST_MACROS();
-#include <valarray>
+#include <valarray.hxx>
 TEST_MACROS();
-#include <variant>
+#include <variant.hxx>
 TEST_MACROS();
-#include <vector>
+#include <vector.hxx>
 TEST_MACROS();
 #include <wchar.h>
 TEST_MACROS();
@@ -238,46 +238,46 @@ TEST_MACROS();
 
 // experimental headers
 #if __cplusplus >= 201103L
-#include <experimental/algorithm>
+#include <experimental/algorithm.hxx>
 TEST_MACROS();
-#include <experimental/deque>
+#include <experimental/deque.hxx>
 TEST_MACROS();
-#include <experimental/filesystem>
+#include <experimental/filesystem.hxx>
 TEST_MACROS();
-#include <experimental/forward_list>
+#include <experimental/forward_list.hxx>
 TEST_MACROS();
-#include <experimental/functional>
+#include <experimental/functional.hxx>
 TEST_MACROS();
-#include <experimental/iterator>
+#include <experimental/iterator.hxx>
 TEST_MACROS();
-#include <experimental/list>
+#include <experimental/list.hxx>
 TEST_MACROS();
-#include <experimental/map>
+#include <experimental/map.hxx>
 TEST_MACROS();
-#include <experimental/memory_resource>
+#include <experimental/memory_resource.hxx>
 TEST_MACROS();
-#include <experimental/propagate_const>
+#include <experimental/propagate_const.hxx>
 TEST_MACROS();
-#include <experimental/regex>
+#include <experimental/regex.hxx>
 TEST_MACROS();
-#include <experimental/set>
+#include <experimental/set.hxx>
 TEST_MACROS();
-#include <experimental/string>
+#include <experimental/string.hxx>
 TEST_MACROS();
-#include <experimental/type_traits>
+#include <experimental/type_traits.hxx>
 TEST_MACROS();
-#include <experimental/unordered_map>
+#include <experimental/unordered_map.hxx>
 TEST_MACROS();
-#include <experimental/unordered_set>
+#include <experimental/unordered_set.hxx>
 TEST_MACROS();
-#include <experimental/utility>
+#include <experimental/utility.hxx>
 TEST_MACROS();
-#include <experimental/vector>
+#include <experimental/vector.hxx>
 TEST_MACROS();
 #endif // __cplusplus >= 201103L
 
 // extended headers
-#include <ext/hash_map>
+#include <ext/hash_map.hxx>
 TEST_MACROS();
-#include <ext/hash_set>
+#include <ext/hash_set.hxx>
 TEST_MACROS();

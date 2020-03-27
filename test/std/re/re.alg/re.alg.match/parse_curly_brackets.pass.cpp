@@ -17,9 +17,9 @@
 
 // https://bugs.llvm.org/show_bug.cgi?id=16135
 
-#include <string>
-#include <regex>
-#include <cassert>
+#include <string.hxx>
+#include <regex.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 
 void

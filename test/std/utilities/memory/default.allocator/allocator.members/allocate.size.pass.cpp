@@ -17,8 +17,8 @@
 // libc++abi.dylib and exceptions are not caught properly.
 // XFAIL: with_system_cxx_lib=macosx10.7
 
-#include <memory>
-#include <cassert>
+#include <memory.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -15,8 +15,8 @@
 //
 // This signature was removed in C++17
 
-#include <functional>
-#include <cassert>
+#include <functional.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

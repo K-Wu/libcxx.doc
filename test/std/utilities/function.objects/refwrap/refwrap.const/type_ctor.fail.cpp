@@ -14,8 +14,8 @@
 
 // XFAIL: c++98, c++03
 
-#include <functional>
-#include <cassert>
+#include <functional.hxx>
+#include <cassert.hxx>
 
 int main(int, char**)
 {

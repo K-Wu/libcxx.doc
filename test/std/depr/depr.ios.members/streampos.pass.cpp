@@ -17,8 +17,8 @@
 //  These members were removed for C++17
 
 #include "test_macros.h"
-#include <ios>
-#include <type_traits>
+#include <ios.hxx>
+#include <type_traits.hxx>
 
 int main(int, char**)
 {

@@ -18,11 +18,11 @@
 // iter_type get(iter_type in, iter_type end, ios_base&,
 //               ios_base::iostate& err, double& v) const;
 
-#include <locale>
-#include <ios>
-#include <cassert>
-#include <streambuf>
-#include <cmath>
+#include <locale.hxx>
+#include <ios.hxx>
+#include <cassert.hxx>
+#include <streambuf.hxx>
+#include <cmath.hxx>
 #include "test_macros.h"
 #include "test_iterators.h"
 #include "hexfloat.h"

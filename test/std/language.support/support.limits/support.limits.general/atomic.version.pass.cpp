@@ -21,7 +21,7 @@
     __cpp_lib_char8_t                       201811L [C++2a]
 */
 
-#include <atomic>
+#include <atomic.hxx>
 #include "test_macros.h"
 
 #if TEST_STD_VER < 14

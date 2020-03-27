@@ -14,10 +14,10 @@
 //   constexpr Iter         // constexpr after C++17
 //   remove_if(Iter first, Iter last, Pred pred);
 
-#include <algorithm>
-#include <functional>
-#include <cassert>
-#include <memory>
+#include <algorithm.hxx>
+#include <functional.hxx>
+#include <cassert.hxx>
+#include <memory.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

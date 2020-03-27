@@ -10,8 +10,8 @@
 
 // typedef regex_token_iterator<const wchar_t*>   wcregex_token_iterator;
 
-#include <regex>
-#include <type_traits>
+#include <regex.hxx>
+#include <type_traits.hxx>
 #include "test_macros.h"
 
 int main(int, char**)

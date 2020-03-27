@@ -12,8 +12,8 @@
 
 // vector(vector&& c, const allocator_type& a);
 
-#include <vector>
-#include <cassert>
+#include <vector.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 #include "MoveOnly.h"
 #include "test_allocator.h"

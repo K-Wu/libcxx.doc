@@ -12,8 +12,8 @@
 
 // static char_type* copy(char_type* s1, const char_type* s2, size_t n);
 
-#include <string>
-#include <cassert>
+#include <string.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -10,8 +10,8 @@
 
 // basic_filebuf<charT,traits>* open(const char* s, ios_base::openmode mode);
 
-#include <fstream>
-#include <cassert>
+#include <fstream.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 #include "platform_support.h"
 

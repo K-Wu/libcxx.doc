@@ -8,8 +8,8 @@
 //===----------------------------------------------------------------------===//
 #include "test_macros.h"
 #include "demangle.h"
-#include <typeinfo>
-#include <cassert>
+#include <typeinfo.hxx>
+#include <cassert.hxx>
 
 struct MyType {};
 

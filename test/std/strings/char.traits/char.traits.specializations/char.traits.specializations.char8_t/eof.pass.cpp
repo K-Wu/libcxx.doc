@@ -13,8 +13,8 @@
 
 // static constexpr int_type eof();
 
-#include <string>
-#include <cassert>
+#include <string.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

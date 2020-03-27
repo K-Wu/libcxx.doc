@@ -4,7 +4,7 @@
 #include "benchmark/benchmark.h"
 
 /* Needed to detect STL */
-#include <cstdlib>
+#include <cstdlib.hxx>
 
 // clang-format off
 

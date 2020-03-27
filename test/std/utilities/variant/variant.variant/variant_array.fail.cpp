@@ -14,10 +14,10 @@
 // template <class ...Types> class variant;
 
 
-#include <variant>
-#include <type_traits>
-#include <string>
-#include <cassert>
+#include <variant.hxx>
+#include <type_traits.hxx>
+#include <string.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "variant_test_helpers.h"

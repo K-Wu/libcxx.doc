@@ -14,13 +14,13 @@
 //   void
 //   nth_element(Iter first, Iter nth, Iter last, Compare comp);
 
-#include <algorithm>
-#include <functional>
-#include <vector>
-#include <random>
-#include <cassert>
-#include <cstddef>
-#include <memory>
+#include <algorithm.hxx>
+#include <functional.hxx>
+#include <vector.hxx>
+#include <random.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
+#include <memory.hxx>
 
 #include "test_macros.h"
 

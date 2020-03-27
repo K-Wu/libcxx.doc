@@ -13,9 +13,9 @@
 //    : __data (_s), __size(_Traits::length(_s)) {}
 
 
-#include <string_view>
-#include <string>
-#include <cassert>
+#include <string_view.hxx>
+#include <string.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "constexpr_char_traits.h"

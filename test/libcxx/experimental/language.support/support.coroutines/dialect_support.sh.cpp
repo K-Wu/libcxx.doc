@@ -16,7 +16,7 @@
 // can be parsed and used in all dialects, including C++03 in order to match
 // Clang's behavior.
 
-#include <experimental/coroutine>
+#include <experimental/coroutine.hxx>
 
 namespace coro = std::experimental::coroutines_v1;
 

@@ -22,9 +22,9 @@
 //     atomic_compare_exchange_weak_explicit(atomic<T>* obj, T* expc, T desr,
 //                                           memory_order s, memory_order f);
 
-#include <atomic>
-#include <type_traits>
-#include <cassert>
+#include <atomic.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include <cmpxchg_loop.h>
 

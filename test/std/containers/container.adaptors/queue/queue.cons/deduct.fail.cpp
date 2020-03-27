@@ -10,11 +10,11 @@
 // UNSUPPORTED: c++98, c++03, c++11, c++14
 // UNSUPPORTED: libcpp-no-deduction-guides
 
-#include <queue>
-#include <list>
-#include <iterator>
-#include <cassert>
-#include <cstddef>
+#include <queue.hxx>
+#include <list.hxx>
+#include <iterator.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
 
 
 int main(int, char**)

@@ -12,8 +12,8 @@
 
 // difference_type length(size_type sub = 0) const;
 
-#include <regex>
-#include <cassert>
+#include <regex.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 
 void

@@ -13,8 +13,8 @@
 
 // streamsize sgetn(char_type* s, streamsize n);
 
-#include <streambuf>
-#include <cassert>
+#include <streambuf.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

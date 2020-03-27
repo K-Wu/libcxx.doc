@@ -12,8 +12,8 @@
 //   priority_queue(InputIterator first, InputIterator last,
 //                  const Compare& comp, const container_type& c);
 
-#include <queue>
-#include <cassert>
+#include <queue.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

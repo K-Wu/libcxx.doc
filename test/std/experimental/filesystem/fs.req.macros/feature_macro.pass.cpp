@@ -10,7 +10,7 @@
 
 // #define __cpp_lib_experimental_filesystem 201406L
 
-#include <experimental/filesystem>
+#include <experimental/filesystem.hxx>
 #include "test_macros.h"
 
 #if TEST_STD_VER >= 11

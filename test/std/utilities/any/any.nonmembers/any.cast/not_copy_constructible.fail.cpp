@@ -22,7 +22,7 @@
 
 // Test instantiating the any_cast with a non-copyable type.
 
-#include <any>
+#include <any.hxx>
 
 using std::any;
 using std::any_cast;

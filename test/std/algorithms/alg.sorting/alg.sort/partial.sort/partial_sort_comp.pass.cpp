@@ -14,13 +14,13 @@
 //   void
 //   partial_sort(Iter first, Iter middle, Iter last, Compare comp);
 
-#include <algorithm>
-#include <vector>
-#include <functional>
-#include <random>
-#include <cassert>
-#include <cstddef>
-#include <memory>
+#include <algorithm.hxx>
+#include <vector.hxx>
+#include <functional.hxx>
+#include <random.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
+#include <memory.hxx>
 
 #include "test_macros.h"
 

@@ -23,13 +23,13 @@
 
 
 #include "fuzzing.h"
-#include <vector>
-#include <algorithm>
-#include <functional>
-#include <regex>
-#include <cassert>
+#include <vector.hxx>
+#include <algorithm.hxx>
+#include <functional.hxx>
+#include <regex.hxx>
+#include <cassert.hxx>
 
-#include <iostream>
+#include <iostream.hxx>
 
 //  If we had C++14, we could use the four iterator version of is_permutation and equal
 

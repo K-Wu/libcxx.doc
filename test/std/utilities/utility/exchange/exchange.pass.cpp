@@ -15,9 +15,9 @@
 //    constexpr T            // constexpr after C++17
 //    exchange(T& obj, U&& new_value);
 
-#include <utility>
-#include <cassert>
-#include <string>
+#include <utility.hxx>
+#include <cassert.hxx>
+#include <string.hxx>
 
 #include "test_macros.h"
 

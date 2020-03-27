@@ -11,9 +11,9 @@
 // template <class Pred> void      remove_if(Pred pred); // before C++20
 // template <class Pred> size_type remove_if(Pred pred); // c++20 and later
 
-#include <list>
-#include <cassert>
-#include <functional>
+#include <list.hxx>
+#include <cassert.hxx>
+#include <functional.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

@@ -10,8 +10,8 @@
 
 // void resize(size_type sz);
 
-#include <list>
-#include <cassert>
+#include <list.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 #include "DefaultOnly.h"
 #include "min_allocator.h"

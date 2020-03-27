@@ -1,7 +1,7 @@
 #ifndef BENCHMARK_THREAD_MANAGER_H
 #define BENCHMARK_THREAD_MANAGER_H
 
-#include <atomic>
+#include <atomic.hxx>
 
 #include "benchmark/benchmark.h"
 #include "mutex.h"

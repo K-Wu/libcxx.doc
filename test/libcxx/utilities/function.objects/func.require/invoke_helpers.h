@@ -9,9 +9,9 @@
 #ifndef INVOKE_HELPERS_H
 #define INVOKE_HELPERS_H
 
-#include <type_traits>
-#include <cassert>
-#include <functional>
+#include <type_traits.hxx>
+#include <cassert.hxx>
+#include <functional.hxx>
 
 #include "test_macros.h"
 

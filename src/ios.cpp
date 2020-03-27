@@ -6,22 +6,22 @@
 //
 //===----------------------------------------------------------------------===//
 
-#include "__config"
+#include "__config.hxx"
 
-#include "ios"
+#include "ios.hxx"
 
 #include <stdlib.h>
 
-#include "__locale"
-#include "algorithm"
+#include "__locale.hxx"
+#include "algorithm.hxx"
 #include "include/config_elast.h"
-#include "istream"
-#include "limits"
-#include "memory"
-#include "new"
-#include "streambuf"
-#include "string"
-#include "__undef_macros"
+#include "istream.hxx"
+#include "limits.hxx"
+#include "memory.hxx"
+#include "new.hxx"
+#include "streambuf.hxx"
+#include "string.hxx"
+#include "__undef_macros.hxx"
 
 _LIBCPP_BEGIN_NAMESPACE_STD
 

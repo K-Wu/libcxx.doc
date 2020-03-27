@@ -15,12 +15,12 @@
 #include "benchmark/benchmark.h"
 #include "complexity.h"
 
-#include <algorithm>
-#include <cstdint>
-#include <iostream>
-#include <string>
-#include <tuple>
-#include <vector>
+#include <algorithm.hxx>
+#include <cstdint.hxx>
+#include <iostream.hxx>
+#include <string.hxx>
+#include <tuple.hxx>
+#include <vector.hxx>
 
 #include "check.h"
 #include "string_util.h"

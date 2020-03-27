@@ -14,9 +14,9 @@
 
 // size_type erase(const key_type& k);
 
-#include <unordered_set>
-#include <string>
-#include <cassert>
+#include <unordered_set.hxx>
+#include <string.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

@@ -12,8 +12,8 @@
 
 // deque(deque&& c, const allocator_type& a);
 
-#include <deque>
-#include <cassert>
+#include <deque.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "MoveOnly.h"

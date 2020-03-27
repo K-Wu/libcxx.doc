@@ -9,14 +9,14 @@
 #ifndef TEST_ALLOCATOR_H
 #define TEST_ALLOCATOR_H
 
-#include <type_traits>
-#include <new>
-#include <memory>
-#include <utility>
-#include <cstddef>
-#include <cstdlib>
-#include <climits>
-#include <cassert>
+#include <type_traits.hxx>
+#include <new.hxx>
+#include <memory.hxx>
+#include <utility.hxx>
+#include <cstddef.hxx>
+#include <cstdlib.hxx>
+#include <climits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

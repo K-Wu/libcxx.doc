@@ -14,8 +14,8 @@
 // const_reference at (size_type); // constexpr in C++14
 // Libc++ marks these as noexcept
 
-#include <array>
-#include <cassert>
+#include <array.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

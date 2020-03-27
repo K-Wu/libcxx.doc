@@ -11,10 +11,10 @@
 // asan and msan will not call the new handler.
 // UNSUPPORTED: sanitizer-new-delete
 
-#include <new>
-#include <cstddef>
-#include <cassert>
-#include <limits>
+#include <new.hxx>
+#include <cstddef.hxx>
+#include <cassert.hxx>
+#include <limits.hxx>
 
 #include "test_macros.h"
 

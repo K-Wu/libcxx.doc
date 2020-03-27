@@ -13,9 +13,9 @@
 //   operator<<(basic_ostream<charT, traits>& os,
 //              const basic_string<charT,traits,Allocator>& str);
 
-#include <string>
-#include <sstream>
-#include <cassert>
+#include <string.hxx>
+#include <sstream.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

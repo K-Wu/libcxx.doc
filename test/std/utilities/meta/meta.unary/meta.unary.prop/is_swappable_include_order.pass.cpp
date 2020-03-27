@@ -17,9 +17,9 @@
 //   3) swap(T (&)[N], T (&)[N])
 // This test checks that (1) and (2) see forward declarations
 // for (3).
-#include <type_traits>
-#include <algorithm>
-#include <utility>
+#include <type_traits.hxx>
+#include <algorithm.hxx>
+#include <utility.hxx>
 
 #include "test_macros.h"
 

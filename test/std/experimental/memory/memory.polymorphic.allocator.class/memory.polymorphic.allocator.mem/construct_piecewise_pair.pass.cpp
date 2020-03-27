@@ -16,12 +16,12 @@
 // void polymorphic_allocator<T>::construct(pair<U1, U2>*, piecewise_construct_t
 //                                          tuple<Args1...>, tuple<Args2...>)
 
-#include <experimental/memory_resource>
-#include <type_traits>
-#include <utility>
-#include <tuple>
-#include <cassert>
-#include <cstdlib>
+#include <experimental/memory_resource.hxx>
+#include <type_traits.hxx>
+#include <utility.hxx>
+#include <tuple.hxx>
+#include <cassert.hxx>
+#include <cstdlib.hxx>
 
 #include "test_macros.h"
 #include "test_memory_resource.h"

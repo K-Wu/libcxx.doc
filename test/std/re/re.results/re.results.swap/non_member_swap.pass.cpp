@@ -14,8 +14,8 @@
 //    void swap(match_results<BidirectionalIterator, Allocator>& m1,
 //              match_results<BidirectionalIterator, Allocator>& m2);
 
-#include <regex>
-#include <cassert>
+#include <regex.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 
 void

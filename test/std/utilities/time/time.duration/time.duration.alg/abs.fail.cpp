@@ -16,7 +16,7 @@
 
 // This function shall not participate in overload resolution unless numeric_limits<Rep>::is_signed is true.
 
-#include <chrono>
+#include <chrono.hxx>
 
 typedef std::chrono::duration<unsigned> unsigned_secs;
 

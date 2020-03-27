@@ -12,10 +12,10 @@
 
 // const charT* scan_is(mask m, const charT* low, const charT* high) const;
 
-#include <locale>
-#include <string>
-#include <vector>
-#include <cassert>
+#include <locale.hxx>
+#include <string.hxx>
+#include <vector.hxx>
+#include <cassert.hxx>
 
 #include <stdio.h>
 

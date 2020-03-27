@@ -13,8 +13,8 @@
 //   void
 //   iter_swap(Iter1 a, Iter2 b);
 
-#include <algorithm>
-#include <cassert>
+#include <algorithm.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

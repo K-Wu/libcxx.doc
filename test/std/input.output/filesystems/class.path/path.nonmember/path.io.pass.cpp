@@ -22,10 +22,10 @@
 //
 
 #include "filesystem_include.h"
-#include <type_traits>
-#include <sstream>
-#include <cassert>
-#include <iostream>
+#include <type_traits.hxx>
+#include <sstream.hxx>
+#include <cassert.hxx>
+#include <iostream.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

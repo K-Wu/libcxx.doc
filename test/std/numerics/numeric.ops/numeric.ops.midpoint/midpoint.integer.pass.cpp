@@ -14,9 +14,9 @@
 //
 
 #include <stdint.h>
-#include <limits>
-#include <numeric>
-#include <cassert>
+#include <limits.hxx>
+#include <numeric.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 
 template <typename T>

@@ -13,10 +13,10 @@
 
 // Test the size and alignment matches that of an array of a given type.
 
-#include <array>
-#include <iterator>
-#include <type_traits>
-#include <cstddef>
+#include <array.hxx>
+#include <iterator.hxx>
+#include <type_traits.hxx>
+#include <cstddef.hxx>
 
 #include "test_macros.h"
 

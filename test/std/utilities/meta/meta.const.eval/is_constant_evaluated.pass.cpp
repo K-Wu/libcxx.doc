@@ -12,8 +12,8 @@
 
 // constexpr bool is_constant_evaluated() noexcept; // C++20
 
-#include <type_traits>
-#include <cassert>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -23,9 +23,9 @@
 
 // const char* what() const throw();
 
-#include <future>
-#include <cstring>
-#include <cassert>
+#include <future.hxx>
+#include <cstring.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

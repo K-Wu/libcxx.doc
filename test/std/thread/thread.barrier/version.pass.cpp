@@ -10,7 +10,7 @@
 
 // <barrier>
 
-#include <barrier>
+#include <barrier.hxx>
 
 #include "test_macros.h"
 

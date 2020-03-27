@@ -43,11 +43,11 @@
 
 // test operator new
 
-#include <new>
-#include <cstddef>
-#include <cassert>
-#include <cstdint>
-#include <limits>
+#include <new.hxx>
+#include <cstddef.hxx>
+#include <cassert.hxx>
+#include <cstdint.hxx>
+#include <limits.hxx>
 
 #include "test_macros.h"
 

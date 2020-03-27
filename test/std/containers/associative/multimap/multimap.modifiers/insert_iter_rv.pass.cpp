@@ -15,8 +15,8 @@
 // template <class P>
 //     iterator insert(const_iterator position, P&& p);
 
-#include <map>
-#include <cassert>
+#include <map.hxx>
+#include <cassert.hxx>
 
 #include "MoveOnly.h"
 #include "min_allocator.h"

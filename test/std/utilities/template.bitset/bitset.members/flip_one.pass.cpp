@@ -8,10 +8,10 @@
 
 // test bitset<N>& flip(size_t pos);
 
-#include <bitset>
-#include <cstdlib>
-#include <cassert>
-#include <stdexcept>
+#include <bitset.hxx>
+#include <cstdlib.hxx>
+#include <cassert.hxx>
+#include <stdexcept.hxx>
 
 #include "test_macros.h"
 

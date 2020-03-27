@@ -14,8 +14,8 @@
 
 // map(initializer_list<value_type> il, const key_compare& comp, const allocator_type& a);
 
-#include <map>
-#include <cassert>
+#include <map.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 #include "../../../test_compare.h"
 #include "test_allocator.h"

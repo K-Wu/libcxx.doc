@@ -10,8 +10,8 @@
 
 // size_type find_last_of(const basic_string_view sv, size_type pos = npos) const;
 
-#include <string>
-#include <cassert>
+#include <string.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

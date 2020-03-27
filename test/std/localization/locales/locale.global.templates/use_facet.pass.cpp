@@ -10,8 +10,8 @@
 
 // template <class Facet> const Facet& use_facet(const locale& loc);
 
-#include <locale>
-#include <cassert>
+#include <locale.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

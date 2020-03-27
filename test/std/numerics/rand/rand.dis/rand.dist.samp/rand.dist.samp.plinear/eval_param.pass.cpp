@@ -15,13 +15,13 @@
 
 // template<class _URNG> result_type operator()(_URNG& g, const param_type& parm);
 
-#include <random>
-#include <vector>
-#include <iterator>
-#include <numeric>
-#include <algorithm>   // for sort
-#include <cassert>
-#include <limits>
+#include <random.hxx>
+#include <vector.hxx>
+#include <iterator.hxx>
+#include <numeric.hxx>
+#include <algorithm.hxx>   // for sort
+#include <cassert.hxx>
+#include <limits.hxx>
 
 #include "test_macros.h"
 

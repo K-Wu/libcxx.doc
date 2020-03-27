@@ -19,8 +19,8 @@
 // template <RandomAccessIterator Iter>
 //   constexpr void advance(Iter& i, Iter::difference_type n);
 
-#include <iterator>
-#include <cassert>
+#include <iterator.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

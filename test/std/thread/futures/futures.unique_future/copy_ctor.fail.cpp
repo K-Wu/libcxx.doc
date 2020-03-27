@@ -14,7 +14,7 @@
 
 // future(const future&) = delete;
 
-#include <future>
+#include <future.hxx>
 
 #include "test_macros.h"
 

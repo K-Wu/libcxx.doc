@@ -12,8 +12,8 @@
 // void pop_back();
 // void pop_front();
 
-#include <deque>
-#include <cassert>
+#include <deque.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

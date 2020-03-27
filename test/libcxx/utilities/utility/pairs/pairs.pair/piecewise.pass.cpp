@@ -16,9 +16,9 @@
 //     pair(piecewise_construct_t, tuple<Args1...> first_args,
 //                                 tuple<Args2...> second_args);
 
-#include <tuple>
-#include <type_traits>
-#include <utility>
+#include <tuple.hxx>
+#include <type_traits.hxx>
+#include <utility.hxx>
 
 #include "archetypes.h"
 

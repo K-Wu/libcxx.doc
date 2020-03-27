@@ -12,8 +12,8 @@
 
 // iterator insert(const_iterator p, initializer_list<value_type> il);
 
-#include <deque>
-#include <cassert>
+#include <deque.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

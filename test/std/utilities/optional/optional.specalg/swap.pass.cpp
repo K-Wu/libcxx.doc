@@ -12,9 +12,9 @@
 // template <class T> void swap(optional<T>& x, optional<T>& y)
 //     noexcept(noexcept(x.swap(y)));
 
-#include <optional>
-#include <type_traits>
-#include <cassert>
+#include <optional.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "archetypes.h"

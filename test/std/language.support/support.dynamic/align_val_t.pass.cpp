@@ -10,7 +10,7 @@
 
 // UNSUPPORTED: c++98, c++03, c++11, c++14
 
-#include <new>
+#include <new.hxx>
 
 #include "test_macros.h"
 

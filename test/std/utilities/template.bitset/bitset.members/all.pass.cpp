@@ -8,9 +8,9 @@
 
 // test bool all() const;
 
-#include <bitset>
-#include <type_traits>
-#include <cassert>
+#include <bitset.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -8,10 +8,10 @@
 
 // test bitset(unsigned long long val);
 
-#include <bitset>
-#include <cassert>
-#include <algorithm> // for 'min' and 'max'
-#include <cstddef>
+#include <bitset.hxx>
+#include <cassert.hxx>
+#include <algorithm.hxx> // for 'min' and 'max'
+#include <cstddef.hxx>
 
 #include "test_macros.h"
 

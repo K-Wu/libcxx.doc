@@ -12,9 +12,9 @@
 
 // string_type transform(const charT* low, const charT* high) const;
 
-#include <locale>
-#include <string>
-#include <cassert>
+#include <locale.hxx>
+#include <string.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

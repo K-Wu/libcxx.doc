@@ -13,8 +13,8 @@
 // template <class Duration2>
 //   time_point(const time_point<clock, Duration2>& t);
 
-#include <chrono>
-#include <cassert>
+#include <chrono.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -16,11 +16,11 @@
 
 // unordered_multiset(unordered_multiset&& u, const allocator_type& a);
 
-#include <unordered_set>
-#include <cassert>
-#include <cfloat>
-#include <cmath>
-#include <cstddef>
+#include <unordered_set.hxx>
+#include <cassert.hxx>
+#include <cfloat.hxx>
+#include <cmath.hxx>
+#include <cstddef.hxx>
 
 #include "test_macros.h"
 #include "../../../check_consecutive.h"

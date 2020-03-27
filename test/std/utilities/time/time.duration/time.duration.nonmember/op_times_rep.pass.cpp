@@ -20,8 +20,8 @@
 //   duration<typename common_type<Rep1, Rep2>::type, Period>
 //   operator*(const Rep1& s, const duration<Rep2, Period>& d);
 
-#include <chrono>
-#include <cassert>
+#include <chrono.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "../../rep.h"

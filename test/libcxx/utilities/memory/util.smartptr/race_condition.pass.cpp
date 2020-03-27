@@ -15,10 +15,10 @@
 // This test attempts to create a race condition surrounding use_count()
 // with the hope that TSAN will diagnose it.
 
-#include <memory>
-#include <atomic>
-#include <thread>
-#include <cassert>
+#include <memory.hxx>
+#include <atomic.hxx>
+#include <thread.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

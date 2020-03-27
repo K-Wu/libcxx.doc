@@ -12,7 +12,7 @@
 // template <size_t _Ip, ElementType, size_t Extent>
 //   constexpr ElementType& get(span<ElementType, Extent> s) noexcept;
 
-#include <span>
+#include <span.hxx>
 
 #include "test_macros.h"
 

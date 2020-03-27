@@ -15,9 +15,9 @@
 
 // constexpr const _CharT& at(size_type _pos) const;
 
-#include <string_view>
-#include <stdexcept>
-#include <cassert>
+#include <string_view.hxx>
+#include <stdexcept.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

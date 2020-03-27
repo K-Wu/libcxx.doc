@@ -15,8 +15,8 @@
 */
 
 // XFAIL
-// #include <execution>
-#include <cassert>
+// #include <execution.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 
 int main(int, char**)

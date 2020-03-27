@@ -55,13 +55,13 @@
 //     that terminate has been called)
 
 
-#include <condition_variable>
-#include <atomic>
-#include <thread>
-#include <chrono>
-#include <string>
-#include <cstdlib>
-#include <cassert>
+#include <condition_variable.hxx>
+#include <atomic.hxx>
+#include <thread.hxx>
+#include <chrono.hxx>
+#include <string.hxx>
+#include <cstdlib.hxx>
+#include <cassert.hxx>
 
 void my_terminate() {
   std::_Exit(0); // Use _Exit to prevent cleanup from taking place.

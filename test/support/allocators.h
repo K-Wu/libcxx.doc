@@ -9,8 +9,8 @@
 #ifndef ALLOCATORS_H
 #define ALLOCATORS_H
 
-#include <type_traits>
-#include <utility>
+#include <type_traits.hxx>
+#include <utility.hxx>
 
 #include "test_macros.h"
 

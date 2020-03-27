@@ -16,9 +16,9 @@
 //     typename tuple_element<I, std::pair<T1, T2> >::type&&
 //     get(pair<T1, T2>&&);
 
-#include <utility>
-#include <memory>
-#include <cassert>
+#include <utility.hxx>
+#include <memory.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

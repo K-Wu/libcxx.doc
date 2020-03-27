@@ -13,8 +13,8 @@
 // Make sure we properly generate special member functions for optional<T>
 // based on the properties of T itself.
 
-#include <optional>
-#include <type_traits>
+#include <optional.hxx>
+#include <type_traits.hxx>
 
 #include "archetypes.h"
 

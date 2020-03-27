@@ -17,10 +17,10 @@
 
 // REQUIRES: libcpp-no-exceptions
 
-#include <csignal>
-#include <cstdlib>
-#include <ios>
-#include <streambuf>
+#include <csignal.hxx>
+#include <cstdlib.hxx>
+#include <ios.hxx>
+#include <streambuf.hxx>
 
 #include "test_macros.h"
 

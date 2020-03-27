@@ -12,10 +12,10 @@
 //     constpexr bool       // constexpr after C++17
 //     is_partitioned(InputIterator first, InputIterator last, Predicate pred);
 
-#include <algorithm>
-#include <functional>
-#include <cstddef>
-#include <cassert>
+#include <algorithm.hxx>
+#include <functional.hxx>
+#include <cstddef.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

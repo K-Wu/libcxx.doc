@@ -13,8 +13,8 @@
 // template <class InputIterator>
 //   void insert(InputIterator first, InputIterator last);
 
-#include <map>
-#include <cassert>
+#include <map.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

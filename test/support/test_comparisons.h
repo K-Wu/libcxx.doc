@@ -18,7 +18,7 @@
 #ifndef TEST_COMPARISONS_H
 #define TEST_COMPARISONS_H
 
-#include <type_traits>
+#include <type_traits.hxx>
 #include "test_macros.h"
 
 //  Test all six comparison operations for sanity

@@ -14,9 +14,9 @@
 
 // void move(basic_ios&& rhs);
 
-#include <ios>
-#include <streambuf>
-#include <cassert>
+#include <ios.hxx>
+#include <streambuf.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "platform_support.h" // locale name macros

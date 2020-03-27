@@ -9,8 +9,8 @@
 // NOTE: Undefined __DEPRECATED to prevent this test from failing with -Werror
 #undef __DEPRECATED
 #include <assert.h>
-#include <ext/hash_map>
-#include <string>
+#include <ext/hash_map.hxx>
+#include <string.hxx>
 
 #include "test_macros.h"
 

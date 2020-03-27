@@ -30,10 +30,10 @@
 //  static constexpr index_type extent = Extent;
 //
 
-#include <span>
-#include <cassert>
-#include <iterator>
-#include <string>
+#include <span.hxx>
+#include <cassert.hxx>
+#include <iterator.hxx>
+#include <string.hxx>
 
 #include "test_macros.h"
 

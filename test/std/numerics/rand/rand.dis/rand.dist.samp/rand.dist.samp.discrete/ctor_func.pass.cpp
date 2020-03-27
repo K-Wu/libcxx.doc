@@ -15,8 +15,8 @@
 //     discrete_distribution(size_t nw, double xmin, double xmax,
 //                           UnaryOperation fw);
 
-#include <random>
-#include <cassert>
+#include <random.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

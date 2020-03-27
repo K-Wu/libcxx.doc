@@ -14,8 +14,8 @@
 
 // thread& operator=(thread&& t);
 
-#include <thread>
-#include <cassert>
+#include <thread.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

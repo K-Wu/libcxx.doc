@@ -14,10 +14,10 @@
 
 // bool do_is_equal(memory_resource const &) const noexcept;
 
-#include <experimental/memory_resource>
-#include <type_traits>
-#include <memory>
-#include <cassert>
+#include <experimental/memory_resource.hxx>
+#include <type_traits.hxx>
+#include <memory.hxx>
+#include <cassert.hxx>
 #include "test_memory_resource.h"
 
 #include "test_macros.h"

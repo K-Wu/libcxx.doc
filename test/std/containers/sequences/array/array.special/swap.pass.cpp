@@ -10,8 +10,8 @@
 
 // template <class T, size_t N> void swap(array<T,N>& x, array<T,N>& y);
 
-#include <array>
-#include <cassert>
+#include <array.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 // std::array is explicitly allowed to be initialized with A a = { init-list };.

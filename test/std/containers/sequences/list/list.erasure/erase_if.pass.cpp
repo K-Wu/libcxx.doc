@@ -12,7 +12,7 @@
 // template <class T, class Allocator, class Predicate>
 //   void erase_if(list<T, Allocator>& c, Predicate pred);  
 
-#include <list>
+#include <list.hxx>
 
 #include "test_macros.h"
 #include "test_allocator.h"

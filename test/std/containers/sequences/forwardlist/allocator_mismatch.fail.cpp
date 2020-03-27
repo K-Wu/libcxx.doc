@@ -9,7 +9,7 @@
 // <forward_list>
 //   The container's value type must be the same as the allocator's value type
 
-#include <forward_list>
+#include <forward_list.hxx>
 
 int main(int, char**)
 {

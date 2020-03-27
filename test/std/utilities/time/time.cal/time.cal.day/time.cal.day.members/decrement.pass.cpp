@@ -14,9 +14,9 @@
 //  constexpr day operator--(int) noexcept;
 
 
-#include <chrono>
-#include <type_traits>
-#include <cassert>
+#include <chrono.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

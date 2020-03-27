@@ -11,8 +11,8 @@
 
 //   constexpr bool starts_with(const CharT *x) const;
 
-#include <string_view>
-#include <cassert>
+#include <string_view.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "constexpr_char_traits.h"

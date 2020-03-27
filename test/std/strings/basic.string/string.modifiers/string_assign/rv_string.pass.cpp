@@ -11,9 +11,9 @@
 // basic_string<charT,traits,Allocator>&
 //   assign(basic_string<charT,traits>&& str);
 
-#include <string>
-#include <utility>
-#include <cassert>
+#include <string.hxx>
+#include <utility.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

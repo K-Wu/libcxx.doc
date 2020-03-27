@@ -12,10 +12,10 @@
 
 // UNSUPPORTED: c++98, c++03
 
-#include <array>
-#include <memory>
-#include <utility>
-#include <cassert>
+#include <array.hxx>
+#include <memory.hxx>
+#include <utility.hxx>
+#include <cassert.hxx>
 
 // std::array is explicitly allowed to be initialized with A a = { init-list };.
 // Disable the missing braces warning for this reason.

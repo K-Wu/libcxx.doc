@@ -11,8 +11,8 @@
 
 // void push_front(const value_type& x);
 
-#include <list>
-#include <cassert>
+#include <list.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

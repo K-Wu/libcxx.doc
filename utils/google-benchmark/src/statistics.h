@@ -16,7 +16,7 @@
 #ifndef STATISTICS_H_
 #define STATISTICS_H_
 
-#include <vector>
+#include <vector.hxx>
 
 #include "benchmark/benchmark.h"
 

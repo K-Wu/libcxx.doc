@@ -12,8 +12,8 @@
 // The placeholders are constexpr in C++17 and beyond.
 // libc++ provides constexpr placeholders in C++11 and beyond.
 
-#include <functional>
-#include <type_traits>
+#include <functional.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

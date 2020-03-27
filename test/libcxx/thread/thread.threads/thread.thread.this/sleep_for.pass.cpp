@@ -25,10 +25,10 @@
 // template <class Rep, class Period>
 //   void sleep_for(const chrono::duration<Rep, Period>& rel_time);
 
-#include <thread>
-#include <cstdlib>
-#include <cassert>
-#include <cstring>
+#include <thread.hxx>
+#include <cstdlib.hxx>
+#include <cassert.hxx>
+#include <cstring.hxx>
 #include <signal.h>
 #include <sys/time.h>
 

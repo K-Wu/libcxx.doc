@@ -8,7 +8,7 @@
 
 // <new>
 
-#include <new>
+#include <new.hxx>
 
 #include "test_macros.h"
 

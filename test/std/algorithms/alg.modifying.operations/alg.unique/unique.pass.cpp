@@ -14,9 +14,9 @@
 //   constexpr Iter        // constexpr after C++17
 //   unique(Iter first, Iter last);
 
-#include <algorithm>
-#include <cassert>
-#include <memory>
+#include <algorithm.hxx>
+#include <cassert.hxx>
+#include <memory.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

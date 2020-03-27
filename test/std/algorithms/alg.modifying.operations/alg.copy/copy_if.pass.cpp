@@ -14,8 +14,8 @@
 //   constexpr OutIter   // constexpr after C++17
 //   copy_if(InIter first, InIter last, OutIter result, Pred pred);
 
-#include <algorithm>
-#include <cassert>
+#include <algorithm.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

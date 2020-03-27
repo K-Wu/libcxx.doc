@@ -11,8 +11,8 @@
 // void swap(array& a);
 // namespace std { void swap(array<T, N> &x, array<T, N> &y);
 
-#include <cassert>
-#include <array>
+#include <cassert.hxx>
+#include <array.hxx>
 
 #include "test_macros.h"
 

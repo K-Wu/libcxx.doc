@@ -15,10 +15,10 @@
 //                  const basic_regex<charT, traits>& e,
 //                  regex_constants::match_flag_type flags = regex_constants::match_default);
 
-#include <regex>
-#include <string>
-#include <list>
-#include <cassert>
+#include <regex.hxx>
+#include <string.hxx>
+#include <list.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 
 int main(int, char**)

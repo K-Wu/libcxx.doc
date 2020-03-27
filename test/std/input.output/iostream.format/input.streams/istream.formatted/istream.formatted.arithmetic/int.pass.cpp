@@ -20,9 +20,9 @@
 
 // operator>>(int& val);
 
-#include <istream>
-#include <limits>
-#include <cassert>
+#include <istream.hxx>
+#include <limits.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 
 template <class CharT>

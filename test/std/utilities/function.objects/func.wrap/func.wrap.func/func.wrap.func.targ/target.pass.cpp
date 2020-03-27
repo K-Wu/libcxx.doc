@@ -19,10 +19,10 @@
 //   const T*
 //   target() const;
 
-#include <functional>
-#include <new>
-#include <cstdlib>
-#include <cassert>
+#include <functional.hxx>
+#include <new.hxx>
+#include <cstdlib.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -12,8 +12,8 @@
 
 // value_type& operator[](size_t i);
 
-#include <valarray>
-#include <cassert>
+#include <valarray.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

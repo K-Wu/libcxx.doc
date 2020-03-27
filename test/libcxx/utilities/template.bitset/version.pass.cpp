@@ -8,7 +8,7 @@
 
 // <bitset>
 
-#include <bitset>
+#include <bitset.hxx>
 
 #include "test_macros.h"
 

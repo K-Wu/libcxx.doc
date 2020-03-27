@@ -13,9 +13,9 @@
 
 // explicit locale(const string& std_name);
 
-#include <locale>
-#include <new>
-#include <cassert>
+#include <locale.hxx>
+#include <new.hxx>
+#include <cassert.hxx>
 
 #include "count_new.h"
 #include "test_macros.h"

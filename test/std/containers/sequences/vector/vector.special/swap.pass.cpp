@@ -11,9 +11,9 @@
 // template <class T, class Alloc>
 //   void swap(vector<T,Alloc>& x, vector<T,Alloc>& y);
 
-#include <vector>
-#include <iterator>
-#include <cassert>
+#include <vector.hxx>
+#include <iterator.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 #include "test_allocator.h"
 #include "min_allocator.h"

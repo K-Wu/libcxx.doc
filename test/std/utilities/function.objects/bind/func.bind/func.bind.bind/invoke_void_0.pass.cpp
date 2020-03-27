@@ -15,8 +15,8 @@
 // template<Returnable R, CopyConstructible Fn, CopyConstructible... Types>
 //   unspecified bind(Fn, Types...);
 
-#include <functional>
-#include <cassert>
+#include <functional.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

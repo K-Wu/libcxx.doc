@@ -12,8 +12,8 @@
 
 // constexpr common_type_t<duration> operator+() const;
 
-#include <chrono>
-#include <cassert>
+#include <chrono.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

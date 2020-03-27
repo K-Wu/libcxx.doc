@@ -14,8 +14,8 @@
 
 // test move
 
-#include <utility>
-#include <cassert>
+#include <utility.hxx>
+#include <cassert.hxx>
 
 struct move_only {
     move_only() {}

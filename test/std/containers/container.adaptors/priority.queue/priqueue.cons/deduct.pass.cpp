@@ -25,12 +25,12 @@
 //     -> priority_queue<typename Container::value_type, Container, Compare>;
 
 
-#include <queue>
-#include <vector>
-#include <iterator>
-#include <cassert>
-#include <cstddef>
-#include <climits> // INT_MAX
+#include <queue.hxx>
+#include <vector.hxx>
+#include <iterator.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
+#include <climits.hxx> // INT_MAX
 
 #include "test_macros.h"
 #include "test_iterators.h"

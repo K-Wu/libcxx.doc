@@ -13,8 +13,8 @@
 // RUN: %build -fdelayed-template-parsing
 // RUN: %run
 
-#include <cmath>
-#include <cassert>
+#include <cmath.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

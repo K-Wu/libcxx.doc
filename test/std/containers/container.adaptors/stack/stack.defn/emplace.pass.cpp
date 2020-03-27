@@ -14,9 +14,9 @@
 // return type is 'decltype(auto)' in C++17; 'void' before
 //  whatever the return type of the underlying container's emplace_back() returns.
 
-#include <stack>
-#include <cassert>
-#include <vector>
+#include <stack.hxx>
+#include <cassert.hxx>
+#include <vector.hxx>
 
 #include "test_macros.h"
 

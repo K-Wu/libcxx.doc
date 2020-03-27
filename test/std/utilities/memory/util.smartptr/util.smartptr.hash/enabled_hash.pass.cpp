@@ -13,7 +13,7 @@
 // Test that <memory> provides all of the arithmetic, enum, and pointer
 // hash specializations.
 
-#include <memory>
+#include <memory.hxx>
 
 #include "poisoned_hash_helper.h"
 

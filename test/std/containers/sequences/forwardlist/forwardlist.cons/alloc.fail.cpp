@@ -10,8 +10,8 @@
 
 // explicit forward_list(const allocator_type& a);
 
-#include <forward_list>
-#include <cassert>
+#include <forward_list.hxx>
+#include <cassert.hxx>
 
 #include "test_allocator.h"
 #include "../../../NotConstructible.h"

@@ -12,13 +12,13 @@
 
 // map& operator=(const map& m);
 
-#include <map>
-#include <cassert>
-#include <vector>
-#include <algorithm>
-#include <iterator>
+#include <map.hxx>
+#include <cassert.hxx>
+#include <vector.hxx>
+#include <algorithm.hxx>
+#include <iterator.hxx>
 
-#include <iostream>
+#include <iostream.hxx>
 
 #include "test_macros.h"
 #include "../../../test_compare.h"

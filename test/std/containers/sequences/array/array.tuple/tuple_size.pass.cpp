@@ -10,7 +10,7 @@
 
 // tuple_size<array<T, N> >::value
 
-#include <array>
+#include <array.hxx>
 
 #include "test_macros.h"
 

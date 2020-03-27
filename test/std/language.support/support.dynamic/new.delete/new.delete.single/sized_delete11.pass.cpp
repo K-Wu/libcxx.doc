@@ -14,10 +14,10 @@
 // UNSUPPORTED: c++14, c++17, c++2a
 // UNSUPPORTED: sanitizer-new-delete
 
-#include <new>
-#include <cstddef>
-#include <cstdlib>
-#include <cassert>
+#include <new.hxx>
+#include <cstddef.hxx>
+#include <cstdlib.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

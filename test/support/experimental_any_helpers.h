@@ -8,10 +8,10 @@
 #ifndef EXPERIMENTAL_ANY_HELPERS_H
 #define EXPERIMENTAL_ANY_HELPERS_H
 
-#include <experimental/any>
-#include <typeinfo>
-#include <type_traits>
-#include <cassert>
+#include <experimental/any.hxx>
+#include <typeinfo.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

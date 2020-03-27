@@ -16,10 +16,10 @@
 // Test that the __convert_to_integral functions properly converts Tp to the
 // correct type and value for integral, enum and user defined types.
 
-#include <limits>
-#include <type_traits>
-#include <cstdint>
-#include <cassert>
+#include <limits.hxx>
+#include <type_traits.hxx>
+#include <cstdint.hxx>
+#include <cassert.hxx>
 
 #include "user_defined_integral.h"
 

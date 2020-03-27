@@ -18,12 +18,12 @@
 //                                           T init);
 
 
-#include <numeric>
-#include <algorithm>
-#include <cassert>
-#include <functional>
-#include <iterator>
-#include <vector>
+#include <numeric.hxx>
+#include <algorithm.hxx>
+#include <cassert.hxx>
+#include <functional.hxx>
+#include <iterator.hxx>
+#include <vector.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

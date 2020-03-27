@@ -16,9 +16,9 @@
 //   ostream_joiner & operator++(int) noexcept
 //     returns *this;
 
-#include <experimental/iterator>
-#include <iostream>
-#include <cassert>
+#include <experimental/iterator.hxx>
+#include <iostream.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

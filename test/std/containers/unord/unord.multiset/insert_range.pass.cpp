@@ -15,8 +15,8 @@
 // template <class InputIterator>
 //     void insert(InputIterator first, InputIterator last);
 
-#include <unordered_set>
-#include <cassert>
+#include <unordered_set.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

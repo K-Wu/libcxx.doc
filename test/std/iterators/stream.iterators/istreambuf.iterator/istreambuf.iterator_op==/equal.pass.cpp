@@ -14,9 +14,9 @@
 //   bool operator==(const istreambuf_iterator<charT,traits>& a,
 //                   const istreambuf_iterator<charT,traits>& b);
 
-#include <iterator>
-#include <sstream>
-#include <cassert>
+#include <iterator.hxx>
+#include <sstream.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -15,8 +15,8 @@
 //                    OutputIterator1 out_true, OutputIterator2 out_false,
 //                    Predicate pred);
 
-#include <algorithm>
-#include <cassert>
+#include <algorithm.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

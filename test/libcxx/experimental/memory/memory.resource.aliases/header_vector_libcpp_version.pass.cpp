@@ -10,7 +10,7 @@
 
 // <experimental/vector>
 
-#include <experimental/vector>
+#include <experimental/vector.hxx>
 
 #include "test_macros.h"
 

@@ -19,8 +19,8 @@
 
 // Throw exception after spent too many cycles with respect to the length of the input string.
 
-#include <regex>
-#include <cassert>
+#include <regex.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 
 int main(int, char**) {

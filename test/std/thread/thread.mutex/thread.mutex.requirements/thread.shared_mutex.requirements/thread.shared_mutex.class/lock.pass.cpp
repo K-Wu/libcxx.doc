@@ -17,10 +17,10 @@
 
 // void lock();
 
-#include <shared_mutex>
-#include <thread>
-#include <cstdlib>
-#include <cassert>
+#include <shared_mutex.hxx>
+#include <thread.hxx>
+#include <cstdlib.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

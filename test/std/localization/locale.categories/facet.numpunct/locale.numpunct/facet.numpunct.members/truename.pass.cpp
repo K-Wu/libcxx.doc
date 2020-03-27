@@ -12,8 +12,8 @@
 
 // string_type truename() const;
 
-#include <locale>
-#include <cassert>
+#include <locale.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

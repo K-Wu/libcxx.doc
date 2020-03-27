@@ -16,7 +16,7 @@
 
 // XFAIL: c++98, c++03
 
-#include <functional>
+#include <functional.hxx>
 
 struct A {};
 

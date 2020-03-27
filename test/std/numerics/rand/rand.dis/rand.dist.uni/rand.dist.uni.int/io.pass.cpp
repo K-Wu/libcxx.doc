@@ -21,9 +21,9 @@
 // operator>>(basic_istream<charT, traits>& is,
 //            uniform_int_distribution& x);
 
-#include <random>
-#include <sstream>
-#include <cassert>
+#include <random.hxx>
+#include <sstream.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -12,7 +12,7 @@
 
 // Duration shall be an instance of duration.
 
-#include <chrono>
+#include <chrono.hxx>
 
 int main(int, char**)
 {

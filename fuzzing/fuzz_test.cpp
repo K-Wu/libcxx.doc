@@ -21,12 +21,12 @@
 //  TODO: should add some memory tracking, too.
 
 
-#include <iostream>
-#include <fstream>
-#include <iterator>
-#include <vector>
-#include <map>
-#include <chrono>
+#include <iostream.hxx>
+#include <fstream.hxx>
+#include <iterator.hxx>
+#include <vector.hxx>
+#include <map.hxx>
+#include <chrono.hxx>
 
 #include "fuzzing.h"
 

@@ -22,10 +22,10 @@
 //
 // }}} // namespace std::experimental::pmr
 
-#include <experimental/unordered_set>
-#include <experimental/memory_resource>
-#include <type_traits>
-#include <cassert>
+#include <experimental/unordered_set.hxx>
+#include <experimental/memory_resource.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

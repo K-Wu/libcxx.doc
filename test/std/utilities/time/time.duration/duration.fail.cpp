@@ -13,7 +13,7 @@
 // If a program instantiates duration with a duration type for the template
 // argument Rep a diagnostic is required.
 
-#include <chrono>
+#include <chrono.hxx>
 
 int main(int, char**)
 {

@@ -6,8 +6,8 @@
 //
 //===----------------------------------------------------------------------===//
 
-#include <ctime>
-#include <type_traits>
+#include <ctime.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

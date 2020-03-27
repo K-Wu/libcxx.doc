@@ -13,9 +13,9 @@
 // template <class... Args>
 //   constexpr explicit optional(in_place_t, Args&&... args);
 
-#include <optional>
-#include <type_traits>
-#include <cassert>
+#include <optional.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

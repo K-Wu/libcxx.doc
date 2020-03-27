@@ -10,9 +10,9 @@
 
 // test get_unexpected
 
-#include <exception>
-#include <cassert>
-#include <cstdlib>
+#include <exception.hxx>
+#include <cassert.hxx>
+#include <cstdlib.hxx>
 
 #include "test_macros.h"
 

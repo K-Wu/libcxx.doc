@@ -8,10 +8,10 @@
 
 // test bitset<N>::reference operator[](size_t pos);
 
-#include <bitset>
-#include <type_traits>
-#include <cstdlib>
-#include <cassert>
+#include <bitset.hxx>
+#include <type_traits.hxx>
+#include <cstdlib.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

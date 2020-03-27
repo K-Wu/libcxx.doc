@@ -16,8 +16,8 @@
 //     size_t operator()(const shared_ptr<T>& p) const;
 // };
 
-#include <memory>
-#include <cassert>
+#include <memory.hxx>
+#include <cassert.hxx>
 
 #if TEST_STD_VER >= 11
 #include "poisoned_hash_helper.h"

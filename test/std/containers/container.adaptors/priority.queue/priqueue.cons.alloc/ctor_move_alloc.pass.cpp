@@ -13,8 +13,8 @@
 // template <class Alloc>
 //     priority_queue(priority_queue&& q, const Alloc& a);
 
-#include <queue>
-#include <cassert>
+#include <queue.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "MoveOnly.h"

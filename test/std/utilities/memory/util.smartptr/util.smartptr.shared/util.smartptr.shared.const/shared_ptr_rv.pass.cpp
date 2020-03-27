@@ -14,8 +14,8 @@
 
 // shared_ptr(shared_ptr&& r);
 
-#include <memory>
-#include <cassert>
+#include <memory.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

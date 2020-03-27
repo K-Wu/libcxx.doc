@@ -12,7 +12,7 @@
 
 // namespace std::filesystem
 
-#include <filesystem>
+#include <filesystem.hxx>
 #include "test_macros.h"
 
 using namespace std::filesystem;

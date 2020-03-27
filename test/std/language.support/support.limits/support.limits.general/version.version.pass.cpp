@@ -100,7 +100,7 @@
     __cpp_lib_void_t                               201411L [C++17]
 */
 
-#include <version>
+#include <version.hxx>
 #include "test_macros.h"
 
 #if TEST_STD_VER < 14

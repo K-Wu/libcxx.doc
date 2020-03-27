@@ -38,10 +38,10 @@
 ///   described in the previous item;
 ///   (1.5) - f(t1, t2, ..., tN) in all other cases.
 
-#include <functional>
-#include <type_traits>
-#include <utility> // for std::move
-#include <cassert>
+#include <functional.hxx>
+#include <type_traits.hxx>
+#include <utility.hxx> // for std::move
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

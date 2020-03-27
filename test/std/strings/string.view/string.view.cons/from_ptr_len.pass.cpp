@@ -13,9 +13,9 @@
 //      : __data (_s), __size(_len) {}
 
 
-#include <string_view>
-#include <string>
-#include <cassert>
+#include <string_view.hxx>
+#include <string.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

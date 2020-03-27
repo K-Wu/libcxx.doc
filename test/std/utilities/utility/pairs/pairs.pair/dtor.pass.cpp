@@ -19,10 +19,10 @@
 //     if (is_trivially_destructible_v<T1> && is_trivially_destructible_v<T2>) is true.
 
 
-#include <utility>
-#include <type_traits>
-#include <string>
-#include <cassert>
+#include <utility.hxx>
+#include <type_traits.hxx>
+#include <string.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

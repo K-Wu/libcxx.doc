@@ -13,10 +13,10 @@
 //   const Allocator& a = Allocator());
 
 
-#include <string>
-#include <iterator>
-#include <cassert>
-#include <cstddef>
+#include <string.hxx>
+#include <iterator.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
 
 #include "test_macros.h"
 #include "test_allocator.h"

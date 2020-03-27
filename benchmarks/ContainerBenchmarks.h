@@ -10,7 +10,7 @@
 #ifndef BENCHMARK_CONTAINER_BENCHMARKS_H
 #define BENCHMARK_CONTAINER_BENCHMARKS_H
 
-#include <cassert>
+#include <cassert.hxx>
 
 #include "Utilities.h"
 #include "benchmark/benchmark.h"

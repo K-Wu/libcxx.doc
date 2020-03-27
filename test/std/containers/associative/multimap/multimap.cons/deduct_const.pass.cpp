@@ -26,12 +26,12 @@
 // multimap(initializer_list<Key>, Allocator)
 //   -> multimap<Key, less<Key>, Allocator>;
 
-#include <algorithm> // std::equal
-#include <cassert>
-#include <climits> // INT_MAX
-#include <functional>
-#include <map>
-#include <type_traits>
+#include <algorithm.hxx> // std::equal
+#include <cassert.hxx>
+#include <climits.hxx> // INT_MAX
+#include <functional.hxx>
+#include <map.hxx>
+#include <type_traits.hxx>
 
 #include "test_allocator.h"
 

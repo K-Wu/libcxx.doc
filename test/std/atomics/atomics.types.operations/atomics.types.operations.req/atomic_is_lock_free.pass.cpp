@@ -18,8 +18,8 @@
 //     bool
 //     atomic_is_lock_free(const atomic<T>* obj);
 
-#include <atomic>
-#include <cassert>
+#include <atomic.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "atomic_helpers.h"

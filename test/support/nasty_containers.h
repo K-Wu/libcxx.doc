@@ -9,9 +9,9 @@
 #ifndef NASTY_CONTAINERS_H
 #define NASTY_CONTAINERS_H
 
-#include <cassert>
-#include <vector>
-#include <list>
+#include <cassert.hxx>
+#include <vector.hxx>
+#include <list.hxx>
 
 #include "test_macros.h"
 

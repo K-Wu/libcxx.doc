@@ -8,7 +8,7 @@
 
 // <cstdbool>
 
-#include <cstdbool>
+#include <cstdbool.hxx>
 
 #include "test_macros.h"
 

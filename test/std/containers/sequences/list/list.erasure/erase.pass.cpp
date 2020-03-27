@@ -13,8 +13,8 @@
 //   void erase(list<T, Allocator>& c, const U& value);
   
 
-#include <list>
-#include <optional>
+#include <list.hxx>
+#include <optional.hxx>
 
 #include "test_macros.h"
 #include "test_allocator.h"

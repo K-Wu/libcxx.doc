@@ -13,8 +13,8 @@
 
 // explicit basic_stringstream(ios_base::openmode which = ios_base::out|ios_base::in);
 
-#include <sstream>
-#include <cassert>
+#include <sstream.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

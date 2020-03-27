@@ -18,9 +18,9 @@
 //      OtherElementType(*)[] is convertible to ElementType(*)[].
 
 
-#include <span>
-#include <cassert>
-#include <string>
+#include <span.hxx>
+#include <cassert.hxx>
+#include <string.hxx>
 
 #include "test_macros.h"
 

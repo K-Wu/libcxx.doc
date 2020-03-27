@@ -15,9 +15,9 @@
 
 // basic_ios& copyfmt(const basic_ios& rhs);
 
-#include <ios>
-#include <streambuf>
-#include <cassert>
+#include <ios.hxx>
+#include <streambuf.hxx>
+#include <cassert.hxx>
 
 #include "platform_support.h" // locale name macros
 

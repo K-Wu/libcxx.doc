@@ -9,7 +9,7 @@
 #ifndef TEST_SUPPORT_COUNTING_PREDICATES_H
 #define TEST_SUPPORT_COUNTING_PREDICATES_H
 
-#include <cstddef>
+#include <cstddef.hxx>
 
 template <typename Predicate, typename Arg>
 struct unary_counting_predicate {

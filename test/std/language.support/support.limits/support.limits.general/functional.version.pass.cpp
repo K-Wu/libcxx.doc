@@ -25,7 +25,7 @@
                                        201510L [C++17]
 */
 
-#include <functional>
+#include <functional.hxx>
 #include "test_macros.h"
 
 #if TEST_STD_VER < 14

@@ -12,8 +12,8 @@
 
 // slice_array<value_type> operator[](slice s);
 
-#include <valarray>
-#include <cassert>
+#include <valarray.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -9,7 +9,7 @@
 // <version>
 // UNSUPPORTED: c++98, c++03, c++11, c++14, c++17
 
-#include <version>
+#include <version.hxx>
 
 #include "test_macros.h"
 

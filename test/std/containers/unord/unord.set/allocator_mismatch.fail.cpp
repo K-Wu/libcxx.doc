@@ -9,7 +9,7 @@
 // <unordered_set>
 //   The container's value type must be the same as the allocator's value type
 
-#include <unordered_set>
+#include <unordered_set.hxx>
 
 int main(int, char**)
 {

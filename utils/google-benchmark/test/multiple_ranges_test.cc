@@ -1,9 +1,9 @@
 #include "benchmark/benchmark.h"
 
-#include <cassert>
-#include <iostream>
-#include <set>
-#include <vector>
+#include <cassert.hxx>
+#include <iostream.hxx>
+#include <set.hxx>
+#include <vector.hxx>
 
 class MultipleRangesFixture : public ::benchmark::Fixture {
  public:

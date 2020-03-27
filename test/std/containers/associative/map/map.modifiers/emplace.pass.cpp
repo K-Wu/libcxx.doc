@@ -15,9 +15,9 @@
 // template <class... Args>
 //   pair<iterator, bool> emplace(Args&&... args);
 
-#include <map>
-#include <cassert>
-#include <tuple>
+#include <map.hxx>
+#include <cassert.hxx>
+#include <tuple.hxx>
 
 #include "test_macros.h"
 #include "../../../Emplaceable.h"

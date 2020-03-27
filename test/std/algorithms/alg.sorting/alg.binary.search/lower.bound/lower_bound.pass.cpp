@@ -12,10 +12,10 @@
 //   constexpr Iter    // constexpr after c++17
 //   lower_bound(Iter first, Iter last, const T& value);
 
-#include <algorithm>
-#include <vector>
-#include <cassert>
-#include <cstddef>
+#include <algorithm.hxx>
+#include <vector.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

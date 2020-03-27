@@ -14,8 +14,8 @@
 
 // mapped_type& operator[](key_type&& k);
 
-#include <map>
-#include <cassert>
+#include <map.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "count_new.h"

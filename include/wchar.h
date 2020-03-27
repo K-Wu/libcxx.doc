@@ -105,7 +105,7 @@ size_t wcsrtombs(char* restrict dst, const wchar_t** restrict src, size_t len,
 
 */
 
-#include <__config>
+#include <__config.hxx>
 
 #if !defined(_LIBCPP_HAS_NO_PRAGMA_SYSTEM_HEADER)
 #pragma GCC system_header

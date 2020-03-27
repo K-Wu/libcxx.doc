@@ -10,8 +10,8 @@
 
 // is_enum
 
-#include <type_traits>
-#include <cstddef>        // for std::nullptr_t
+#include <type_traits.hxx>
+#include <cstddef.hxx>        // for std::nullptr_t
 #include "test_macros.h"
 
 template <class T>

@@ -12,8 +12,8 @@
 // Test that libc++ generates a warning diagnostic when the container is
 // provided a non-const callable comparator or a non-const hasher.
 
-#include <unordered_set>
-#include <unordered_map>
+#include <unordered_set.hxx>
+#include <unordered_map.hxx>
 
 struct BadHash {
   template <class T>

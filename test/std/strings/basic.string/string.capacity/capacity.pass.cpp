@@ -10,8 +10,8 @@
 
 // size_type capacity() const;
 
-#include <string>
-#include <cassert>
+#include <string.hxx>
+#include <cassert.hxx>
 
 #include "test_allocator.h"
 #include "min_allocator.h"

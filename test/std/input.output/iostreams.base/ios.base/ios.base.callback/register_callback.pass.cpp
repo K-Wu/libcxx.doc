@@ -14,10 +14,10 @@
 
 // void register_callback(event_callback fn, int index);
 
-#include <ios>
-#include <string>
-#include <locale>
-#include <cassert>
+#include <ios.hxx>
+#include <string.hxx>
+#include <locale.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "platform_support.h" // locale name macros

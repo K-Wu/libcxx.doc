@@ -9,8 +9,8 @@
 #ifndef TEST_HASH_H
 #define TEST_HASH_H
 
-#include <cstddef>
-#include <type_traits>
+#include <cstddef.hxx>
+#include <type_traits.hxx>
 
 template <class C>
 class test_hash

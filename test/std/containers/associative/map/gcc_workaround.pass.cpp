@@ -8,9 +8,9 @@
 
 // Tests workaround for https://gcc.gnu.org/bugzilla/show_bug.cgi?id=37804
 
-#include <map>
+#include <map.hxx>
 std::map<int,int>::iterator it;
-#include <set>
+#include <set.hxx>
 
 #include "test_macros.h"
 using std::set;

@@ -13,8 +13,8 @@
 
 // template<class Sseq> explicit linear_congruential_engine(Sseq& q);
 
-#include <random>
-#include <cassert>
+#include <random.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

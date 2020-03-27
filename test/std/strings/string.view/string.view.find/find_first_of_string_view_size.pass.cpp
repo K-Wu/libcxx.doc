@@ -10,8 +10,8 @@
 
 // size_type find_first_of(const basic_string_view& str, size_type pos = 0) const;
 
-#include <string_view>
-#include <cassert>
+#include <string_view.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

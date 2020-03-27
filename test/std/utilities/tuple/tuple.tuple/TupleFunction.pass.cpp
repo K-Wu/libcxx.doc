@@ -10,8 +10,8 @@
 
 // This is for bugs 18853 and 19118
 
-#include <tuple>
-#include <functional>
+#include <tuple.hxx>
+#include <functional.hxx>
 
 #include "test_macros.h"
 

@@ -6,9 +6,9 @@
 //
 //===----------------------------------------------------------------------===//
 
-#include <cstddef>
-#include <type_traits>
-#include <cassert>
+#include <cstddef.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

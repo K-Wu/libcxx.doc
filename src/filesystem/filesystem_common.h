@@ -9,12 +9,12 @@
 #ifndef FILESYSTEM_COMMON_H
 #define FILESYSTEM_COMMON_H
 
-#include "__config"
-#include "filesystem"
-#include "array"
-#include "chrono"
-#include "cstdlib"
-#include "climits"
+#include "__config.hxx"
+#include "filesystem.hxx"
+#include "array.hxx"
+#include "chrono.hxx"
+#include "cstdlib.hxx"
+#include "climits.hxx"
 
 #include <unistd.h>
 #include <sys/stat.h>

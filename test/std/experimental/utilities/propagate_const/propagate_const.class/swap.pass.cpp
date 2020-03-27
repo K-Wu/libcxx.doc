@@ -12,10 +12,10 @@
 
 // template <class T> constexpr void propagate_const::swap(propagate_const<T>& x);
 
-#include <experimental/propagate_const>
+#include <experimental/propagate_const.hxx>
 #include "test_macros.h"
 #include "propagate_const_helpers.h"
-#include <cassert>
+#include <cassert.hxx>
 
 using std::experimental::propagate_const;
 

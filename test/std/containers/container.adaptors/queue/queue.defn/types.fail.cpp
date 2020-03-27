@@ -8,9 +8,9 @@
 
 // <queue>
 
-#include <queue>
-#include <cassert>
-#include <type_traits>
+#include <queue.hxx>
+#include <cassert.hxx>
+#include <type_traits.hxx>
 
 int main(int, char**)
 {

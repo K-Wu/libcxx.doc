@@ -10,8 +10,8 @@
 
 // struct random_access_iterator_tag : public bidirectional_iterator_tag {};
 
-#include <iterator>
-#include <type_traits>
+#include <iterator.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

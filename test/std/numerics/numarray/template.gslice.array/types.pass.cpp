@@ -14,8 +14,8 @@
 // public:
 //     typedef T value_type;
 
-#include <valarray>
-#include <type_traits>
+#include <valarray.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

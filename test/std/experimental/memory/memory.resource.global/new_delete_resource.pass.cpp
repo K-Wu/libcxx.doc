@@ -12,9 +12,9 @@
 
 // memory_resource * new_delete_resource()
 
-#include <experimental/memory_resource>
-#include <type_traits>
-#include <cassert>
+#include <experimental/memory_resource.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "count_new.h"
 

@@ -14,9 +14,9 @@
 //  Returns the underlying weekday, _except_ that returns '7' for Sunday (zero)
 //    See [time.cal.wd.members]
 
-#include <chrono>
-#include <type_traits>
-#include <cassert>
+#include <chrono.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -13,17 +13,17 @@
 // template <class T, size_t N> constexpr bool empty(const T (&array)[N]) noexcept;  // C++17
 // template <class E> constexpr bool empty(initializer_list<E> il) noexcept;         // C++17
 
-#include <iterator>
-#include <cassert>
-#include <vector>
-#include <array>
-#include <list>
-#include <initializer_list>
+#include <iterator.hxx>
+#include <cassert.hxx>
+#include <vector.hxx>
+#include <array.hxx>
+#include <list.hxx>
+#include <initializer_list.hxx>
 
 #include "test_macros.h"
 
 #if TEST_STD_VER > 14
-#include <string_view>
+#include <string_view.hxx>
 #endif
 
 template<typename C>

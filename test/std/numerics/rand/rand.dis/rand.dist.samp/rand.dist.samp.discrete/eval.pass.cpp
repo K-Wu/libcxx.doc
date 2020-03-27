@@ -15,9 +15,9 @@
 
 // template<class _URNG> result_type operator()(_URNG& g);
 
-#include <random>
-#include <vector>
-#include <cassert>
+#include <random.hxx>
+#include <vector.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

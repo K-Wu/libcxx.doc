@@ -1,4 +1,4 @@
-#include <memory>
+#include <memory.hxx>
 
 #include "../src/check.h"
 #include "benchmark/benchmark.h"

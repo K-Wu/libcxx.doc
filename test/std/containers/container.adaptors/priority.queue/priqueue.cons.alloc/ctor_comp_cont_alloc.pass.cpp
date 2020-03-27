@@ -12,8 +12,8 @@
 //     priority_queue(const Compare& comp, const container_type& c,
 //                    const Alloc& a);
 
-#include <queue>
-#include <cassert>
+#include <queue.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_allocator.h"

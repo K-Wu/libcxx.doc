@@ -12,9 +12,9 @@
 //     void shuffle(RandomAccessIterator first, RandomAccessIterator last,
 //                  UniformRandomNumberGenerator& g);
 
-#include <algorithm>
-#include <random>
-#include <cassert>
+#include <algorithm.hxx>
+#include <random.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -8,15 +8,15 @@
 
 // test <cstdint>
 
-#include <cstdint>
-#include <cstddef>
-#include <cwchar>
-#include <csignal>
-#include <cwctype>
-#include <climits>
-#include <type_traits>
-#include <limits>
-#include <cassert>
+#include <cstdint.hxx>
+#include <cstddef.hxx>
+#include <cwchar.hxx>
+#include <csignal.hxx>
+#include <cwctype.hxx>
+#include <climits.hxx>
+#include <type_traits.hxx>
+#include <limits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

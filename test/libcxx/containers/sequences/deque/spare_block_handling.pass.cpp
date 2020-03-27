@@ -14,11 +14,11 @@
 // for are not always important, but are sometimes needed to ensure the container
 // resizes or shrinks at the correct time.
 
-#include <deque>
-#include <iostream>
-#include <memory>
-#include <stack>
-#include <queue>
+#include <deque.hxx>
+#include <iostream.hxx>
+#include <memory.hxx>
+#include <stack.hxx>
+#include <queue.hxx>
 
 #include "min_allocator.h"
 #include "rapid-cxx-test.h"

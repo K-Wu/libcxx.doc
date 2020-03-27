@@ -16,8 +16,8 @@
 // key_compare    key_comp() const;
 // value_compare value_comp() const;
 
-#include <set>
-#include <cassert>
+#include <set.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "../../../test_compare.h"

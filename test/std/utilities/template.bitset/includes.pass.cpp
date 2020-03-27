@@ -8,7 +8,7 @@
 
 // test that <bitset> includes <string> and <iosfwd>
 
-#include <bitset>
+#include <bitset.hxx>
 
 #include "test_macros.h"
 

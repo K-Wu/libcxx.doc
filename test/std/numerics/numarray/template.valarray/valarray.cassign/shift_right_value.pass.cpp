@@ -12,9 +12,9 @@
 
 // valarray& operator>>=(const value_type& x);
 
-#include <valarray>
-#include <cassert>
-#include <cstddef>
+#include <valarray.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
 
 #include "test_macros.h"
 

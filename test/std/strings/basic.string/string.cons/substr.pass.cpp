@@ -21,12 +21,12 @@
 // libc++abi.dylib and exceptions are not caught properly.
 // XFAIL: with_system_cxx_lib=macosx10.7
 
-#include <string>
-#include <stdexcept>
-#include <algorithm>
-#include <vector>
-#include <scoped_allocator>
-#include <cassert>
+#include <string.hxx>
+#include <stdexcept.hxx>
+#include <algorithm.hxx>
+#include <vector.hxx>
+#include <scoped_allocator.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_allocator.h"

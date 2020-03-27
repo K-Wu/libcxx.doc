@@ -19,9 +19,9 @@
 //   inner_product(Iter1 first1, Iter1 last1, Iter2 first2,
 //                 T init, BinaryOperation1 binary_op1, BinaryOperation2 binary_op2);
 
-#include <numeric>
-#include <functional>
-#include <cassert>
+#include <numeric.hxx>
+#include <functional.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

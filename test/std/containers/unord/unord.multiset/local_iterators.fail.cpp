@@ -19,8 +19,8 @@
 // const_local_iterator cbegin(size_type n) const;
 // const_local_iterator cend  (size_type n) const;
 
-#include <unordered_set>
-#include <cassert>
+#include <unordered_set.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

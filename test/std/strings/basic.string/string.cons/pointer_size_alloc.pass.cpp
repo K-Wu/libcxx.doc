@@ -10,10 +10,10 @@
 
 // basic_string(const charT* s, size_type n, const Allocator& a = Allocator());
 
-#include <string>
-#include <stdexcept>
-#include <algorithm>
-#include <cassert>
+#include <string.hxx>
+#include <stdexcept.hxx>
+#include <algorithm.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_allocator.h"

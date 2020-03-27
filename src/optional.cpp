@@ -6,7 +6,7 @@
 //
 //===----------------------------------------------------------------------===//
 
-#include "optional"
+#include "optional.hxx"
 
 namespace std
 {
@@ -20,7 +20,7 @@ const char* bad_optional_access::what() const _NOEXCEPT {
 } // std
 
 
-#include <experimental/__config>
+#include <experimental/__config.hxx>
 
 //  Preserve std::experimental::bad_optional_access for ABI compatibility
 //  Even though it no longer exists in a header file

@@ -19,8 +19,8 @@
 //   typedef Category  iterator_category;
 // };
 
-#include <iterator>
-#include <type_traits>
+#include <iterator.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

@@ -12,8 +12,8 @@
 
 // class future_error : public logic_error {...};
 
-#include <future>
-#include <type_traits>
+#include <future.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

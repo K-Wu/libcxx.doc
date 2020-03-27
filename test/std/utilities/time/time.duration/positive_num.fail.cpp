@@ -12,7 +12,7 @@
 
 // Period::num shall be positive, diagnostic required.
 
-#include <chrono>
+#include <chrono.hxx>
 
 int main(int, char**)
 {

@@ -12,9 +12,9 @@
 
 // ostreambuf_iterator(ostream_type& s) throw();
 
-#include <iterator>
-#include <sstream>
-#include <cassert>
+#include <iterator.hxx>
+#include <sstream.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

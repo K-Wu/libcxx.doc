@@ -8,7 +8,7 @@
 
 // <ciso646>
 
-#include <ciso646>
+#include <ciso646.hxx>
 
 #include "test_macros.h"
 

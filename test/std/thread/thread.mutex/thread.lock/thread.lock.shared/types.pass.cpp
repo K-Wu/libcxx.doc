@@ -20,8 +20,8 @@
 //     ...
 // };
 
-#include <shared_mutex>
-#include <type_traits>
+#include <shared_mutex.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

@@ -12,10 +12,10 @@
 
 // thread(const thread&) = delete;
 
-#include <thread>
-#include <new>
-#include <cstdlib>
-#include <cassert>
+#include <thread.hxx>
+#include <new.hxx>
+#include <cstdlib.hxx>
+#include <cassert.hxx>
 
 class G
 {

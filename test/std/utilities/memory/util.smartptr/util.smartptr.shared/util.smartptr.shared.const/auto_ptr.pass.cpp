@@ -13,10 +13,10 @@
 
 #define _LIBCPP_DISABLE_DEPRECATION_WARNINGS
 
-#include <memory>
-#include <new>
-#include <cstdlib>
-#include <cassert>
+#include <memory.hxx>
+#include <new.hxx>
+#include <cstdlib.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "count_new.h"

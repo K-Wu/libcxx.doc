@@ -14,10 +14,10 @@
 
 // unique_lock(mutex_type& m, try_to_lock_t);
 
-#include <mutex>
-#include <thread>
-#include <cstdlib>
-#include <cassert>
+#include <mutex.hxx>
+#include <thread.hxx>
+#include <cstdlib.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

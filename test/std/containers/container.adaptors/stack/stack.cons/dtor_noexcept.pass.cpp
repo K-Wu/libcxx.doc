@@ -12,8 +12,8 @@
 
 // UNSUPPORTED: c++98, c++03
 
-#include <stack>
-#include <cassert>
+#include <stack.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "MoveOnly.h"

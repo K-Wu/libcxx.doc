@@ -22,12 +22,12 @@
 
 //  Testing to make sure that the max length values are correctly inserted
 
-#include <sstream>
-#include <ios>
-#include <type_traits>
-#include <cctype>
-#include <cstdint>
-#include <cassert>
+#include <sstream.hxx>
+#include <ios.hxx>
+#include <type_traits.hxx>
+#include <cctype.hxx>
+#include <cstdint.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

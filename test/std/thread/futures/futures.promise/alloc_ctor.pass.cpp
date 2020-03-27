@@ -16,8 +16,8 @@
 // template <class Allocator>
 //   promise(allocator_arg_t, const Allocator& a);
 
-#include <future>
-#include <cassert>
+#include <future.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_allocator.h"

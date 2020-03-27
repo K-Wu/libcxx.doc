@@ -14,8 +14,8 @@
 //     size_t operator()(type_index index) const;
 // };
 
-#include <typeindex>
-#include <type_traits>
+#include <typeindex.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 #if TEST_STD_VER >= 11

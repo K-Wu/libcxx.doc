@@ -15,10 +15,10 @@
 
 // thread& operator=(thread&& t);
 
-#include <thread>
-#include <exception>
-#include <cstdlib>
-#include <cassert>
+#include <thread.hxx>
+#include <exception.hxx>
+#include <cstdlib.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

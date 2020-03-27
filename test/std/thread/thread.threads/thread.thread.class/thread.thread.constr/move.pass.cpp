@@ -14,10 +14,10 @@
 
 // thread(thread&& t);
 
-#include <thread>
-#include <new>
-#include <cstdlib>
-#include <cassert>
+#include <thread.hxx>
+#include <new.hxx>
+#include <cstdlib.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

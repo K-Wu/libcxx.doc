@@ -17,9 +17,9 @@
 // UNSUPPORTED: apple-clang-9, apple-clang-10
 // UNSUPPORTED: clang-6, clang-7
 
-#include <new>
+#include <new.hxx>
 
-#include <cassert>
+#include <cassert.hxx>
 #include "test_macros.h"
 
 struct A {

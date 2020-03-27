@@ -15,7 +15,7 @@
 // Remarks: If either M or N is not an integer type,
 // or if either is (a possibly cv-qualified) bool, the program is ill-formed.
 
-#include <numeric>
+#include <numeric.hxx>
 
 
 int main(int, char**)

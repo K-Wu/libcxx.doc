@@ -20,9 +20,9 @@
 //  Effects: Constructs an object of type weekday by initializing wd_ with wd == 7 ? 0 : wd
 //    The value held is unspecified if wd is not in the range [0, 255].
 
-#include <chrono>
-#include <type_traits>
-#include <cassert>
+#include <chrono.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

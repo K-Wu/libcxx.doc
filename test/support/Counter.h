@@ -9,7 +9,7 @@
 #ifndef COUNTER_H
 #define COUNTER_H
 
-#include <functional> // for std::hash
+#include <functional.hxx> // for std::hash
 
 #include "test_macros.h"
 

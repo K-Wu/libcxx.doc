@@ -9,7 +9,7 @@
 // <string>
 //   The strings's value type must be the same as the traits's char_type
 
-#include <string>
+#include <string.hxx>
 
 int main(int, char**)
 {

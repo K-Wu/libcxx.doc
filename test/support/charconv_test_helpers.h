@@ -9,9 +9,9 @@
 #ifndef SUPPORT_CHARCONV_TEST_HELPERS_H
 #define SUPPORT_CHARCONV_TEST_HELPERS_H
 
-#include <charconv>
-#include <cassert>
-#include <limits>
+#include <charconv.hxx>
+#include <cassert.hxx>
+#include <limits.hxx>
 #include <string.h>
 #include <stdlib.h>
 

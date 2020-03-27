@@ -15,9 +15,9 @@
 
 // ~variant();
 
-#include <cassert>
-#include <type_traits>
-#include <variant>
+#include <cassert.hxx>
+#include <type_traits.hxx>
+#include <variant.hxx>
 
 #include "test_macros.h"
 

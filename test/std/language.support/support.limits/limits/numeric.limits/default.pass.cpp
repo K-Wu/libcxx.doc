@@ -11,8 +11,8 @@
 // The default numeric_limits<T> template shall have all members, but with
 // 0 or false values.
 
-#include <limits>
-#include <cassert>
+#include <limits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

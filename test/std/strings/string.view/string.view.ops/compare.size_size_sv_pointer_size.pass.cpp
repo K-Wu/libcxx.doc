@@ -11,9 +11,9 @@
 // constexpr int compare(size_type pos1, size_type n1,
 //             const charT* s, size_type n2) const;
 
-#include <string_view>
-#include <cassert>
-#include <stdexcept>
+#include <string_view.hxx>
+#include <cassert.hxx>
+#include <stdexcept.hxx>
 
 #include "test_macros.h"
 #include "constexpr_char_traits.h"

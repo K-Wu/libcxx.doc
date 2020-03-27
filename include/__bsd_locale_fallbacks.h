@@ -15,7 +15,7 @@
 
 #include <stdlib.h>
 #include <stdarg.h>
-#include <memory>
+#include <memory.hxx>
 
 #if !defined(_LIBCPP_HAS_NO_PRAGMA_SYSTEM_HEADER)
 #pragma GCC system_header

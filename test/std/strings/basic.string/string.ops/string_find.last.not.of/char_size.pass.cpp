@@ -10,8 +10,8 @@
 
 // size_type find_last_not_of(charT c, size_type pos = npos) const;
 
-#include <string>
-#include <cassert>
+#include <string.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

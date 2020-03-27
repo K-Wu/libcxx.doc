@@ -11,8 +11,8 @@
 // template <class BinaryPred> void      unique(BinaryPred pred); // before C++20
 // template <class BinaryPred> size_type unique(BinaryPred pred); // C++20 and later
 
-#include <list>
-#include <cassert>
+#include <list.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

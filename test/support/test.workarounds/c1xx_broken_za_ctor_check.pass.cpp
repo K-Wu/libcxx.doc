@@ -10,7 +10,7 @@
 
 // Verify TEST_WORKAROUND_C1XX_BROKEN_ZA_CTOR_CHECK.
 
-#include <type_traits>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 #include "test_workarounds.h"

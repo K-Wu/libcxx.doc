@@ -13,9 +13,9 @@
 //   getline(basic_istream<charT,traits>& is,
 //           basic_string<charT,traits,Allocator>& str, charT delim);
 
-#include <string>
-#include <sstream>
-#include <cassert>
+#include <string.hxx>
+#include <sstream.hxx>
+#include <cassert.hxx>
 
 #include "min_allocator.h"
 #include "test_macros.h"

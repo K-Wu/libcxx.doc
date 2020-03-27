@@ -12,8 +12,8 @@
 
 // size_type count(const key_type& k) const;
 
-#include <map>
-#include <cassert>
+#include <map.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

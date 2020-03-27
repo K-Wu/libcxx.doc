@@ -10,8 +10,8 @@
 
 // typedef regex_iterator<string::const_iterator>   sregex_iterator;
 
-#include <regex>
-#include <type_traits>
+#include <regex.hxx>
+#include <type_traits.hxx>
 #include "test_macros.h"
 
 int main(int, char**)

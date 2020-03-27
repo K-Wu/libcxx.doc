@@ -6,10 +6,10 @@
 //
 //===----------------------------------------------------------------------===//
 
-#include "stdexcept"
-#include "new"
-#include "string"
-#include "system_error"
+#include "stdexcept.hxx"
+#include "new.hxx"
+#include "string.hxx"
+#include "system_error.hxx"
 
 
 #ifdef _LIBCPP_ABI_VCRUNTIME

@@ -16,8 +16,8 @@
 // we re-declare the entire class in this file instead of using
 // _LIBCPP_BUILDING_LIBRARY to change the definition in the headers.
 
-#include "__config"
-#include "__threading_support"
+#include "__config.hxx"
+#include "__threading_support.hxx"
 
 #if !defined(_LIBCPP_HAS_NO_THREADS)
 #if _LIBCPP_ABI_VERSION == 1 || !defined(_LIBCPP_HAS_TRIVIAL_MUTEX_DESTRUCTION)

@@ -10,8 +10,8 @@
 
 // <semaphore>
 
-#include <semaphore>
-#include <thread>
+#include <semaphore.hxx>
+#include <thread.hxx>
 
 #include "test_macros.h"
 

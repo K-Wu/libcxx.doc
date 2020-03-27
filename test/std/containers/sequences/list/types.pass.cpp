@@ -21,8 +21,8 @@
 //     typedef typename allocator_type::pointer pointer;
 //     typedef typename allocator_type::const_pointer const_pointer;
 
-#include <list>
-#include <type_traits>
+#include <list.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

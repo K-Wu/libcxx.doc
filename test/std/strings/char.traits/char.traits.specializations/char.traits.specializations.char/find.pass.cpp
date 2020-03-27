@@ -13,8 +13,8 @@
 // static const char_type* find(const char_type* s, size_t n, const char_type& a);
 // constexpr in C++17
 
-#include <string>
-#include <cassert>
+#include <string.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

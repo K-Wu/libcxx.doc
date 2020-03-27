@@ -12,8 +12,8 @@
 //
 // not less than comparable
 
-#include <memory>
-#include <cassert>
+#include <memory.hxx>
+#include <cassert.hxx>
 
 int main(int, char**)
 {

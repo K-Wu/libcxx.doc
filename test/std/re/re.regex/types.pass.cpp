@@ -19,8 +19,8 @@
 //     typedef regex_constants::syntax_option_type flag_type;
 //     typedef typename traits::locale_type        locale_type;
 
-#include <regex>
-#include <type_traits>
+#include <regex.hxx>
+#include <type_traits.hxx>
 #include "test_macros.h"
 
 int main(int, char**)

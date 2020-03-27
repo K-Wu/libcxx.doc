@@ -18,8 +18,8 @@
 //   T
 //   inner_product(Iter1 first1, Iter1 last1, Iter2 first2, T init);
 
-#include <numeric>
-#include <cassert>
+#include <numeric.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

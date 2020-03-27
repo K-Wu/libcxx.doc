@@ -13,9 +13,9 @@
 // template <class ForwardIt, class Size>
 // ForwardIt destroy_n(ForwardIt, Size s);
 
-#include <memory>
-#include <cstdlib>
-#include <cassert>
+#include <memory.hxx>
+#include <cstdlib.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

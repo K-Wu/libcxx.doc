@@ -9,10 +9,10 @@
 #ifndef _LIBCPP_REFSTRING_H
 #define _LIBCPP_REFSTRING_H
 
-#include <__config>
-#include <stdexcept>
-#include <cstddef>
-#include <cstring>
+#include <__config.hxx>
+#include <stdexcept.hxx>
+#include <cstddef.hxx>
+#include <cstring.hxx>
 #ifdef __APPLE__
 #include <dlfcn.h>
 #include <mach-o/dyld.h>

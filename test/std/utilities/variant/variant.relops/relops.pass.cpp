@@ -35,10 +35,10 @@
 // constexpr bool
 // operator>=(variant<Types...> const&, variant<Types...> const&) noexcept;
 
-#include <cassert>
-#include <type_traits>
-#include <utility>
-#include <variant>
+#include <cassert.hxx>
+#include <type_traits.hxx>
+#include <utility.hxx>
+#include <variant.hxx>
 
 #include "test_macros.h"
 

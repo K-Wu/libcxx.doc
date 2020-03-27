@@ -13,8 +13,8 @@
 //   constexpr Iter1     // constexpr after C++17
 //   search(Iter1 first1, Iter1 last1, Iter2 first2, Iter2 last2);
 
-#include <algorithm>
-#include <cassert>
+#include <algorithm.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

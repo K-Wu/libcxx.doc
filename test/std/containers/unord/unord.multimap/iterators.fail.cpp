@@ -19,9 +19,9 @@
 // const_iterator cbegin() const {return __table_.begin();}
 // const_iterator cend()   const {return __table_.end();}
 
-#include <unordered_map>
-#include <string>
-#include <cassert>
+#include <unordered_map.hxx>
+#include <string.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

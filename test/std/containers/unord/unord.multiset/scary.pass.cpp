@@ -12,7 +12,7 @@
 
 // Extension:  SCARY/N2913 iterator compatibility between unordered_set and unordered_multiset
 
-#include <unordered_set>
+#include <unordered_set.hxx>
 
 #include "test_macros.h"
 

@@ -4,12 +4,12 @@
 #include "benchmark/benchmark.h"
 #include "commandlineflags.h"
 
-#include <cmath>
-#include <iosfwd>
-#include <limits>
-#include <memory>
-#include <string>
-#include <vector>
+#include <cmath.hxx>
+#include <iosfwd.hxx>
+#include <limits.hxx>
+#include <memory.hxx>
+#include <string.hxx>
+#include <vector.hxx>
 
 namespace benchmark {
 namespace internal {

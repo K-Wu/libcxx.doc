@@ -20,9 +20,9 @@
 // Other tests will check the language side of things -- but those are
 // limited to newer compilers.
 
-#include <new>
+#include <new.hxx>
 
-#include <cassert>
+#include <cassert.hxx>
 #include "test_macros.h"
 #include "test_convertible.h"
 

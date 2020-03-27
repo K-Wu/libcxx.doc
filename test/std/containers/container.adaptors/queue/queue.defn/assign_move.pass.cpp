@@ -12,8 +12,8 @@
 
 // queue& operator=(queue&& q);
 
-#include <queue>
-#include <cassert>
+#include <queue.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "MoveOnly.h"

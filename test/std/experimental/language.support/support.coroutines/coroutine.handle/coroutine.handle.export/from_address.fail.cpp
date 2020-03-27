@@ -20,9 +20,9 @@
 // FIXME: This behavior is an extension, and should upstreamed into the TS or
 // the test removed if the TS changes are rejected.
 
-#include <experimental/coroutine>
-#include <type_traits>
-#include <cassert>
+#include <experimental/coroutine.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 namespace coro = std::experimental;
 

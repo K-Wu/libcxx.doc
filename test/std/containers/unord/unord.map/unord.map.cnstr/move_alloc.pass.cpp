@@ -16,12 +16,12 @@
 
 // unordered_map(unordered_map&& u, const allocator_type& a);
 
-#include <unordered_map>
-#include <string>
-#include <cassert>
-#include <cfloat>
-#include <cmath>
-#include <cstddef>
+#include <unordered_map.hxx>
+#include <string.hxx>
+#include <cassert.hxx>
+#include <cfloat.hxx>
+#include <cmath.hxx>
+#include <cstddef.hxx>
 
 #include "test_macros.h"
 #include "../../../test_compare.h"

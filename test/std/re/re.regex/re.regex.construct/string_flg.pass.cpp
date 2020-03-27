@@ -14,8 +14,8 @@
 //    basic_regex(const basic_string<charT, ST, SA>& s,
 //                flag_type f = regex_constants::ECMAScript);
 
-#include <regex>
-#include <cassert>
+#include <regex.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 
 template <class String>

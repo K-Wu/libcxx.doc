@@ -14,7 +14,7 @@
 
 // node_type extract(key_type const&);
 
-#include <map>
+#include <map.hxx>
 #include "test_macros.h"
 #include "min_allocator.h"
 #include "Counter.h"

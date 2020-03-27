@@ -11,9 +11,9 @@
 // template <class Compare> void merge(list& x, Compare comp);
 // If (&addressof(x) == this) does nothing; otherwise ...
 
-#include <list>
-#include <functional>
-#include <cassert>
+#include <list.hxx>
+#include <functional.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

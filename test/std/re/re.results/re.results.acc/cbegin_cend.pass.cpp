@@ -13,9 +13,9 @@
 // const_iterator cbegin() const;
 // const_iterator cend() const;
 
-#include <regex>
-#include <cassert>
-#include <cstddef>
+#include <regex.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
 #include "test_macros.h"
 
 void

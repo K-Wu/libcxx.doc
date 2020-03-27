@@ -12,7 +12,7 @@
 // template <class T, class Hash, class Compare, class Allocator, class Predicate>
 //   void erase_if(unorderd_set<T, Hash, Compare, Allocator>& c, Predicate pred);
 
-#include <unordered_set>
+#include <unordered_set.hxx>
 
 #include "test_macros.h"
 #include "test_allocator.h"

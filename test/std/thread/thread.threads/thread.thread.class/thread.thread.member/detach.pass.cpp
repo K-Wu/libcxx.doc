@@ -14,10 +14,10 @@
 
 // void detach();
 
-#include <thread>
-#include <atomic>
-#include <system_error>
-#include <cassert>
+#include <thread.hxx>
+#include <atomic.hxx>
+#include <system_error.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

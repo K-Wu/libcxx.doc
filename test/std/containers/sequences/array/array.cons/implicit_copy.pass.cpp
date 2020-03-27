@@ -10,9 +10,9 @@
 
 // implicitly generated array constructors / assignment operators
 
-#include <array>
-#include <type_traits>
-#include <cassert>
+#include <array.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 
 // std::array is explicitly allowed to be initialized with A a = { init-list };.

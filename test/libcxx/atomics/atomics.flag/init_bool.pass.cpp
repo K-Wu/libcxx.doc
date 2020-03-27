@@ -14,8 +14,8 @@
 
 // TESTING EXTENSION atomic_flag(bool)
 
-#include <atomic>
-#include <cassert>
+#include <atomic.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

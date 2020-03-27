@@ -12,22 +12,22 @@
 #define _LCONV_C99
 #endif
 
-#include "string"
-#include "locale"
-#include "codecvt"
-#include "vector"
-#include "algorithm"
-#include "typeinfo"
+#include "string.hxx"
+#include "locale.hxx"
+#include "codecvt.hxx"
+#include "vector.hxx"
+#include "algorithm.hxx"
+#include "typeinfo.hxx"
 #ifndef _LIBCPP_NO_EXCEPTIONS
 #  include "type_traits"
 #endif
-#include "clocale"
-#include "cstring"
+#include "clocale.hxx"
+#include "cstring.hxx"
 #if defined(_LIBCPP_MSVCRT)
 #define _CTYPE_DISABLE_MACROS
 #endif
-#include "cwctype"
-#include "__sso_allocator"
+#include "cwctype.hxx"
+#include "__sso_allocator.hxx"
 #if defined(_LIBCPP_MSVCRT) || defined(__MINGW32__)
 #include "support/win32/locale_win32.h"
 #elif !defined(__BIONIC__)
@@ -36,7 +36,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include "include/atomic_support.h"
-#include "__undef_macros"
+#include "__undef_macros.hxx"
 
 // On Linux, wint_t and wchar_t have different signed-ness, and this causes
 // lots of noise in the build log, but no bugs that I know of. 

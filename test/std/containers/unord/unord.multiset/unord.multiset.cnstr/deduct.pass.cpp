@@ -48,11 +48,11 @@
 // unordered_multiset(initializer_list<T>, typename see below::size_type, Hash, Allocator)
 //   -> unordered_multiset<T, Hash, equal_to<T>, Allocator>;
 
-#include <algorithm> // is_permutation
-#include <cassert>
-#include <climits> // INT_MAX
-#include <type_traits>
-#include <unordered_set>
+#include <algorithm.hxx> // is_permutation
+#include <cassert.hxx>
+#include <climits.hxx> // INT_MAX
+#include <type_traits.hxx>
+#include <unordered_set.hxx>
 
 #include "test_allocator.h"
 

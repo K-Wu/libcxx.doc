@@ -17,7 +17,7 @@
 // REQUIRES: -faligned-allocation
 // RUN: %compile %verify -faligned-allocation
 
-#include <new>
+#include <new.hxx>
 
 int main(int, char**)
 {

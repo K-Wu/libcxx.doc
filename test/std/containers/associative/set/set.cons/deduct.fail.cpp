@@ -30,9 +30,9 @@
 // set(initializer_list<Key>, Allocator)
 //   -> set<Key, less<Key>, Allocator>;
 
-#include <functional>
-#include <set>
-#include <type_traits>
+#include <functional.hxx>
+#include <set.hxx>
+#include <type_traits.hxx>
 
 struct NotAnAllocator {
   friend bool operator<(NotAnAllocator, NotAnAllocator) { return false; }

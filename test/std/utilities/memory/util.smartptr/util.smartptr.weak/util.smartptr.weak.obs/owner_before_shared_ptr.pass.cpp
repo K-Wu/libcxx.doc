@@ -12,8 +12,8 @@
 
 // template<class U> bool owner_before(const shared_ptr<U>& b) const noexcept;
 
-#include <memory>
-#include <cassert>
+#include <memory.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 
 int main(int, char**)

@@ -10,7 +10,7 @@
 
 // <future>
 
-#include <future>
+#include <future.hxx>
 
 #include "test_macros.h"
 

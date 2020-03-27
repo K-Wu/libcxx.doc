@@ -18,10 +18,10 @@
 //  Requires: 0 <= Count && Count <= size().
 
 
-#include <span>
-#include <cassert>
-#include <algorithm>
-#include <string>
+#include <span.hxx>
+#include <cassert.hxx>
+#include <algorithm.hxx>
+#include <string.hxx>
 
 #include "test_macros.h"
 

@@ -12,9 +12,9 @@
 // See https://bugs.llvm.org/show_bug.cgi?id=33271
 // UNSUPPORTED: ubsan
 
-#include <experimental/coroutine>
-#include <vector>
-#include <cassert>
+#include <experimental/coroutine.hxx>
+#include <vector.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "coroutine_types.h"

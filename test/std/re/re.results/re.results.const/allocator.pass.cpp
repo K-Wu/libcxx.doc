@@ -12,8 +12,8 @@
 
 // match_results(const Allocator& a = Allocator());
 
-#include <regex>
-#include <cassert>
+#include <regex.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_allocator.h"

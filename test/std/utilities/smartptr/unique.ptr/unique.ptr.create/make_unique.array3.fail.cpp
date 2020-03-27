@@ -6,9 +6,9 @@
 //
 //===----------------------------------------------------------------------===//
 
-#include <memory>
-#include <string>
-#include <cassert>
+#include <memory.hxx>
+#include <string.hxx>
+#include <cassert.hxx>
 
 int main(int, char**)
 {

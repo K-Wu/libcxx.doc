@@ -10,8 +10,8 @@
 
 // basic_istream<charT,traits>& unget();
 
-#include <istream>
-#include <cassert>
+#include <istream.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

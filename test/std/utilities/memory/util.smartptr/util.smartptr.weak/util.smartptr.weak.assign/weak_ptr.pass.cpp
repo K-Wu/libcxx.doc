@@ -12,9 +12,9 @@
 
 // weak_ptr& operator=(const weak_ptr& r);
 
-#include <memory>
-#include <type_traits>
-#include <cassert>
+#include <memory.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

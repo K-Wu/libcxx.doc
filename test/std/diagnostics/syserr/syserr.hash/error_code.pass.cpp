@@ -15,9 +15,9 @@
 //     size_t operator()(T val) const;
 // };
 
-#include <system_error>
-#include <cassert>
-#include <type_traits>
+#include <system_error.hxx>
+#include <cassert.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

@@ -16,8 +16,8 @@
 //     size_t operator()(const unique_ptr<T, D>& p) const;
 // };
 
-#include <memory>
-#include <cassert>
+#include <memory.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -13,8 +13,8 @@
 
 // template<class F, class A> function(allocator_arg_t, const A&, F);
 
-#include <functional>
-#include <cassert>
+#include <functional.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

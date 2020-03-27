@@ -13,8 +13,8 @@
  *
  * ===----------------------------------------------------------------------===
  */
-#include "__config"
-#include "climits"
+#include "__config.hxx"
+#include "climits.hxx"
 
 #if !defined(_LIBCPP_HAS_NO_INT128)
 

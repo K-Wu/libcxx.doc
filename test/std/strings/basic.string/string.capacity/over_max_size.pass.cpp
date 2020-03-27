@@ -17,9 +17,9 @@
 
 // size_type max_size() const;
 
-#include <string>
-#include <cassert>
-#include <stdexcept>
+#include <string.hxx>
+#include <cassert.hxx>
+#include <stdexcept.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

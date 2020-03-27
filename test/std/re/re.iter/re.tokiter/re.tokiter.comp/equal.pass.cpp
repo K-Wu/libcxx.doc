@@ -13,8 +13,8 @@
 // bool operator==(const regex_token_iterator& right) const;
 // bool operator!=(const regex_token_iterator& right) const;
 
-#include <regex>
-#include <cassert>
+#include <regex.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 
 int main(int, char**)

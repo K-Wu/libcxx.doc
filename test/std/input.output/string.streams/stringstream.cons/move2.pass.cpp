@@ -15,11 +15,11 @@
 
 // basic_stringstream(basic_stringstream&& rhs);
 
-#include <sstream>
-#include <vector>
-#include <string>
-#include <cassert>
-#include <cstddef>
+#include <sstream.hxx>
+#include <vector.hxx>
+#include <string.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
 
 #include "test_macros.h"
 

@@ -10,9 +10,9 @@
 
 // typedef duration<signed integral type of at least 29 bits, ratio< 60>> minutes;
 
-#include <chrono>
-#include <type_traits>
-#include <limits>
+#include <chrono.hxx>
+#include <type_traits.hxx>
+#include <limits.hxx>
 
 #include "test_macros.h"
 

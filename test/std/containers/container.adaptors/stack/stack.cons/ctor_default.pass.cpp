@@ -10,9 +10,9 @@
 
 // stack();
 
-#include <stack>
-#include <vector>
-#include <cassert>
+#include <stack.hxx>
+#include <vector.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_allocator.h"

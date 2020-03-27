@@ -4,19 +4,19 @@
 #include <math.h>
 #include <stdint.h>
 
-#include <chrono>
-#include <cstdlib>
-#include <iostream>
-#include <limits>
-#include <list>
-#include <map>
-#include <mutex>
-#include <set>
-#include <sstream>
-#include <string>
-#include <thread>
-#include <utility>
-#include <vector>
+#include <chrono.hxx>
+#include <cstdlib.hxx>
+#include <iostream.hxx>
+#include <limits.hxx>
+#include <list.hxx>
+#include <map.hxx>
+#include <mutex.hxx>
+#include <set.hxx>
+#include <sstream.hxx>
+#include <string.hxx>
+#include <thread.hxx>
+#include <utility.hxx>
+#include <vector.hxx>
 
 #if defined(__GNUC__)
 #define BENCHMARK_NOINLINE __attribute__((noinline))

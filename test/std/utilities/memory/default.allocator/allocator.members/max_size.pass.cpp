@@ -11,10 +11,10 @@
 // allocator:
 // size_type max_size() const throw();
 
-#include <memory>
-#include <limits>
-#include <cstddef>
-#include <cassert>
+#include <memory.hxx>
+#include <limits.hxx>
+#include <cstddef.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

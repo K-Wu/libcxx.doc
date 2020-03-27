@@ -8,7 +8,7 @@
 
 // <algorithm>
 
-#include <algorithm>
+#include <algorithm.hxx>
 
 #include "test_macros.h"
 

@@ -20,8 +20,8 @@
 //   string_type
 //   transform_primary(ForwardIterator first, ForwardIterator last) const;
 
-#include <regex>
-#include <cassert>
+#include <regex.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

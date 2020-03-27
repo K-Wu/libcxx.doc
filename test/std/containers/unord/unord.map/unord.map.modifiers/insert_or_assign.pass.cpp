@@ -21,9 +21,9 @@
 // template <class M>
 //  iterator insert_or_assign(const_iterator hint, key_type&& k, M&& obj);        // C++17
 
-#include <unordered_map>
-#include <cassert>
-#include <tuple>
+#include <unordered_map.hxx>
+#include <cassert.hxx>
+#include <tuple.hxx>
 
 #include "test_macros.h"
 

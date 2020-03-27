@@ -12,9 +12,9 @@
 
 // virtual string message(int ev) const = 0;
 
-#include <system_error>
-#include <cassert>
-#include <string>
+#include <system_error.hxx>
+#include <cassert.hxx>
+#include <string.hxx>
 
 #include <stdio.h>
 

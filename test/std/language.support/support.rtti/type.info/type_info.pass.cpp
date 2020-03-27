@@ -8,10 +8,10 @@
 
 // test type_info
 
-#include <typeinfo>
-#include <string>
-#include <cstring>
-#include <cassert>
+#include <typeinfo.hxx>
+#include <string.hxx>
+#include <cstring.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

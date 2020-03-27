@@ -11,9 +11,9 @@
 // template <InputIterator Iter>
 //   iterator insert(const_iterator position, Iter first, Iter last);
 
-#include <list>
-#include <cstdlib>
-#include <cassert>
+#include <list.hxx>
+#include <cstdlib.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

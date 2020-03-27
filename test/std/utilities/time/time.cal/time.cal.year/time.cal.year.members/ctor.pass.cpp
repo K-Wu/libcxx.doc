@@ -17,9 +17,9 @@
 //  Effects: Constructs an object of type year by initializing y_ with y.
 //    The value held is unspecified if d is not in the range [0, 255].
 
-#include <chrono>
-#include <type_traits>
-#include <cassert>
+#include <chrono.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

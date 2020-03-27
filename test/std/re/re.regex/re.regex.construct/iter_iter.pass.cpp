@@ -13,8 +13,8 @@
 // template <class ForwardIterator>
 //    basic_regex(ForwardIterator first, ForwardIterator last);
 
-#include <regex>
-#include <cassert>
+#include <regex.hxx>
+#include <cassert.hxx>
 
 #include "test_iterators.h"
 #include "test_macros.h"

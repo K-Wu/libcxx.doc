@@ -12,10 +12,10 @@
 
 // strstream();
 
-#include <strstream>
-#include <cassert>
-#include <cstring>
-#include <string>
+#include <strstream.hxx>
+#include <cassert.hxx>
+#include <cstring.hxx>
+#include <string.hxx>
 
 #include "test_macros.h"
 

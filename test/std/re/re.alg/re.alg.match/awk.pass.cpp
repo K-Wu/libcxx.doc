@@ -21,8 +21,8 @@
 // XFAIL: linux-gnu, netbsd
 // REQUIRES: locale.cs_CZ.ISO8859-2
 
-#include <regex>
-#include <cassert>
+#include <regex.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 #include "test_iterators.h"
 

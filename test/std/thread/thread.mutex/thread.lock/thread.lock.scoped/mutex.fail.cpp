@@ -15,7 +15,7 @@
 
 // explicit scoped_lock(Mutex&...);
 
-#include <mutex>
+#include <mutex.hxx>
 #include "test_macros.h"
 
 template <class LG>

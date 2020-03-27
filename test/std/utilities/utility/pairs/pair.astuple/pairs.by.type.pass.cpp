@@ -8,13 +8,13 @@
 
 // UNSUPPORTED: c++98, c++03, c++11
 
-#include <utility>
-#include <string>
-#include <type_traits>
-#include <complex>
-#include <memory>
+#include <utility.hxx>
+#include <string.hxx>
+#include <type_traits.hxx>
+#include <complex.hxx>
+#include <memory.hxx>
 
-#include <cassert>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

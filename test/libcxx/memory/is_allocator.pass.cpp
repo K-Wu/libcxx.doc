@@ -15,8 +15,8 @@
 
 // Is either true_type or false_type depending on if A is an allocator.
 
-#include <memory>
-#include <string>
+#include <memory.hxx>
+#include <string.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

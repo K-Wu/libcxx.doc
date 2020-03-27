@@ -12,8 +12,8 @@
 
 // template<class D> shared_ptr(nullptr_t, D d);
 
-#include <memory>
-#include <cassert>
+#include <memory.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 #include "deleter_types.h"
 

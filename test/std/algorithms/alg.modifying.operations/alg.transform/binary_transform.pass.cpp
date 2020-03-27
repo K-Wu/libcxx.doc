@@ -14,9 +14,9 @@
 // constexpr OutIter      // constexpr after C++17
 // transform(InIter1 first1, InIter1 last1, InIter2 first2, OutIter result, BinaryOp binary_op);
 
-#include <algorithm>
-#include <functional>
-#include <cassert>
+#include <algorithm.hxx>
+#include <functional.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

@@ -18,9 +18,9 @@
 //   set_union(InIter1 first1, InIter1 last1, InIter2 first2, InIter2 last2,
 //             OutIter result, Compare comp);
 
-#include <algorithm>
-#include <functional>
-#include <cassert>
+#include <algorithm.hxx>
+#include <functional.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

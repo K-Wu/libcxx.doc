@@ -1,8 +1,8 @@
 #ifndef BENCHMARK_TIMERS_H
 #define BENCHMARK_TIMERS_H
 
-#include <chrono>
-#include <string>
+#include <chrono.hxx>
+#include <string.hxx>
 
 namespace benchmark {
 

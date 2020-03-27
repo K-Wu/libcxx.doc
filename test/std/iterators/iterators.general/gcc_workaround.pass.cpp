@@ -8,12 +8,12 @@
 
 // Tests workaround for  https://gcc.gnu.org/bugzilla/show_bug.cgi?id=64816.
 
-#include <string>
+#include <string.hxx>
 #include "test_macros.h"
 
 void f(const std::string &s) { TEST_IGNORE_NODISCARD s.begin(); }
 
-#include <vector>
+#include <vector.hxx>
 
 void AppendTo(const std::vector<char> &v) { TEST_IGNORE_NODISCARD v.begin(); }
 

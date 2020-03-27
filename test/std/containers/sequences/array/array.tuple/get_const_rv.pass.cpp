@@ -12,11 +12,11 @@
 
 // UNSUPPORTED: c++98, c++03
 
-#include <array>
-#include <memory>
-#include <type_traits>
-#include <utility>
-#include <cassert>
+#include <array.hxx>
+#include <memory.hxx>
+#include <type_traits.hxx>
+#include <utility.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

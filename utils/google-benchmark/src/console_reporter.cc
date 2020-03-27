@@ -16,13 +16,13 @@
 #include "complexity.h"
 #include "counter.h"
 
-#include <algorithm>
-#include <cstdint>
-#include <cstdio>
-#include <iostream>
-#include <string>
-#include <tuple>
-#include <vector>
+#include <algorithm.hxx>
+#include <cstdint.hxx>
+#include <cstdio.hxx>
+#include <iostream.hxx>
+#include <string.hxx>
+#include <tuple.hxx>
+#include <vector.hxx>
 
 #include "check.h"
 #include "colorprint.h"

@@ -16,8 +16,8 @@
 // outer_allocator_type& outer_allocator();
 // const outer_allocator_type& outer_allocator() const;
 
-#include <scoped_allocator>
-#include <cassert>
+#include <scoped_allocator.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "allocators.h"

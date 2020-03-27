@@ -23,9 +23,9 @@
 //     container_type c;
 //     Compare comp;
 
-#include <stack>
-#include <cassert>
-#include <type_traits>
+#include <stack.hxx>
+#include <cassert.hxx>
+#include <type_traits.hxx>
 
 int main(int, char**)
 {

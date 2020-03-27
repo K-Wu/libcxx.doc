@@ -14,10 +14,10 @@
 // Remarks: This function shall not participate in overload resolution unless
 //	T is an unsigned integer type
 
-#include <bit>
-#include <cstdint>
-#include <limits>
-#include <cassert>
+#include <bit.hxx>
+#include <cstdint.hxx>
+#include <limits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

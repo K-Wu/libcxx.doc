@@ -18,9 +18,9 @@
 //     void
 //     atomic_store(atomic<T>* obj, T desr);
 
-#include <atomic>
-#include <type_traits>
-#include <cassert>
+#include <atomic.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "atomic_helpers.h"

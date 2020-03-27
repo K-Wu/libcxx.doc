@@ -13,8 +13,8 @@
 // typedef TrivialClock file_time_type;
 
 #include "filesystem_include.h"
-#include <chrono>
-#include <type_traits>
+#include <chrono.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

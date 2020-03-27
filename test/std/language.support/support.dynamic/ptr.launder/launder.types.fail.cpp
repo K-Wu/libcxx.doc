@@ -14,8 +14,8 @@
 
 // UNSUPPORTED: c++98, c++03, c++11, c++14
 
-#include <new>
-#include <cassert>
+#include <new.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

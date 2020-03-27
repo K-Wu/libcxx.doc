@@ -10,7 +10,7 @@
 
 // <experimental/map>
 
-#include <experimental/map>
+#include <experimental/map.hxx>
 
 #include "test_macros.h"
 

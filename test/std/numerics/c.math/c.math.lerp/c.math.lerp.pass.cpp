@@ -13,10 +13,10 @@
 // constexpr long double lerp(long double a, long double b, long double t);
 
 
-#include <cmath>
-#include <limits>
-#include <type_traits>
-#include <cassert>
+#include <cmath.hxx>
+#include <limits.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "fp_compare.h"

@@ -10,9 +10,9 @@
 
 // iterator insert(const_iterator p, charT c);
 
-#include <string>
-#include <stdexcept>
-#include <cassert>
+#include <string.hxx>
+#include <stdexcept.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

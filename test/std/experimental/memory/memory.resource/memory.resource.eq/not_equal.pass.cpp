@@ -12,9 +12,9 @@
 
 // bool operator!=(memory_resource const &, memory_resource const &) noexcept;
 
-#include <experimental/memory_resource>
-#include <type_traits>
-#include <cassert>
+#include <experimental/memory_resource.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_memory_resource.h"
 

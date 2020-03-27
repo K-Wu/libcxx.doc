@@ -24,10 +24,10 @@
 
 #define _LIBCPP_DEBUG 0
 
-#include <future>
-#include <exception>
-#include <cstdlib>
-#include <cassert>
+#include <future.hxx>
+#include <exception.hxx>
+#include <cstdlib.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "debug_mode_helper.h"

@@ -7,8 +7,8 @@
 //===----------------------------------------------------------------------===//
 
 // UNSUPPORTED: c++98, c++03, c++11
-#include <functional>
-#include <string>
+#include <functional.hxx>
+#include <string.hxx>
 
 #include "test_macros.h"
 

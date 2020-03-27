@@ -13,8 +13,8 @@
 
 // basic_streambuf(const basic_streambuf& rhs);  // protected
 
-#include <streambuf>
-#include <cassert>
+#include <streambuf.hxx>
+#include <cassert.hxx>
 
 std::streambuf &get();
 

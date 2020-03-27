@@ -11,9 +11,9 @@
 // void remove(const value_type& v);      // C++17 and before
 // size_type remove(const value_type& v); // C++20 and after
 
-#include <forward_list>
-#include <iterator>
-#include <cassert>
+#include <forward_list.hxx>
+#include <iterator.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

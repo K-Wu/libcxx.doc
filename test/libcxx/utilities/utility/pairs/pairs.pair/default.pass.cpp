@@ -14,8 +14,8 @@
 
 // constexpr pair();
 
-#include <utility>
-#include <type_traits>
+#include <utility.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

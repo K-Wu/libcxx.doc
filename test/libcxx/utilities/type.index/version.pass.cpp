@@ -8,7 +8,7 @@
 
 // <typeindex>
 
-#include <typeindex>
+#include <typeindex.hxx>
 
 #include "test_macros.h"
 

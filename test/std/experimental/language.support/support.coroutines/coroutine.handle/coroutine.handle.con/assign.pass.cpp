@@ -16,9 +16,9 @@
 
 // coroutine_handle& operator=(nullptr_t) noexcept
 
-#include <experimental/coroutine>
-#include <type_traits>
-#include <cassert>
+#include <experimental/coroutine.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

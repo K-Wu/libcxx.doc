@@ -6,7 +6,7 @@
 //
 //===----------------------------------------------------------------------===//
 
-#include "typeinfo"
+#include "typeinfo.hxx"
 
 #if defined(_LIBCPP_ABI_MICROSOFT) && !defined(_LIBCPP_ABI_VCRUNTIME)
 #include <string.h>

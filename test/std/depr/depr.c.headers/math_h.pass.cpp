@@ -9,8 +9,8 @@
 // <math.h>
 
 #include <math.h>
-#include <type_traits>
-#include <cassert>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "hexfloat.h"

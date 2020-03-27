@@ -6,9 +6,9 @@
 //
 //===----------------------------------------------------------------------===//
 
-#include "exception"
-#include "new"
-#include "typeinfo"
+#include "exception.hxx"
+#include "new.hxx"
+#include "typeinfo.hxx"
 
 #if defined(LIBCXXRT) || defined(LIBCXX_BUILDING_LIBCXXABI)
   #include <cxxabi.h>

@@ -10,8 +10,8 @@
 
 // template <class T, class Alloc> struct uses_allocator;
 
-#include <memory>
-#include <vector>
+#include <memory.hxx>
+#include <vector.hxx>
 
 #include "test_macros.h"
 

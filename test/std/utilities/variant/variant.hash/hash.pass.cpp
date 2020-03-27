@@ -14,9 +14,9 @@
 // template <class... Types> struct hash<variant<Types...>>;
 // template <> struct hash<monostate>;
 
-#include <cassert>
-#include <type_traits>
-#include <variant>
+#include <cassert.hxx>
+#include <type_traits.hxx>
+#include <variant.hxx>
 
 #include "test_macros.h"
 #include "variant_test_helpers.h"

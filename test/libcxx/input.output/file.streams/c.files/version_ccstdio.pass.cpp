@@ -8,7 +8,7 @@
 
 // <cstdio>
 
-#include <cstdio>
+#include <cstdio.hxx>
 
 #include "test_macros.h"
 

@@ -15,11 +15,11 @@
 
 #include "benchmark/benchmark.h"
 
-#include <algorithm>
-#include <cmath>
-#include <numeric>
-#include <string>
-#include <vector>
+#include <algorithm.hxx>
+#include <cmath.hxx>
+#include <numeric.hxx>
+#include <string.hxx>
+#include <vector.hxx>
 #include "check.h"
 #include "statistics.h"
 

@@ -18,8 +18,8 @@
 // qualified-id Compare::is_transparent is valid and denotes a type
 
 
-#include <map>
-#include <cassert>
+#include <map.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "is_transparent.h"

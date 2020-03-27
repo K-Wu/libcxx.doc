@@ -13,8 +13,8 @@
 // template <class ST, class SA>
 //    basic_regex& operator=(const basic_string<charT, ST, SA>& p);
 
-#include <regex>
-#include <cassert>
+#include <regex.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 
 int main(int, char**)

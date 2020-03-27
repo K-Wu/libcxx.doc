@@ -20,7 +20,7 @@
 
 // This test checks for LWG 2510.
 
-#include <new>
+#include <new.hxx>
 
 
 std::nothrow_t f() { return {}; } // expected-error 1 {{chosen constructor is explicit in copy-initialization}}

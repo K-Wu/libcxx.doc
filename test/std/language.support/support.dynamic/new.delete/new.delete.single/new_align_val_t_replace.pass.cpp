@@ -14,12 +14,12 @@
 
 // test operator new replacement
 
-#include <new>
-#include <cstddef>
-#include <cstdlib>
-#include <cstdint>
-#include <cassert>
-#include <limits>
+#include <new.hxx>
+#include <cstddef.hxx>
+#include <cstdlib.hxx>
+#include <cstdint.hxx>
+#include <cassert.hxx>
+#include <limits.hxx>
 
 #include "test_macros.h"
 

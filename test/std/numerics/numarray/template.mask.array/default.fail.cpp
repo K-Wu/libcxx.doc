@@ -12,8 +12,8 @@
 
 // mask_array() = delete;
 
-#include <valarray>
-#include <type_traits>
+#include <valarray.hxx>
+#include <type_traits.hxx>
 
 int main(int, char**)
 {

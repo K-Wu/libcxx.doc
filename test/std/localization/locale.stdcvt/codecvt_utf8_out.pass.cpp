@@ -21,8 +21,8 @@
 //     const internT* from, const internT* from_end, const internT*& from_next,
 //     externT* to, externT* to_end, externT*& to_next) const;
 
-#include <codecvt>
-#include <cassert>
+#include <codecvt.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

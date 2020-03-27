@@ -17,7 +17,7 @@
 
 // Test that invalid memory order arguments are diagnosed where possible.
 
-#include <atomic>
+#include <atomic.hxx>
 
 int main(int, char**) {
     std::atomic<int> x(42);

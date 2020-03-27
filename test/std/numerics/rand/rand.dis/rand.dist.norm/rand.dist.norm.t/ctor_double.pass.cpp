@@ -13,8 +13,8 @@
 
 // explicit student_t_distribution(result_type alpha = 0, result_type beta = 1);
 
-#include <random>
-#include <cassert>
+#include <random.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

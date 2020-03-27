@@ -14,9 +14,9 @@
 //  Returns: If ok() == true, returns a sys_days that represents the last weekday()
 //             of year()/month(). Otherwise the returned value is unspecified.
 
-#include <chrono>
-#include <type_traits>
-#include <cassert>
+#include <chrono.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

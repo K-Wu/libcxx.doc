@@ -12,8 +12,8 @@
 
 // forward_list(initializer_list<value_type> il);
 
-#include <forward_list>
-#include <cassert>
+#include <forward_list.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

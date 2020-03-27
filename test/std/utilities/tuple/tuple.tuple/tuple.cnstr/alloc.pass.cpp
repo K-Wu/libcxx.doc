@@ -19,8 +19,8 @@
 // allocator_arg_t because libc++ has to deduce the parameter as a template
 // argument. See PR27684 (https://bugs.llvm.org/show_bug.cgi?id=27684)
 
-#include <tuple>
-#include <cassert>
+#include <tuple.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "DefaultOnly.h"

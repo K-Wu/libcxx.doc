@@ -24,8 +24,8 @@
 //     typedef typename OuterTraits::const_void_pointer const_void_pointer;
 // };
 
-#include <scoped_allocator>
-#include <type_traits>
+#include <scoped_allocator.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 #include "allocators.h"

@@ -14,11 +14,11 @@
 
 // void notify_one();
 
-#include <condition_variable>
-#include <atomic>
-#include <mutex>
-#include <thread>
-#include <cassert>
+#include <condition_variable.hxx>
+#include <atomic.hxx>
+#include <mutex.hxx>
+#include <thread.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

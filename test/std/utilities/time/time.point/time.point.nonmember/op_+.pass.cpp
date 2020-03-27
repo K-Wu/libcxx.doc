@@ -18,8 +18,8 @@
 //   time_point<Clock, typename common_type<duration<Rep1, Period1>, Duration2>::type>
 //   operator+(const duration<Rep1, Period1>& lhs, const time_point<Clock, Duration2>& rhs);
 
-#include <chrono>
-#include <cassert>
+#include <chrono.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

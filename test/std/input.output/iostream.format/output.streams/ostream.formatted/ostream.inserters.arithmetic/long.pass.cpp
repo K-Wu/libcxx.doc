@@ -13,8 +13,8 @@
 
 // operator<<(long val);
 
-#include <ostream>
-#include <cassert>
+#include <ostream.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

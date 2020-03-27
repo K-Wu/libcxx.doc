@@ -12,8 +12,8 @@
 
 #define _LIBCPP_ASSERT(x, m) ((x) ? (void)0 : std::exit(0))
 
-#include <cstdlib>
-#include <deque>
+#include <cstdlib.hxx>
+#include <deque.hxx>
 
 #include "test_macros.h"
 

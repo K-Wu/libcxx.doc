@@ -9,10 +9,10 @@
 // Test that UBSAN doesn't generate unsigned integer overflow diagnostics
 // from within the hashing internals.
 
-#include <utility>
-#include <cstdint>
-#include <limits>
-#include <string>
+#include <utility.hxx>
+#include <cstdint.hxx>
+#include <limits.hxx>
+#include <string.hxx>
 
 #include "test_macros.h"
 

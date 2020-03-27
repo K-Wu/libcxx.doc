@@ -19,7 +19,7 @@
     __cpp_lib_string_view       201606L [C++17]
 */
 
-#include <string_view>
+#include <string_view.hxx>
 #include "test_macros.h"
 
 #if TEST_STD_VER < 14

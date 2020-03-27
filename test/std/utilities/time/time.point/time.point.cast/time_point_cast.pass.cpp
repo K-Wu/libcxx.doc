@@ -14,9 +14,9 @@
 //   time_point<Clock, ToDuration>
 //   time_point_cast(const time_point<Clock, Duration>& t);
 
-#include <chrono>
-#include <type_traits>
-#include <cassert>
+#include <chrono.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -15,8 +15,8 @@
 #pragma clang diagnostic ignored "-Warray-bounds"
 #endif
 
-#include <array>
-#include <cassert>
+#include <array.hxx>
+#include <cassert.hxx>
 
 
 // std::array is explicitly allowed to be initialized with A a = { init-list };.

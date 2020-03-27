@@ -13,8 +13,8 @@
 // enum class directory_options;
 
 #include "filesystem_include.h"
-#include <type_traits>
-#include <cassert>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 #include <sys/stat.h>
 
 #include "test_macros.h"

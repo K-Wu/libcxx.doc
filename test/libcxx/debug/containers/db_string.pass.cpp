@@ -17,8 +17,8 @@
 // test container debugging
 
 #define _LIBCPP_DEBUG 1
-#include <string>
-#include <vector>
+#include <string.hxx>
+#include <vector.hxx>
 
 #include "test_macros.h"
 #include "container_debug_tests.h"

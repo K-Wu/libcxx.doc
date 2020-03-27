@@ -15,7 +15,7 @@
 
 // inexact conversions disallowed for integral reps
 
-#include <chrono>
+#include <chrono.hxx>
 
 int main(int, char**)
 {

@@ -11,8 +11,8 @@
 
 // UNSUPPORTED: c++98, c++03
 
-#include <tuple>
-#include <type_traits>
+#include <tuple.hxx>
+#include <type_traits.hxx>
 
 
 static_assert(std::is_trivially_constructible<std::tuple<>>::value, "");

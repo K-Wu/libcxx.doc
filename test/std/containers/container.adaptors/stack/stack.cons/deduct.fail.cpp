@@ -17,11 +17,11 @@
 //
 
 
-#include <stack>
-#include <list>
-#include <iterator>
-#include <cassert>
-#include <cstddef>
+#include <stack.hxx>
+#include <list.hxx>
+#include <iterator.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
 
 
 int main(int, char**)

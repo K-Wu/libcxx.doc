@@ -10,7 +10,7 @@
 
 // istream wclog;
 
-#include <iostream>
+#include <iostream.hxx>
 
 #include "test_macros.h"
 

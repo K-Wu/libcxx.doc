@@ -18,8 +18,8 @@
 // RUN: %cxx -o %t.exe %t.first.o %t.second.o %flags %link_flags -g
 // RUN: %run
 
-#include <functional>
-#include <cassert>
+#include <functional.hxx>
+#include <cassert.hxx>
 
 typedef std::function<void(int)> Func;
 

@@ -9,7 +9,7 @@
 #ifndef DEFAULTONLY_H
 #define DEFAULTONLY_H
 
-#include <cassert>
+#include <cassert.hxx>
 
 class DefaultOnly
 {

@@ -13,8 +13,8 @@
 // template<class B>
 //   constexpr bool negation_v = negation<B>::value;         // C++17
 
-#include <type_traits>
-#include <cassert>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -12,7 +12,7 @@
 
 // unique_ptr<T, const D&>(pointer, D()) should not compile
 
-#include <memory>
+#include <memory.hxx>
 
 struct Deleter {
   void operator()(int* p) const { delete p; }

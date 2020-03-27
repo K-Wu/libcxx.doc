@@ -13,8 +13,8 @@
 //       iterator upper_bound(const key_type& k);
 // const_iterator upper_bound(const key_type& k) const;
 
-#include <map>
-#include <cassert>
+#include <map.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

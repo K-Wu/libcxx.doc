@@ -13,10 +13,10 @@
 // iter_type get(iter_type in, iter_type end, ios_base&,
 //               ios_base::iostate& err, unsigned short& v) const;
 
-#include <locale>
-#include <ios>
-#include <cassert>
-#include <streambuf>
+#include <locale.hxx>
+#include <ios.hxx>
+#include <cassert.hxx>
+#include <streambuf.hxx>
 #include "test_macros.h"
 #include "test_iterators.h"
 

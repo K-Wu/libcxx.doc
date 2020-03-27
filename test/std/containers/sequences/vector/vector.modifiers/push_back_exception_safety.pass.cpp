@@ -10,8 +10,8 @@
 
 // void push_back(const value_type& x);
 
-#include <vector>
-#include <cassert>
+#include <vector.hxx>
+#include <cassert.hxx>
 
 #include "asan_testing.h"
 #include "test_macros.h"

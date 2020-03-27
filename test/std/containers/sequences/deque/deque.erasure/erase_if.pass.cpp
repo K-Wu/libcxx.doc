@@ -12,7 +12,7 @@
 // template <class T, class Allocator, class Predicate>
 //   void erase_if(deque<T, Allocator>& c, Predicate pred);  
 
-#include <deque>
+#include <deque.hxx>
 
 #include "test_macros.h"
 #include "test_allocator.h"

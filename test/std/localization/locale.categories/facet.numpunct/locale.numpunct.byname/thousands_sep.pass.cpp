@@ -19,9 +19,9 @@
 // char_type thousands_sep() const;
 
 
-#include <locale>
-#include <cassert>
-#include <iostream> // FIXME: for debugging purposes only
+#include <locale.hxx>
+#include <cassert.hxx>
+#include <iostream.hxx> // FIXME: for debugging purposes only
 
 #include "test_macros.h"
 #include "platform_support.h" // locale name macros

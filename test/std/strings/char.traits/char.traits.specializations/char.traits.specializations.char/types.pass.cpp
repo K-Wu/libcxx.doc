@@ -16,8 +16,8 @@
 // typedef streampos pos_type;
 // typedef mbstate_t state_type;
 
-#include <string>
-#include <type_traits>
+#include <string.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

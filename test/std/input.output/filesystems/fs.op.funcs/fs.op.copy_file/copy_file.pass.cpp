@@ -17,15 +17,15 @@
 //           error_code& ec) noexcept;
 
 #include "filesystem_include.h"
-#include <type_traits>
-#include <chrono>
-#include <cassert>
+#include <type_traits.hxx>
+#include <chrono.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "rapid-cxx-test.h"
 #include "filesystem_test_helper.h"
 
-#include <iostream>
+#include <iostream.hxx>
 
 using namespace fs;
 

@@ -15,7 +15,7 @@
 
 // Duration2 shall be implicitly convertible to duration.
 
-#include <chrono>
+#include <chrono.hxx>
 
 int main(int, char**)
 {

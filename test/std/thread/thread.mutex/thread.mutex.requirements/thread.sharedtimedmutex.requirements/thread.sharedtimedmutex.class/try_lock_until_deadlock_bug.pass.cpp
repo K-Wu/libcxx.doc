@@ -13,13 +13,13 @@
 
 // class shared_timed_mutex;
 
-#include <shared_mutex>
+#include <shared_mutex.hxx>
 
-#include <atomic>
-#include <chrono>
-#include <thread>
-#include <cstdlib>
-#include <cassert>
+#include <atomic.hxx>
+#include <chrono.hxx>
+#include <thread.hxx>
+#include <cstdlib.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

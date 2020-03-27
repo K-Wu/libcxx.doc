@@ -15,8 +15,8 @@
 // bool operator> (const type_index& rhs) const;
 // bool operator>=(const type_index& rhs) const;
 
-#include <typeindex>
-#include <cassert>
+#include <typeindex.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

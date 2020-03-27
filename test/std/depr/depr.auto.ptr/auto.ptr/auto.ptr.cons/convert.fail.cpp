@@ -12,8 +12,8 @@
 
 // auto_ptr(auto_ptr& a) throw();
 
-#include <memory>
-#include <cassert>
+#include <memory.hxx>
+#include <cassert.hxx>
 
 #include "../AB.h"
 

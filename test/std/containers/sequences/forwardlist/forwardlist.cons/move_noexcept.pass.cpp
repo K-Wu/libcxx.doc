@@ -15,8 +15,8 @@
 
 // UNSUPPORTED: c++98, c++03
 
-#include <forward_list>
-#include <cassert>
+#include <forward_list.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "MoveOnly.h"

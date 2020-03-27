@@ -16,9 +16,9 @@
 //
 //  Complexity: At most (3/2) * t.size() applications of the corresponding predicate.
 
-#include <algorithm>
-#include <functional>
-#include <cassert>
+#include <algorithm.hxx>
+#include <functional.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "counting_predicates.h"

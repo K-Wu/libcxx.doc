@@ -12,8 +12,8 @@
 
 // locale() throw();
 
-#include <locale>
-#include <cassert>
+#include <locale.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "platform_support.h" // locale name macros

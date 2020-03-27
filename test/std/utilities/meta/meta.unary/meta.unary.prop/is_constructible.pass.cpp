@@ -15,7 +15,7 @@
 
 // MODULES_DEFINES: _LIBCPP_TESTING_FALLBACK_IS_CONSTRUCTIBLE
 #define _LIBCPP_TESTING_FALLBACK_IS_CONSTRUCTIBLE
-#include <type_traits>
+#include <type_traits.hxx>
 #include "test_macros.h"
 
 #if TEST_STD_VER >= 11 && defined(_LIBCPP_VERSION)

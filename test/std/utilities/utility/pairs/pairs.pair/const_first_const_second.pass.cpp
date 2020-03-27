@@ -14,8 +14,8 @@
 
 // pair(const T1& x, const T2& y);
 
-#include <utility>
-#include <cassert>
+#include <utility.hxx>
+#include <cassert.hxx>
 
 #include "archetypes.h"
 #include "test_convertible.h"

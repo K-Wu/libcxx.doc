@@ -27,12 +27,12 @@
 
 
 
-#include <span>
-#include <algorithm>
-#include <array>
-#include <cassert>
-#include <string>
-#include <type_traits>
+#include <span.hxx>
+#include <algorithm.hxx>
+#include <array.hxx>
+#include <cassert.hxx>
+#include <string.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

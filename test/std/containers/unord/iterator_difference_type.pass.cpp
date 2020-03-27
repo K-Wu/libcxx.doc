@@ -6,9 +6,9 @@
 //
 //===----------------------------------------------------------------------===//
 
-#include <unordered_map>
-#include <unordered_set>
-#include <type_traits>
+#include <unordered_map.hxx>
+#include <unordered_set.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

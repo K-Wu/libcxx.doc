@@ -13,8 +13,8 @@
 
 // void open(const string& s, ios_base::openmode mode = ios_base::in);
 
-#include <fstream>
-#include <cassert>
+#include <fstream.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

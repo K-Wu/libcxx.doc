@@ -13,8 +13,8 @@
 
 // basic_ifstream();
 
-#include <fstream>
-#include <type_traits>
+#include <fstream.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

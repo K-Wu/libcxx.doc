@@ -15,7 +15,7 @@
 //                   error_code& ec) noexcept;
 
 #include "filesystem_include.h"
-#include <cassert>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "rapid-cxx-test.h"

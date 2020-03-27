@@ -17,8 +17,8 @@
 //  These members were removed for C++17
 
 #include "test_macros.h"
-#include <strstream>
-#include <cassert>
+#include <strstream.hxx>
+#include <cassert.hxx>
 
 int main(int, char**)
 {

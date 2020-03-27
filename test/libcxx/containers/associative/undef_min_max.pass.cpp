@@ -13,7 +13,7 @@
 #define min THIS IS A NASTY MACRO!
 #define max THIS IS A NASTY MACRO!
 
-#include <map>
+#include <map.hxx>
 
 #include "test_macros.h"
 

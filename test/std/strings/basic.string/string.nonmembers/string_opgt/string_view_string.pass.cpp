@@ -10,8 +10,8 @@
 
 // we get this comparison "for free" because the string implicitly converts to the string_view
 
-#include <string>
-#include <cassert>
+#include <string.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

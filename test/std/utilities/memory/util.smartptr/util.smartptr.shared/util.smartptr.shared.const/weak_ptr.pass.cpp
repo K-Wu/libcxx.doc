@@ -12,8 +12,8 @@
 
 // template<class Y> explicit shared_ptr(const weak_ptr<Y>& r);
 
-#include <memory>
-#include <cassert>
+#include <memory.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -57,8 +57,8 @@
 //               Allocator)
 //   -> unordered_multimap<Key, T, Hash, equal_to<Key>, Allocator>;
 
-#include <functional>
-#include <unordered_map>
+#include <functional.hxx>
+#include <unordered_map.hxx>
 
 int main(int, char**)
 {

@@ -17,7 +17,7 @@
     __cpp_lib_uncaught_exceptions    201411L [C++17]
 */
 
-#include <exception>
+#include <exception.hxx>
 #include "test_macros.h"
 
 #if TEST_STD_VER < 14

@@ -1,14 +1,14 @@
 #include "benchmark/benchmark.h"
 
-#include <cassert>
-#include <cmath>
-#include <cstdint>
-#include <cstdlib>
+#include <cassert.hxx>
+#include <cmath.hxx>
+#include <cstdint.hxx>
+#include <cstdlib.hxx>
 
-#include <iostream>
-#include <limits>
-#include <sstream>
-#include <string>
+#include <iostream.hxx>
+#include <limits.hxx>
+#include <sstream.hxx>
+#include <string.hxx>
 
 namespace {
 

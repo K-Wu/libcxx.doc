@@ -13,9 +13,9 @@
 // template <class InputIt, class ForwardIt>
 // ForwardIt uninitialized_move(InputIt, InputIt, ForwardIt);
 
-#include <memory>
-#include <cstdlib>
-#include <cassert>
+#include <memory.hxx>
+#include <cstdlib.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

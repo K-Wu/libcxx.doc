@@ -16,11 +16,11 @@
 //   cv_status
 //   wait_until(Lock& lock, const chrono::time_point<Clock, Duration>& abs_time);
 
-#include <condition_variable>
-#include <mutex>
-#include <thread>
-#include <chrono>
-#include <cassert>
+#include <condition_variable.hxx>
+#include <mutex.hxx>
+#include <thread.hxx>
+#include <chrono.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -14,9 +14,9 @@
 //     basic_ostream<charT, ST>&
 //     operator<<(basic_ostream<charT, ST>& os, const sub_match<BiIter>& m);
 
-#include <regex>
-#include <sstream>
-#include <cassert>
+#include <regex.hxx>
+#include <sstream.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 
 template <class CharT>

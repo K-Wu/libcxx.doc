@@ -17,7 +17,7 @@
     __cpp_lib_optional    201606L [C++17]
 */
 
-#include <optional>
+#include <optional.hxx>
 #include "test_macros.h"
 
 #if TEST_STD_VER < 14

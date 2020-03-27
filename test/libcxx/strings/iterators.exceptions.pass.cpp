@@ -15,11 +15,11 @@
 // This gives us a "fast path for string operations"
 //
 
-#include <iterator>
-#include <cassert>
-#include <string>
-#include <vector>
-#include <initializer_list>
+#include <iterator.hxx>
+#include <cassert.hxx>
+#include <string.hxx>
+#include <vector.hxx>
+#include <initializer_list.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

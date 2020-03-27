@@ -18,9 +18,9 @@
 //     Integral
 //     atomic_fetch_and_explicit(atomic<Integral>* obj, Integral op);
 
-#include <atomic>
-#include <type_traits>
-#include <cassert>
+#include <atomic.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "atomic_helpers.h"

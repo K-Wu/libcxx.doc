@@ -16,11 +16,11 @@
 
 // template <class T> constexpr variant(T&&) noexcept(see below);
 
-#include <cassert>
-#include <string>
-#include <type_traits>
-#include <variant>
-#include <memory>
+#include <cassert.hxx>
+#include <string.hxx>
+#include <type_traits.hxx>
+#include <variant.hxx>
+#include <memory.hxx>
 
 #include "test_macros.h"
 #include "variant_test_helpers.h"

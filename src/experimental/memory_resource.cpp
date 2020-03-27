@@ -6,12 +6,12 @@
 //
 //===----------------------------------------------------------------------===//
 
-#include "experimental/memory_resource"
+#include "experimental/memory_resource.hxx"
 
 #ifndef _LIBCPP_HAS_NO_ATOMIC_HEADER
-#include "atomic"
+#include "atomic.hxx"
 #elif !defined(_LIBCPP_HAS_NO_THREADS)
-#include "mutex"
+#include "mutex.hxx"
 #if defined(__unix__) && !defined(__ANDROID__) && defined(__ELF__) && defined(_LIBCPP_HAS_COMMENT_LIB_PRAGMA)
 #pragma comment(lib, "pthread")
 #endif

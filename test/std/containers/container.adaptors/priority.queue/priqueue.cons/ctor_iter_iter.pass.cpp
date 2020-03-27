@@ -11,9 +11,9 @@
 // template <class InputIterator>
 //   priority_queue(InputIterator first, InputIterator last);
 
-#include <queue>
-#include <cassert>
-#include <cstddef>
+#include <queue.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
 
 #include "test_macros.h"
 

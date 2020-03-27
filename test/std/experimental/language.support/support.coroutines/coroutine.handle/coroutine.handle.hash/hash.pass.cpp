@@ -18,12 +18,12 @@
 //  template <class P> struct hash<experimental::coroutine_handle<P>>;
 // }
 
-#include <experimental/coroutine>
-#include <type_traits>
-#include <memory>
-#include <utility>
-#include <cstdint>
-#include <cassert>
+#include <experimental/coroutine.hxx>
+#include <type_traits.hxx>
+#include <memory.hxx>
+#include <utility.hxx>
+#include <cstdint.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

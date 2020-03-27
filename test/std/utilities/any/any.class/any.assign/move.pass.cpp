@@ -16,8 +16,8 @@
 
 // Test move assignment.
 
-#include <any>
-#include <cassert>
+#include <any.hxx>
+#include <cassert.hxx>
 
 #include "any_helpers.h"
 #include "test_macros.h"

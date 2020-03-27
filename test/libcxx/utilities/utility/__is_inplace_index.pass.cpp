@@ -10,7 +10,7 @@
 
 // template <class _Tp> using __is_inplace_index
 
-#include <utility>
+#include <utility.hxx>
 
 #include "test_macros.h"
 

@@ -10,11 +10,11 @@
 
 // explicit basic_string(basic_string_view<CharT, traits> sv, const Allocator& a = Allocator());
 
-#include <string>
-#include <string_view>
-#include <stdexcept>
-#include <algorithm>
-#include <cassert>
+#include <string.hxx>
+#include <string_view.hxx>
+#include <stdexcept.hxx>
+#include <algorithm.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_allocator.h"

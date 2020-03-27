@@ -12,9 +12,9 @@
 // basic_istream<charT, traits>&
 // operator>>(basic_istream<charT, traits>& is, bitset<N>& x);
 
-#include <bitset>
-#include <sstream>
-#include <cassert>
+#include <bitset.hxx>
+#include <sstream.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 
 int main(int, char**)

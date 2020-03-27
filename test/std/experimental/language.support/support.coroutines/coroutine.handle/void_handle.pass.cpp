@@ -9,7 +9,7 @@
 
 // UNSUPPORTED: c++98, c++03, c++11
 
-#include <experimental/coroutine>
+#include <experimental/coroutine.hxx>
 
 #include "test_macros.h"
 

@@ -12,8 +12,8 @@
 
 // explicit strstreambuf(streamsize alsize_arg = 0);
 
-#include <strstream>
-#include <cassert>
+#include <strstream.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

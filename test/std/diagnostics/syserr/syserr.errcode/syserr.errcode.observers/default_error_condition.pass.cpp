@@ -12,8 +12,8 @@
 
 // error_condition default_error_condition() const;
 
-#include <system_error>
-#include <cassert>
+#include <system_error.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

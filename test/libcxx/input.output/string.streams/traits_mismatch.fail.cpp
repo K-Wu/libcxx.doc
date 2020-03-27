@@ -14,7 +14,7 @@
 //
 // The char type of the stream and the char_type of the traits have to match
 
-#include <sstream>
+#include <sstream.hxx>
 
 int main(int, char**)
 {

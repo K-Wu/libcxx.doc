@@ -19,11 +19,11 @@
 // template <class Clock, class Duration>
 //   shared_lock(mutex_type& m, const chrono::time_point<Clock, Duration>& abs_time);
 
-#include <shared_mutex>
-#include <thread>
-#include <vector>
-#include <cstdlib>
-#include <cassert>
+#include <shared_mutex.hxx>
+#include <thread.hxx>
+#include <vector.hxx>
+#include <cstdlib.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

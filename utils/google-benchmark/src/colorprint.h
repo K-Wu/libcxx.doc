@@ -1,9 +1,9 @@
 #ifndef BENCHMARK_COLORPRINT_H_
 #define BENCHMARK_COLORPRINT_H_
 
-#include <cstdarg>
-#include <iostream>
-#include <string>
+#include <cstdarg.hxx>
+#include <iostream.hxx>
+#include <string.hxx>
 
 namespace benchmark {
 enum LogColor {

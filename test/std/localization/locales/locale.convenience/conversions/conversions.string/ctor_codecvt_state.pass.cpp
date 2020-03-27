@@ -12,9 +12,9 @@
 
 // wstring_convert(Codecvt* pcvt, state_type state);
 
-#include <locale>
-#include <codecvt>
-#include <cassert>
+#include <locale.hxx>
+#include <codecvt.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

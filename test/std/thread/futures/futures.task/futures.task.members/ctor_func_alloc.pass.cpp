@@ -18,8 +18,8 @@
 // template <class F, class Allocator>
 //     explicit packaged_task(allocator_arg_t, const Allocator& a, F&& f);
 
-#include <future>
-#include <cassert>
+#include <future.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_allocator.h"

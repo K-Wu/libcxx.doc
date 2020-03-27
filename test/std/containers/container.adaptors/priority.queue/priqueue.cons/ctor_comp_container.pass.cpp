@@ -10,9 +10,9 @@
 
 // explicit priority_queue(const Compare& comp, const container_type& c);
 
-#include <queue>
-#include <cassert>
-#include <functional>
+#include <queue.hxx>
+#include <cassert.hxx>
+#include <functional.hxx>
 
 #include "test_macros.h"
 

@@ -14,9 +14,9 @@
 //   basic_ostream<charT,traits>&
 //   operator<<(basic_ostream<charT,traits>& os, const error_code& ec);
 
-#include <system_error>
-#include <sstream>
-#include <cassert>
+#include <system_error.hxx>
+#include <sstream.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

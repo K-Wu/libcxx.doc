@@ -14,9 +14,9 @@
 //  C++17 says:  If is_trivially_copy_constructible_v<T> is true, then
 //     this constructor is a trivial copy constructor.
 
-#include <iterator>
-#include <sstream>
-#include <cassert>
+#include <iterator.hxx>
+#include <sstream.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

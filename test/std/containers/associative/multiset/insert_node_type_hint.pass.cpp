@@ -14,7 +14,7 @@
 
 // iterator insert(const_iterator hint, node_type&&);
 
-#include <set>
+#include <set.hxx>
 #include "test_macros.h"
 #include "min_allocator.h"
 

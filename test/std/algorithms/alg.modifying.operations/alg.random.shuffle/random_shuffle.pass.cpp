@@ -16,8 +16,8 @@
 
 #define _LIBCPP_DISABLE_DEPRECATION_WARNINGS
 
-#include <algorithm>
-#include <cassert>
+#include <algorithm.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

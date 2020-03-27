@@ -18,9 +18,9 @@
 
 #define _LIBCPP_DISABLE_DEPRECATION_WARNINGS
 
-#include <memory>
-#include <utility>
-#include <cassert>
+#include <memory.hxx>
+#include <utility.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -6,10 +6,10 @@
 //
 //===----------------------------------------------------------------------===//
 
-#include <cstdint>
-#include <functional>
-#include <memory>
-#include <string>
+#include <cstdint.hxx>
+#include <functional.hxx>
+#include <memory.hxx>
+#include <string.hxx>
 
 #include "CartesianBenchmarks.h"
 #include "benchmark/benchmark.h"

@@ -14,8 +14,8 @@
 // template <class charT, class traits>
 //   basic_ostream<charT,traits>& flush(basic_ostream<charT,traits>& os);
 
-#include <ostream>
-#include <cassert>
+#include <ostream.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

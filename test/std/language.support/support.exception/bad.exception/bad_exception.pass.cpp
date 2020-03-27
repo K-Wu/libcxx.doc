@@ -8,9 +8,9 @@
 
 // test bad_exception
 
-#include <exception>
-#include <type_traits>
-#include <cassert>
+#include <exception.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -12,8 +12,8 @@
 
 // enum class cv_status { no_timeout, timeout };
 
-#include <condition_variable>
-#include <cassert>
+#include <condition_variable.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

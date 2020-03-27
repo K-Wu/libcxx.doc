@@ -14,9 +14,9 @@
 // template <class Clock, class Duration>
 //   void sleep_until(const chrono::time_point<Clock, Duration>& abs_time);
 
-#include <thread>
-#include <cstdlib>
-#include <cassert>
+#include <thread.hxx>
+#include <cstdlib.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

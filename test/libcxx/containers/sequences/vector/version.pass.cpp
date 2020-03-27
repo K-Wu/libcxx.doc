@@ -8,7 +8,7 @@
 
 // <vector>
 
-#include <vector>
+#include <vector.hxx>
 
 #include "test_macros.h"
 

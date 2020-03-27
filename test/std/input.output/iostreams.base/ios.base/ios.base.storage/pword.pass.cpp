@@ -15,10 +15,10 @@
 // This test compiles but never completes when compiled against the MSVC STL
 // UNSUPPORTED: msvc
 
-#include <ios>
-#include <string>
-#include <cassert>
-#include <cstdint>
+#include <ios.hxx>
+#include <string.hxx>
+#include <cassert.hxx>
+#include <cstdint.hxx>
 
 #include "test_macros.h"
 

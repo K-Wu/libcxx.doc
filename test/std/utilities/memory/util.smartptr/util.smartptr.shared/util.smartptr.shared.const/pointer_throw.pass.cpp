@@ -14,10 +14,10 @@
 // template<class Y> explicit shared_ptr(Y* p);
 
 
-#include <memory>
-#include <new>
-#include <cstdlib>
-#include <cassert>
+#include <memory.hxx>
+#include <new.hxx>
+#include <cstdlib.hxx>
+#include <cassert.hxx>
 
 #include "count_new.h"
 

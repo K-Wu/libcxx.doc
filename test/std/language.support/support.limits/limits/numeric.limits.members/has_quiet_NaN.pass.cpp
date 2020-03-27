@@ -10,7 +10,7 @@
 
 // has_quiet_NaN
 
-#include <limits>
+#include <limits.hxx>
 
 #include "test_macros.h"
 

@@ -12,9 +12,9 @@
 
 // bool operator<(const error_code& lhs, const error_code& rhs);
 
-#include <system_error>
-#include <string>
-#include <cassert>
+#include <system_error.hxx>
+#include <string.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

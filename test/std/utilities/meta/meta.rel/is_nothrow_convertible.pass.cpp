@@ -10,7 +10,7 @@
 // <type_traits>
 // UNSUPPORTED: c++98, c++03, c++11, c++14, c++17
 
-#include <type_traits>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

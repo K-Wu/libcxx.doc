@@ -16,7 +16,7 @@
 #define _LIBCPP_HAS_NO_THREADS
 #endif
 
-#include <atomic>
+#include <atomic.hxx>
 
 int main(int, char**)
 {

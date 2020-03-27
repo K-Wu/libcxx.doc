@@ -10,7 +10,7 @@
 
 // has_virtual_destructor
 
-#include <type_traits>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

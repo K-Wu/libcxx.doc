@@ -8,7 +8,7 @@
 
 // <queue>
 
-#include <queue>
+#include <queue.hxx>
 
 #include "test_macros.h"
 

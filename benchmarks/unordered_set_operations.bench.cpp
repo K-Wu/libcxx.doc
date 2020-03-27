@@ -1,9 +1,9 @@
-#include <unordered_set>
-#include <vector>
-#include <functional>
-#include <cstdint>
-#include <cstdlib>
-#include <cstring>
+#include <unordered_set.hxx>
+#include <vector.hxx>
+#include <functional.hxx>
+#include <cstdint.hxx>
+#include <cstdlib.hxx>
+#include <cstring.hxx>
 
 #include "benchmark/benchmark.h"
 

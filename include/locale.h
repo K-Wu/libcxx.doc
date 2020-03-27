@@ -33,7 +33,7 @@ Functions:
 
 */
 
-#include <__config>
+#include <__config.hxx>
 
 #if !defined(_LIBCPP_HAS_NO_PRAGMA_SYSTEM_HEADER)
 #pragma GCC system_header

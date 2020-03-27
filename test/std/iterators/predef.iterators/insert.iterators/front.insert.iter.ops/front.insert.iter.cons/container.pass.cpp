@@ -12,8 +12,8 @@
 
 // explicit front_insert_iterator(Cont& x);
 
-#include <iterator>
-#include <list>
+#include <iterator.hxx>
+#include <list.hxx>
 #include "nasty_containers.h"
 
 #include "test_macros.h"

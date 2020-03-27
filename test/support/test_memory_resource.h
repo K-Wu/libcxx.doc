@@ -9,15 +9,15 @@
 #ifndef SUPPORT_TEST_MEMORY_RESOURCE_H
 #define SUPPORT_TEST_MEMORY_RESOURCE_H
 
-#include <experimental/memory_resource>
-#include <experimental/utility>
-#include <memory>
-#include <type_traits>
-#include <cstddef>
-#include <cstdlib>
-#include <cstring>
-#include <cstdint>
-#include <cassert>
+#include <experimental/memory_resource.hxx>
+#include <experimental/utility.hxx>
+#include <memory.hxx>
+#include <type_traits.hxx>
+#include <cstddef.hxx>
+#include <cstdlib.hxx>
+#include <cstring.hxx>
+#include <cstdint.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 #include "controlled_allocators.h"
 #include "uses_alloc_types.h"

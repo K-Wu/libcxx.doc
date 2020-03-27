@@ -15,8 +15,8 @@
 
 // scoped_lock(adopt_lock_t, Mutex&...);
 
-#include <mutex>
-#include <cassert>
+#include <mutex.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 
 struct TestMutex {

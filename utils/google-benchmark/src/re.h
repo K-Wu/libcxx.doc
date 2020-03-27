@@ -39,7 +39,7 @@
 #endif
 
 #if defined(HAVE_STD_REGEX)
-  #include <regex>
+  #include <regex.hxx>
 #elif defined(HAVE_GNU_POSIX_REGEX)
   #include <gnuregex.h>
 #elif defined(HAVE_POSIX_REGEX)
@@ -50,7 +50,7 @@
 
 // clang-format on
 
-#include <string>
+#include <string.hxx>
 
 #include "check.h"
 

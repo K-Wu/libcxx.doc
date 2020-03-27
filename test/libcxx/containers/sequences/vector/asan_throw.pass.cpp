@@ -9,8 +9,8 @@
 // UNSUPPORTED: libcpp-no-exceptions
 // Test asan vector annotations with a class that throws in a CTOR.
 
-#include <vector>
-#include <cassert>
+#include <vector.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "asan_testing.h"

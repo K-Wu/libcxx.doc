@@ -15,10 +15,10 @@
 //                       T init, BinaryOperation binary_op, UnaryOperation unary_op);
 //
 
-#include <numeric>
-#include <cassert>
-#include <utility>
-#include <iterator>
+#include <numeric.hxx>
+#include <cassert.hxx>
+#include <utility.hxx>
+#include <iterator.hxx>
 
 #include "test_macros.h"
 #include "MoveOnly.h"

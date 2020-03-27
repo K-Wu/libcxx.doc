@@ -18,9 +18,9 @@ int AssertCount = 0;
 
 #define _LIBCPP_ASSERT(x, m) ((x) ? (void)0 : (void)::AssertCount++)
 #define _LIBCPP_DEBUG 0
-#include <experimental/memory_resource>
-#include <type_traits>
-#include <cassert>
+#include <experimental/memory_resource.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_memory_resource.h"
 

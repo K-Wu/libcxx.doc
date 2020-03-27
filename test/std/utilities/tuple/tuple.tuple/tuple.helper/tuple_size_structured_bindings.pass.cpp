@@ -17,10 +17,10 @@
 // UNSUPPORTED: c++98, c++03, c++11, c++14
 // UNSUPPORTED: libcpp-no-structured-bindings
 
-#include <tuple>
-#include <array>
-#include <type_traits>
-#include <cassert>
+#include <tuple.hxx>
+#include <array.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

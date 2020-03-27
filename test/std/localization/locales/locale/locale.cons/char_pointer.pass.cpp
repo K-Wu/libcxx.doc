@@ -16,9 +16,9 @@
 
 // explicit locale(const char* std_name);
 
-#include <locale>
-#include <new>
-#include <cassert>
+#include <locale.hxx>
+#include <new.hxx>
+#include <cassert.hxx>
 
 #include "count_new.h"
 #include "platform_support.h" // locale name macros

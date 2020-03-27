@@ -20,7 +20,7 @@
 // XFAIL: availability=macosx10.8
 // XFAIL: availability=macosx10.7
 
-#include <new>
+#include <new.hxx>
 
 #include "test_macros.h"
 

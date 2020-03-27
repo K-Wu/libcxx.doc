@@ -8,7 +8,7 @@
 
 // <deque>
 
-#include <deque>
+#include <deque.hxx>
 
 #include "test_macros.h"
 

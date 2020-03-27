@@ -9,7 +9,7 @@
 
 // test <cerrno>
 
-#include <cerrno>
+#include <cerrno.hxx>
 
 #include "test_macros.h"
 

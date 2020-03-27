@@ -13,8 +13,8 @@
 
 // void setp(char_type* pbeg, char_type* pend);
 
-#include <streambuf>
-#include <cassert>
+#include <streambuf.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

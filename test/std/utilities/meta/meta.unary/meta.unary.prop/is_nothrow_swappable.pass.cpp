@@ -12,8 +12,8 @@
 
 // is_swappable
 
-#include <type_traits>
-#include <vector>
+#include <type_traits.hxx>
+#include <vector.hxx>
 #include "test_macros.h"
 
 namespace MyNS {

@@ -8,7 +8,7 @@
 #ifndef SUPPORT_TRACKED_VALUE_H
 #define SUPPORT_TRACKED_VALUE_H
 
-#include <cassert>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

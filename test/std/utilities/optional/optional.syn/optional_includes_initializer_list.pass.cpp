@@ -9,9 +9,9 @@
 // UNSUPPORTED: c++98, c++03, c++11, c++14
 // <optional>
 
-// #include <initializer_list>
+// #include <initializer_list.hxx>
 
-#include <optional>
+#include <optional.hxx>
 
 #include "test_macros.h"
 

@@ -12,8 +12,8 @@
 
 // basic_string& replace(const_iterator i1, const_iterator i2, initializer_list<charT> il);
 
-#include <string>
-#include <cassert>
+#include <string.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

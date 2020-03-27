@@ -8,8 +8,8 @@
 
 // test ratio:  The template argument D shall not be zero
 
-#include <ratio>
-#include <cstdint>
+#include <ratio.hxx>
+#include <cstdint.hxx>
 
 int main(int, char**)
 {

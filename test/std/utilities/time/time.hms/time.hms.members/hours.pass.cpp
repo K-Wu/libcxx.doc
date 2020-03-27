@@ -24,8 +24,8 @@
 // 10000mfn         3       21      36      0
 
 
-#include <chrono>
-#include <cassert>
+#include <chrono.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

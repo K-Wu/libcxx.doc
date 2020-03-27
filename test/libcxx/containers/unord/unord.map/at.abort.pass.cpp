@@ -18,9 +18,9 @@
 // REQUIRES: libcpp-no-exceptions
 // UNSUPPORTED: c++98, c++03
 
-#include <csignal>
-#include <cstdlib>
-#include <unordered_map>
+#include <csignal.hxx>
+#include <cstdlib.hxx>
+#include <unordered_map.hxx>
 
 #include "test_macros.h"
 

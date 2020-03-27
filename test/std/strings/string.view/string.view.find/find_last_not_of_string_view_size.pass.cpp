@@ -10,8 +10,8 @@
 
 // size_type find_last_not_of(const basic_string& str, size_type pos = npos) const;
 
-#include <string_view>
-#include <cassert>
+#include <string_view.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

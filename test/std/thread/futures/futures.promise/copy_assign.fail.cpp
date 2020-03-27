@@ -14,7 +14,7 @@
 
 // promise& operator=(const promise& rhs) = delete;
 
-#include <future>
+#include <future.hxx>
 
 #include "test_macros.h"
 

@@ -11,8 +11,8 @@
 // constexpr bool is_am(const hours& h) noexcept;
 //   Returns: 0h <= h && h <= 11h.
 
-#include <chrono>
-#include <cassert>
+#include <chrono.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

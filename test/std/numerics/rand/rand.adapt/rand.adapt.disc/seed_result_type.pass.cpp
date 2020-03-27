@@ -13,8 +13,8 @@
 
 // void seed(result_type s = default_seed);
 
-#include <random>
-#include <cassert>
+#include <random.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

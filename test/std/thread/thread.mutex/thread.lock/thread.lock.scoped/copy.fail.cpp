@@ -15,7 +15,7 @@
 
 // scoped_lock(scoped_lock const&) = delete;
 
-#include <mutex>
+#include <mutex.hxx>
 #include "test_macros.h"
 
 int main(int, char**)

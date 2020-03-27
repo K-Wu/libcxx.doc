@@ -14,8 +14,8 @@
 // template<class InputIterator>
 //     discrete_distribution(InputIterator firstW, InputIterator lastW);
 
-#include <random>
-#include <cassert>
+#include <random.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

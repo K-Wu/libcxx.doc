@@ -19,8 +19,8 @@
 // LWG 198 was superseded by LWG 2360
 //    http://www.open-std.org/jtc1/sc22/wg21/docs/lwg-defects.html#2360
 
-#include <iterator>
-#include <cassert>
+#include <iterator.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -14,9 +14,9 @@
 // template <class ...Ts> using common_comparison_category_t
 
 
-#include <compare>
-#include <type_traits>
-#include <cassert>
+#include <compare.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

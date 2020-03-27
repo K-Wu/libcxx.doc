@@ -11,7 +11,7 @@
 // Check that std::unordered_set fails to instantiate if the hash function is
 // not copy-constructible. This is mentioned in LWG issue 2436
 
-#include <unordered_set>
+#include <unordered_set.hxx>
 
 template <class T>
 struct Hash {

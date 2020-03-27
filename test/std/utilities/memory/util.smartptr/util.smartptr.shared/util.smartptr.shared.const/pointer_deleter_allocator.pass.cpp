@@ -10,8 +10,8 @@
 
 // template<class Y, class D, class A> shared_ptr(Y* p, D d, A a);
 
-#include <memory>
-#include <cassert>
+#include <memory.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 #include "deleter_types.h"
 #include "test_allocator.h"

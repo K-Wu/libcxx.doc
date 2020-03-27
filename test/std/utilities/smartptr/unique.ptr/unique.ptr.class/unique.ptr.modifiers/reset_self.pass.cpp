@@ -12,7 +12,7 @@
 
 // test reset against resetting self
 
-#include <memory>
+#include <memory.hxx>
 
 #include "test_macros.h"
 

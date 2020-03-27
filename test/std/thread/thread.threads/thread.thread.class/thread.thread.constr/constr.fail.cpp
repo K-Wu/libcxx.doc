@@ -15,8 +15,8 @@
 //       if decay<F>::type is the same type as std::thread.
 
 
-#include <thread>
-#include <cassert>
+#include <thread.hxx>
+#include <cassert.hxx>
 
 int main(int, char**)
 {

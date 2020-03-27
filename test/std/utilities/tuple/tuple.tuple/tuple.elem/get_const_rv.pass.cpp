@@ -16,11 +16,11 @@
 
 // UNSUPPORTED: c++98, c++03
 
-#include <tuple>
-#include <utility>
-#include <string>
-#include <type_traits>
-#include <cassert>
+#include <tuple.hxx>
+#include <utility.hxx>
+#include <string.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

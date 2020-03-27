@@ -13,10 +13,10 @@
 //   Iter
 //   max_element(Iter first, Iter last, Compare comp);
 
-#include <algorithm>
-#include <functional>
-#include <random>
-#include <cassert>
+#include <algorithm.hxx>
+#include <functional.hxx>
+#include <random.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

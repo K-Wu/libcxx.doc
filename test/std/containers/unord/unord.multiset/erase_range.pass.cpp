@@ -14,9 +14,9 @@
 
 // iterator erase(const_iterator first, const_iterator last)
 
-#include <unordered_set>
-#include <cassert>
-#include <iterator>
+#include <unordered_set.hxx>
+#include <cassert.hxx>
+#include <iterator.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

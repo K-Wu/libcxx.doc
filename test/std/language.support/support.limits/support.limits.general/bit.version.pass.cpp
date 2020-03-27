@@ -17,7 +17,7 @@
     __cpp_lib_bit_cast    201806L [C++2a]
 */
 
-#include <bit>
+#include <bit.hxx>
 #include "test_macros.h"
 
 #if TEST_STD_VER < 14

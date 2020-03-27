@@ -19,8 +19,8 @@
 //     typedef basic_istream<charT,traits> istream_type;
 //     ...
 
-#include <iterator>
-#include <type_traits>
+#include <iterator.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

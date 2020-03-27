@@ -15,8 +15,8 @@
 
 // basic_istream(basic_istream&& rhs);
 
-#include <istream>
-#include <cassert>
+#include <istream.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

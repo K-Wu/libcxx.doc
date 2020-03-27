@@ -17,8 +17,8 @@
 //   ForwardIterator search(ForwardIterator first, ForwardIterator last,
 //                          const Searcher& searcher); // C++17
 
-#include <algorithm>
-#include <cassert>
+#include <algorithm.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

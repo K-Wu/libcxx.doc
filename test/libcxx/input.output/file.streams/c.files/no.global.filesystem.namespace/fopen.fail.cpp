@@ -8,7 +8,7 @@
 
 // REQUIRES: libcpp-has-no-global-filesystem-namespace
 
-#include <cstdio>
+#include <cstdio.hxx>
 
 int main(int, char**) {
     // fopen is not available on systems without a global filesystem namespace.

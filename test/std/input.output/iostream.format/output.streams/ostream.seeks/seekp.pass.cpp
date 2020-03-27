@@ -13,8 +13,8 @@
 
 // basic_ostream<charT,traits>& seekp(pos_type pos);
 
-#include <ostream>
-#include <cassert>
+#include <ostream.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

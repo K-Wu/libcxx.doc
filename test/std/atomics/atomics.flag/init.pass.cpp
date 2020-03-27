@@ -15,8 +15,8 @@
 
 // atomic_flag() = ATOMIC_FLAG_INIT;
 
-#include <atomic>
-#include <cassert>
+#include <atomic.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

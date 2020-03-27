@@ -8,7 +8,7 @@
 
 // <cmath>
 
-#include <cmath>
+#include <cmath.hxx>
 
 #include "test_macros.h"
 

@@ -7,7 +7,7 @@
 //
 //===----------------------------------------------------------------------===//
 
-#include <__threading_support>
+#include <__threading_support.hxx>
 #include <windows.h>
 #include <process.h>
 #include <fibersapi.h>

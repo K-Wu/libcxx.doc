@@ -15,8 +15,8 @@
 
 // This tests a conforming extension
 
-#include <string>
-#include <cassert>
+#include <string.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_allocator.h"

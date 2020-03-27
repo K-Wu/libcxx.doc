@@ -15,9 +15,9 @@
 // mapped_type& operator[](const key_type& k);
 // mapped_type& operator[](key_type&& k);
 
-#include <unordered_map>
-#include <string>
-#include <cassert>
+#include <unordered_map.hxx>
+#include <string.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "MoveOnly.h"

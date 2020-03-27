@@ -10,9 +10,9 @@
 
 // void assign(size_type n, const value_type& v);
 
-#include <forward_list>
-#include <cassert>
-#include <iterator>
+#include <forward_list.hxx>
+#include <cassert.hxx>
+#include <iterator.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

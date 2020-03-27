@@ -10,9 +10,9 @@
 
 // T *data();
 
-#include <array>
-#include <cassert>
-#include <cstddef>       // for std::max_align_t
+#include <array.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>       // for std::max_align_t
 
 #include "test_macros.h"
 

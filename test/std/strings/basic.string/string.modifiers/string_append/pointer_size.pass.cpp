@@ -11,9 +11,9 @@
 // basic_string<charT,traits,Allocator>&
 //   append(const charT* s, size_type n);
 
-#include <string>
-#include <stdexcept>
-#include <cassert>
+#include <string.hxx>
+#include <stdexcept.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

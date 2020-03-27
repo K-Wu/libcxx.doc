@@ -12,10 +12,10 @@
 // template <class U, class... Args>
 //   T& optional<T>::emplace(initializer_list<U> il, Args&&... args);
 
-#include <optional>
-#include <type_traits>
-#include <cassert>
-#include <vector>
+#include <optional.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
+#include <vector.hxx>
 
 #include "test_macros.h"
 

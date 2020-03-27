@@ -13,9 +13,9 @@
 //   Iter2
 //   swap_ranges(Iter1 first1, Iter1 last1, Iter2 first2);
 
-#include <algorithm>
-#include <cassert>
-#include <memory>
+#include <algorithm.hxx>
+#include <cassert.hxx>
+#include <memory.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

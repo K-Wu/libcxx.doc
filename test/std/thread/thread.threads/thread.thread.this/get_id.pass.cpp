@@ -12,8 +12,8 @@
 
 // thread::id this_thread::get_id();
 
-#include <thread>
-#include <cassert>
+#include <thread.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

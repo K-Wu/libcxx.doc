@@ -17,10 +17,10 @@
 //
 
 
-#include <deque>
-#include <iterator>
-#include <cassert>
-#include <cstddef>
+#include <deque.hxx>
+#include <iterator.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
 
 
 int main(int, char**)

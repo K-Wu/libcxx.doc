@@ -15,10 +15,10 @@
 
 // const charT* narrow(const charT* low, const charT*, char dfault, char* to) const;
 
-#include <locale>
-#include <string>
-#include <vector>
-#include <cassert>
+#include <locale.hxx>
+#include <string.hxx>
+#include <vector.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "platform_support.h" // locale name macros

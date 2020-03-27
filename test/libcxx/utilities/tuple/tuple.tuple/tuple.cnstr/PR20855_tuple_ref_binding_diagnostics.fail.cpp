@@ -17,8 +17,8 @@
 #pragma clang diagnostic ignored "-Wdangling-field"
 #endif
 
-#include <tuple>
-#include <string>
+#include <tuple.hxx>
+#include <string.hxx>
 #include "test_macros.h"
 
 template <class Tp>

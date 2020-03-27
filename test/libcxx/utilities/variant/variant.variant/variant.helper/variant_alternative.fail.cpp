@@ -21,8 +21,8 @@
 //    struct variant_alternative<I, variant<Types...>>;
 
 
-#include <variant>
-#include <cassert>
+#include <variant.hxx>
+#include <cassert.hxx>
 
 
 int main(int, char**)

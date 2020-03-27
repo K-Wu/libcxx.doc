@@ -14,9 +14,9 @@
 //
 // See PR41360.
 
-#include <set>
-#include <map>
-#include <functional>
+#include <set.hxx>
+#include <map.hxx>
+#include <functional.hxx>
 
 #include "test_macros.h"
 

@@ -13,7 +13,7 @@
 //		_LIBCPP_HAS_C11_FEATURES - which is defined in <__config>
 //	They should always be the same
 
-#include <__config>
+#include <__config.hxx>
 #include "test_macros.h"
 
 #ifdef TEST_HAS_C11_FEATURES

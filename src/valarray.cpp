@@ -6,7 +6,7 @@
 //
 //===----------------------------------------------------------------------===//
 
-#include "valarray"
+#include "valarray.hxx"
 
 _LIBCPP_BEGIN_NAMESPACE_STD
 

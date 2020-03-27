@@ -14,11 +14,11 @@
 
 // float load_factor() const
 
-#include <unordered_map>
-#include <string>
-#include <cassert>
-#include <cfloat>
-#include <cmath>
+#include <unordered_map.hxx>
+#include <string.hxx>
+#include <cassert.hxx>
+#include <cfloat.hxx>
+#include <cmath.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

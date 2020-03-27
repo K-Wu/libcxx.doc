@@ -67,10 +67,10 @@
 //     T* operator-=(ptrdiff_t op);
 // };
 
-#include <atomic>
-#include <new>
-#include <type_traits>
-#include <cassert>
+#include <atomic.hxx>
+#include <new.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include <cmpxchg_loop.h>
 

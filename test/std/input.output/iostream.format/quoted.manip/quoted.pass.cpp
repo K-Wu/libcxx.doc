@@ -12,10 +12,10 @@
 
 // quoted
 
-#include <iomanip>
-#include <sstream>
-#include <string>
-#include <cassert>
+#include <iomanip.hxx>
+#include <sstream.hxx>
+#include <string.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

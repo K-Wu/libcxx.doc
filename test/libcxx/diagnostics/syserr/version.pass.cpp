@@ -8,7 +8,7 @@
 
 // <system_error>
 
-#include <system_error>
+#include <system_error.hxx>
 
 #include "test_macros.h"
 

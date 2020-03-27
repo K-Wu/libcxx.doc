@@ -17,9 +17,9 @@
 
 // variant(variant const&); // constexpr in C++20
 
-#include <cassert>
-#include <type_traits>
-#include <variant>
+#include <cassert.hxx>
+#include <type_traits.hxx>
+#include <variant.hxx>
 
 #include "test_macros.h"
 #include "test_workarounds.h"

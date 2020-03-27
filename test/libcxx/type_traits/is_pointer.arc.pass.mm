@@ -14,7 +14,7 @@
 
 // Test that we correctly handle Objective-C++ ARC qualifiers on pointers.
 
-#include <type_traits>
+#include <type_traits.hxx>
 
 
 template <typename T>

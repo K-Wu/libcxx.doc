@@ -12,9 +12,9 @@
 
 // template<class E> const E* begin(initializer_list<E> il);
 
-#include <initializer_list>
-#include <cassert>
-#include <cstddef>
+#include <initializer_list.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
 
 #include "test_macros.h"
 

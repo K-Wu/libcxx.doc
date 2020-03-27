@@ -11,8 +11,8 @@
 // template<class InputIterator>
 //   basic_string& assign(InputIterator first, InputIterator last);
 
-#include <string>
-#include <cassert>
+#include <string.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

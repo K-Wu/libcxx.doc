@@ -17,9 +17,9 @@
 // constexpr coroutine_handle() noexcept
 // constexpr coroutine_handle(nullptr_t) noexcept
 
-#include <experimental/coroutine>
-#include <type_traits>
-#include <cassert>
+#include <experimental/coroutine.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

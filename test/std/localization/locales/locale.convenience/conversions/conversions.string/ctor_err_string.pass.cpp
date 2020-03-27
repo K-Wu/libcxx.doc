@@ -13,9 +13,9 @@
 // wstring_convert(const byte_string& byte_err,
 //                 const wide_string& wide_err = wide_string());
 
-#include <locale>
-#include <codecvt>
-#include <cassert>
+#include <locale.hxx>
+#include <codecvt.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

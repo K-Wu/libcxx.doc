@@ -24,9 +24,9 @@
 //   typedef void                        pointer;
 // };
 
-#include <iterator>
-#include <type_traits>
-#include <vector>
+#include <iterator.hxx>
+#include <type_traits.hxx>
+#include <vector.hxx>
 
 #include "test_macros.h"
 

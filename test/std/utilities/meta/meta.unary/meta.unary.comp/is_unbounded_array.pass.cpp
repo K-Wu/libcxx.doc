@@ -12,7 +12,7 @@
 // is_unbounded_array<T>
 // T is an array type of unknown bound ([dcl.array])
 
-#include <type_traits>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

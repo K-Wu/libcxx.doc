@@ -8,7 +8,7 @@
 
 // <ios>
 
-#include <ios>
+#include <ios.hxx>
 
 #include "test_macros.h"
 

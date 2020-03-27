@@ -10,14 +10,14 @@
 
 // template <class Compare> void sort(Compare comp);
 
-#include <forward_list>
-#include <iterator>
-#include <algorithm>
-#include <vector>
-#include <functional>
-#include <random>
-#include <cassert>
-#include <iostream>
+#include <forward_list.hxx>
+#include <iterator.hxx>
+#include <algorithm.hxx>
+#include <vector.hxx>
+#include <functional.hxx>
+#include <random.hxx>
+#include <cassert.hxx>
+#include <iostream.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

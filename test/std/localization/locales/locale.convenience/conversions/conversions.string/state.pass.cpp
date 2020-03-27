@@ -12,8 +12,8 @@
 
 // state_type state() const;
 
-#include <locale>
-#include <codecvt>
+#include <locale.hxx>
+#include <codecvt.hxx>
 
 #include "test_macros.h"
 

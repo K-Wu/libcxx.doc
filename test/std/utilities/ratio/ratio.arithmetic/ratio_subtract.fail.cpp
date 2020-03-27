@@ -8,7 +8,7 @@
 
 // test ratio_subtract
 
-#include <ratio>
+#include <ratio.hxx>
 
 int main(int, char**)
 {

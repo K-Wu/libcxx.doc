@@ -19,8 +19,8 @@
 // const_iterator cbegin() const {return __table_.begin();}
 // const_iterator cend()   const {return __table_.end();}
 
-#include <unordered_set>
-#include <cassert>
+#include <unordered_set.hxx>
+#include <cassert.hxx>
 
 int main(int, char**)
 {

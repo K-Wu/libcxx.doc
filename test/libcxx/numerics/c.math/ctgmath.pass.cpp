@@ -8,7 +8,7 @@
 
 // <ctgmath>
 
-#include <ctgmath>
+#include <ctgmath.hxx>
 
 #include "test_macros.h"
 

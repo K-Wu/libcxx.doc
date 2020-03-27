@@ -10,9 +10,9 @@
 
 // duration_values::min  // noexcept after C++17
 
-#include <chrono>
-#include <limits>
-#include <cassert>
+#include <chrono.hxx>
+#include <limits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "../../rep.h"

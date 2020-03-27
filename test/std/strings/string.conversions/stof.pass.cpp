@@ -15,10 +15,10 @@
 // float stof(const string& str, size_t *idx = 0);
 // float stof(const wstring& str, size_t *idx = 0);
 
-#include <string>
-#include <cmath>
-#include <cassert>
-#include <stdexcept>
+#include <string.hxx>
+#include <cmath.hxx>
+#include <cassert.hxx>
+#include <stdexcept.hxx>
 
 #include "test_macros.h"
 

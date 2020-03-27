@@ -19,9 +19,9 @@
 
 // This tests a conforming extension
 
-#include <list>
-#include <utility>
-#include <cassert>
+#include <list.hxx>
+#include <utility.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "MoveOnly.h"

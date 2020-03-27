@@ -13,9 +13,9 @@
 
 // streamsize xsputn(const char_type* s, streamsize n);
 
-#include <streambuf>
-#include <cassert>
-#include <cstring>
+#include <streambuf.hxx>
+#include <cassert.hxx>
+#include <cstring.hxx>
 
 #include "test_macros.h"
 

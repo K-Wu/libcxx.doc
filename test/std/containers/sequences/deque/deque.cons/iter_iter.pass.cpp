@@ -10,9 +10,9 @@
 
 // template <class InputIterator> deque(InputIterator f, InputIterator l);
 
-#include <deque>
-#include <cassert>
-#include <cstddef>
+#include <deque.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
 
 #include "test_macros.h"
 #include "test_allocator.h"

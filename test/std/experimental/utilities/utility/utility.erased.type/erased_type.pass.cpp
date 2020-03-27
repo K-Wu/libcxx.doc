@@ -8,7 +8,7 @@
 
 // <experimental/utility>
 
-#include <experimental/utility>
+#include <experimental/utility.hxx>
 
 #include "test_macros.h"
 

@@ -10,8 +10,8 @@
 
 // list(const list& c, const allocator_type& a);
 
-#include <list>
-#include <cassert>
+#include <list.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 #include "DefaultOnly.h"
 #include "test_allocator.h"

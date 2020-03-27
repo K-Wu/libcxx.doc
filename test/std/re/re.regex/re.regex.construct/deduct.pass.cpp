@@ -17,11 +17,11 @@
 // -> basic_regex<typename iterator_traits<ForwardIterator>::value_type>;
 
 
-#include <regex>
-#include <string>
-#include <iterator>
-#include <cassert>
-#include <cstddef>
+#include <regex.hxx>
+#include <string.hxx>
+#include <iterator.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

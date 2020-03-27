@@ -18,7 +18,7 @@
 // context. This is specifically testing gcc.gnu.org/PR83921
 
 
-#include <functional>
+#include <functional.hxx>
 #include "test_macros.h"
 
 template <class T>

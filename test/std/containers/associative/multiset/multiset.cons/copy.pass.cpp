@@ -12,8 +12,8 @@
 
 // multiset(const multiset& m);
 
-#include <set>
-#include <cassert>
+#include <set.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "../../../test_compare.h"

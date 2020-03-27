@@ -8,7 +8,7 @@
 
 // <compare>
 
-#include <compare>
+#include <compare.hxx>
 
 #include "test_macros.h"
 

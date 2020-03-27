@@ -19,7 +19,7 @@
 
 #define _LIBCPP_DEBUG 0
 
-#include <iterator>
+#include <iterator.hxx>
 #include "test_macros.h"
 #include "debug_mode_helper.h"
 

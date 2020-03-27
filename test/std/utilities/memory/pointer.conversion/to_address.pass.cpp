@@ -13,8 +13,8 @@
 // template <class T> constexpr T* to_address(T* p) noexcept;
 // template <class Ptr> auto to_address(const Ptr& p) noexcept;
 
-#include <memory>
-#include <cassert>
+#include <memory.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 
 class P1

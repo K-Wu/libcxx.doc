@@ -18,11 +18,11 @@
 #define _LIBCPP_ABI_UNSTABLE
 #endif
 
-#include <utility>
-#include <type_traits>
-#include <cstdlib>
-#include <cstddef>
-#include <cassert>
+#include <utility.hxx>
+#include <type_traits.hxx>
+#include <cstdlib.hxx>
+#include <cstddef.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

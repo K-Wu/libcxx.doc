@@ -12,8 +12,8 @@
 
 // template<class D, class T> D* get_deleter(const shared_ptr<T>& p);
 
-#include <memory>
-#include <cassert>
+#include <memory.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 #include "deleter_types.h"
 

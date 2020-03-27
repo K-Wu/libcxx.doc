@@ -8,9 +8,9 @@
 
 // test <cstdlib>
 
-#include <cstdlib>
-#include <type_traits>
-#include <cassert>
+#include <cstdlib.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -21,9 +21,9 @@
 // template <size_t I, class... Types>
 //    struct variant_alternative<I, variant<Types...>>;
 
-#include <memory>
-#include <type_traits>
-#include <variant>
+#include <memory.hxx>
+#include <type_traits.hxx>
+#include <variant.hxx>
 
 int main(int, char**) {
     using V = std::variant<int, void *, const void *, long double>;

@@ -12,8 +12,8 @@
 
 // gslice_array<value_type> operator[](const gslice& gs);
 
-#include <valarray>
-#include <cassert>
+#include <valarray.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

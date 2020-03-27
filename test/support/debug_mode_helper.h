@@ -13,19 +13,19 @@
 #error _LIBCPP_DEBUG must be defined before including this header
 #endif
 
-#include <ciso646>
+#include <ciso646.hxx>
 #ifndef _LIBCPP_VERSION
 #error "This header may only be used for libc++ tests"
 #endif
 
-#include <__debug>
-#include <utility>
-#include <cstddef>
-#include <cstdlib>
-#include <cassert>
-#include <string_view>
-#include <sstream>
-#include <iostream>
+#include <__debug.hxx>
+#include <utility.hxx>
+#include <cstddef.hxx>
+#include <cstdlib.hxx>
+#include <cassert.hxx>
+#include <string_view.hxx>
+#include <sstream.hxx>
+#include <iostream.hxx>
 
 #include <unistd.h>
 #include <sys/wait.h>

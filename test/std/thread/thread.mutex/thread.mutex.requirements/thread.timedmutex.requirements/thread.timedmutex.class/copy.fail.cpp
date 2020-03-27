@@ -12,7 +12,7 @@
 
 // timed_mutex(const timed_mutex&) = delete;
 
-#include <mutex>
+#include <mutex.hxx>
 
 int main(int, char**)
 {

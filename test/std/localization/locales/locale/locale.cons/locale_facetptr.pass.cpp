@@ -12,9 +12,9 @@
 
 // template <class Facet> locale(const locale& other, Facet* f);
 
-#include <locale>
-#include <new>
-#include <cassert>
+#include <locale.hxx>
+#include <new.hxx>
+#include <cassert.hxx>
 
 #include "count_new.h"
 #include "test_macros.h"

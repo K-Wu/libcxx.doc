@@ -17,12 +17,12 @@
 // basic_streambuf, but I can't seem to reproduce without going through one
 // of its derived classes.
 
-#include <cassert>
-#include <cstddef>
-#include <cstdio>
-#include <fstream>
-#include <sstream>
-#include <string>
+#include <cassert.hxx>
+#include <cstddef.hxx>
+#include <cstdio.hxx>
+#include <fstream.hxx>
+#include <sstream.hxx>
+#include <string.hxx>
 #include "test_macros.h"
 #include "platform_support.h"
 

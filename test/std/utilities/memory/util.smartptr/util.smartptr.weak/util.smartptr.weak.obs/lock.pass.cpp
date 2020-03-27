@@ -12,8 +12,8 @@
 
 // shared_ptr<T> lock() const;
 
-#include <memory>
-#include <cassert>
+#include <memory.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -12,8 +12,8 @@
 
 // namespace std::experimental::filesystem::v1
 
-#include <experimental/filesystem>
-#include <type_traits>
+#include <experimental/filesystem.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

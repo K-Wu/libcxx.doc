@@ -19,9 +19,9 @@
 //   typedef basic_ostream<charT, traits>   ostream_type;
 //   ...
 
-#include <iterator>
-#include <string>
-#include <type_traits>
+#include <iterator.hxx>
+#include <string.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

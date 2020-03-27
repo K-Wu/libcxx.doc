@@ -16,13 +16,13 @@
 // uintmax_t file_size(error_code const&) const noexcept;
 
 #include "filesystem_include.h"
-#include <type_traits>
-#include <cassert>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "filesystem_test_helper.h"
 #include "rapid-cxx-test.h"
 
-#include <iostream>
+#include <iostream.hxx>
 
 #include "test_macros.h"
 

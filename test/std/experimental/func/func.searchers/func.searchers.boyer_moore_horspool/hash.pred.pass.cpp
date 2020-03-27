@@ -30,9 +30,9 @@
 //   BinaryPredicate       pred_;      // exposition only
 // };
 
-#include <experimental/algorithm>
-#include <experimental/functional>
-#include <cassert>
+#include <experimental/algorithm.hxx>
+#include <experimental/functional.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

@@ -17,10 +17,10 @@
 // test container debugging
 
 #define _LIBCPP_DEBUG 1
-#include <unordered_map>
-#include <unordered_set>
-#include <utility>
-#include <cassert>
+#include <unordered_map.hxx>
+#include <unordered_set.hxx>
+#include <utility.hxx>
+#include <cassert.hxx>
 #include "container_debug_tests.h"
 #include "test_macros.h"
 #include "debug_mode_helper.h"

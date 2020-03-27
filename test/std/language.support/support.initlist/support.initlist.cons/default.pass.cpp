@@ -12,8 +12,8 @@
 
 // initializer_list();
 
-#include <initializer_list>
-#include <cassert>
+#include <initializer_list.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

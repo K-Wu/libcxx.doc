@@ -15,9 +15,9 @@
 //    number of days in month m_; otherwise returns false.
 //  When m_ == February, the number of days is considered to be 29.
 
-#include <chrono>
-#include <type_traits>
-#include <cassert>
+#include <chrono.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

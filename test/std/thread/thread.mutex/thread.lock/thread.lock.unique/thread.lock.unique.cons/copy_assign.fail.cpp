@@ -12,8 +12,8 @@
 
 // unique_lock& operator=(unique_lock const&) = delete;
 
-#include <mutex>
-#include <cassert>
+#include <mutex.hxx>
+#include <cassert.hxx>
 
 int main(int, char**)
 {

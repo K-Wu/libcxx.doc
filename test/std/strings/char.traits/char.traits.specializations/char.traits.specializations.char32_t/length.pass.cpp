@@ -13,8 +13,8 @@
 // static size_t length(const char_type* s);
 // constexpr in C++17
 
-#include <string>
-#include <cassert>
+#include <string.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

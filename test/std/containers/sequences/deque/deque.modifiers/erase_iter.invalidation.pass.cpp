@@ -13,8 +13,8 @@
 //  Erasing items from the beginning or the end of a deque shall not invalidate iterators
 //  to items that were not erased.
 
-#include <deque>
-#include <cassert>
+#include <deque.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

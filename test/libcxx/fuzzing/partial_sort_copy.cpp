@@ -10,8 +10,8 @@
 // XFAIL
 
 #include "fuzzing.h"
-#include <cassert>
-#include <cstring> // for strlen
+#include <cassert.hxx>
+#include <cstring.hxx> // for strlen
 
 const char * test_cases[] = {
 	"",

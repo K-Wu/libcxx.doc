@@ -12,9 +12,9 @@
 
 // reference operator[](size_type n);
 
-#include <vector>
-#include <cassert>
-#include <cstdlib>
+#include <vector.hxx>
+#include <cassert.hxx>
+#include <cstdlib.hxx>
 
 #include "asan_testing.h"
 #include "min_allocator.h"

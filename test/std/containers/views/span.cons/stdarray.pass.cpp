@@ -21,9 +21,9 @@
 //
 
 
-#include <span>
-#include <cassert>
-#include <string>
+#include <span.hxx>
+#include <cassert.hxx>
+#include <string.hxx>
 
 #include "test_macros.h"
 // std::array is explicitly allowed to be initialized with A a = { init-list };.

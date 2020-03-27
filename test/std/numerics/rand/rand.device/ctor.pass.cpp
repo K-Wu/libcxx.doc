@@ -25,9 +25,9 @@
 // therefore aren't required to accept any string, but the default shouldn't
 // throw.
 
-#include <random>
-#include <system_error>
-#include <cassert>
+#include <random.hxx>
+#include <system_error.hxx>
+#include <cassert.hxx>
 
 #if !defined(_WIN32)
 #include <unistd.h>

@@ -10,7 +10,7 @@
 
 // <latch>
 
-#include <latch>
+#include <latch.hxx>
 
 #include "test_macros.h"
 

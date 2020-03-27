@@ -11,8 +11,8 @@
 // template <class Alloc>
 //     priority_queue(const Compare& comp, const Alloc& a);
 
-#include <queue>
-#include <cassert>
+#include <queue.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_allocator.h"

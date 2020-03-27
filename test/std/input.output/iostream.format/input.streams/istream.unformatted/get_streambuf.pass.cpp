@@ -17,8 +17,8 @@
 
 // basic_istream<charT,traits>& get(basic_streambuf<char_type,traits>& sb);
 
-#include <istream>
-#include <cassert>
+#include <istream.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

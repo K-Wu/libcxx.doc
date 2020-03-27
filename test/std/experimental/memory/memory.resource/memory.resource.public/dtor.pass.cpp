@@ -18,9 +18,9 @@
 //  B) The destructor is implicitly marked noexcept.
 //  C) The destructor is marked virtual.
 
-#include <experimental/memory_resource>
-#include <type_traits>
-#include <cassert>
+#include <experimental/memory_resource.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_memory_resource.h"
 

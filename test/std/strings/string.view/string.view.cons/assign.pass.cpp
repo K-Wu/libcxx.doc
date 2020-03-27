@@ -11,8 +11,8 @@
 
 // constexpr basic_string_view& operator=(const basic_string_view &) noexcept = default;
 
-#include <string_view>
-#include <cassert>
+#include <string_view.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

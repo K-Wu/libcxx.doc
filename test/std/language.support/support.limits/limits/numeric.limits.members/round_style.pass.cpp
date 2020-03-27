@@ -10,7 +10,7 @@
 
 // round_style
 
-#include <limits>
+#include <limits.hxx>
 
 #include "test_macros.h"
 

@@ -16,8 +16,8 @@
 
 // void insert(initializer_list<value_type> il);
 
-#include <unordered_set>
-#include <cassert>
+#include <unordered_set.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

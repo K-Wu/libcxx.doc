@@ -12,9 +12,9 @@
 //   Iter
 //   rotate(Iter first, Iter middle, Iter last);
 
-#include <algorithm>
-#include <cassert>
-#include <memory>
+#include <algorithm.hxx>
+#include <cassert.hxx>
+#include <memory.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

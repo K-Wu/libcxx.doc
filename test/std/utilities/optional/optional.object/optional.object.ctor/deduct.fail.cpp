@@ -18,8 +18,8 @@
 //   optional(T) -> optional<T>;
 
 
-#include <optional>
-#include <cassert>
+#include <optional.hxx>
+#include <cassert.hxx>
 
 struct A {};
 

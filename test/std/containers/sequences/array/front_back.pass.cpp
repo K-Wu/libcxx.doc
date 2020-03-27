@@ -13,8 +13,8 @@
 // const_reference front(); // constexpr in C++14
 // const_reference back();  // constexpr in C++14
 
-#include <array>
-#include <cassert>
+#include <array.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

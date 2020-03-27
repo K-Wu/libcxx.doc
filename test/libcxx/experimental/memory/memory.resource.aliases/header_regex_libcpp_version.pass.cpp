@@ -10,7 +10,7 @@
 
 // <experimental/regex>
 
-#include <experimental/regex>
+#include <experimental/regex.hxx>
 
 #include "test_macros.h"
 

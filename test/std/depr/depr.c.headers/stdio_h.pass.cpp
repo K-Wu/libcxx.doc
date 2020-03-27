@@ -9,7 +9,7 @@
 // test <stdio.h>
 
 #include <stdio.h>
-#include <type_traits>
+#include <type_traits.hxx>
 #include "test_macros.h"
 
 #ifdef getc
@@ -96,7 +96,7 @@
 #error stdout not defined
 #endif
 
-#include <cstdarg>
+#include <cstdarg.hxx>
 
 #if defined(__GNUC__) || defined(__clang__)
 #pragma GCC diagnostic ignored "-Wformat-zero-length"

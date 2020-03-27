@@ -6,9 +6,9 @@
 //
 //===----------------------------------------------------------------------===//
 
-#include <map>
-#include <set>
-#include <type_traits>
+#include <map.hxx>
+#include <set.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

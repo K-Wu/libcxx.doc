@@ -15,8 +15,8 @@
 // template <class... Args>
 //   iterator emplace(Args&&... args);
 
-#include <set>
-#include <cassert>
+#include <set.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "../../Emplaceable.h"

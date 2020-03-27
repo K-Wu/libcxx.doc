@@ -17,7 +17,7 @@
     __cpp_lib_quoted_string_io    201304L [C++14]
 */
 
-#include <iomanip>
+#include <iomanip.hxx>
 #include "test_macros.h"
 
 #if TEST_STD_VER < 14

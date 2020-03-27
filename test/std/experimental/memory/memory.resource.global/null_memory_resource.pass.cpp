@@ -12,10 +12,10 @@
 
 // memory_resource * null_memory_resource()
 
-#include <experimental/memory_resource>
-#include <new>
-#include <type_traits>
-#include <cassert>
+#include <experimental/memory_resource.hxx>
+#include <new.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "count_new.h"

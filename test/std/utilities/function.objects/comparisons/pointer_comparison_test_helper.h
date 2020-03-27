@@ -1,10 +1,10 @@
 #ifndef POINTER_COMPARISON_TEST_HELPER_H
 #define POINTER_COMPARISON_TEST_HELPER_H
 
-#include <vector>
-#include <memory>
-#include <cstdint>
-#include <cassert>
+#include <vector.hxx>
+#include <memory.hxx>
+#include <cstdint.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

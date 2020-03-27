@@ -7,10 +7,10 @@
 //
 //===----------------------------------------------------------------------===//
 
-#include <locale>
-#include <cstdarg> // va_start, va_end
-#include <memory>
-#include <type_traits>
+#include <locale.hxx>
+#include <cstdarg.hxx> // va_start, va_end
+#include <memory.hxx>
+#include <type_traits.hxx>
 
 int __libcpp_vasprintf(char **sptr, const char *__restrict fmt, va_list ap);
 

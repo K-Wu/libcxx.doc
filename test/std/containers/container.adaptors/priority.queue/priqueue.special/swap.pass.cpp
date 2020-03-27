@@ -14,8 +14,8 @@
 //   void swap(priority_queue<T, Container, Compare>& x,
 //             priority_queue<T, Container, Compare>& y);
 
-#include <queue>
-#include <cassert>
+#include <queue.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

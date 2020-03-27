@@ -6,15 +6,15 @@
 //
 //===----------------------------------------------------------------------===//
 
-#include "string"
-#include "charconv"
-#include "cstdlib"
-#include "cwchar"
-#include "cerrno"
-#include "limits"
-#include "stdexcept"
+#include "string.hxx"
+#include "charconv.hxx"
+#include "cstdlib.hxx"
+#include "cwchar.hxx"
+#include "cerrno.hxx"
+#include "limits.hxx"
+#include "stdexcept.hxx"
 #include <stdio.h>
-#include "__debug"
+#include "__debug.hxx"
 
 _LIBCPP_BEGIN_NAMESPACE_STD
 

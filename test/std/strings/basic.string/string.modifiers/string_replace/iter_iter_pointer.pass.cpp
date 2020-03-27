@@ -13,9 +13,9 @@
 
 #include <stdio.h>
 
-#include <string>
-#include <algorithm>
-#include <cassert>
+#include <string.hxx>
+#include <algorithm.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

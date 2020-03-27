@@ -15,9 +15,9 @@
 // whatever the return type of the underlying container's emplace_back() returns.
 
 
-#include <queue>
-#include <cassert>
-#include <list>
+#include <queue.hxx>
+#include <cassert.hxx>
+#include <list.hxx>
 
 #include "test_macros.h"
 

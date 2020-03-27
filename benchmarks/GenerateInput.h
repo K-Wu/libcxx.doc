@@ -1,12 +1,12 @@
 #ifndef BENCHMARK_GENERATE_INPUT_H
 #define BENCHMARK_GENERATE_INPUT_H
 
-#include <algorithm>
-#include <random>
-#include <vector>
-#include <string>
-#include <climits>
-#include <cstddef>
+#include <algorithm.hxx>
+#include <random.hxx>
+#include <vector.hxx>
+#include <string.hxx>
+#include <climits.hxx>
+#include <cstddef.hxx>
 
 static const char Letters[] = {
     '0','1','2','3','4',

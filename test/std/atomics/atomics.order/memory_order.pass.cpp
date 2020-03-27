@@ -16,8 +16,8 @@
 //     memory_order_release, memory_order_acq_rel, memory_order_seq_cst
 // } memory_order;
 
-#include <atomic>
-#include <cassert>
+#include <atomic.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

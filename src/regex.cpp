@@ -6,9 +6,9 @@
 //
 //===----------------------------------------------------------------------===//
 
-#include "regex"
-#include "algorithm"
-#include "iterator"
+#include "regex.hxx"
+#include "algorithm.hxx"
+#include "iterator.hxx"
 
 _LIBCPP_BEGIN_NAMESPACE_STD
 

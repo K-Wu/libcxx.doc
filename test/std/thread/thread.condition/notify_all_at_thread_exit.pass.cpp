@@ -17,11 +17,11 @@
 // void
 //   notify_all_at_thread_exit(condition_variable& cond, unique_lock<mutex> lk);
 
-#include <condition_variable>
-#include <mutex>
-#include <thread>
-#include <chrono>
-#include <cassert>
+#include <condition_variable.hxx>
+#include <mutex.hxx>
+#include <thread.hxx>
+#include <chrono.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

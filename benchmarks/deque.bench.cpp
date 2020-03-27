@@ -7,7 +7,7 @@
 //
 //===----------------------------------------------------------------------===//
 
-#include <deque>
+#include <deque.hxx>
 
 #include "benchmark/benchmark.h"
 

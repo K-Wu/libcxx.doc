@@ -15,7 +15,7 @@
 #pragma clang diagnostic ignored "-Wdelete-non-virtual-dtor"
 #endif
 
-#include <type_traits>
+#include <type_traits.hxx>
 #include "test_macros.h"
 
 

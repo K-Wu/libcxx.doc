@@ -16,8 +16,8 @@
 
 // shared_lock();
 
-#include <shared_mutex>
-#include <cassert>
+#include <shared_mutex.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

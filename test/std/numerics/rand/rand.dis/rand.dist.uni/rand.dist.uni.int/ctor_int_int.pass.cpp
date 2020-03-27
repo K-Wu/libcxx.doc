@@ -14,8 +14,8 @@
 // explicit uniform_int_distribution(IntType a = 0,
 //                                   IntType b = numeric_limits<IntType>::max());
 
-#include <random>
-#include <cassert>
+#include <random.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

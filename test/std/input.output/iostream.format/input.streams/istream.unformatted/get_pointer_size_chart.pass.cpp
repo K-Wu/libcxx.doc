@@ -19,8 +19,8 @@
 
 // basic_istream<charT,traits>& get(char_type* s, streamsize n, char_type delim);
 
-#include <istream>
-#include <cassert>
+#include <istream.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

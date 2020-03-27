@@ -12,8 +12,8 @@
 
 // streambuf* setbuf(char* s, streamsize n);
 
-#include <strstream>
-#include <cassert>
+#include <strstream.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

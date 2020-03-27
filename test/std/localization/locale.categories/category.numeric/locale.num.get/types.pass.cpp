@@ -16,9 +16,9 @@
 //     typedef charT char_type;
 //     typedef InputIterator iter_type;
 
-#include <locale>
-#include <iterator>
-#include <type_traits>
+#include <locale.hxx>
+#include <iterator.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

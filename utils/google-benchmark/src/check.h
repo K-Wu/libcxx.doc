@@ -1,9 +1,9 @@
 #ifndef CHECK_H_
 #define CHECK_H_
 
-#include <cmath>
-#include <cstdlib>
-#include <ostream>
+#include <cmath.hxx>
+#include <cstdlib.hxx>
+#include <ostream.hxx>
 
 #include "internal_macros.h"
 #include "log.h"

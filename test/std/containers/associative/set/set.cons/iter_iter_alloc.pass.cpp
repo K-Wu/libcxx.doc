@@ -18,8 +18,8 @@
 //     set(InputIterator first, InputIterator last,
 //         const allocator_type& a);
 
-#include <set>
-#include <cassert>
+#include <set.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

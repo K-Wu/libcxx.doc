@@ -9,7 +9,7 @@
 // <string_view>
 //   The string_views's value type must be the same as the traits's char_type
 
-#include <string_view>
+#include <string_view.hxx>
 
 int main(int, char**)
 {

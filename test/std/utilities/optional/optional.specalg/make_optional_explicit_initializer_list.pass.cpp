@@ -12,10 +12,10 @@
 // template <class T, class U, class... Args>
 //   constexpr optional<T> make_optional(initializer_list<U> il, Args&&... args);
 
-#include <optional>
-#include <string>
-#include <memory>
-#include <cassert>
+#include <optional.hxx>
+#include <string.hxx>
+#include <memory.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

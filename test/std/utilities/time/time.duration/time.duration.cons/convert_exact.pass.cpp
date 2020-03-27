@@ -15,8 +15,8 @@
 
 // exact conversions allowed for integral reps
 
-#include <chrono>
-#include <cassert>
+#include <chrono.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

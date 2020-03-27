@@ -14,12 +14,12 @@
 //   void
 //   sort(Iter first, Iter last, Compare comp);
 
-#include <algorithm>
-#include <functional>
-#include <vector>
-#include <cassert>
-#include <cstddef>
-#include <memory>
+#include <algorithm.hxx>
+#include <functional.hxx>
+#include <vector.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
+#include <memory.hxx>
 
 #include "test_macros.h"
 

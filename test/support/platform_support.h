@@ -53,9 +53,9 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-#include <codecvt>
-#include <locale>
-#include <string>
+#include <codecvt.hxx>
+#include <locale.hxx>
+#include <string.hxx>
 #if defined(_WIN32) || defined(__MINGW32__)
 #include <io.h> // _mktemp_s
 #else

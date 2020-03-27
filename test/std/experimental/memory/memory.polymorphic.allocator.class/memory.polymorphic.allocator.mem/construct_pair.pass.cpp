@@ -15,12 +15,12 @@
 // template <class U1, class U2>
 // void polymorphic_allocator<T>::construct(pair<U1, U2>*)
 
-#include <experimental/memory_resource>
-#include <type_traits>
-#include <utility>
-#include <tuple>
-#include <cassert>
-#include <cstdlib>
+#include <experimental/memory_resource.hxx>
+#include <type_traits.hxx>
+#include <utility.hxx>
+#include <tuple.hxx>
+#include <cassert.hxx>
+#include <cstdlib.hxx>
 #include "uses_alloc_types.h"
 
 #include "test_macros.h"

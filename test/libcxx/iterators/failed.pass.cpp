@@ -14,9 +14,9 @@
 //
 //	Extension: constructing from NULL is UB; we just make it a failed iterator
 
-#include <iterator>
-#include <sstream>
-#include <cassert>
+#include <iterator.hxx>
+#include <sstream.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

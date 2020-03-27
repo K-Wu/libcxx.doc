@@ -15,9 +15,9 @@
 
 // template <class T> void destroy(T* p);
 
-#include <scoped_allocator>
-#include <cassert>
-#include <string>
+#include <scoped_allocator.hxx>
+#include <cassert.hxx>
+#include <string.hxx>
 
 #include "test_macros.h"
 #include "allocators.h"

@@ -24,9 +24,9 @@
 //     typedef std::reverse_iterator<iterator> reverse_iterator;
 //     typedef std::reverse_iterator<const_iterator> const_reverse_iterator;
 
-#include <array>
-#include <iterator>
-#include <type_traits>
+#include <array.hxx>
+#include <iterator.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

@@ -6,14 +6,14 @@
 //
 //===----------------------------------------------------------------------===//
 
-#include "__config"
+#include "__config.hxx"
 
 #ifndef _LIBCPP_HAS_NO_THREADS
 
-#include "condition_variable"
-#include "thread"
-#include "system_error"
-#include "__undef_macros"
+#include "condition_variable.hxx"
+#include "thread.hxx"
+#include "system_error.hxx"
+#include "__undef_macros.hxx"
 
 #if defined(__unix__) && !defined(__ANDROID__) && defined(__ELF__) && defined(_LIBCPP_HAS_COMMENT_LIB_PRAGMA)
 #pragma comment(lib, "pthread")

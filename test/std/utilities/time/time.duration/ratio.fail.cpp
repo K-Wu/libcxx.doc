@@ -12,7 +12,7 @@
 
 // Period shall be a specialization of ratio, diagnostic required.
 
-#include <chrono>
+#include <chrono.hxx>
 
 template <int N, int D = 1>
 class Ratio

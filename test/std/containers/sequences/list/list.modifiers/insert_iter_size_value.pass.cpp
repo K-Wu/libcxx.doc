@@ -12,9 +12,9 @@
 
 // UNSUPPORTED: sanitizer-new-delete
 
-#include <list>
-#include <cstdlib>
-#include <cassert>
+#include <list.hxx>
+#include <cstdlib.hxx>
+#include <cassert.hxx>
 
 #include "min_allocator.h"
 #include "count_new.h"

@@ -13,9 +13,9 @@
 // basic_string_view(const basic_string<_CharT, _Traits, Allocator>& _str) noexcept
 
 
-#include <string_view>
-#include <string>
-#include <cassert>
+#include <string_view.hxx>
+#include <string.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

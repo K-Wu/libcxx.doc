@@ -15,10 +15,10 @@
 // mapped_type&       at(const key_type& k);
 // const mapped_type& at(const key_type& k) const;
 
-#include <cassert>
-#include <stdexcept>
-#include <string>
-#include <unordered_map>
+#include <cassert.hxx>
+#include <stdexcept.hxx>
+#include <string.hxx>
+#include <unordered_map.hxx>
 
 #include "MoveOnly.h"
 #include "min_allocator.h"

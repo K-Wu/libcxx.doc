@@ -20,8 +20,8 @@ function(check_cxx_atomics varname)
     set(CMAKE_REQUIRED_FLAGS "${CMAKE_REQUIRED_FLAGS} -fno-sanitize-coverage=edge,trace-cmp,indirect-calls,8bit-counters")
   endif()
   check_cxx_source_compiles("
-#include <cstdint>
-#include <atomic>
+#include <cstdint.hxx>
+#include <atomic.hxx>
 std::atomic<uintptr_t> x;
 std::atomic<uintmax_t> y;
 int main(int, char**) {

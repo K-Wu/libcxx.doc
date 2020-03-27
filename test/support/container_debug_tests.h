@@ -9,7 +9,7 @@
 #ifndef TEST_SUPPORT_CONTAINER_DEBUG_TESTS_H
 #define TEST_SUPPORT_CONTAINER_DEBUG_TESTS_H
 
-#include <ciso646>
+#include <ciso646.hxx>
 #ifndef _LIBCPP_VERSION
 #error This header may only be used for libc++ tests"
 #endif
@@ -18,14 +18,14 @@
 #error _LIBCPP_DEBUG must be defined before including this header
 #endif
 
-#include <__debug>
-#include <utility>
-#include <cstddef>
-#include <cstdlib>
-#include <cassert>
-#include <string>
-#include <sstream>
-#include <iostream>
+#include <__debug.hxx>
+#include <utility.hxx>
+#include <cstddef.hxx>
+#include <cstdlib.hxx>
+#include <cassert.hxx>
+#include <string.hxx>
+#include <sstream.hxx>
+#include <iostream.hxx>
 
 #include "test_macros.h"
 #include "debug_mode_helper.h"

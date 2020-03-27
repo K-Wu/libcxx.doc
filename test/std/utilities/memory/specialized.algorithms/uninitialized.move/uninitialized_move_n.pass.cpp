@@ -13,9 +13,9 @@
 // template <class InputIt, class Size, class ForwardIt>
 // pair<InputIt, ForwardIt> uninitialized_move_n(InputIt, Size, ForwardIt);
 
-#include <memory>
-#include <cstdlib>
-#include <cassert>
+#include <memory.hxx>
+#include <cstdlib.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

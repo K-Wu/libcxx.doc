@@ -11,10 +11,10 @@
 
 // <atomic>
 
-#include <atomic>
-#include <type_traits>
-#include <cassert>
-#include <thread>
+#include <atomic.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
+#include <thread.hxx>
 
 #include "test_macros.h"
 #include "../atomics.types.operations.req/atomic_helpers.h"

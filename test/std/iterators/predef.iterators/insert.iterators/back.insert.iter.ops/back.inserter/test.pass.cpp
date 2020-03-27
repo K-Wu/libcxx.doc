@@ -12,9 +12,9 @@
 //   back_insert_iterator<Cont>
 //   back_inserter(Cont& x);
 
-#include <iterator>
-#include <vector>
-#include <cassert>
+#include <iterator.hxx>
+#include <vector.hxx>
+#include <cassert.hxx>
 #include "nasty_containers.h"
 
 #include "test_macros.h"

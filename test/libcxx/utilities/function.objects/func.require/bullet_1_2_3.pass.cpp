@@ -55,9 +55,9 @@
 //       3a) If 'f' is const, volatile, or cv qualified then call it with call
 //       objects that are equally or less cv-qualified.
 
-#include <functional>
-#include <type_traits>
-#include <cassert>
+#include <functional.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "invoke_helpers.h"

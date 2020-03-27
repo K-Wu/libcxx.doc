@@ -14,8 +14,8 @@
 
 // test for explicit
 
-#include <iterator>
-#include <vector>
+#include <iterator.hxx>
+#include <vector.hxx>
 
 int main(int, char**)
 {

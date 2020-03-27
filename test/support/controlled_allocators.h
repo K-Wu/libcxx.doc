@@ -9,13 +9,13 @@
 #ifndef SUPPORT_CONTROLLED_ALLOCATORS_H
 #define SUPPORT_CONTROLLED_ALLOCATORS_H
 
-#include <memory>
-#include <type_traits>
-#include <cstddef>
-#include <cstdlib>
-#include <cstring>
-#include <cstdint>
-#include <cassert>
+#include <memory.hxx>
+#include <type_traits.hxx>
+#include <cstddef.hxx>
+#include <cstdlib.hxx>
+#include <cstring.hxx>
+#include <cstdint.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 #include "type_id.h"
 

@@ -18,10 +18,10 @@
 //
 // }}} // namespace std::experimental::pmr
 
-#include <experimental/vector>
-#include <experimental/memory_resource>
-#include <type_traits>
-#include <cassert>
+#include <experimental/vector.hxx>
+#include <experimental/memory_resource.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

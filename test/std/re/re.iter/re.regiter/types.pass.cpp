@@ -21,8 +21,8 @@
 //     typedef const value_type&                    reference;
 //     typedef forward_iterator_tag                 iterator_category;
 
-#include <regex>
-#include <type_traits>
+#include <regex.hxx>
+#include <type_traits.hxx>
 #include "test_macros.h"
 
 template <class CharT>

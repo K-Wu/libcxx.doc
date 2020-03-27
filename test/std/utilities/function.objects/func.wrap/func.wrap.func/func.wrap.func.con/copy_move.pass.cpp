@@ -13,10 +13,10 @@
 // function(const function&  f);
 // function(function&& f); // noexcept in C++20
 
-#include <functional>
-#include <memory>
-#include <cstdlib>
-#include <cassert>
+#include <functional.hxx>
+#include <memory.hxx>
+#include <cstdlib.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "count_new.h"

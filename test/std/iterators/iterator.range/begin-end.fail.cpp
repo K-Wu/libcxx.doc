@@ -21,8 +21,8 @@
 // template <class E> reverse_iterator<const E*> rend(initializer_list<E> il);
 
 
-#include <iterator>
-#include <cassert>
+#include <iterator.hxx>
+#include <cassert.hxx>
 
 namespace Foo {
     struct FakeContainer {};

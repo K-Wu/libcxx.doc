@@ -13,10 +13,10 @@
 
 // constexpr error_category() noexcept;
 
-#include <system_error>
-#include <type_traits>
-#include <string>
-#include <cassert>
+#include <system_error.hxx>
+#include <type_traits.hxx>
+#include <string.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -10,9 +10,9 @@
 
 // template <class Facet> locale combine(const locale& other) const;
 
-#include <locale>
-#include <stdexcept>
-#include <cassert>
+#include <locale.hxx>
+#include <stdexcept.hxx>
+#include <cassert.hxx>
 
 #include "count_new.h"
 

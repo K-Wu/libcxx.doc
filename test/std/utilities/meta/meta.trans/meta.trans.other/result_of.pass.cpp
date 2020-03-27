@@ -10,9 +10,9 @@
 
 // result_of<Fn(ArgTypes...)>
 
-#include <type_traits>
-#include <memory>
-#include <cassert>
+#include <type_traits.hxx>
+#include <memory.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 
 struct S

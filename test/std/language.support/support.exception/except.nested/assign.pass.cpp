@@ -12,8 +12,8 @@
 
 // nested_exception& operator=(const nested_exception&) throw() = default;
 
-#include <exception>
-#include <cassert>
+#include <exception.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

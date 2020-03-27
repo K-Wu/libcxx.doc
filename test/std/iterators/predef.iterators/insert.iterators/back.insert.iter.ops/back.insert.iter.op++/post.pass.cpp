@@ -12,9 +12,9 @@
 
 // back_insert_iterator<Cont> operator++(int);
 
-#include <iterator>
-#include <vector>
-#include <cassert>
+#include <iterator.hxx>
+#include <vector.hxx>
+#include <cassert.hxx>
 #include "nasty_containers.h"
 
 #include "test_macros.h"

@@ -13,9 +13,9 @@
 // template<class Y> weak_ptr(const weak_ptr<Y>& r);
 // template<class Y> weak_ptr(weak_ptr<Y> &&r);
 
-#include <memory>
-#include <type_traits>
-#include <cassert>
+#include <memory.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

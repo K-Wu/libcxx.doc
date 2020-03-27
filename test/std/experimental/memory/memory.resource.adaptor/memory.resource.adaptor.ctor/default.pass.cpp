@@ -14,10 +14,10 @@
 
 // resource_adaptor_imp<Alloc>::resource_adaptor_imp() = default;
 
-#include <experimental/memory_resource>
-#include <memory>
-#include <type_traits>
-#include <cassert>
+#include <experimental/memory_resource.hxx>
+#include <memory.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_memory_resource.h"
 

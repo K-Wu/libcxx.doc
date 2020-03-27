@@ -11,8 +11,8 @@
 
 // Make sure that we correctly match inverted character classes.
 
-#include <cassert>
-#include <regex>
+#include <cassert.hxx>
+#include <regex.hxx>
 
 #include "test_macros.h"
 

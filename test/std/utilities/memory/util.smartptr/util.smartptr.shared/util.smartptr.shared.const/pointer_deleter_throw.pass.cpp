@@ -15,10 +15,10 @@
 
 // template<class Y, class D> shared_ptr(Y* p, D d);
 
-#include <memory>
-#include <cassert>
-#include <new>
-#include <cstdlib>
+#include <memory.hxx>
+#include <cassert.hxx>
+#include <new.hxx>
+#include <cstdlib.hxx>
 
 #include "count_new.h"
 #include "test_macros.h"

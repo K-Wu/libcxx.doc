@@ -6,7 +6,7 @@
 //
 //===----------------------------------------------------------------------===//
 
-#include <ext/hash_map>
+#include <ext/hash_map.hxx>
 
 int main(int, char**)
 {

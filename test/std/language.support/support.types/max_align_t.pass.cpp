@@ -6,8 +6,8 @@
 //
 //===----------------------------------------------------------------------===//
 
-#include <cstddef>
-#include <type_traits>
+#include <cstddef.hxx>
+#include <type_traits.hxx>
 
 // max_align_t is a trivial standard-layout type whose alignment requirement
 //   is at least as great as that of every scalar type

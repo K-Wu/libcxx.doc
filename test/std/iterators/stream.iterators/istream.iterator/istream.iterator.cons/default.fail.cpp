@@ -12,8 +12,8 @@
 
 // constexpr istream_iterator();
 
-#include <iterator>
-#include <cassert>
+#include <iterator.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

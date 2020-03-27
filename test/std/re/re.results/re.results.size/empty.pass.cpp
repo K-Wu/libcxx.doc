@@ -13,8 +13,8 @@
 // size_type size() const;
 // bool empty() const;
 
-#include <regex>
-#include <cassert>
+#include <regex.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 
 template <class CharT>

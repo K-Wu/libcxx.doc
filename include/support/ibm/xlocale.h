@@ -12,7 +12,7 @@
 #include <support/ibm/locale_mgmt_aix.h>
 
 #if defined(_AIX)
-#include "cstdlib"
+#include "cstdlib.h0"
 
 #ifdef __cplusplus
 extern "C" {

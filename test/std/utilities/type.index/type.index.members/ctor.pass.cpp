@@ -12,9 +12,9 @@
 
 // type_index(const type_info& rhs);
 
-#include <typeinfo>
-#include <typeindex>
-#include <cassert>
+#include <typeinfo.hxx>
+#include <typeindex.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

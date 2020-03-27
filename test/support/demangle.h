@@ -10,8 +10,8 @@
 #define SUPPORT_DEMANGLE_H
 
 #include "test_macros.h"
-#include <string>
-#include <cstdlib>
+#include <string.hxx>
+#include <cstdlib.hxx>
 
 #if !defined(TEST_HAS_NO_DEMANGLE)
 # if defined(__GNUC__) || defined(__clang__)

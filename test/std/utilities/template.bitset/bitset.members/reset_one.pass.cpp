@@ -8,9 +8,9 @@
 
 // test bitset<N>& reset(size_t pos);
 
-#include <bitset>
-#include <cassert>
-#include <stdexcept>
+#include <bitset.hxx>
+#include <cassert.hxx>
+#include <stdexcept.hxx>
 
 #include "test_macros.h"
 

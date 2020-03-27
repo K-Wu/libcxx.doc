@@ -15,8 +15,8 @@
 // template<class T>
 //     seed_seq(initializer_list<T> il);
 
-#include <random>
-#include <cassert>
+#include <random.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

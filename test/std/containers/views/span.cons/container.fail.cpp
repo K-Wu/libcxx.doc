@@ -25,12 +25,12 @@
 //
 
 
-#include <span>
-#include <cassert>
-#include <deque>
-#include <forward_list>
-#include <list>
-#include <vector>
+#include <span.hxx>
+#include <cassert.hxx>
+#include <deque.hxx>
+#include <forward_list.hxx>
+#include <list.hxx>
+#include <vector.hxx>
 
 #include "test_macros.h"
 

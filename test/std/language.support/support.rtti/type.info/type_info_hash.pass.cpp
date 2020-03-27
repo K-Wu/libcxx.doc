@@ -8,9 +8,9 @@
 
 // test type_info
 
-#include <typeinfo>
-#include <cstring>
-#include <cassert>
+#include <typeinfo.hxx>
+#include <cstring.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

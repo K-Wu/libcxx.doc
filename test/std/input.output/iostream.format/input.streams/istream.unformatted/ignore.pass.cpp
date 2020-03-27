@@ -18,8 +18,8 @@
 // basic_istream<charT,traits>&
 //    ignore(streamsize n = 1, int_type delim = traits::eof());
 
-#include <istream>
-#include <cassert>
+#include <istream.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

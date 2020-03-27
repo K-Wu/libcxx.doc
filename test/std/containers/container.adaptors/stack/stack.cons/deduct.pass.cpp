@@ -21,13 +21,13 @@
 //   stack(Container, Allocator) -> stack<typename Container::value_type, Container>;
 
 
-#include <stack>
-#include <vector>
-#include <list>
-#include <iterator>
-#include <cassert>
-#include <cstddef>
-#include <climits> // INT_MAX
+#include <stack.hxx>
+#include <vector.hxx>
+#include <list.hxx>
+#include <iterator.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
+#include <climits.hxx> // INT_MAX
 
 #include "test_macros.h"
 #include "test_iterators.h"

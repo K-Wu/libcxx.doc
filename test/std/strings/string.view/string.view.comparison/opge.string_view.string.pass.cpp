@@ -14,8 +14,8 @@
 //   bool operator>=(basic_string_view<charT,traits> lhs,
 //            const basic_string<charT,traits,Allocator>&  rhs);
 
-#include <string_view>
-#include <cassert>
+#include <string_view.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

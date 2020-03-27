@@ -13,7 +13,7 @@
 // Test that <variant> provides all of the arithmetic, enum, and pointer
 // hash specializations.
 
-#include <variant>
+#include <variant.hxx>
 
 #include "poisoned_hash_helper.h"
 

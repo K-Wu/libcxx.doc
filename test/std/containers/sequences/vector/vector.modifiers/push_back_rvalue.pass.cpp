@@ -12,9 +12,9 @@
 
 // void push_back(value_type&& x);
 
-#include <vector>
-#include <cassert>
-#include <cstddef>
+#include <vector.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
 #include "test_macros.h"
 #include "MoveOnly.h"
 #include "test_allocator.h"

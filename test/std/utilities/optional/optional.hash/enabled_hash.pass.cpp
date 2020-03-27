@@ -13,7 +13,7 @@
 // Test that <optional> provides all of the arithmetic, enum, and pointer
 // hash specializations.
 
-#include <optional>
+#include <optional.hxx>
 
 #include "poisoned_hash_helper.h"
 

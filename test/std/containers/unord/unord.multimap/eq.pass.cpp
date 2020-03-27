@@ -18,9 +18,9 @@
 // operator!=(const unordered_multimap<Key, T, Hash, Pred, Alloc>& x,
 //            const unordered_multimap<Key, T, Hash, Pred, Alloc>& y);
 
-#include <unordered_map>
-#include <string>
-#include <cassert>
+#include <unordered_map.hxx>
+#include <string.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

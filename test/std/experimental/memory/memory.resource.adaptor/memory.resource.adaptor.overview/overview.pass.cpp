@@ -12,10 +12,10 @@
 
 // template <class Alloc> class resource_adaptor_imp;
 
-#include <experimental/memory_resource>
-#include <type_traits>
-#include <memory>
-#include <cassert>
+#include <experimental/memory_resource.hxx>
+#include <type_traits.hxx>
+#include <memory.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

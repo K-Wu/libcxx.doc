@@ -20,9 +20,9 @@
 // Check that the tuple-like ctors are properly disabled when the UTypes...
 // constructor should be selected. See PR22806.
 
-#include <tuple>
-#include <memory>
-#include <cassert>
+#include <tuple.hxx>
+#include <memory.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

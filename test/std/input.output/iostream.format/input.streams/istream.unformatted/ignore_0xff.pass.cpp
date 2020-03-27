@@ -13,8 +13,8 @@
 
 // https://bugs.llvm.org/show_bug.cgi?id=16427
 
-#include <sstream>
-#include <cassert>
+#include <sstream.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

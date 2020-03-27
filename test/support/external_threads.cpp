@@ -6,4 +6,4 @@
 //
 //===----------------------------------------------------------------------===//
 #define _LIBCPP_BUILDING_THREAD_LIBRARY_EXTERNAL
-#include <__threading_support>
+#include <__threading_support.hxx>

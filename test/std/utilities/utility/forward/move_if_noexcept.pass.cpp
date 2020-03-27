@@ -17,7 +17,7 @@
 //     >::type
 //     move_if_noexcept(T& x);
 
-#include <utility>
+#include <utility.hxx>
 
 #include "test_macros.h"
 

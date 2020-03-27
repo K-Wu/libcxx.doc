@@ -16,11 +16,11 @@
 
 // void insert(initializer_list<value_type> il);
 
-#include <unordered_map>
-#include <string>
-#include <set>
-#include <cassert>
-#include <cstddef>
+#include <unordered_map.hxx>
+#include <string.hxx>
+#include <set.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
 
 #include "test_macros.h"
 #include "../../../check_consecutive.h"

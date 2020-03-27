@@ -15,8 +15,8 @@
 //
 // See the table in hours.pass.cpp for correspondence between the magic values used below
 
-#include <chrono>
-#include <cassert>
+#include <chrono.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

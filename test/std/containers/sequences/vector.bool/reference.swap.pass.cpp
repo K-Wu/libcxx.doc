@@ -11,8 +11,8 @@
 
 // static void swap(reference x, reference y) noexcept;
 
-#include <vector>
-#include <cassert>
+#include <vector.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

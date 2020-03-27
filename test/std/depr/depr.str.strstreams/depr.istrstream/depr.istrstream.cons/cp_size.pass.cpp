@@ -12,9 +12,9 @@
 
 // explicit istrstream(char* s, streamsize n);
 
-#include <strstream>
-#include <cassert>
-#include <string>
+#include <strstream.hxx>
+#include <cassert.hxx>
+#include <string.hxx>
 
 #include "test_macros.h"
 

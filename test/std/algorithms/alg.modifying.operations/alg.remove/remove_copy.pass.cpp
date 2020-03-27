@@ -13,8 +13,8 @@
 //   constexpr OutIter         // constexpr after C++17
 //   remove_copy(InIter first, InIter last, OutIter result, const T& value);
 
-#include <algorithm>
-#include <cassert>
+#include <algorithm.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

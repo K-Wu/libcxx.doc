@@ -1,11 +1,11 @@
 #include "benchmark/benchmark.h"
-#include <chrono>
-#include <thread>
+#include <chrono.hxx>
+#include <thread.hxx>
 
 #if defined(NDEBUG)
 #undef NDEBUG
 #endif
-#include <cassert>
+#include <cassert.hxx>
 
 void BM_basic(benchmark::State& state) {
   for (auto _ : state) {

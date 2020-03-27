@@ -13,9 +13,9 @@
 // template <class _Tp>
 // void destroy_at(_Tp*);
 
-#include <memory>
-#include <cstdlib>
-#include <cassert>
+#include <memory.hxx>
+#include <cstdlib.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

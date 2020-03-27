@@ -9,8 +9,8 @@
 #ifndef TEST_SUPPORT_UNIQUE_PTR_TEST_HELPER_H
 #define TEST_SUPPORT_UNIQUE_PTR_TEST_HELPER_H
 
-#include <memory>
-#include <type_traits>
+#include <memory.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 #include "deleter_types.h"

@@ -13,9 +13,9 @@
 
 // basic_filebuf<charT,traits>* open(const filesystem::path& p, ios_base::openmode mode);
 
-#include <fstream>
-#include <filesystem>
-#include <cassert>
+#include <fstream.hxx>
+#include <filesystem.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 #include "platform_support.h"
 

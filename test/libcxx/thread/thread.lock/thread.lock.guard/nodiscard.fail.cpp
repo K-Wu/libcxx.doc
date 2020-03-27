@@ -28,7 +28,7 @@
 
 // MODULES_DEFINES: _LIBCPP_ENABLE_NODISCARD
 #define _LIBCPP_ENABLE_NODISCARD
-#include <mutex>
+#include <mutex.hxx>
 
 int main(int, char**) {
     std::mutex m;

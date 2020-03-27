@@ -1,7 +1,7 @@
 #ifndef TEST_SUPPORT_FILESYSTEM_INCLUDE_H
 #define TEST_SUPPORT_FILESYSTEM_INCLUDE_H
 
-#include <filesystem>
+#include <filesystem.hxx>
 #include "test_macros.h"
 
 #if defined(_LIBCPP_VERSION) && TEST_STD_VER < 17

@@ -15,9 +15,9 @@
 
 // explicit mersenne_twister_engine(result_type s = default_seed);
 
-#include <random>
-#include <sstream>
-#include <cassert>
+#include <random.hxx>
+#include <sstream.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

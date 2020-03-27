@@ -20,9 +20,9 @@
 
 // This tests a conforming extension
 
-#include <string>
-#include <utility>
-#include <cassert>
+#include <string.hxx>
+#include <utility.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_allocator.h"

@@ -15,8 +15,8 @@
 //     // types
 //     typedef typename Engine::result_type result_type;
 
-#include <random>
-#include <type_traits>
+#include <random.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

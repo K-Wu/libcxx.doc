@@ -9,7 +9,7 @@
 // <deque>
 //   The container's value type must be the same as the allocator's value type
 
-#include <deque>
+#include <deque.hxx>
 
 int main(int, char**)
 {

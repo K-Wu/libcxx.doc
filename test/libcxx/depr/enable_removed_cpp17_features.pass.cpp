@@ -11,7 +11,7 @@
 
 // MODULES_DEFINES: _LIBCPP_ENABLE_CXX17_REMOVED_FEATURES
 #define _LIBCPP_ENABLE_CXX17_REMOVED_FEATURES
-#include <__config>
+#include <__config.hxx>
 
 #include "test_macros.h"
 

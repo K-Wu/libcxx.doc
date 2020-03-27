@@ -20,13 +20,13 @@
 //     and if each of the other resulting $X_i$ is $0$, changes $X_{-n}$ to
 //     $ 2^{w-1} $.
 
-#include <random>
+#include <random.hxx>
 
-#include <algorithm>
-#include <cassert>
-#include <cstddef>
+#include <algorithm.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
 #if TEST_STD_VER >= 11
-#include <initializer_list>
+#include <initializer_list.hxx>
 
 #include "test_macros.h"
 #endif

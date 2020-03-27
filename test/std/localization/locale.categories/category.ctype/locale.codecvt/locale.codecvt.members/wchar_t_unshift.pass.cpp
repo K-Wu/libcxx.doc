@@ -15,10 +15,10 @@
 
 // This is pretty much just an "are you breathing" test
 
-#include <locale>
-#include <string>
-#include <vector>
-#include <cassert>
+#include <locale.hxx>
+#include <string.hxx>
+#include <vector.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

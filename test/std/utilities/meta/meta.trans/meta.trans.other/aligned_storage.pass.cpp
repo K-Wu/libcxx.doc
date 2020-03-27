@@ -13,8 +13,8 @@
 //  Issue 3034 added:
 //  The member typedef type shall be a trivial standard-layout type.
 
-#include <type_traits>
-#include <cstddef>       // for std::max_align_t
+#include <type_traits.hxx>
+#include <cstddef.hxx>       // for std::max_align_t
 #include "test_macros.h"
 
 int main(int, char**)

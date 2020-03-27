@@ -14,9 +14,9 @@
 //  y_ % 4 == 0 && (y_ % 100 != 0 || y_ % 400 == 0)
 //
 
-#include <chrono>
-#include <type_traits>
-#include <cassert>
+#include <chrono.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

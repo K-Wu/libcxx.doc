@@ -10,10 +10,10 @@
 
 // template <class F> unspecified not_fn(F&& f);
 
-#include <functional>
-#include <type_traits>
-#include <string>
-#include <cassert>
+#include <functional.hxx>
+#include <type_traits.hxx>
+#include <string.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "type_id.h"

@@ -10,11 +10,11 @@
 
 // max()
 
-#include <limits>
-#include <climits>
-#include <cwchar>
-#include <cfloat>
-#include <cassert>
+#include <limits.hxx>
+#include <climits.hxx>
+#include <cwchar.hxx>
+#include <cfloat.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

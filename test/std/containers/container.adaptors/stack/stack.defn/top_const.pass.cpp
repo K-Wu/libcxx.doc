@@ -10,8 +10,8 @@
 
 // const_reference top() const;
 
-#include <stack>
-#include <cassert>
+#include <stack.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

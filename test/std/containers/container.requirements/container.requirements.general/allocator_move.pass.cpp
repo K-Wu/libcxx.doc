@@ -13,14 +13,14 @@
 //   belonging to the container being moved. Such move construction of the
 //   allocator shall not exit via an exception.
 
-#include <vector>
-#include <deque>
-#include <list>
-#include <forward_list>
-#include <set>
-#include <map>
-#include <unordered_map>
-#include <unordered_set>
+#include <vector.hxx>
+#include <deque.hxx>
+#include <list.hxx>
+#include <forward_list.hxx>
+#include <set.hxx>
+#include <map.hxx>
+#include <unordered_map.hxx>
+#include <unordered_set.hxx>
 
 #include "test_macros.h"
 #include "test_allocator.h"

@@ -14,10 +14,10 @@
 // template <class T>
 //   constexpr optional<decay_t<T>> make_optional(T&& v);
 
-#include <optional>
-#include <string>
-#include <memory>
-#include <cassert>
+#include <optional.hxx>
+#include <string.hxx>
+#include <memory.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

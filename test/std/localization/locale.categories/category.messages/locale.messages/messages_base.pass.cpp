@@ -14,8 +14,8 @@
 //     typedef unspecified catalog;
 // };
 
-#include <locale>
-#include <type_traits>
+#include <locale.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

@@ -14,10 +14,10 @@
 
 // valarray(const valarray<value_type>& v);
 
-#include <valarray>
-#include <utility>
-#include <cassert>
-#include <cstddef>
+#include <valarray.hxx>
+#include <utility.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
 
 #include "test_macros.h"
 

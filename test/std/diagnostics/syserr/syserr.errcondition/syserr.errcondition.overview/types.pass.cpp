@@ -11,7 +11,7 @@
 
 // Make sure that the error_condition bits of <system_error> are self-contained.
 
-#include <system_error>
+#include <system_error.hxx>
 #include "test_macros.h"
 
 int main(int, char**)

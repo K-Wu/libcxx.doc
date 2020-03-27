@@ -21,9 +21,9 @@
 // operator>>(basic_istream<CharT, Traits>& is,
 //            chi_squared_distribution<RealType>& x);
 
-#include <random>
-#include <sstream>
-#include <cassert>
+#include <random.hxx>
+#include <sstream.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

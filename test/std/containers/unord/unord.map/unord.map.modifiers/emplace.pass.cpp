@@ -17,8 +17,8 @@
 // template <class... Args>
 //     pair<iterator, bool> emplace(Args&&... args);
 
-#include <unordered_map>
-#include <cassert>
+#include <unordered_map.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "../../../Emplaceable.h"

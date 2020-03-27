@@ -17,7 +17,7 @@
 
 // https://bugs.llvm.org/show_bug.cgi?id=22003
 
-#include <functional>
+#include <functional.hxx>
 
 #include "test_macros.h"
 

@@ -12,7 +12,7 @@
 
 // map();
 
-#include <map>
+#include <map.hxx>
 
 #include "test_macros.h"
 

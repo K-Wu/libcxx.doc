@@ -14,9 +14,9 @@
 
 // pair(pair&&) = default;
 
-#include <utility>
-#include <memory>
-#include <cassert>
+#include <utility.hxx>
+#include <memory.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

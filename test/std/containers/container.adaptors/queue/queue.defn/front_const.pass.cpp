@@ -10,8 +10,8 @@
 
 // const_reference front() const;
 
-#include <queue>
-#include <cassert>
+#include <queue.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

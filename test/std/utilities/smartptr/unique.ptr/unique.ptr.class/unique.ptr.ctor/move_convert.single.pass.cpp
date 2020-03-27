@@ -16,10 +16,10 @@
 // NOTE: unique_ptr does not provide converting constructors in C++03
 // UNSUPPORTED: c++98, c++03
 
-#include <memory>
-#include <type_traits>
-#include <utility>
-#include <cassert>
+#include <memory.hxx>
+#include <type_traits.hxx>
+#include <utility.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "unique_ptr_test_helper.h"

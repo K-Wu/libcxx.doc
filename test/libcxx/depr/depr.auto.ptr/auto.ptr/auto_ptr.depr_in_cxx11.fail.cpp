@@ -25,7 +25,7 @@
 // MODULES_DEFINES: _LIBCPP_ENABLE_CXX17_REMOVED_AUTO_PTR
 #define _LIBCPP_ENABLE_CXX17_REMOVED_AUTO_PTR
 
-#include <memory>
+#include <memory.hxx>
 #include "test_macros.h"
 
 int main(int, char**)

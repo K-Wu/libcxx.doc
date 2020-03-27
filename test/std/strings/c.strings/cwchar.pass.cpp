@@ -8,11 +8,11 @@
 
 // <cwchar>
 
-#include <cwchar>
-#include <ctime>
-#include <cstdarg>
-#include <cstdio>
-#include <type_traits>
+#include <cwchar.hxx>
+#include <ctime.hxx>
+#include <cstdarg.hxx>
+#include <cstdio.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

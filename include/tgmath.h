@@ -13,11 +13,11 @@
 /*
     tgmath.h synopsis
 
-#include <ctgmath>
+#include <ctgmath.hxx>
 
 */
 
-#include <__config>
+#include <__config.hxx>
 
 #if !defined(_LIBCPP_HAS_NO_PRAGMA_SYSTEM_HEADER)
 #pragma GCC system_header
@@ -25,7 +25,7 @@
 
 #ifdef __cplusplus
 
-#include <ctgmath>
+#include <ctgmath.hxx>
 
 #else  // __cplusplus
 

@@ -18,7 +18,7 @@
     __cpp_lib_filesystem    201703L [C++17]
 */
 
-#include <filesystem>
+#include <filesystem.hxx>
 #include "test_macros.h"
 
 #if TEST_STD_VER < 14

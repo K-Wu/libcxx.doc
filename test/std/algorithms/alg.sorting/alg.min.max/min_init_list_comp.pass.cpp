@@ -14,9 +14,9 @@
 //   T
 //   min(initializer_list<T> t, Compare comp);
 
-#include <algorithm>
-#include <functional>
-#include <cassert>
+#include <algorithm.hxx>
+#include <functional.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

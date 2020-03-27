@@ -16,9 +16,9 @@
 //       default-sfinae.pass.cpp
 
 
-#include <utility>
-#include <type_traits>
-#include <cassert>
+#include <utility.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "archetypes.h"

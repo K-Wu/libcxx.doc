@@ -20,8 +20,8 @@
 #pragma warning(disable: 4244) // conversion from 'const double' to 'int', possible loss of data
 #endif
 
-#include <algorithm>
-#include <cassert>
+#include <algorithm.hxx>
+#include <cassert.hxx>
 
 #include "test_iterators.h"
 #include "user_defined_integral.h"

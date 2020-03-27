@@ -10,8 +10,8 @@
 
 // constexpr const_iterator begin() const;
 
-#include <string_view>
-#include <cassert>
+#include <string_view.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

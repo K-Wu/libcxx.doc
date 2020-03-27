@@ -21,8 +21,8 @@
 // const_reference back() const;
 // libc++ marks these as 'noexcept' (except 'at')
 
-#include <vector>
-#include <cassert>
+#include <vector.hxx>
+#include <cassert.hxx>
 
 #include "min_allocator.h"
 #include "test_macros.h"

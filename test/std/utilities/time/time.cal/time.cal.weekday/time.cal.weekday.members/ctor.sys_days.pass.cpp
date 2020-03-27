@@ -23,9 +23,9 @@
 //  If dp represents 1970-01-01, the constructed weekday represents Thursday by storing 4 in wd_.
 // —end example]
 
-#include <chrono>
-#include <type_traits>
-#include <cassert>
+#include <chrono.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

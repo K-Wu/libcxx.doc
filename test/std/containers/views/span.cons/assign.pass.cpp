@@ -12,10 +12,10 @@
 
 //  constexpr span& operator=(const span& other) noexcept = default;
 
-#include <span>
-#include <cassert>
-#include <string>
-#include <utility>
+#include <span.hxx>
+#include <cassert.hxx>
+#include <string.hxx>
+#include <utility.hxx>
 
 #include "test_macros.h"
 

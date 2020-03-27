@@ -14,9 +14,9 @@
 
 // locale_type imbue(locale_type l);
 
-#include <regex>
-#include <locale>
-#include <cassert>
+#include <regex.hxx>
+#include <locale.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "platform_support.h" // locale name macros

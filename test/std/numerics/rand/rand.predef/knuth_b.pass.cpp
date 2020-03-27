@@ -10,8 +10,8 @@
 
 // typedef shuffle_order_engine<minstd_rand0, 256>                      knuth_b;
 
-#include <random>
-#include <cassert>
+#include <random.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -10,7 +10,7 @@
 
 // <experimental/set>
 
-#include <experimental/set>
+#include <experimental/set.hxx>
 
 #include "test_macros.h"
 

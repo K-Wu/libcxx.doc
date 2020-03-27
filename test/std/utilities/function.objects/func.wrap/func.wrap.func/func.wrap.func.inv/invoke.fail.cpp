@@ -12,8 +12,8 @@
 
 // R operator()(ArgTypes... args) const
 
-#include <functional>
-#include <cassert>
+#include <functional.hxx>
+#include <cassert.hxx>
 
 // member data pointer:  cv qualifiers should transfer from argument to return type
 

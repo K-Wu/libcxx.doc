@@ -13,8 +13,8 @@
 // _Tp midpoint(_Float __a, _Float __b) noexcept
 //
 
-#include <numeric>
-#include <cassert>
+#include <numeric.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "fp_compare.h"

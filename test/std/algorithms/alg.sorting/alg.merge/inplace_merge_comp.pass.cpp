@@ -14,15 +14,15 @@
 //   void
 //   inplace_merge(Iter first, Iter middle, Iter last, Compare comp);
 
-#include <algorithm>
-#include <functional>
-#include <random>
-#include <cassert>
+#include <algorithm.hxx>
+#include <functional.hxx>
+#include <random.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 
 #if TEST_STD_VER >= 11
-#include <memory>
+#include <memory.hxx>
 
 struct indirect_less
 {

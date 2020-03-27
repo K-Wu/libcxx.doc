@@ -19,7 +19,7 @@
 
 // This test checks for LWG 2510.
 
-#include <memory>
+#include <memory.hxx>
 
 
 std::allocator_arg_t f() { return {}; } // expected-error 1 {{chosen constructor is explicit in copy-initialization}}

@@ -12,8 +12,8 @@
 
 // fmtflags setf(fmtflags fmtfl, fmtflags mask);
 
-#include <ios>
-#include <cassert>
+#include <ios.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

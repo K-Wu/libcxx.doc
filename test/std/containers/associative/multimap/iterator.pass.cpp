@@ -25,9 +25,9 @@
 // const_reverse_iterator crbegin() const;
 // const_reverse_iterator crend()   const;
 
-#include <map>
-#include <cassert>
-#include <cstddef>
+#include <map.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

@@ -8,7 +8,7 @@
 
 // <ciso646>
 
-#include <ciso646>
+#include <ciso646.hxx>
 
 #ifndef _LIBCPP_VERSION
 #error _LIBCPP_VERSION not defined

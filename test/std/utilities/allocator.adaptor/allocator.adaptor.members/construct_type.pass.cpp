@@ -16,12 +16,12 @@
 // template <class T, class ...Args>
 // void scoped_allocator_adaptor::construct(T*, Args&&...)
 
-#include <scoped_allocator>
-#include <type_traits>
-#include <utility>
-#include <tuple>
-#include <cassert>
-#include <cstdlib>
+#include <scoped_allocator.hxx>
+#include <type_traits.hxx>
+#include <utility.hxx>
+#include <tuple.hxx>
+#include <cassert.hxx>
+#include <cstdlib.hxx>
 #include "uses_alloc_types.h"
 #include "controlled_allocators.h"
 

@@ -17,9 +17,9 @@
 
 #define _LIBCPP_DEBUG 0
 #include "filesystem_include.h"
-#include <iterator>
-#include <type_traits>
-#include <cassert>
+#include <iterator.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "filesystem_test_helper.h"

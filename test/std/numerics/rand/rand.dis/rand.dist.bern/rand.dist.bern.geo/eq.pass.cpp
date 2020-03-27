@@ -16,8 +16,8 @@
 // bool operator!(const geometric_distribution& x,
 //                const geometric_distribution& y);
 
-#include <random>
-#include <cassert>
+#include <random.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -10,7 +10,7 @@
 
 // <condition_variable>
 
-#include <condition_variable>
+#include <condition_variable.hxx>
 
 #include "test_macros.h"
 

@@ -11,8 +11,8 @@
 // allocator:
 // template <class... Args> void construct(pointer p, Args&&... args);
 
-#include <memory>
-#include <cassert>
+#include <memory.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "count_new.h"

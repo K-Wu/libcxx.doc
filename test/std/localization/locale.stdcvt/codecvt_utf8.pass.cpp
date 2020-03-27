@@ -18,9 +18,9 @@
 
 // Not a portable test
 
-#include <codecvt>
-#include <cstdlib>
-#include <cassert>
+#include <codecvt.hxx>
+#include <cstdlib.hxx>
+#include <cassert.hxx>
 
 #include "count_new.h"
 

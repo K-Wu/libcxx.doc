@@ -12,10 +12,10 @@
 
 // template <class U> propagate_const& propagate_const::operator=(const propagate_const<U>&)=delete;
 
-#include <experimental/propagate_const>
+#include <experimental/propagate_const.hxx>
 #include "test_macros.h"
 #include "propagate_const_helpers.h"
-#include <type_traits>
+#include <type_traits.hxx>
 
 using std::experimental::propagate_const;
 

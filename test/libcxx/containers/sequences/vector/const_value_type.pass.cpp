@@ -12,8 +12,8 @@
 
 // vector<const int> v;  // an extension
 
-#include <vector>
-#include <type_traits>
+#include <vector.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

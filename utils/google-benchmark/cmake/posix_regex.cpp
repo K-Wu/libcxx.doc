@@ -1,5 +1,5 @@
 #include <regex.h>
-#include <string>
+#include <string.hxx>
 int main() {
   std::string str = "test0159";
   regex_t re;

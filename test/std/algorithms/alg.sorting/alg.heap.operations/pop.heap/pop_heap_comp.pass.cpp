@@ -13,11 +13,11 @@
 //   void
 //   pop_heap(Iter first, Iter last, Compare comp);
 
-#include <algorithm>
-#include <functional>
-#include <random>
-#include <cassert>
-#include <memory>
+#include <algorithm.hxx>
+#include <functional.hxx>
+#include <random.hxx>
+#include <cassert.hxx>
+#include <memory.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

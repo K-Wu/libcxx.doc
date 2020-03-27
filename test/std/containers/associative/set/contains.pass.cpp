@@ -8,8 +8,8 @@
 
 // UNSUPPORTED: c++98, c++03, c++11, c++14, c++17
 
-#include <cassert>
-#include <set>
+#include <cassert.hxx>
+#include <set.hxx>
 
 // <set>
 

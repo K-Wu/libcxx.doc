@@ -10,12 +10,12 @@
 
 // template <class Compare> sort(Compare comp);
 
-#include <list>
-#include <functional>
-#include <algorithm>  // for is_permutation
-#include <random>
-#include <vector>
-#include <cassert>
+#include <list.hxx>
+#include <functional.hxx>
+#include <algorithm.hxx>  // for is_permutation
+#include <random.hxx>
+#include <vector.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

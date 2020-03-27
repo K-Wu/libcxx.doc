@@ -12,8 +12,8 @@
 
 // function& operator=(nullptr_t);
 
-#include <functional>
-#include <cassert>
+#include <functional.hxx>
+#include <cassert.hxx>
 
 #include "count_new.h"
 

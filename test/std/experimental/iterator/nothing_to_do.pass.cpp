@@ -6,7 +6,7 @@
 //
 //===----------------------------------------------------------------------===//
 
-#include <experimental/iterator>
+#include <experimental/iterator.hxx>
 
 #include "test_macros.h"
 

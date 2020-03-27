@@ -17,8 +17,8 @@
 //     typedef _CharT               char_type;
 //     typedef basic_string<_CharT> string_type;
 
-#include <locale>
-#include <type_traits>
+#include <locale.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

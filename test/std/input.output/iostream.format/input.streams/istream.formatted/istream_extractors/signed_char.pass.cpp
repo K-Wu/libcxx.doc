@@ -11,8 +11,8 @@
 // template<class traits>
 //   basic_istream<char,traits>& operator>>(basic_istream<char,traits>&& in, signed char& c);
 
-#include <istream>
-#include <cassert>
+#include <istream.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 
 template <class CharT>

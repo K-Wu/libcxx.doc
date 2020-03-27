@@ -12,9 +12,9 @@
 
 // template <class charT> T9 get_time(struct tm* tmb, const charT* fmt);
 
-#include <iomanip>
-#include <istream>
-#include <cassert>
+#include <iomanip.hxx>
+#include <istream.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "platform_support.h" // locale name macros

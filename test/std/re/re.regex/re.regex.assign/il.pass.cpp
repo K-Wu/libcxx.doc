@@ -14,8 +14,8 @@
 
 // basic_regex& operator=(initializer_list<charT> il);
 
-#include <regex>
-#include <cassert>
+#include <regex.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 
 int main(int, char**)

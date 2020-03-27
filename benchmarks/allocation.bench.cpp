@@ -8,9 +8,9 @@
 
 #include "benchmark/benchmark.h"
 
-#include <new>
-#include <vector>
-#include <cassert>
+#include <new.hxx>
+#include <vector.hxx>
+#include <cassert.hxx>
 
 struct PointerList {
   PointerList* Next = nullptr;

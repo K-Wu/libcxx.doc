@@ -13,8 +13,8 @@
 // _Tp* midpoint(_Tp* __a, _Tp* __b) noexcept
 //
 
-#include <numeric>
-#include <cassert>
+#include <numeric.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

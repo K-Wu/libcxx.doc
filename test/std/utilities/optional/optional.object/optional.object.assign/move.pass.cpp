@@ -13,10 +13,10 @@
 //     noexcept(is_nothrow_move_assignable<T>::value &&
 //              is_nothrow_move_constructible<T>::value); // constexpr in C++20
 
-#include <optional>
-#include <cassert>
-#include <type_traits>
-#include <utility>
+#include <optional.hxx>
+#include <cassert.hxx>
+#include <type_traits.hxx>
+#include <utility.hxx>
 
 #include "test_macros.h"
 #include "archetypes.h"

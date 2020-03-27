@@ -11,7 +11,7 @@
 // Check that std::list and its iterators can be instantiated with an incomplete
 // type.
 
-#include <list>
+#include <list.hxx>
 
 #include "test_macros.h"
 

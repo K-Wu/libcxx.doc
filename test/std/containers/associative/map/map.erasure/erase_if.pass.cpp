@@ -12,7 +12,7 @@
 // template <class Key, class T, class Compare, class Allocator, class Predicate>
 //   void erase_if(map<Key, T, Compare, Allocator>& c, Predicate pred);
 
-#include <map>
+#include <map.hxx>
 
 #include "test_macros.h"
 #include "test_allocator.h"

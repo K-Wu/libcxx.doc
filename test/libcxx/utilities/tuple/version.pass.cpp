@@ -8,7 +8,7 @@
 
 // <tuple>
 
-#include <tuple>
+#include <tuple.hxx>
 
 #include "test_macros.h"
 

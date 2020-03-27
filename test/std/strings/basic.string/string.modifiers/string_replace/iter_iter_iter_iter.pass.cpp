@@ -12,9 +12,9 @@
 //   basic_string&
 //   replace(const_iterator i1, const_iterator i2, InputIterator j1, InputIterator j2);
 
-#include <string>
-#include <iterator>
-#include <cassert>
+#include <string.hxx>
+#include <iterator.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

@@ -17,9 +17,9 @@
 //                      regex_constants::match_flag_type m =
 //                                              regex_constants::match_default);
 
-#include <regex>
-#include <vector>
-#include <cassert>
+#include <regex.hxx>
+#include <vector.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 
 #if TEST_STD_VER < 14

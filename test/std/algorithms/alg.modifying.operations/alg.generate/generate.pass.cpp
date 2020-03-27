@@ -14,8 +14,8 @@
 //   constexpr void      // constexpr after c++17
 //   generate(Iter first, Iter last, Generator gen);
 
-#include <algorithm>
-#include <cassert>
+#include <algorithm.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

@@ -12,8 +12,8 @@
 
 // basic_regex(const charT* p);
 
-#include <regex>
-#include <cassert>
+#include <regex.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 
 template <class CharT>

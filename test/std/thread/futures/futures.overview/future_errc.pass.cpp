@@ -21,7 +21,7 @@
 //     no_state = implementation-defined
 // };
 
-#include <future>
+#include <future.hxx>
 
 #include "test_macros.h"
 

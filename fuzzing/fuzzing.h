@@ -10,8 +10,8 @@
 #ifndef _LIBCPP_FUZZING
 #define _LIBCPP_FUZZING
 
-#include <cstddef> // for size_t
-#include <cstdint> // for uint8_t
+#include <cstddef.hxx> // for size_t
+#include <cstdint.hxx> // for uint8_t
 
 namespace fuzzing {
 

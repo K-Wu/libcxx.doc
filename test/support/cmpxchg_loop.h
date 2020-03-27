@@ -6,7 +6,7 @@
 //
 //===----------------------------------------------------------------------===//
 
-#include <atomic>
+#include <atomic.hxx>
 
 template <class A, class T>
 bool cmpxchg_weak_loop(A& atomic, T& expected, T desired) {

@@ -20,10 +20,10 @@
 //
 // basic_string<char, char_traits<char>, allocator<char> > to_string() const;
 
-#include <bitset>
-#include <string>
-#include <cstdlib>
-#include <cassert>
+#include <bitset.hxx>
+#include <string.hxx>
+#include <cstdlib.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

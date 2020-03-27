@@ -14,8 +14,8 @@
 
 // explicit unordered_set(const allocator_type& __a);
 
-#include <unordered_set>
-#include <cassert>
+#include <unordered_set.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "../../../NotConstructible.h"

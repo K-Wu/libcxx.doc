@@ -13,8 +13,8 @@
 // class weak_equality
 
 
-#include <compare>
-#include <cassert>
+#include <compare.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 
 const volatile void* volatile sink;

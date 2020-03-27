@@ -10,8 +10,8 @@
 #ifndef _CONSTEXPR_CHAR_TRAITS
 #define _CONSTEXPR_CHAR_TRAITS
 
-#include <string>
-#include <cassert>
+#include <string.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -13,9 +13,9 @@
 // template <class... Args> reference emplace_back(Args&&... args);
 // return type is 'reference' in C++17; 'void' before
 
-#include <deque>
-#include <cstddef>
-#include <cassert>
+#include <deque.hxx>
+#include <cstddef.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "../../../Emplaceable.h"

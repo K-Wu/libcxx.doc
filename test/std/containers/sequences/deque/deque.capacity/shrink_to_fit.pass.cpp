@@ -10,8 +10,8 @@
 
 // void shrink_to_fit();
 
-#include <deque>
-#include <cassert>
+#include <deque.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

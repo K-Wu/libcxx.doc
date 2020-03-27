@@ -10,8 +10,8 @@
 
 // template <size_t I, class T, size_t N> T& get(array<T, N>& a);
 
-#include <array>
-#include <cassert>
+#include <array.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

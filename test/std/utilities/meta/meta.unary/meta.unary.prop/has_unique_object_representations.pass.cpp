@@ -13,7 +13,7 @@
 
 // has_unique_object_representations
 
-#include <type_traits>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

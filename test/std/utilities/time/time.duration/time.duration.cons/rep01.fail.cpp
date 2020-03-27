@@ -15,7 +15,7 @@
 
 // test for explicit
 
-#include <chrono>
+#include <chrono.hxx>
 
 #include "../../rep.h"
 

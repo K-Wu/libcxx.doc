@@ -13,7 +13,7 @@
 
 // basic_streambuf();  // is protected
 
-#include <streambuf>
+#include <streambuf.hxx>
 
 int main(int, char**)
 {

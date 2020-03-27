@@ -12,9 +12,9 @@
 
 // template<class T> valarray<T> operator/(const T& x, const valarray<T>& y);
 
-#include <valarray>
-#include <cassert>
-#include <cstddef>
+#include <valarray.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
 
 #include "test_macros.h"
 

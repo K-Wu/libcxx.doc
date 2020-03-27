@@ -13,7 +13,7 @@
 
 // constexpr size_t variant_npos = -1;
 
-#include <variant>
+#include <variant.hxx>
 
 #include "test_macros.h"
 

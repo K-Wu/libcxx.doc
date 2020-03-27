@@ -13,8 +13,8 @@
 // static int compare(const char_type* s1, const char_type* s2, size_t n);
 // constexpr in C++17
 
-#include <string>
-#include <cassert>
+#include <string.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

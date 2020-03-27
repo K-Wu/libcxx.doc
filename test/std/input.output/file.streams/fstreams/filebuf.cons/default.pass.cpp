@@ -13,8 +13,8 @@
 
 // basic_filebuf();
 
-#include <fstream>
-#include <cassert>
+#include <fstream.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

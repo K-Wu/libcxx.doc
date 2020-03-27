@@ -20,10 +20,10 @@
 // so they're compatible with implicit deduction guides, or if that's not
 // possible that they provide explicit guides to make it work.
 
-#include <utility>
-#include <memory>
-#include <string>
-#include <cassert>
+#include <utility.hxx>
+#include <memory.hxx>
+#include <string.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "archetypes.h"

@@ -1,8 +1,8 @@
 #ifndef BENCHMARK_MUTEX_H_
 #define BENCHMARK_MUTEX_H_
 
-#include <condition_variable>
-#include <mutex>
+#include <condition_variable.hxx>
+#include <mutex.hxx>
 
 #include "check.h"
 

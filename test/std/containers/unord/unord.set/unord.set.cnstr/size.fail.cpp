@@ -14,8 +14,8 @@
 
 // explicit unordered_set(size_type n);
 
-#include <unordered_set>
-#include <cassert>
+#include <unordered_set.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "../../../NotConstructible.h"

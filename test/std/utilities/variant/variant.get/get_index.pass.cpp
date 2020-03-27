@@ -29,10 +29,10 @@
 #include "test_macros.h"
 #include "test_workarounds.h"
 #include "variant_test_helpers.h"
-#include <cassert>
-#include <type_traits>
-#include <utility>
-#include <variant>
+#include <cassert.hxx>
+#include <type_traits.hxx>
+#include <utility.hxx>
+#include <variant.hxx>
 
 void test_const_lvalue_get() {
   {

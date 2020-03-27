@@ -16,11 +16,11 @@
 //     unordered_set(InputIterator first, InputIterator last, size_type n,
 //                   const hasher& hf, const key_equal& eql);
 
-#include <unordered_set>
-#include <cassert>
-#include <cfloat>
-#include <cmath>
-#include <cstddef>
+#include <unordered_set.hxx>
+#include <cassert.hxx>
+#include <cfloat.hxx>
+#include <cmath.hxx>
+#include <cstddef.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

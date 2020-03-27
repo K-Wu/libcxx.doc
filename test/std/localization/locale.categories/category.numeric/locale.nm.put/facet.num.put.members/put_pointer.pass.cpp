@@ -12,10 +12,10 @@
 
 // iter_type put(iter_type s, ios_base& iob, char_type fill, void* v) const;
 
-#include <locale>
-#include <ios>
-#include <cassert>
-#include <streambuf>
+#include <locale.hxx>
+#include <ios.hxx>
+#include <cassert.hxx>
+#include <streambuf.hxx>
 #include "test_macros.h"
 #include "test_iterators.h"
 

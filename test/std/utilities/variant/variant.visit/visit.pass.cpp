@@ -15,12 +15,12 @@
 // template <class Visitor, class... Variants>
 // constexpr see below visit(Visitor&& vis, Variants&&... vars);
 
-#include <cassert>
-#include <memory>
-#include <string>
-#include <type_traits>
-#include <utility>
-#include <variant>
+#include <cassert.hxx>
+#include <memory.hxx>
+#include <string.hxx>
+#include <type_traits.hxx>
+#include <utility.hxx>
+#include <variant.hxx>
 
 #include "test_macros.h"
 #include "type_id.h"

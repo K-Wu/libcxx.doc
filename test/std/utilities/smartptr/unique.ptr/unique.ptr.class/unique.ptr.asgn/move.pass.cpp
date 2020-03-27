@@ -17,9 +17,9 @@
 // test move assignment.  Should only require a MoveConstructible deleter, or if
 //    deleter is a reference, not even that.
 
-#include <memory>
-#include <utility>
-#include <cassert>
+#include <memory.hxx>
+#include <utility.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "deleter_types.h"

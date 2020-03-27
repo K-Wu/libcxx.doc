@@ -17,11 +17,11 @@
 //
 
 
-#include <regex>
-#include <string>
-#include <iterator>
-#include <cassert>
-#include <cstddef>
+#include <regex.hxx>
+#include <string.hxx>
+#include <iterator.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
 
 
 int main(int, char**)

@@ -10,8 +10,8 @@
 
 // typedef OFF_T streamoff;
 
-#include <ios>
-#include <type_traits>
+#include <ios.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

@@ -18,8 +18,8 @@
 //                            InIter2 first2, InIter2 last2,
 //                            OutIter result);
 
-#include <algorithm>
-#include <cassert>
+#include <algorithm.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

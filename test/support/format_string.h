@@ -1,11 +1,11 @@
 #ifndef TEST_SUPPORT_FORMAT_STRING_H
 #define TEST_SUPPORT_FORMAT_STRING_H
 
-#include <cstdio>
-#include <string>
-#include <memory>
-#include <array>
-#include <cstdarg>
+#include <cstdio.hxx>
+#include <string.hxx>
+#include <memory.hxx>
+#include <array.hxx>
+#include <cstdarg.hxx>
 
 namespace format_string_detail {
 inline std::string format_string_imp(const char* msg, ...) {

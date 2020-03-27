@@ -10,10 +10,10 @@
 #ifndef _LIBCPP_SUPPORT_WIN32_LOCALE_WIN32_H
 #define _LIBCPP_SUPPORT_WIN32_LOCALE_WIN32_H
 
-#include <__config>
+#include <__config.hxx>
 #include <stdio.h>
 #include <xlocinfo.h> // _locale_t
-#include <__nullptr>
+#include <__nullptr.hxx>
 
 #define LC_COLLATE_MASK _M_COLLATE
 #define LC_CTYPE_MASK _M_CTYPE

@@ -12,8 +12,8 @@
 
 // test op*()
 
-#include <memory>
-#include <cassert>
+#include <memory.hxx>
+#include <cassert.hxx>
 
 int main(int, char**) {
   std::unique_ptr<int[]> p(new int(3));

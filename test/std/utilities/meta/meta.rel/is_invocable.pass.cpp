@@ -18,10 +18,10 @@
 // Fn and all types in the template parameter pack ArgTypes shall be
 //  complete types, cv void, or arrays of unknown bound.
 
-#include <type_traits>
-#include <functional>
-#include <memory>
-#include <vector>
+#include <type_traits.hxx>
+#include <functional.hxx>
+#include <memory.hxx>
+#include <vector.hxx>
 
 #include "test_macros.h"
 

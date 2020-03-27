@@ -56,11 +56,11 @@
 //               Allocator)
 //   -> unordered_map<Key, T, Hash, equal_to<Key>, Allocator>;
 
-#include <algorithm> // is_permutation
-#include <cassert>
-#include <climits> // INT_MAX
-#include <type_traits>
-#include <unordered_map>
+#include <algorithm.hxx> // is_permutation
+#include <cassert.hxx>
+#include <climits.hxx> // INT_MAX
+#include <type_traits.hxx>
+#include <unordered_map.hxx>
 
 #include "test_allocator.h"
 

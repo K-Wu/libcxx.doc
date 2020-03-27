@@ -8,8 +8,8 @@
 
 // <cstring>
 
-#include <cstring>
-#include <type_traits>
+#include <cstring.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

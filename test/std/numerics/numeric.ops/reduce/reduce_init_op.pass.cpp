@@ -12,8 +12,8 @@
 // template<class InputIterator, class T, class BinaryOperation>
 //   T reduce(InputIterator first, InputIterator last, T init, BinaryOperation op);
 
-#include <numeric>
-#include <cassert>
+#include <numeric.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

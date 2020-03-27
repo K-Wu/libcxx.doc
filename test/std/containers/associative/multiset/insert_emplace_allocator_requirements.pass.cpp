@@ -14,7 +14,7 @@
 
 // UNSUPPORTED: c++98, c++03
 
-#include <set>
+#include <set.hxx>
 
 #include "test_macros.h"
 #include "container_test_types.h"

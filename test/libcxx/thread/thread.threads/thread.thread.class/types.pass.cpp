@@ -18,8 +18,8 @@
 //     ...
 // };
 
-#include <thread>
-#include <type_traits>
+#include <thread.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

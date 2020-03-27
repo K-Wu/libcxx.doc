@@ -16,10 +16,10 @@
 
 // native_handle_type native_handle();
 
-#include <thread>
-#include <new>
-#include <cstdlib>
-#include <cassert>
+#include <thread.hxx>
+#include <new.hxx>
+#include <cstdlib.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

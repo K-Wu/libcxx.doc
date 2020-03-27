@@ -1,9 +1,9 @@
-#include <array>
-#include <algorithm>
-#include <cassert>
-#include <cstdint>
-#include <tuple>
-#include <vector>
+#include <array.hxx>
+#include <algorithm.hxx>
+#include <cassert.hxx>
+#include <cstdint.hxx>
+#include <tuple.hxx>
+#include <vector.hxx>
 
 #include "benchmark/benchmark.h"
 

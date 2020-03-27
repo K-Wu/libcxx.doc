@@ -17,11 +17,11 @@
 //
 
 
-#include <deque>
-#include <iterator>
-#include <cassert>
-#include <cstddef>
-#include <climits> // INT_MAX
+#include <deque.hxx>
+#include <iterator.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
+#include <climits.hxx> // INT_MAX
 
 struct A {};
 

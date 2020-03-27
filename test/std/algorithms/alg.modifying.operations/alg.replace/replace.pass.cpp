@@ -15,8 +15,8 @@
 //   constexpr void      // constexpr after C++17
 //   replace(Iter first, Iter last, const T& old_value, const T& new_value);
 
-#include <algorithm>
-#include <cassert>
+#include <algorithm.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

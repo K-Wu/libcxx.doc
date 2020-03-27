@@ -20,9 +20,9 @@
 
 // This tests a conforming extension
 
-#include <set>
-#include <utility>
-#include <cassert>
+#include <set.hxx>
+#include <utility.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "MoveOnly.h"

@@ -12,10 +12,10 @@
 
 // state_type state() const;
 
-#include <locale>
-#include <codecvt>
-#include <sstream>
-#include <cassert>
+#include <locale.hxx>
+#include <codecvt.hxx>
+#include <sstream.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

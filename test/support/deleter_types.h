@@ -15,9 +15,9 @@
 #ifndef SUPPORT_DELETER_TYPES_H
 #define SUPPORT_DELETER_TYPES_H
 
-#include <type_traits>
-#include <utility>
-#include <cassert>
+#include <type_traits.hxx>
+#include <utility.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

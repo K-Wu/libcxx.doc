@@ -12,12 +12,12 @@
 // template<class _M, class _N>
 // constexpr common_type_t<_M,_N> lcm(_M __m, _N __n)
 
-#include <numeric>
-#include <cassert>
-#include <climits>
-#include <cstdint>
-#include <cstdlib>
-#include <type_traits>
+#include <numeric.hxx>
+#include <cassert.hxx>
+#include <climits.hxx>
+#include <cstdint.hxx>
+#include <cstdlib.hxx>
+#include <type_traits.hxx>
 #include "test_macros.h"
 
 constexpr struct {

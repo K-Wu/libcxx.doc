@@ -12,9 +12,9 @@
 
 // const error_category& future_category();
 
-#include <future>
-#include <cstring>
-#include <cassert>
+#include <future.hxx>
+#include <cstring.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

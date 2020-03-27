@@ -13,8 +13,8 @@
 // {
 //     ...
 
-#include <strstream>
-#include <type_traits>
+#include <strstream.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

@@ -13,9 +13,9 @@
 //   constexpr bool   // constexpr after C++17
 //   is_heap_until(Iter first, Iter last, Compare comp);
 
-#include <algorithm>
-#include <functional>
-#include <cassert>
+#include <algorithm.hxx>
+#include <functional.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

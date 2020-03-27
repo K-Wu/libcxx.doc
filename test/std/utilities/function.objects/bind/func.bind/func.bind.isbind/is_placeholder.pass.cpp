@@ -10,7 +10,7 @@
 
 // struct is_placeholder
 
-#include <functional>
+#include <functional.hxx>
 #include "test_macros.h"
 
 template <int Expected, class T>

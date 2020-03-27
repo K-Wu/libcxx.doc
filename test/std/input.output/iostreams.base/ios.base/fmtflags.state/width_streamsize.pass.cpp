@@ -12,8 +12,8 @@
 
 // streamsize width(streamsize wide);
 
-#include <ios>
-#include <cassert>
+#include <ios.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

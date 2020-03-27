@@ -12,8 +12,8 @@
 
 // Test that hash specializations for <string_view> require "char_traits<_CharT>" not just any "_Trait".
 
-#include <string_view>
-#include <string> // for 'mbstate_t'
+#include <string_view.hxx>
+#include <string.hxx> // for 'mbstate_t'
 
 template <class _CharT>
 struct trait // copied from <__string>

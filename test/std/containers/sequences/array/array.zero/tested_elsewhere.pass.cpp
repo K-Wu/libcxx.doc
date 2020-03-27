@@ -10,7 +10,7 @@
 
 // support for zero-sized array
 
-#include <array>
+#include <array.hxx>
 
 #include "test_macros.h"
 

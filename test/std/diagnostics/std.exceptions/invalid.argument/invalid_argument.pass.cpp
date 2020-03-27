@@ -8,11 +8,11 @@
 
 // test invalid_argument
 
-#include <stdexcept>
-#include <type_traits>
-#include <cstring>
-#include <string>
-#include <cassert>
+#include <stdexcept.hxx>
+#include <type_traits.hxx>
+#include <cstring.hxx>
+#include <string.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

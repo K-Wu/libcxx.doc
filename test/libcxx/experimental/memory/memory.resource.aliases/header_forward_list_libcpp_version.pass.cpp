@@ -10,7 +10,7 @@
 
 // <experimental/forward_list>
 
-#include <experimental/forward_list>
+#include <experimental/forward_list.hxx>
 
 #include "test_macros.h"
 

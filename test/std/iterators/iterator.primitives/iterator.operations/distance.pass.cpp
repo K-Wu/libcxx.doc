@@ -16,8 +16,8 @@
 //   Iter::difference_type
 //   distance(Iter first, Iter last);
 
-#include <iterator>
-#include <cassert>
+#include <iterator.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

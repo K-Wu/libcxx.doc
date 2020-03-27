@@ -13,8 +13,8 @@
 //   void erase(vector<T, Allocator>& c, const U& value);
   
 
-#include <vector>
-#include <optional>
+#include <vector.hxx>
+#include <optional.hxx>
 
 #include "test_macros.h"
 #include "test_allocator.h"

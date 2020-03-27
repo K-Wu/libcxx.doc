@@ -17,10 +17,10 @@
 // Returns: rlen.
 
 
-#include <string_view>
-#include <algorithm>
-#include <cassert>
-#include <stdexcept>
+#include <string_view.hxx>
+#include <algorithm.hxx>
+#include <cassert.hxx>
+#include <stdexcept.hxx>
 
 #include "test_macros.h"
 

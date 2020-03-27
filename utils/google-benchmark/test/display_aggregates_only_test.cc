@@ -1,7 +1,7 @@
 
 #undef NDEBUG
-#include <cstdio>
-#include <string>
+#include <cstdio.hxx>
+#include <string.hxx>
 
 #include "benchmark/benchmark.h"
 #include "output_test.h"

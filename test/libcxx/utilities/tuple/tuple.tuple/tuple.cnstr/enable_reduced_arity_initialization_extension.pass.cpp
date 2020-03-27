@@ -17,11 +17,11 @@
 
 // MODULES_DEFINES: _LIBCPP_ENABLE_TUPLE_IMPLICIT_REDUCED_ARITY_EXTENSION
 #define _LIBCPP_ENABLE_TUPLE_IMPLICIT_REDUCED_ARITY_EXTENSION
-#include <tuple>
-#include <cassert>
-#include <type_traits>
-#include <string>
-#include <system_error>
+#include <tuple.hxx>
+#include <cassert.hxx>
+#include <type_traits.hxx>
+#include <string.hxx>
+#include <system_error.hxx>
 
 #include "test_macros.h"
 #include "test_convertible.h"

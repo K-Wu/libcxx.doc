@@ -13,7 +13,7 @@
 // Test that <string> provides all of the arithmetic, enum, and pointer
 // hash specializations.
 
-#include <string>
+#include <string.hxx>
 
 #include "poisoned_hash_helper.h"
 

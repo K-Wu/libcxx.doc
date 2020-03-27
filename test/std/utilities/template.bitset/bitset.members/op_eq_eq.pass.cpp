@@ -11,10 +11,10 @@
 // bool operator==(const bitset<N>& rhs) const;
 // bool operator!=(const bitset<N>& rhs) const;
 
-#include <bitset>
-#include <type_traits>
-#include <cstdlib>
-#include <cassert>
+#include <bitset.hxx>
+#include <type_traits.hxx>
+#include <cstdlib.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

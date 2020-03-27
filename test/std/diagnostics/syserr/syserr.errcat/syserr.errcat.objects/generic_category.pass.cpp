@@ -20,10 +20,10 @@
 
 // const error_category& generic_category();
 
-#include <system_error>
-#include <cassert>
-#include <string>
-#include <cerrno>
+#include <system_error.hxx>
+#include <cassert.hxx>
+#include <string.hxx>
+#include <cerrno.hxx>
 
 #include "test_macros.h"
 

@@ -11,9 +11,9 @@
 // explicit forward_list(size_type n);
 // explicit forward_list(size_type n, const Alloc& a);
 
-#include <forward_list>
-#include <cassert>
-#include <cstddef>
+#include <forward_list.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
 
 #include "test_macros.h"
 #include "DefaultOnly.h"

@@ -20,8 +20,8 @@
 //     typedef typename traits_type::pos_type pos_type;
 //     typedef typename traits_type::off_type off_type;
 
-#include <istream>
-#include <type_traits>
+#include <istream.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

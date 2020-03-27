@@ -9,7 +9,7 @@
 #ifndef INPUT_ITERATOR_H
 #define INPUT_ITERATOR_H
 
-#include <iterator>
+#include <iterator.hxx>
 
 template <class It>
 class input_iterator

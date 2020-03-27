@@ -7,10 +7,10 @@
 //===----------------------------------------------------------------------===//
 
 
-#include <string>
-#include <tuple>
-#include <type_traits>
-#include <vector>
+#include <string.hxx>
+#include <tuple.hxx>
+#include <type_traits.hxx>
+#include <vector.hxx>
 
 #include "benchmark/benchmark.h"
 #include "test_macros.h"

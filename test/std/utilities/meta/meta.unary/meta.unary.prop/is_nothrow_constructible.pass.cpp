@@ -11,7 +11,7 @@
 // template <class T, class... Args>
 //   struct is_nothrow_constructible;
 
-#include <type_traits>
+#include <type_traits.hxx>
 #include "test_macros.h"
 
 template <class T>

@@ -31,12 +31,12 @@
 
 #include "test_macros.h"
 
-#include <iterator>
-#include <cassert>
-#include <vector>
-#include <array>
-#include <list>
-#include <initializer_list>
+#include <iterator.hxx>
+#include <cassert.hxx>
+#include <vector.hxx>
+#include <array.hxx>
+#include <list.hxx>
+#include <initializer_list.hxx>
 
 // std::array is explicitly allowed to be initialized with A a = { init-list };.
 // Disable the missing braces warning for this reason.

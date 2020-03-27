@@ -17,8 +17,8 @@
 //      returns searcher.operator(first, last).first
 //
 
-#include <experimental/algorithm>
-#include <cassert>
+#include <experimental/algorithm.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

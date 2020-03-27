@@ -27,10 +27,10 @@
 // iter_type put(iter_type s, bool intl, ios_base& f, char_type fill,
 //               long double units) const;
 
-#include <locale>
-#include <ios>
-#include <streambuf>
-#include <cassert>
+#include <locale.hxx>
+#include <ios.hxx>
+#include <streambuf.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 #include "test_iterators.h"
 

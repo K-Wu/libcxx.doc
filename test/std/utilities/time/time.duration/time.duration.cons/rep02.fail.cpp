@@ -15,7 +15,7 @@
 
 // Rep2 shall be implicitly convertible to rep
 
-#include <chrono>
+#include <chrono.hxx>
 
 #include "../../rep.h"
 

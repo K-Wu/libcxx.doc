@@ -12,8 +12,8 @@
 //     constpexr ForwardIterator       // constexpr after C++17
 //     partition_point(ForwardIterator first, ForwardIterator last, Predicate pred);
 
-#include <algorithm>
-#include <cassert>
+#include <algorithm.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

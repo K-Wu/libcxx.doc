@@ -22,11 +22,11 @@
 // std::thread. See: https://bugs.llvm.org/show_bug.cgi?id=30202
 
 
-#include <condition_variable>
-#include <mutex>
-#include <thread>
-#include <chrono>
-#include <cassert>
+#include <condition_variable.hxx>
+#include <mutex.hxx>
+#include <thread.hxx>
+#include <chrono.hxx>
+#include <cassert.hxx>
 #include <pthread.h>
 
 #include "test_macros.h"

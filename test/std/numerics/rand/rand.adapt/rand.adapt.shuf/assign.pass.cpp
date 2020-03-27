@@ -13,8 +13,8 @@
 
 // shuffle_order_engine& operator=(const shuffle_order_engine&);
 
-#include <random>
-#include <cassert>
+#include <random.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

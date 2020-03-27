@@ -14,8 +14,8 @@
 // basic_ostream<charT,traits>& operator<<
 //           (basic_ostream<charT,traits>& (*pf)(basic_ostream<charT,traits>&))
 
-#include <ostream>
-#include <cassert>
+#include <ostream.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

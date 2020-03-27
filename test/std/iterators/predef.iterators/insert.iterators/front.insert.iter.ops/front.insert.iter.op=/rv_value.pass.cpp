@@ -15,10 +15,10 @@
 // front_insert_iterator<Cont>&
 //   operator=(Cont::value_type&& value);
 
-#include <iterator>
-#include <list>
-#include <memory>
-#include <cassert>
+#include <iterator.hxx>
+#include <list.hxx>
+#include <memory.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -12,7 +12,7 @@
 // template <class Key, class T, class Hash, class Pred, class Allocator, class Predicate>
 //   void erase_if(unordered_multimap<Key, T, Hash, Pred, Allocator>& c, Predicate pred);
 
-#include <unordered_map>
+#include <unordered_map.hxx>
 
 #include "test_macros.h"
 #include "test_allocator.h"

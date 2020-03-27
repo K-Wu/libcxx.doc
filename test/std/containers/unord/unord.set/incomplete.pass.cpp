@@ -13,7 +13,7 @@
 // Check that std::unordered_set and its iterators can be instantiated with an incomplete
 // type.
 
-#include <unordered_set>
+#include <unordered_set.hxx>
 
 #include "test_macros.h"
 

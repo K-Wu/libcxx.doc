@@ -15,9 +15,9 @@
 // recursive_recursive_directory_iterator(recursive_recursive_directory_iterator const&);
 
 #include "filesystem_include.h"
-#include <type_traits>
-#include <set>
-#include <cassert>
+#include <type_traits.hxx>
+#include <set.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "rapid-cxx-test.h"

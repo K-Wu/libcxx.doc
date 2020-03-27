@@ -14,11 +14,11 @@
 
 #define _LIBCPP_DEBUG 1
 
-#include <cstdlib>
-#include <string>
-#include <type_traits>
-#include <__debug>
-#include <cassert>
+#include <cstdlib.hxx>
+#include <string.hxx>
+#include <type_traits.hxx>
+#include <__debug.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

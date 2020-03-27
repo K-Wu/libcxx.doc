@@ -16,10 +16,10 @@
 // named by INVOKE but that are not actual callable objects. These include
 // bullets 1-4 of invoke.
 
-#include <tuple>
-#include <array>
-#include <utility>
-#include <cassert>
+#include <tuple.hxx>
+#include <array.hxx>
+#include <utility.hxx>
+#include <cassert.hxx>
 
 // std::array is explicitly allowed to be initialized with A a = { init-list };.
 // Disable the missing braces warning for this reason.

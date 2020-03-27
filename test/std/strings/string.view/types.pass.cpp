@@ -30,9 +30,9 @@
 //
 // };
 
-#include <string_view>
-#include <iterator>
-#include <type_traits>
+#include <string_view.hxx>
+#include <iterator.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

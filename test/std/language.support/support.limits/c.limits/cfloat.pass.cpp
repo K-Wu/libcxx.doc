@@ -8,7 +8,7 @@
 
  // test cfloat
 
-#include <cfloat>
+#include <cfloat.hxx>
 
 #include "test_macros.h"
 

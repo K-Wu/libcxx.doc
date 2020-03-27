@@ -20,9 +20,9 @@
 
 #include "test_macros.h"
 #include "variant_test_helpers.h"
-#include <cassert>
-#include <memory>
-#include <variant>
+#include <cassert.hxx>
+#include <memory.hxx>
+#include <variant.hxx>
 
 void test_const_get_if() {
   {

@@ -8,7 +8,7 @@
 
 // <codecvt>
 
-#include <codecvt>
+#include <codecvt.hxx>
 
 #include "test_macros.h"
 

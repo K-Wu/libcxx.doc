@@ -1,12 +1,12 @@
-#include <cstdio>
-#include <cstring>
-#include <fstream>
-#include <iostream>
-#include <map>
-#include <memory>
-#include <random>
-#include <sstream>
-#include <streambuf>
+#include <cstdio.hxx>
+#include <cstring.hxx>
+#include <fstream.hxx>
+#include <iostream.hxx>
+#include <map.hxx>
+#include <memory.hxx>
+#include <random.hxx>
+#include <sstream.hxx>
+#include <streambuf.hxx>
 
 #include "../src/benchmark_api_internal.h"
 #include "../src/check.h"  // NOTE: check.h is for internal use only!

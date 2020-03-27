@@ -12,7 +12,7 @@
 // };
 // extern const nothrow_t nothrow;
 
-#include <new>
+#include <new.hxx>
 
 
 int main(int, char**) {

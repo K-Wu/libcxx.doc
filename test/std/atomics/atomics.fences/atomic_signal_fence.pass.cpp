@@ -12,7 +12,7 @@
 
 // void atomic_signal_fence(memory_order m);
 
-#include <atomic>
+#include <atomic.hxx>
 
 #include "test_macros.h"
 

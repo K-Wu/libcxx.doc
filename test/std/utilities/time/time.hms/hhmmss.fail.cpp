@@ -12,9 +12,9 @@
 // template <class Duration> class hh_mm_ss;
 //   If Duration is not an instance of duration, the program is ill-formed.
 
-#include <chrono>
-#include <string>
-#include <cassert>
+#include <chrono.hxx>
+#include <string.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 
 struct A {};

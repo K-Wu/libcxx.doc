@@ -17,8 +17,8 @@
 // R& shared_future<R&>::get();
 // void shared_future<void>::get();
 
-#include <future>
-#include <cassert>
+#include <future.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

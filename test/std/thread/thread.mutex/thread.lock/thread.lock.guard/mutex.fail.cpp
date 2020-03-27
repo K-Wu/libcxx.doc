@@ -14,7 +14,7 @@
 
 // explicit lock_guard(mutex_type& m);
 
-#include <mutex>
+#include <mutex.hxx>
 
 int main(int, char**)
 {

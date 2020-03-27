@@ -12,8 +12,8 @@
 
 // const_reference top() const;
 
-#include <queue>
-#include <cassert>
+#include <queue.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

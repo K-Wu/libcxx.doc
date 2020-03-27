@@ -20,8 +20,8 @@
 // template <class T, class Container>
 //   bool operator<=(const stack<T, Container>& x,const stack<T, Container>& y);
 
-#include <stack>
-#include <cassert>
+#include <stack.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

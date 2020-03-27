@@ -8,8 +8,8 @@
 
 // [func.require]
 
-#include <type_traits>
-#include <functional>
+#include <type_traits.hxx>
+#include <functional.hxx>
 
 #include "test_macros.h"
 

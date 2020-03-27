@@ -16,10 +16,10 @@
 // libc++abi.dylib and exceptions are not caught properly.
 // XFAIL: with_system_cxx_lib=macosx10.7
 
-#include <cassert>
-#include <cmath>
-#include <stdexcept>
-#include <string>
+#include <cassert.hxx>
+#include <cmath.hxx>
+#include <stdexcept.hxx>
+#include <string.hxx>
 
 #include "test_macros.h"
 

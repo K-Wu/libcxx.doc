@@ -16,8 +16,8 @@
 // template <class P>
 //   pair<iterator, bool> insert(P&& p);
 
-#include <map>
-#include <cassert>
+#include <map.hxx>
+#include <cassert.hxx>
 
 #include "MoveOnly.h"
 #include "min_allocator.h"

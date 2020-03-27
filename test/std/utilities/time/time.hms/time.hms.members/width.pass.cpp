@@ -21,8 +21,8 @@
 //  If no such value of fractional_width exists, then fractional_width is 6.
 
    
-#include <chrono>
-#include <cassert>
+#include <chrono.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

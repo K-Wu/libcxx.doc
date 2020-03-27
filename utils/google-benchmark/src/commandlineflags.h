@@ -1,8 +1,8 @@
 #ifndef BENCHMARK_COMMANDLINEFLAGS_H_
 #define BENCHMARK_COMMANDLINEFLAGS_H_
 
-#include <cstdint>
-#include <string>
+#include <cstdint.hxx>
+#include <string.hxx>
 
 // Macro for referencing flags.
 #define FLAG(name) FLAGS_##name

@@ -21,8 +21,8 @@
 // template <class H2, class P2>
 //   void merge(unordered_multimap<key_type, value_type, H2, P2, allocator_type>&& source);
 
-#include <unordered_map>
-#include <cassert>
+#include <unordered_map.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 #include "Counter.h"
 

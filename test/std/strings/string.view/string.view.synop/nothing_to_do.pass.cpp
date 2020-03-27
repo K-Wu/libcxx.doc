@@ -6,7 +6,7 @@
 //
 //===----------------------------------------------------------------------===//
 
-#include <string_view>
+#include <string_view.hxx>
 
 #include "test_macros.h"
 

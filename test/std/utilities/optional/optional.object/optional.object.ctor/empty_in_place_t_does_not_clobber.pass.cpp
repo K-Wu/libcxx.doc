@@ -15,9 +15,9 @@
 // in_place_t constructor with no arguments when the Clang is trying to check
 // copy constructor.
 
-#include <optional>
-#include <type_traits>
-#include <cassert>
+#include <optional.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "archetypes.h"

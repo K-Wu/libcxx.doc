@@ -17,10 +17,10 @@
 
 // Not very portable
 
-#include <string_view>
-#include <string>
-#include <cassert>
-#include <type_traits>
+#include <string_view.hxx>
+#include <string.hxx>
+#include <cassert.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

@@ -21,11 +21,11 @@
 // template <class M>
 //  iterator insert_or_assign(const_iterator hint, key_type&& k, M&& obj);        // C++17
 
-#include <map>
-#include <cassert>
-#include <tuple>
+#include <map.hxx>
+#include <cassert.hxx>
+#include <tuple.hxx>
 
-#include <iostream>
+#include <iostream.hxx>
 
 #include "test_macros.h"
 

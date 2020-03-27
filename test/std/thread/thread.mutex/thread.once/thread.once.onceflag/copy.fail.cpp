@@ -12,7 +12,7 @@
 
 // once_flag(const once_flag&) = delete;
 
-#include <mutex>
+#include <mutex.hxx>
 
 int main(int, char**)
 {

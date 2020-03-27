@@ -17,8 +17,8 @@
 // typedef pthread_mutex_t* native_handle_type;
 // native_handle_type native_handle();
 
-#include <mutex>
-#include <cassert>
+#include <mutex.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

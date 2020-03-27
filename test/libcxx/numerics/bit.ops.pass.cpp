@@ -9,8 +9,8 @@
 // Test the __XXXX routines in the <bit> header.
 // These are not supposed to be exhaustive tests, just sanity checks.
 
-#include <bit>
-#include <cassert>
+#include <bit.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

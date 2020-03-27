@@ -13,8 +13,8 @@
 
 // linear_congruential_engine& operator=(const linear_congruential_engine&);
 
-#include <random>
-#include <cassert>
+#include <random.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

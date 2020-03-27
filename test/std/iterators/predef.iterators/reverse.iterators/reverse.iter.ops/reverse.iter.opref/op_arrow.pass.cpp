@@ -20,9 +20,9 @@
 //    http://www.open-std.org/jtc1/sc22/wg21/docs/lwg-defects.html#2360
 
 
-#include <iterator>
-#include <list>
-#include <cassert>
+#include <iterator.hxx>
+#include <list.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

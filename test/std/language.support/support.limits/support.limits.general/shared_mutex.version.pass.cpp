@@ -20,7 +20,7 @@
     __cpp_lib_shared_timed_mutex    201402L [C++14]
 */
 
-#include <shared_mutex>
+#include <shared_mutex.hxx>
 #include "test_macros.h"
 
 #if TEST_STD_VER < 14

@@ -12,10 +12,10 @@
 
 // ~ios_base()
 
-#include <ios>
-#include <string>
-#include <locale>
-#include <cassert>
+#include <ios.hxx>
+#include <string.hxx>
+#include <locale.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

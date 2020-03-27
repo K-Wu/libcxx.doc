@@ -10,9 +10,9 @@
 
 // round_error()
 
-#include <limits>
-#include <cfloat>
-#include <cassert>
+#include <limits.hxx>
+#include <cfloat.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

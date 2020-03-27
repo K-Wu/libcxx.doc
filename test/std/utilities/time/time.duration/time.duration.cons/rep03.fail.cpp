@@ -15,7 +15,7 @@
 
 // treat_as_floating_point<Rep2>::value shall be false
 
-#include <chrono>
+#include <chrono.hxx>
 
 int main(int, char**)
 {

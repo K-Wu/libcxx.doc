@@ -17,9 +17,9 @@
 
 // charT decimal_point() const;
 
-#include <locale>
-#include <limits>
-#include <cassert>
+#include <locale.hxx>
+#include <limits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "platform_support.h" // locale name macros

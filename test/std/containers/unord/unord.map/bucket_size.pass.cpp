@@ -18,9 +18,9 @@
 #define _LIBCPP_ASSERT(x, m) ((x) ? (void)0 : std::exit(0))
 #endif
 
-#include <unordered_map>
-#include <string>
-#include <cassert>
+#include <unordered_map.hxx>
+#include <string.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

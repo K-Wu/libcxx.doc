@@ -12,9 +12,9 @@
 
 // any() noexcept;
 
-#include <any>
-#include <type_traits>
-#include <cassert>
+#include <any.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "any_helpers.h"

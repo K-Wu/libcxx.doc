@@ -10,8 +10,8 @@
 
 // typedef minstd_rand0 default_random_engine;
 
-#include <random>
-#include <cassert>
+#include <random.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

@@ -9,7 +9,7 @@
 
 // test quick_exit and at_quick_exit
 
-#include <cstdlib>
+#include <cstdlib.hxx>
 
 #include "test_macros.h"
 

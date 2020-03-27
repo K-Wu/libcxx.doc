@@ -18,9 +18,9 @@
 // C++17 says: If is_trivially_default_constructible_v<T> is true, then this
 //    constructor is a constexpr constructor.
 
-#include <iterator>
-#include <cassert>
-#include <string>
+#include <iterator.hxx>
+#include <cassert.hxx>
+#include <string.hxx>
 
 #include "test_macros.h"
 

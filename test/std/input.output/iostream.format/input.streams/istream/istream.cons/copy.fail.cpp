@@ -16,9 +16,9 @@
 // basic_istream(basic_istream const& rhs) = delete;
 // basic_istream& operator=(basic_istream const&) = delete;
 
-#include <istream>
-#include <type_traits>
-#include <cassert>
+#include <istream.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 struct test_istream
     : public std::basic_istream<char>

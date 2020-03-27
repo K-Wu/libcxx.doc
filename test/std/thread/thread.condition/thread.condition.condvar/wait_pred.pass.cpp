@@ -15,11 +15,11 @@
 // template <class Predicate>
 //   void wait(unique_lock<mutex>& lock, Predicate pred);
 
-#include <condition_variable>
-#include <mutex>
-#include <thread>
-#include <functional>
-#include <cassert>
+#include <condition_variable.hxx>
+#include <mutex.hxx>
+#include <thread.hxx>
+#include <functional.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

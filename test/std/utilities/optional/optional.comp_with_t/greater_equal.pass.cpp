@@ -12,7 +12,7 @@
 // template <class T, class U> constexpr bool operator>=(const optional<T>& x, const U& v);
 // template <class T, class U> constexpr bool operator>=(const U& v, const optional<T>& x);
 
-#include <optional>
+#include <optional.hxx>
 
 #include "test_macros.h"
 

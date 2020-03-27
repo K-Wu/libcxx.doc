@@ -10,8 +10,8 @@
 
 // forward_list(size_type n, const value_type& v, const allocator_type& a);
 
-#include <forward_list>
-#include <cassert>
+#include <forward_list.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_allocator.h"

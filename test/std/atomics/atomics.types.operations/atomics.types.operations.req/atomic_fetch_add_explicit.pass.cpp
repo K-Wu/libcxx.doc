@@ -27,9 +27,9 @@
 //     T*
 //     atomic_fetch_add_explicit(atomic<T*>* obj, ptrdiff_t op, memory_order m);
 
-#include <atomic>
-#include <type_traits>
-#include <cassert>
+#include <atomic.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "atomic_helpers.h"

@@ -10,9 +10,9 @@
 
 // explicit list(size_type n);
 
-#include <list>
-#include <cassert>
-#include <cstddef>
+#include <list.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
 #include "test_macros.h"
 #include "DefaultOnly.h"
 #include "test_allocator.h"

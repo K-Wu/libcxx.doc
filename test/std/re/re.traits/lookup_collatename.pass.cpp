@@ -22,9 +22,9 @@
 // TODO: investigation needed
 // XFAIL: linux-gnu
 
-#include <regex>
-#include <iterator>
-#include <cassert>
+#include <regex.hxx>
+#include <iterator.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_iterators.h"

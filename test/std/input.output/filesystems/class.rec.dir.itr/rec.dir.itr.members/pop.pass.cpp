@@ -16,8 +16,8 @@
 // void pop(error_code& ec);
 
 #include "filesystem_include.h"
-#include <set>
-#include <cassert>
+#include <set.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "rapid-cxx-test.h"

@@ -12,8 +12,8 @@
 
 // int_type overflow(int_type c = EOF);
 
-#include <strstream>
-#include <cassert>
+#include <strstream.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

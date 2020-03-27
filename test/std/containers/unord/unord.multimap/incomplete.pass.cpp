@@ -12,7 +12,7 @@
 // Check that std::unordered_multimap and its iterators can be instantiated with an incomplete
 // type.
 
-#include <unordered_map>
+#include <unordered_map.hxx>
 
 #include "test_macros.h"
 

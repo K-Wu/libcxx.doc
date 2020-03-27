@@ -15,8 +15,8 @@
 // https://bugs.llvm.org/show_bug.cgi?id=16538
 // https://bugs.llvm.org/show_bug.cgi?id=16549
 
-#include <unordered_map>
-#include <cassert>
+#include <unordered_map.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

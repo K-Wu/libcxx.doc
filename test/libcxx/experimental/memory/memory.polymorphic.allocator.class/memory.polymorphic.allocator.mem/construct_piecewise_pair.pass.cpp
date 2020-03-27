@@ -39,12 +39,12 @@
 // This test checks the number of copies incurred to the elements in
 // 'tuple<Args1...>' and 'tuple<Args2...>'.
 
-#include <experimental/memory_resource>
-#include <type_traits>
-#include <utility>
-#include <tuple>
-#include <cassert>
-#include <cstdlib>
+#include <experimental/memory_resource.hxx>
+#include <type_traits.hxx>
+#include <utility.hxx>
+#include <tuple.hxx>
+#include <cassert.hxx>
+#include <cstdlib.hxx>
 #include "test_memory_resource.h"
 
 #include "test_macros.h"

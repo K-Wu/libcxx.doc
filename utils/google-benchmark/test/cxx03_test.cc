@@ -1,6 +1,6 @@
 #undef NDEBUG
-#include <cassert>
-#include <cstddef>
+#include <cassert.hxx>
+#include <cstddef.hxx>
 
 #include "benchmark/benchmark.h"
 

@@ -11,7 +11,7 @@
 
 // enable_if
 
-#include <type_traits>
+#include <type_traits.hxx>
 
 int main(int, char**)
 {

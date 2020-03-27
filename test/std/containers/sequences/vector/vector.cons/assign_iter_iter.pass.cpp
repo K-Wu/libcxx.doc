@@ -10,9 +10,9 @@
 
 // void assign(size_type n, const_reference v);
 
-#include <vector>
-#include <algorithm>
-#include <cassert>
+#include <vector.hxx>
+#include <algorithm.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 #include "min_allocator.h"
 #include "asan_testing.h"

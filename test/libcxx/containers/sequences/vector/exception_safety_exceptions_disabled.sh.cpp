@@ -17,8 +17,8 @@
 // vector is allowed to move or copy elements while resizing, so long as
 // it still provides the strong exception safety guarantee.
 
-#include <vector>
-#include <cassert>
+#include <vector.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

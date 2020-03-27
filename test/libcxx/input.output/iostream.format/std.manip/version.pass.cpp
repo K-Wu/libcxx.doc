@@ -8,7 +8,7 @@
 
 // <iomanip>
 
-#include <iomanip>
+#include <iomanip.hxx>
 
 #include "test_macros.h"
 

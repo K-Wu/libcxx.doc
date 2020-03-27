@@ -15,7 +15,7 @@
 // for compatibility reasons the trait is_bind_expression should be available
 // in C++03 and it should always return false.
 
-#include <functional>
+#include <functional.hxx>
 
 #include "test_macros.h"
 

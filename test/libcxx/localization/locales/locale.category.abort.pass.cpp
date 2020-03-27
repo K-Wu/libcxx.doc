@@ -17,9 +17,9 @@
 // Make sure we abort() when we construct a locale with a null name and
 // exceptions are disabled.
 
-#include <csignal>
-#include <cstdlib>
-#include <locale>
+#include <csignal.hxx>
+#include <cstdlib.hxx>
+#include <locale.hxx>
 
 #include "test_macros.h"
 

@@ -19,9 +19,9 @@
 // const_iterator cbegin() const;
 // const_iterator cend()   const;
 
-#include <unordered_set>
-#include <cassert>
-#include <cstddef>
+#include <unordered_set.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

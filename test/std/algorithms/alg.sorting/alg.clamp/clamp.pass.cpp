@@ -13,8 +13,8 @@
 //   const T&
 //   clamp(const T& v, const T& lo, const T& hi);
 
-#include <algorithm>
-#include <cassert>
+#include <algorithm.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

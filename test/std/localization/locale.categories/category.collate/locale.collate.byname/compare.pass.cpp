@@ -24,9 +24,9 @@
 // it.
 // XFAIL: linux-gnu
 
-#include <locale>
-#include <string>
-#include <cassert>
+#include <locale.hxx>
+#include <string.hxx>
+#include <cassert.hxx>
 
 #include <stdio.h>
 

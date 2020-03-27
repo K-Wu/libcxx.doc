@@ -6,7 +6,7 @@
 //
 //===----------------------------------------------------------------------===//
 
-#include "any"
+#include "any.hxx"
 
 namespace std {
 const char* bad_any_cast::what() const _NOEXCEPT {
@@ -15,7 +15,7 @@ const char* bad_any_cast::what() const _NOEXCEPT {
 }
 
 
-#include <experimental/__config>
+#include <experimental/__config.hxx>
 
 //  Preserve std::experimental::any_bad_cast for ABI compatibility
 //  Even though it no longer exists in a header file

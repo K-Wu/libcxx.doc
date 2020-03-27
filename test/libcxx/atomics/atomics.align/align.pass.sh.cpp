@@ -24,8 +24,8 @@
 // alignment". Supported architectures all require natural alignment for
 // lock-freedom (e.g. load-linked / store-conditional, or cmpxchg).
 
-#include <atomic>
-#include <cassert>
+#include <atomic.hxx>
+#include <cassert.hxx>
 
 template <typename T> struct atomic_test : public std::__atomic_base<T> {
   atomic_test() {

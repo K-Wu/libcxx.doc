@@ -1,9 +1,9 @@
 #ifndef SUPPORT_ASSERT_CHECKPOINT_H
 #define SUPPORT_ASSERT_CHECKPOINT_H
 
-#include <csignal>
-#include <iostream>
-#include <cstdlib>
+#include <csignal.hxx>
+#include <iostream.hxx>
+#include <cstdlib.hxx>
 
 struct Checkpoint {
   const char* file;

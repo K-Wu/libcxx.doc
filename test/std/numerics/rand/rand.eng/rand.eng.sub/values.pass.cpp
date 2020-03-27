@@ -23,9 +23,9 @@
 //     static constexpr result_type max() { return m-1; }
 //     static constexpr result_type default_seed = 19780503u;
 
-#include <random>
-#include <type_traits>
-#include <cassert>
+#include <random.hxx>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

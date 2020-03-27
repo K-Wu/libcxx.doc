@@ -15,9 +15,9 @@
 // wide_string from_bytes(const byte_string& str);
 // wide_string from_bytes(const char* first, const char* last);
 
-#include <locale>
-#include <codecvt>
-#include <cassert>
+#include <locale.hxx>
+#include <codecvt.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

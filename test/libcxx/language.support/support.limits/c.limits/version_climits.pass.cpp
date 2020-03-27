@@ -8,7 +8,7 @@
 
 // <climits>
 
-#include <climits>
+#include <climits.hxx>
 
 #include "test_macros.h"
 

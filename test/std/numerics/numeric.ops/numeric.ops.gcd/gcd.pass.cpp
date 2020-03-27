@@ -13,12 +13,12 @@
 // template<class _M, class _N>
 // constexpr common_type_t<_M,_N> gcd(_M __m, _N __n)
 
-#include <numeric>
-#include <cassert>
-#include <climits>
-#include <cstdint>
-#include <cstdlib>    // for rand()
-#include <type_traits>
+#include <numeric.hxx>
+#include <cassert.hxx>
+#include <climits.hxx>
+#include <cstdint.hxx>
+#include <cstdlib.hxx>    // for rand()
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

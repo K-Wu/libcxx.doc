@@ -10,9 +10,9 @@
 
 // void merge(forward_list&& x);
 
-#include <forward_list>
-#include <iterator>
-#include <cassert>
+#include <forward_list.hxx>
+#include <iterator.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

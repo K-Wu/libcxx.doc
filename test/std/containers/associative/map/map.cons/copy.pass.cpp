@@ -12,8 +12,8 @@
 
 // map(const map& m);
 
-#include <map>
-#include <cassert>
+#include <map.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "../../../test_compare.h"

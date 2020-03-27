@@ -1,7 +1,7 @@
 
-#include <cstdint>
-#include <new>
-#include <vector>
+#include <cstdint.hxx>
+#include <new.hxx>
+#include <vector.hxx>
 
 #include "CartesianBenchmarks.h"
 #include "GenerateInput.h"

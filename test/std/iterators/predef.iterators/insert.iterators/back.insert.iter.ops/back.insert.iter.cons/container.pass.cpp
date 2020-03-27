@@ -12,8 +12,8 @@
 
 // explicit back_insert_iterator(Cont& x);
 
-#include <iterator>
-#include <vector>
+#include <iterator.hxx>
+#include <vector.hxx>
 #include "nasty_containers.h"
 
 #include "test_macros.h"

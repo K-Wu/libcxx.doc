@@ -13,8 +13,8 @@
 
 */
 
-#include <charconv>
-#include <cassert>
+#include <charconv.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 
 int main(int, char**)

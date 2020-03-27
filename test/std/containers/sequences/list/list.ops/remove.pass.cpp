@@ -11,8 +11,8 @@
 // void      remove(const value_type& value); // pre-c++20
 // size_type remove(const value_type& value); // c++20 and later
 
-#include <list>
-#include <cassert>
+#include <list.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

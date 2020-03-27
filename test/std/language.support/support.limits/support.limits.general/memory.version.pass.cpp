@@ -24,7 +24,7 @@
     __cpp_lib_shared_ptr_weak_type                201606L [C++17]
 */
 
-#include <memory>
+#include <memory.hxx>
 #include "test_macros.h"
 
 #if TEST_STD_VER < 14

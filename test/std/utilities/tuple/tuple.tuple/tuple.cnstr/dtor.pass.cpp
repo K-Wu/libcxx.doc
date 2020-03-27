@@ -18,10 +18,10 @@
 //   The destructor of tuple shall be a trivial destructor
 //     if (is_trivially_destructible_v<Types> && ...) is true.
 
-#include <tuple>
-#include <string>
-#include <cassert>
-#include <type_traits>
+#include <tuple.hxx>
+#include <string.hxx>
+#include <cassert.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

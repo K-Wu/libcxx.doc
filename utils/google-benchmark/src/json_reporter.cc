@@ -15,14 +15,14 @@
 #include "benchmark/benchmark.h"
 #include "complexity.h"
 
-#include <algorithm>
-#include <cstdint>
-#include <iomanip>  // for setprecision
-#include <iostream>
-#include <limits>
-#include <string>
-#include <tuple>
-#include <vector>
+#include <algorithm.hxx>
+#include <cstdint.hxx>
+#include <iomanip.hxx>  // for setprecision
+#include <iostream.hxx>
+#include <limits.hxx>
+#include <string.hxx>
+#include <tuple.hxx>
+#include <vector.hxx>
 
 #include "string_util.h"
 #include "timers.h"

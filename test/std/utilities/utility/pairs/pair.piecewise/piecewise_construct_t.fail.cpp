@@ -19,7 +19,7 @@
 
 // This test checks for LWG 2510.
 
-#include <utility>
+#include <utility.hxx>
 
 
 std::piecewise_construct_t f() { return {}; } // expected-error 1 {{chosen constructor is explicit in copy-initialization}}

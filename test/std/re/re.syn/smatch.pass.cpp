@@ -10,8 +10,8 @@
 
 // typedef match_results<string::const_iterator>   smatch;
 
-#include <regex>
-#include <type_traits>
+#include <regex.hxx>
+#include <type_traits.hxx>
 #include "test_macros.h"
 
 int main(int, char**)

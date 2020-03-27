@@ -13,8 +13,8 @@
 //   void erase(basic_string<charT, traits, Allocator>& c, const U& value);
   
 
-#include <string>
-#include <optional>
+#include <string.hxx>
+#include <optional.hxx>
 
 #include "test_macros.h"
 #include "test_allocator.h"

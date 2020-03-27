@@ -12,9 +12,9 @@
 
 // const char* toupper(char* low, const char* high) const;
 
-#include <locale>
-#include <string>
-#include <cassert>
+#include <locale.hxx>
+#include <string.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

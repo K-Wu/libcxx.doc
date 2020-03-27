@@ -20,10 +20,10 @@
 
 // UNSUPPORTED: c++98, c++03
 
-#include <algorithm>
-#include <cassert>
-#include <iterator>
-#include <vector>
+#include <algorithm.hxx>
+#include <cassert.hxx>
+#include <iterator.hxx>
+#include <vector.hxx>
 
 #include "test_macros.h"
 #include "MoveOnly.h"

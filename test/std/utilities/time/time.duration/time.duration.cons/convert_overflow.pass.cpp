@@ -15,8 +15,8 @@
 
 // overflow should SFINAE instead of error out, LWG 2094
 
-#include <chrono>
-#include <cassert>
+#include <chrono.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

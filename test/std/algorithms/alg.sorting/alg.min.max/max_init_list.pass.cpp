@@ -14,8 +14,8 @@
 //   T
 //   max(initializer_list<T> t);
 
-#include <algorithm>
-#include <cassert>
+#include <algorithm.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

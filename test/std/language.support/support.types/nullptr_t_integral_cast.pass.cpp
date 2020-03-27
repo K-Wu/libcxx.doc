@@ -13,8 +13,8 @@
 // typedef decltype(nullptr) nullptr_t;
 
 
-#include <cstddef>
-#include <cassert>
+#include <cstddef.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

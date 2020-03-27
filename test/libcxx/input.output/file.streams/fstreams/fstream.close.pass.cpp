@@ -14,8 +14,8 @@
 
 //	Inspired by PR#38052 - std::fstream still good after closing and updating content
 
-#include <fstream>
-#include <cassert>
+#include <fstream.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 #include "platform_support.h"
 

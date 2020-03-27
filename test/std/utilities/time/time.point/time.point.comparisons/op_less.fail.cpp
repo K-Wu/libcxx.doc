@@ -28,7 +28,7 @@
 
 // time_points with different clocks should not compare
 
-#include <chrono>
+#include <chrono.hxx>
 
 #include "../../clock.h"
 

@@ -13,7 +13,7 @@
 // Test that <typeindex> provides all of the arithmetic, enum, and pointer
 // hash specializations.
 
-#include <typeindex>
+#include <typeindex.hxx>
 
 #include "poisoned_hash_helper.h"
 

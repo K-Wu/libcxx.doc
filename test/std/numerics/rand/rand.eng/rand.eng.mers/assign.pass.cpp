@@ -15,8 +15,8 @@
 
 // mersenne_twister_engine& operator=(const mersenne_twister_engine&);
 
-#include <random>
-#include <cassert>
+#include <random.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

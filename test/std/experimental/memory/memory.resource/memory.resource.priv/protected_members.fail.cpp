@@ -14,7 +14,7 @@
 // memory_resource::do_deallocate(void*, size_t, size_t); /* protected */
 // memory_resource::do_is_equal(memory_resource const&);  /* protected */
 
-#include <experimental/memory_resource>
+#include <experimental/memory_resource.hxx>
 
 namespace ex = std::experimental::pmr;
 

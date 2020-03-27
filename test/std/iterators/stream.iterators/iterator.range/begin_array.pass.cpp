@@ -10,8 +10,8 @@
 
 // template <class T, size_t N> T* begin(T (&array)[N]);
 
-#include <iterator>
-#include <cassert>
+#include <iterator.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

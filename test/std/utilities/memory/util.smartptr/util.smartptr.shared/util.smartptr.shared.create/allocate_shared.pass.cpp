@@ -13,10 +13,10 @@
 // template<class T, class A, class... Args>
 //    shared_ptr<T> allocate_shared(const A& a, Args&&... args);
 
-#include <memory>
-#include <new>
-#include <cstdlib>
-#include <cassert>
+#include <memory.hxx>
+#include <new.hxx>
+#include <cstdlib.hxx>
+#include <cassert.hxx>
 #include "test_macros.h"
 #include "test_allocator.h"
 #include "min_allocator.h"

@@ -12,10 +12,10 @@
 
 // explicit failure(const string& msg, const error_code& ec = io_errc::stream);
 
-#include <ios>
-#include <string>
-#include <system_error>
-#include <cassert>
+#include <ios.hxx>
+#include <string.hxx>
+#include <system_error.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

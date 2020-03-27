@@ -12,10 +12,10 @@
 
 // optional(optional<T>&& rhs);
 
-#include <optional>
-#include <string>
-#include <type_traits>
-#include <utility>
+#include <optional.hxx>
+#include <string.hxx>
+#include <type_traits.hxx>
+#include <utility.hxx>
 
 #include "test_macros.h"
 

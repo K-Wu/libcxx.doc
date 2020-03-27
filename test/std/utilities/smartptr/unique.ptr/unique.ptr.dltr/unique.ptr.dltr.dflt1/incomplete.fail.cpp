@@ -12,8 +12,8 @@
 
 // Test that default_delete<T[]>'s operator() requires a complete type
 
-#include <memory>
-#include <cassert>
+#include <memory.hxx>
+#include <cassert.hxx>
 
 struct A;
 

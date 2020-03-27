@@ -10,7 +10,7 @@
 
 // istream clog;
 
-#include <iostream>
+#include <iostream.hxx>
 
 #include "test_macros.h"
 

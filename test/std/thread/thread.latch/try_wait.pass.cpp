@@ -10,8 +10,8 @@
 
 // <latch>
 
-#include <latch>
-#include <cassert>
+#include <latch.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

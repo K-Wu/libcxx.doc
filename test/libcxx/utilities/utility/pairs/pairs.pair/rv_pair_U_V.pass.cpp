@@ -14,8 +14,8 @@
 
 // template <class U, class V> pair(pair<U, V>&& p);
 
-#include <type_traits>
-#include <utility>
+#include <type_traits.hxx>
+#include <utility.hxx>
 
 #include "test_macros.h"
 

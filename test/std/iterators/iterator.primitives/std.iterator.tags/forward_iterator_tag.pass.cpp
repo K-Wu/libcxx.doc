@@ -10,8 +10,8 @@
 
 // struct forward_iterator_tag: public input_iterator_tag {};
 
-#include <iterator>
-#include <type_traits>
+#include <iterator.hxx>
+#include <type_traits.hxx>
 
 #include "test_macros.h"
 

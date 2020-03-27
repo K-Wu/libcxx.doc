@@ -29,8 +29,8 @@
 #define _LIBCPP_ENABLE_CXX17_REMOVED_RANDOM_SHUFFLE
 #define _LIBCPP_DISABLE_DEPRECATION_WARNINGS
 
-#include <algorithm>
-#include <vector>
+#include <algorithm.hxx>
+#include <vector.hxx>
 
 #include "test_macros.h"
 

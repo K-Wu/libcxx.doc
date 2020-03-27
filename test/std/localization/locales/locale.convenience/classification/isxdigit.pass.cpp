@@ -10,8 +10,8 @@
 
 // template <class charT> bool isxdigit (charT c, const locale& loc);
 
-#include <locale>
-#include <cassert>
+#include <locale.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

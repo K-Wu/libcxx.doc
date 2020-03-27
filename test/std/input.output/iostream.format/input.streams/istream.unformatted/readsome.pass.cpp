@@ -10,8 +10,8 @@
 
 // streamsize readsome(char_type* s, streamsize n);
 
-#include <istream>
-#include <cassert>
+#include <istream.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 

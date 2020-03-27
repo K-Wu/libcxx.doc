@@ -19,9 +19,9 @@
 
 //   -?- Remarks: This function shall not participate in overload resolution unless os << p.get() is a valid expression.
 
-#include <memory>
-#include <sstream>
-#include <cassert>
+#include <memory.hxx>
+#include <sstream.hxx>
+#include <cassert.hxx>
 
 #include "min_allocator.h"
 #include "deleter_types.h"

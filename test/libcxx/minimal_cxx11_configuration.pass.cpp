@@ -25,8 +25,8 @@
 #pragma clang diagnostic ignored "-Wc++11-extensions"
 #endif
 
-#include <type_traits>
-#include <cassert>
+#include <type_traits.hxx>
+#include <cassert.hxx>
 
 // Equals delete and default are allowed in minimal C++03 mode.
 namespace test_eq_delete_and_default {

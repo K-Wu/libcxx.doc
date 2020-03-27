@@ -11,9 +11,9 @@
 // template <class Alloc>
 //   queue(const container_type& c, const Alloc& a);
 
-#include <queue>
-#include <cassert>
-#include <cstddef>
+#include <queue.hxx>
+#include <cassert.hxx>
+#include <cstddef.hxx>
 
 #include "test_macros.h"
 #include "test_allocator.h"

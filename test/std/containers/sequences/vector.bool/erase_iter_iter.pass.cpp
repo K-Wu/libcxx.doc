@@ -11,8 +11,8 @@
 
 // iterator erase(const_iterator first, const_iterator last);
 
-#include <vector>
-#include <cassert>
+#include <vector.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "min_allocator.h"

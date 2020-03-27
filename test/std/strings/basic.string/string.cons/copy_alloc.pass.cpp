@@ -10,8 +10,8 @@
 
 // basic_string(const basic_string& str, const Allocator& alloc);
 
-#include <string>
-#include <cassert>
+#include <string.hxx>
+#include <cassert.hxx>
 
 #include "test_macros.h"
 #include "test_allocator.h"
